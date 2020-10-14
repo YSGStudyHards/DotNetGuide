@@ -5,24 +5,24 @@
 
 ## 目录(善用Ctrl+F)
 
-### > [C# 指南（微软提供的最权威，最全面的C#学习资料）][1]
+### [C# 指南（微软提供的最权威，最全面的C#学习资料）][1]
   [1]: https://docs.microsoft.com/zh-cn/dotnet/csharp/
-### > [.NET 文档][3]
+### [.NET 文档][3]
   [3]:https://docs.microsoft.com/zh-cn/dotnet/
-### > [.NET 基础知识][2]
+### [.NET 基础知识][2]
   [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
-### >[ASP.NET Core开发者指南][4]
+### [ASP.NET Core开发者指南][4]
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
 
 ### C#/.NET/.NET Core/数据库面试题大全
 #### C#/.NET/.NET Core基础
-*  C#支持的访问修饰符
-   >public：共有的，访问不受限制；
-private：私有的，只能在当前类中访问；
-protected：受保护的，只能在当前类或其派生类中访问；
-internal：内部的，只能在当前程序集中访问；
-protected internal：受保护的内部成员，当前程序集或派生自包含类的类型可访问；
-private protected：私有受保护的成员，当前程序集中的包含类或从包含类派生的类型；
+- C#支持的访问修饰符
+    - public：共有的，访问不受限制；
+    - private：私有的，只能在当前类中访问；
+    - internal：内部的，只能在当前程序集中访问；
+    - protected：受保护的，只能在当前类或其派生类中访问；
+    - protected  internal：受保护的内部成员，当前程序集或派生自包含类的类型可访问；
+    - private protected：私有受保护的成员，当前程序集中的包含类或从包含类派生的类型；
 
 *  C#类和结构默认访问修饰符
    > Internal
