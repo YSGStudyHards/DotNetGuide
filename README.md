@@ -7,7 +7,7 @@
 
 ### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）][1]
   [1]: https://docs.microsoft.com/zh-cn/dotnet/csharp/
-### 📚[.NET 文档][3]
+### 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）][3]
   [3]:https://docs.microsoft.com/zh-cn/dotnet/
 ### 📚[.NET 基础知识][2]
   [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
