@@ -15,7 +15,11 @@
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
 
 ### 📖C#/.NET/.NET Core/数据库面试题大全
-#### 💵C#/.NET/.NET Core基础
+#### 📓C#/.NET/.NET Core基础
+* [.NET 中所有类的基类][5]
+   >Object
+   [5]: https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1
+   
 - C#支持的访问修饰符
     - public：共有的，访问不受限制；
     - private：私有的，只能在当前类中访问；
