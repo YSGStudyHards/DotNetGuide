@@ -13,6 +13,8 @@
   [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
 ### 📚[ASP.NET Core开发者指南][4]
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
+### 🛣️[ASP.NET Core学习路线图][6]
+   [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
 
 ### 📖C#/.NET/.NET Core/数据库面试题大全
 #### 📓C#/.NET/.NET Core基础
