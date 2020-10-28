@@ -41,7 +41,7 @@
     - internal：内部的，只能在当前程序集中访问；
     - protected：受保护的，只能在当前类或其派生类中访问；
     - protected  internal：受保护的内部成员，当前程序集或派生自包含类的类型可访问；
-    - private protected：私有受保护的成员，当前程序集中的包含类或从包含类派生的类型；
+    - private protected：私有受保护的成员，当前程序集中的包含类或从包含类派生的类型可访问；
 
 *  C#类和结构默认访问修饰符
    > Internal
@@ -58,7 +58,18 @@
 *  类成员（包括嵌套的类和结构）可以声明为
    > public、protected internal、protected、internal、private protected 或 private
 
+*  [C#类成员包括][9]
+   >字段、常量、属性、方法、事件、运算符、索引器、构造函数、终结器、嵌套类型
+
+[9]:https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/members
+
 *  派生类不能具有高于其基类型的可访问性
+
+*  描述类和对象的区别
+   >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类
+
+*  [C#面向对象编程之使用代码描述类和对象的区别][10]
+[10]:https://www.cnblogs.com/Can-daydayup/p/13894227.html
 
 
 ---
