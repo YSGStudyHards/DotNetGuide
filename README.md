@@ -19,17 +19,18 @@
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
 #### 🛣️[ASP.NET Core学习路线图][6]
    [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
+#### 🛣️[awesome-dotnet-core][9]
+   [9]:https://github.com/jasonhua95/awesome-dotnet-core
 #### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
    [7]:https://github.com/dotNetTreasury
 #### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
-#### 🛣️[awesome-dotnet-core][9]
-   [9]:https://github.com/jasonhua95/awesome-dotnet-core
+
    
 ---
 
-### 🐮[C#/.NET/.NET Core推荐博客or博主][9]
-   [9]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/RecommendedBlog/RecommendedBlog.md
+### 🐮[C#/.NET/.NET Core推荐博客or博主][12]
+   [12]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/RecommendedBlog/RecommendedBlog.md
 
 ---
 
