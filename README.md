@@ -23,6 +23,8 @@
    [7]:https://github.com/dotNetTreasury
 #### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
+#### 🛣️[awesome-dotnet-core][9]
+   [9]:https://github.com/jasonhua95/awesome-dotnet-core
    
 ---
 
