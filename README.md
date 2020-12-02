@@ -30,7 +30,7 @@
    
 ---
 
-### 🐮[C#/.NET/.NET Core推荐博客or博主][12]
+### 🐮[C#/.NET/.NET Core推荐博文or博客or博主][12]
    [12]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/RecommendedBlog/RecommendedBlog.md
 
 ---
