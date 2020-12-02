@@ -23,7 +23,15 @@
    [7]:https://github.com/dotNetTreasury
 #### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
+   
 ---
+
+### 🐮[C#/.NET/.NET Core推荐博客or博主][9]
+   [9]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/RecommendedBlog/RecommendedBlog.md
+
+
+---
+
 
 ### 📖C#/.NET/.NET Core基础
 *  [.NET 中所有类的基类][5]
