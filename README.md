@@ -93,16 +93,20 @@
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
 
 *  [免费在线学习代码重构和设计模式][13]
-[13]:https://refactoringguru.cn/
+
+   [13]:https://refactoringguru.cn/
 
 *  [设计模式之禅（第2版）][16]
-   [16]：https://www.kancloud.cn/sstd521/design/193489
+
+   [16]:https://www.kancloud.cn/sstd521/design/193489
 
 *  [C#常见的23种设计模式（含源码）圣杰][14]
-   [14]：https://github.com/sheng-jie/Design-Pattern
+
+   [14]:https://github.com/sheng-jie/Design-Pattern
 
 *  [23种面向对象设计模式示例代码（C#实现,含源码，EdisonChou）][15]
-   [15]https://github.com/EdisonChou/DesignPattern.Samples.CSharp
+
+   [15]:https://github.com/EdisonChou/DesignPattern.Samples.CSharp
 
 
 
