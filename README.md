@@ -21,10 +21,11 @@
    [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
 #### 🛣️[awesome-dotnet-core][9]
    [9]:https://github.com/jasonhua95/awesome-dotnet-core
-#### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
-   [7]:https://github.com/dotNetTreasury
 #### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
+#### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
+   [7]:https://github.com/dotNetTreasury
+
 
    
 ---
@@ -91,9 +92,15 @@
 #### 作用：
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
 
+[免费在线学习代码重构和设计模式][13]
+[13]:https://refactoringguru.cn/
+[设计模式之禅（第2版）][16]
+[16]:https://www.kancloud.cn/sstd521/design/193489
+[C#常见的23种设计模式（含源码）圣杰][14]
+[14]:https://github.com/sheng-jie/Design-Pattern
+[23种面向对象设计模式示例代码（C#实现,含源码，EdisonChou）][15]
+[15]:https://github.com/EdisonChou/DesignPattern.Samples.CSharp
 
-
----
 
 
 ---
