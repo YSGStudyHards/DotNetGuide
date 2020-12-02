@@ -21,7 +21,8 @@
    [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
 #### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
    [7]:https://github.com/dotNetTreasury
-
+#### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
+   [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
 ---
 
 ### 📖C#/.NET/.NET Core基础
