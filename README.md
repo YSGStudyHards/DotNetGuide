@@ -99,6 +99,11 @@
 *  [设计模式之禅（第2版）][16]
 
    [16]:https://www.kancloud.cn/sstd521/design/193489
+   
+   
+*  [大话设计模式][17]
+
+   [17]:http://www.ddooo.com/softdown/109592.htm
 
 *  [C#常见的23种设计模式（含源码）圣杰][14]
 
