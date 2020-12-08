@@ -88,6 +88,9 @@
 
 [10]:https://www.cnblogs.com/Can-daydayup/p/13894227.html
 
+* [走进C# abstract，了解抽象类与接口的异同][18]
+
+[18]:https://www.cnblogs.com/Can-daydayup/p/13676586.html
 
 ---
 
