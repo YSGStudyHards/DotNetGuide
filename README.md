@@ -8,34 +8,34 @@
 
 ## 🔍目录(善用Ctrl+F)
 
-### 🔖C#/.NET/.NET Core高质量教程收录栈
-#### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）][1]
+## 🏷️C#/.NET/.NET Core高质量教程收录栈
+### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）][1]
   [1]: https://docs.microsoft.com/zh-cn/dotnet/csharp/
-#### 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）][3]
+### 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）][3]
   [3]:https://docs.microsoft.com/zh-cn/dotnet/
-#### 📚[.NET 基础知识][2]
+### 📚[.NET 基础知识][2]
   [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
-#### 📚[ASP.NET Core开发者指南][4]
+### 📚[ASP.NET Core开发者指南][4]
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
-#### 🛣️[ASP.NET Core学习路线图][6]
+### 🛣️[ASP.NET Core学习路线图][6]
    [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
-#### 🛣️[awesome-dotnet-core][9]
+### 🛣️[awesome-dotnet-core][9]
    [9]:https://github.com/jasonhua95/awesome-dotnet-core
-#### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
+### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
-#### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
+### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
    [7]:https://github.com/dotNetTreasury
 
+## ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章][19]
+   [19]:https://github.com/YSGStudyHards/DotNetGuide/issues/10
 
----
+## 📚[C#/.NET/.NET Core推荐学习书籍][20]
+   [20]:https://github.com/YSGStudyHards/DotNetGuide/issues/9
 
-### 📖C#/.NET/.NET Core推荐学习书籍（大家有好的推荐可以提Issues，待更新中......）
 
 
----
-
-### 🐮[C#/.NET/.NET Core推荐博文or博客or博主][12]
-   [12]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/RecommendedBlog/RecommendedBlog.md
+## 🐮[C#/.NET/.NET Core推荐博客or博主][12]
+   [12]:https://github.com/YSGStudyHards/DotNetGuide/issues/8
 
 ---
 
