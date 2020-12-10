@@ -15,16 +15,16 @@
   [3]:https://docs.microsoft.com/zh-cn/dotnet/
 ### 📚[.NET 基础知识][2]
   [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
-### 📚[ASP.NET Core开发者指南][4]
+### 📚[2021年 ASP.NET Core 开发者学习指南（中文）][4]
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
-### 🛣️[ASP.NET Core学习路线图][6]
-   [6]:https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/dotNet/picture/dotNetRoadMap/aspnetcore-developer-roadmap.zh-Hans.png
 ### 🛣️[awesome-dotnet-core][9]
    [9]:https://github.com/jasonhua95/awesome-dotnet-core
 ### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
-### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目，欢迎大家加入我们的.NET大家庭)][7]
+### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目)][7]
    [7]:https://github.com/dotNetTreasury
+
+---
 
 ## ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章][19]
    [19]:https://github.com/YSGStudyHards/DotNetGuide/issues/10
@@ -40,7 +40,7 @@
 ---
 
 
-### 📖C#/.NET/.NET Core基础
+## 📖C#/.NET/.NET Core基础
 *  [.NET 中所有类的基类][5]
    >Object
 
@@ -95,8 +95,8 @@
 ---
 
 
-### 🧱设计模式
-#### 作用：
+## 🧱设计模式
+### 作用：
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
 
 *  [免费在线学习代码重构和设计模式][13]
@@ -125,19 +125,19 @@
 ---
 
 
-### 🧮算法
+## 🧮算法
 
 
 ---
 
 
-### 🍇非NoSQL数据库
+## 🍇非NoSQL数据库
 
 
 ---
 
 
-### 🍉NoSQL数据库
+## 🍉NoSQL数据库
 
 
 
