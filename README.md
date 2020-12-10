@@ -21,20 +21,13 @@
    [9]:https://github.com/jasonhua95/awesome-dotnet-core
 ### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
    [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
-### 🏡[C#/.NET Core/.NET项目宝库(收集了大量优秀的C#、.NET、.NET Core项目)][7]
-   [7]:https://github.com/dotNetTreasury
-
----
-
-## ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章][19]
+### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总 ][7]
+   [7]:https://github.com/YSGStudyHards/DotNetGuide/issues/5
+### ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章][19]
    [19]:https://github.com/YSGStudyHards/DotNetGuide/issues/10
-
-## 📚[C#/.NET/.NET Core推荐学习书籍][20]
+### 📚[C#/.NET/.NET Core推荐学习书籍][20]
    [20]:https://github.com/YSGStudyHards/DotNetGuide/issues/9
-
-
-
-## 🐮[C#/.NET/.NET Core推荐博客or博主][12]
+### 🐮[C#/.NET/.NET Core推荐博客or博主][12]
    [12]:https://github.com/YSGStudyHards/DotNetGuide/issues/8
 
 ---
