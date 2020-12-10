@@ -13,14 +13,10 @@
   [1]: https://docs.microsoft.com/zh-cn/dotnet/csharp/
 ### 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）][3]
   [3]:https://docs.microsoft.com/zh-cn/dotnet/
-### 📚[.NET 基础知识][2]
-  [2]:https://docs.microsoft.com/zh-cn/dotnet/core/introduction
 ### 📚[2021年 ASP.NET Core 开发者学习指南（中文）][4]
   [4]:https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md
-### 🛣️[awesome-dotnet-core][9]
+### 🔋[awesome-dotnet-core][9]
    [9]:https://github.com/jasonhua95/awesome-dotnet-core
-### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
-   [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
 ### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总 ][7]
    [7]:https://github.com/YSGStudyHards/DotNetGuide/issues/5
 ### ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章][19]
@@ -29,7 +25,8 @@
    [20]:https://github.com/YSGStudyHards/DotNetGuide/issues/9
 ### 🐮[C#/.NET/.NET Core推荐博客or博主][12]
    [12]:https://github.com/YSGStudyHards/DotNetGuide/issues/8
-
+### 🛣️[老张的哲学-关于ASP.NETCore实战分享教程目录][8]
+   [8]:https://www.cnblogs.com/laozhang-is-phi/p/all-knowledge-for-netcore.html#autoid-1-0-0
 ---
 
 
