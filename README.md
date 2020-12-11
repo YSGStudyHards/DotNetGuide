@@ -6,7 +6,8 @@
 
 [21]:https://github.com/YSGStudyHards/DotNetGuide/issues/7
 
-[![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "Shiprock")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+
+[![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 
 ## 🔍目录(善用Ctrl+F)
