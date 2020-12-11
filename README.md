@@ -6,7 +6,7 @@
 
 [21]:https://github.com/YSGStudyHards/DotNetGuide/issues/7
 
-> 点击以下图片，前往Issues留下您收集的宝藏👇：
+> 点击下面图片，前往Issues留下您收集的宝藏👇：
 
 [![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
