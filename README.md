@@ -88,8 +88,11 @@
 
 
 ## 🧮算法
-
-
+* [在线算法刷题平台-力扣（LeetCode）](https://leetcode-cn.com/)
+* [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
+* [C#冒泡法排序算法]
+* [C#快速排序算法]
+* [C#二分查找算法]
 ---
 
 
@@ -98,6 +101,9 @@
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
 
 ### Microsoft SQL Server
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
