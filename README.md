@@ -129,7 +129,15 @@
 
 
 ## 🍇非NoSQL数据库
+### [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
+### Redis
+* [Redis 设计与实现](http://redisbook.com/)
+* [Redis 命令参考](http://redisdoc.com/)
+* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 
+### MongoDB
+* [MongoDB教程：1天玩转MongoDB数据库](http://c.biancheng.net/mongodb/)
 
 ---
 
