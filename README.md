@@ -152,7 +152,7 @@
 
 ---
 
-## 🙇面试须知
+## 🙇 面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
 * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/Snailclimb/programmer-advancement#%E5%A4%9A%E7%94%A8-github)
@@ -160,14 +160,14 @@
 
 ---
 
-## 🧭宝藏指南
+## 🧭 宝藏指南
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 
 ---
 
-## ✈️Organizations(社区组织)
+## ✈️ Organizations(社区组织)
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
 * [Microsoft](https://github.com/microsoft)
 * [ASP.NET](https://github.com/aspnet)
