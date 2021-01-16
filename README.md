@@ -167,7 +167,7 @@
 
 ---
 
-## ✈️ Organizations(社区组织)
+## ✈️ 社区组织
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
 * [Microsoft](https://github.com/microsoft)
 * [ASP.NET](https://github.com/aspnet)
