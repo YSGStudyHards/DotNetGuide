@@ -11,8 +11,18 @@
 
 
 ## 🔍目录(善用Ctrl+F)
-* [🏷️C#/.NET/.NET Core高质量教程收录栈]()
-* [✍️C#/.NET/.NET Core基础]()
+* [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [✍️C#/.NET/.NET Core基础](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E5%9F%BA%E7%A1%80)
+* [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+* [🧮算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%AE%97%E6%B3%95)
+* [🍇关系型数据库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93)
+* [🍉NoSQL数据库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#nosql%E6%95%B0%E6%8D%AE%E5%BA%93)
+* [💡 系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
+* [💻 操作系统，代理服务器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)
+* [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
+* [🧭 宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%970)
+* [✈️ 社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F-%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
+
 ---
 
 ## 🏷️C#/.NET/.NET Core高质量教程收录栈
