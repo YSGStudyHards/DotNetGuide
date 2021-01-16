@@ -1,4 +1,4 @@
-# 🐮C#/.NET/.NET Core学习，面试指南(每周一更🌋)
+# 🐮C#/.NET/.NET Core学习，面试指南🌋
 > 概述：发现网上关于Java、前端、Android...等相关技术的学习资料，面试指南一搜都是一大把的，但是我们大.NET的相关学习资料，面试指南和一些常见的面试题都是寥寥无几，并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个汇总的知识库。因此作为.NET开发中的一员当然是不想让这种现象普遍存在啦，建立这个知识库的初衷就是为了收集、汇总、总结网上优秀的.NET相关学习资料和常见的面试题以及自己的一些微薄的见解供大家参考学习，并且还会有一些面试时需要注意的事项供大家参考。同时由衷的希望大家可以在Issues中投稿一起完善我们的.NET学习，面试的知识库。
 
 🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
@@ -11,6 +11,9 @@
 
 
 ## 🔍目录(善用Ctrl+F)
+* [🏷️C#/.NET/.NET Core高质量教程收录栈]()
+* [✍️C#/.NET/.NET Core基础]()
+---
 
 ## 🏷️C#/.NET/.NET Core高质量教程收录栈
 ### [⚒️开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
@@ -142,10 +145,12 @@
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md)
 
 ---
+
 ## 💻 操作系统，代理服务器
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
 
+---
 
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
@@ -153,9 +158,21 @@
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/Snailclimb/programmer-advancement#%E5%A4%9A%E7%94%A8-github)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 
+---
 
+## 🧭宝藏指南
+* [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
+* [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
+* [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 
+---
 
+## ✈️Organizations(社区组织)
+* [Organizations Ranking](https://gitstar-ranking.com/organizations)
+* [Microsoft](https://github.com/microsoft)
+* [ASP.NET](https://github.com/aspnet)
+* [.NET Core Community](https://github.com/dotnetcore)
+* [新生命开发团队](https://github.com/NewLifeX)
 
 
 
