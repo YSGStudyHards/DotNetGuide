@@ -196,6 +196,7 @@
 * [.NET Core Community](https://github.com/dotnetcore)
 * [新生命开发团队](https://github.com/NewLifeX)
 * [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
+* [.NET Platform](https://github.com/dotnet)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
