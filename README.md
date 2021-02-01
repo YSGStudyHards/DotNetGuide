@@ -116,6 +116,7 @@
 
 ## 🍇关系型数据库
 ### [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
+### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
@@ -130,6 +131,9 @@
 ### PostgreSQL
 * [PostgreSQL 教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
 * [PostgreSQL 11.2 手册](http://www.postgres.cn/docs/11/)
+
+### Oracle
+* [Oracle入门教程](https://www.w3cschool.cn/oraclejc/)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
