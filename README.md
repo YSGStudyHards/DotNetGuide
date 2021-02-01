@@ -15,8 +15,8 @@
 * [✍️C#/.NET/.NET Core基础](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E5%9F%BA%E7%A1%80)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🧮算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%AE%97%E6%B3%95)
-* [🍇关系型数据库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93)
-* [🍉NoSQL数据库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#nosql%E6%95%B0%E6%8D%AE%E5%BA%93)
+* [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93)
+* [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#nosql%E6%95%B0%E6%8D%AE%E5%BA%93)
 * [💡 系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻 操作系统，代理服务器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
@@ -114,7 +114,7 @@
 ---
 
 
-## 🍇关系型数据库
+## 🍇关系型数据库（SQL）
 ### [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 ### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
@@ -139,7 +139,7 @@
 ---
 
 
-## 🍉NoSQL数据库
+## 🍉非关系型数据库（NoSQL）
 ### [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
 ### Redis
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
