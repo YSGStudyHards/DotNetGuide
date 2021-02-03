@@ -191,6 +191,7 @@
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
+* [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
