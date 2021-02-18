@@ -153,10 +153,15 @@
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
 
 ### MongoDB
+* [MongoDB中文社区](https://mongoing.com/)
 * [MongoDB教程：1天玩转MongoDB数据库](http://c.biancheng.net/mongodb/)
+* [MongoDB高频面试题](https://mongoing.com/archives/docs/mongodb%e5%88%9d%e5%ad%a6%e8%80%85%e6%95%99%e7%a8%8b/mongodb%e9%ab%98%e9%a2%91%e9%9d%a2%e8%af%95%e9%a2%98)
+* [95道MongoDB面试题详解](https://developer.aliyun.com/article/764824)
 
 ### Memcached
 * [Memcached入门教程](http://c.biancheng.net/view/6498.html)
+* [Memcached视频教程_免费Memcached教程在线学习](https://www.php.cn/course/list/55.html)
+* 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
