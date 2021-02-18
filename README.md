@@ -161,7 +161,6 @@
 ### Memcached
 * [Memcached入门教程](http://c.biancheng.net/view/6498.html)
 * [Memcached视频教程_免费Memcached教程在线学习](https://www.php.cn/course/list/55.html)
-* 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
