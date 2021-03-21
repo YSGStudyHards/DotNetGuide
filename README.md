@@ -48,13 +48,7 @@
 *  [C#中类和结构的基本概念](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/)
    > 类和结构是 .NET通用类型系统的两种基本构造。每种本质上都是一种数据结构，其中封装了同属一个逻辑单元的一组数据和行为。 数据和行为是类或结构的成员，包括字段、方法、属性、索引器、运算符和事件等。
    
-- C#支持的访问修饰符
-    - public：共有的，访问不受限制；
-    - private：私有的，只能在当前类中访问；
-    - internal：内部的，只能在当前程序集中访问；
-    - protected：受保护的，只能在当前类或其派生类中访问；
-    - protected  internal：受保护的内部成员，当前程序集或派生自包含类的类型可访问；
-    - private protected：私有受保护的成员，当前程序集中的包含类或从包含类派生的类型可访问；
+*  [C#支持的六种常见的访问修饰符](https://www.cnblogs.com/Can-daydayup/p/13894517.html)
 
 *  C#类和结构默认访问修饰符
    > Internal
