@@ -19,6 +19,7 @@
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡 系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻 操作系统，代理服务器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)
+* [🌍 Web前端相关]()
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [🧭 宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️ 社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F-%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
@@ -74,6 +75,8 @@
    >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类可以通过构造函数生成对象，对象实现了类的定义，且用于具体的数据。
 * [C#面向对象编程之使用代码描述类和对象的区别](https://www.cnblogs.com/Can-daydayup/p/13894227.html)
 * [走进C# abstract，了解抽象类与接口的异同](https://www.cnblogs.com/Can-daydayup/p/13676586.html)
+* [委托、事件、反射与特性](https://www.cnblogs.com/edisonchou/p/4827578.html)
+* [C#多线程开发基础](https://www.cnblogs.com/edisonchou/p/4848131.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -103,7 +106,9 @@
 * [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
 * [C#冒泡法排序算法]
 * [C#快速排序算法]
+* [C#递归排序算法]
 * [C#二分查找算法]
+
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -169,9 +174,24 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
-## 💻 操作系统，代理服务器
+## 💻 操作系统
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
+---
+## 🌍 Web前端相关
+* [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
+* HTTP响应状态码
+  >1xx：指示信息--表示请求已接收，继续处理。
+2xx：成功--表示请求已被成功接收、理解、接受。
+3xx：重定向--要完成请求必须进行更进一步的操作。
+4xx：客户端错误--请求有语法错误或请求无法实现。
+5xx：服务器端错误--服务器未能实现合法的请求。
+* [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
+* [经典面试题：在浏览器地址栏输入一个URL后回车，背后发生了什么？](https://www.cnblogs.com/cswiki/p/14429730.html)
+
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
@@ -208,4 +228,4 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
-𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜
+𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜
