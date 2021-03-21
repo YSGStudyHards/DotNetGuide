@@ -12,7 +12,7 @@
 
 ## 🔍目录(善用Ctrl+F)
 * [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
-* [✍️C#/.NET/.NET Core基础](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E5%9F%BA%E7%A1%80)
+* [🏫C#/.NET/.NET Core基础面试题](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E5%9F%BA%E7%A1%80)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🧮算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
@@ -41,7 +41,7 @@
 ---
 
 
-## ✍️C#/.NET/.NET Core基础
+## 👨‍🏫C#/.NET/.NET Core基础面试题
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
    >Object
    
