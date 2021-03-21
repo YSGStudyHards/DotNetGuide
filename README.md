@@ -41,7 +41,7 @@
 ---
 
 
-## 👨‍🏫C#/.NET/.NET Core基础面试题
+## 🏫C#/.NET/.NET Core基础面试题
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
    >Object
    
