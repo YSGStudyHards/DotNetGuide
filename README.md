@@ -9,6 +9,8 @@
 
 [![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
+![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.png "追逐时光者的微信公众号")
+
 
 ## 🔍目录(善用Ctrl+F)
 * [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
