@@ -9,7 +9,7 @@
 
 [![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
-***🤝欢迎联系我一起沟通学习，共同进步***
+**🤝欢迎关注一起沟通学习，共同进步（获取更多.NET学习资料）**
 
 [![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.png "追逐时光者的微信公众号")](https://www.cnblogs.com/Can-daydayup/)
 
