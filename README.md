@@ -14,7 +14,7 @@
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
 .NET相关学习资料书籍PDF（注意该资料仅限于个人学习，有侵权的PDF请联系我立马处理谢谢🤞）
-![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/SharedScreenshot.jpg)
+![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation.png)
 
 
 ## 🔍目录(善用Ctrl+F)
