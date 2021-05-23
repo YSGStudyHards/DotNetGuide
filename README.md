@@ -11,7 +11,7 @@
 
 **🤝欢迎关注一起沟通学习，共同进步（获取更多.NET学习资料）**
 
-[![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.png "追逐时光者的微信公众号")](https://www.cnblogs.com/Can-daydayup/)
+[![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")](https://www.cnblogs.com/Can-daydayup/)
 
 
 ## 🔍目录(善用Ctrl+F)
