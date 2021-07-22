@@ -38,6 +38,7 @@
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
 ### 📚[.NET 应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 ### 📚[C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
+### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🐮[C#/.NET/.NET Core推荐博客or博主](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 ### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总 ](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
 ### 📚[2021年 ASP.NET Core 开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
