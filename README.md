@@ -26,6 +26,8 @@
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+* [☁️容器技术]()
+* [🧰DevOps、CI&CD自动化工具]
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
@@ -190,6 +192,48 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 ---
+
+
+## ☁️容器技术
+### Kubernetes（K8s）
+> Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
+
+* [一文了解 Kubernetes](https://zhuanlan.zhihu.com/p/162928436)
+* [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
+* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
+
+
+### Docker
+> Docker是一个开源的引擎，可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，包括VMs（虚拟机）、 bare metal、OpenStack 集群和其他的基础应用平台。 
+
+* [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
+* [Docker中文社区](https://www.docker.org.cn/)
+* [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
+
+
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
+---
+
+
+## 🧰DevOps、CI&CD自动化工具
+### DevOps
+> DevOps（英文Development和Operations的组合）是一组过程、方法与系统的统称，用于促进开发（应用程序/软件工程）、技术运营和质量保障（QA）部门之间的沟通、协作与整合。它的出现是由于软件行业日益清晰地认识到：为了按时交付软件产品和服务，开发和运营工作必须紧密合作。
+
+* [DevOps到底是什么意思？](https://zhuanlan.zhihu.com/p/91371659)
+* [2021年25佳DevOps工具](https://www.kubernetes.org.cn/9538.html)
+
+### CI&CD构建、部署、自动化工具
+* [21个自动化部署工具](https://zhuanlan.zhihu.com/p/248508683)
+
+
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
+---
+
+
 ## 🌍Web前端相关
 * [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
 * HTTP响应状态码
@@ -205,17 +249,6 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 ---
-
-## 容器技术
-### Kubernetes（K8s）
-* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
-* [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
-
-### Docker
-
-
-## DevOps、CI&CD构建、部署、自动化工具
-
 
 
 ## 🙇面试须知
