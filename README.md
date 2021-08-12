@@ -26,14 +26,16 @@
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-* [☁️容器技术]()
-* [🧰DevOps、CI&CD自动化工具]
+* [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
+* [🧰DevOps、CI&CD自动化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F-%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
 ---
+
+
 
 ## 🏷️C#/.NET/.NET Core高质量教程收录栈
 ### [⚒️开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
@@ -51,6 +53,7 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
 
 
 ## 🏫C#/.NET/.NET Core基础面试题
@@ -93,6 +96,7 @@
 ---
 
 
+
 ## 🧱设计模式
 ### 作用：
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
@@ -111,6 +115,7 @@
 ---
 
 
+
 ## 🧮算法
 * [在线算法刷题平台-力扣（LeetCode）](https://leetcode-cn.com/)
 * [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
@@ -125,17 +130,22 @@
 ---
 
 
+
 ## 🍇关系型数据库（SQL）
 > 关系型数据库指的是使用关系模型（二维表格模型）来组织数据的数据库。
+#### [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
 #### [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 #### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
+* [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
+* [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/cAJg_MZP_xI853wLdWAE7A)
+
 
 ### Microsoft SQL Server
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
@@ -151,6 +161,7 @@
 ---
 
 
+
 ## 🍉非关系型数据库（NoSQL）
 > 非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。通常指数据以对象的形式存储在数据库中，而对象之间的关系通过每个对象自身的属性来决定，常用于存储非结构化的数据。
 #### [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
@@ -162,6 +173,7 @@
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [Redis知识点总结](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
+* [Redis基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html#%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -177,6 +189,8 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+
+
 ## 💡系统设计
 * [Microservices from Design to Deployment 中文版 《微服务：从设计到部署》](https://github.com/DocsHome/microservices)
 * [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
@@ -185,13 +199,19 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+
+
 ## 💻操作系统
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
+* [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
+* [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
+* [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
+* 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
 
 
 ## ☁️容器技术
@@ -213,8 +233,8 @@
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
 
 
 ## 🧰DevOps、CI&CD自动化工具
@@ -230,8 +250,8 @@
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
 
 
 ## 🌍Web前端相关
@@ -247,8 +267,8 @@
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
 
 
 ## 🙇面试须知
@@ -259,6 +279,8 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
+
 
 ## 🧭宝藏指南
 * [编程电子书，电子书，编程书籍PDF免费地址，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst,Redis等](https://github.com/itdevbooks/pdf)
@@ -271,6 +293,8 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
+
 
 ## ✈️社区组织
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
