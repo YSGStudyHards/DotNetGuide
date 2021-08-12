@@ -206,6 +206,18 @@
 
 ---
 
+## 容器技术
+### Kubernetes（K8s）
+* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
+* [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
+
+### Docker
+
+
+## DevOps、CI&CD构建、部署、自动化工具
+
+
+
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
 * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
