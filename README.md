@@ -304,15 +304,15 @@
 
 ## ✈️社区组织
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
+* [ASP.NET](https://github.com/aspnet)
 * [Microsoft](https://github.com/microsoft)
 * [Microsoft Docs](https://github.com/MicrosoftDocs)
-* [ASP.NET](https://github.com/aspnet)
 * [.NET Core Community](https://github.com/dotnetcore)
 * [新生命开发团队](https://github.com/NewLifeX)
-* [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
 * [.NET Platform](https://github.com/dotnet)
 * [App vNext](https://github.com/App-vNext)
 * [dotNET China](https://gitee.com/dotnetchina)
+* [.NET Application Architecture](https://github.com/dotnet-architecture)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
