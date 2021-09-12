@@ -305,6 +305,7 @@
 ## ✈️社区组织
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
 * [Microsoft](https://github.com/microsoft)
+* [Microsoft Docs](https://github.com/MicrosoftDocs)
 * [ASP.NET](https://github.com/aspnet)
 * [.NET Core Community](https://github.com/dotnetcore)
 * [新生命开发团队](https://github.com/NewLifeX)
