@@ -289,7 +289,7 @@
 
 
 ## 🧭宝藏指南
-* [编程电子书，电子书，编程书籍PDF免费地址，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst,Redis等](https://github.com/itdevbooks/pdf)
+* [编程电子书，电子书，编程书籍PDF免费地址](https://github.com/itdevbooks/pdf)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
