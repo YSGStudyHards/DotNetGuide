@@ -31,8 +31,8 @@
 * [🧰DevOps、CI&CD自动化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
-* [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
-* [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F-%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
+* [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
+* [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
 ---
 
@@ -296,6 +296,7 @@
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
+* [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
