@@ -139,6 +139,7 @@
 #### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
+* [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
 * [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
@@ -150,6 +151,7 @@
 
 ### Microsoft SQL Server
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
+* [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
 
 ### PostgreSQL
 * [PostgreSQL 教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
