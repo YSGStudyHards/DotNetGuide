@@ -13,7 +13,7 @@
 
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
-.NET相关学习资料书籍PDF（注意该资料仅限于个人学习，有侵权的PDF请联系我立马处理谢谢🤞）
+<font color=red>.NET相关学习资料书籍PDF（注意这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞）</font>
 ![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation.png)
 
 
@@ -234,9 +234,9 @@
 ### Docker
 > Docker是一个开源的引擎，可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，包括VMs（虚拟机）、 bare metal、OpenStack 集群和其他的基础应用平台。 
 
-* [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
 * [Docker中文社区](https://www.docker.org.cn/)
+* [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 
 
@@ -251,6 +251,7 @@
 > DevOps（英文Development和Operations的组合）是一组过程、方法与系统的统称，用于促进开发（应用程序/软件工程）、技术运营和质量保障（QA）部门之间的沟通、协作与整合。它的出现是由于软件行业日益清晰地认识到：为了按时交付软件产品和服务，开发和运营工作必须紧密合作。
 
 * [DevOps到底是什么意思？](https://zhuanlan.zhihu.com/p/91371659)
+* [DevOps，CI，CD，自动化简单介绍](https://www.cnblogs.com/Can-daydayup/p/14274932.html)
 * [2021年25佳DevOps工具](https://www.kubernetes.org.cn/9538.html)
 
 ### CI&CD构建、部署、自动化工具
