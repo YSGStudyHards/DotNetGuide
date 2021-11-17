@@ -13,7 +13,8 @@
 
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
-<font color=red>.NET相关学习资料书籍PDF（注意这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞）</font>
+**💯.NET相关学习资料书籍PDF**
+> 注意：这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞
 ![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation.png)
 
 
