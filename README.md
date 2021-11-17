@@ -7,7 +7,7 @@
 
 > 点击下面的图片，前往Issues留下您收集的宝藏👇：
 
-[![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+[![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues001.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 **🤝欢迎关注一起沟通学习，共同进步（获取更多.NET学习资料）**
 
@@ -16,7 +16,7 @@
 **💯.NET相关学习资料书籍PDF**
 > 注意：这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞
 
-![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation.png)
+![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation001.png)
 
 
 ## 🔍目录(善用Ctrl+F)
