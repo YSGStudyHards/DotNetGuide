@@ -61,34 +61,43 @@
 
 ## 🏫C#/.NET/.NET Core基础面试题
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
+   
    >Object
    
 *  [C#中类和结构的基本概念](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/)
+   
    > 类和结构是 .NET通用类型系统的两种基本构造。每种本质上都是一种数据结构，其中封装了同属一个逻辑单元的一组数据和行为。 数据和行为是类或结构的成员，包括字段、方法、属性、索引器、运算符和事件等。
    
 *  [C#支持的六种常见的访问修饰符](https://www.cnblogs.com/Can-daydayup/p/13894517.html)
 
 *  C#类和结构默认访问修饰符
+   
    > Internal
    
 *  C#适用于类和结构访问修饰符有哪些
+   
    > public 或 internal
-
+   
 *  类成员和结构成员的默认访问修饰符为
+   
    > private
-
+   
 *  结构成员（包括嵌套的类和结构）可以声明为
+   
    > public、internal 或 private   注意：结构成员无法声明为 protected、protected internal 或 private protected，因为结构不支持继承。
    
 *  类成员（包括嵌套的类和结构）可以声明为
+   
    > public、protected internal、protected、internal、private protected 或 private
-
+   
 *  [C#类成员包括](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/members)
+   
    >字段、常量、属性、方法、事件、运算符、索引器、构造函数、终结器、嵌套类型
-
+   
 *  派生类不能具有高于其基类型的可访问性
 
 *  描述类和对象的区别
+   
    >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类可以通过构造函数生成对象，对象实现了类的定义，且用于具体的数据。
 * [C#面向对象编程之使用代码描述类和对象的区别](https://www.cnblogs.com/Can-daydayup/p/13894227.html)
 * [走进C# abstract，了解抽象类与接口的异同](https://www.cnblogs.com/Can-daydayup/p/13676586.html)
@@ -120,13 +129,14 @@
 
 
 ## 🧮算法
-* [在线算法刷题平台-力扣（LeetCode）](https://leetcode-cn.com/)
-* [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
+* [在线算法刷题平台-力扣（LeetCode)](https://leetcode-cn.com/)
+* [CodeTop企业题库](https://codetop.cc/home)
+* [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
 * [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
-* [C#冒泡法排序算法]
-* [C#快速排序算法]
-* [C#递归排序算法]
-* [C#二分查找算法]
+* [C#冒泡法排序算法]()
+* [C#快速排序算法]()
+* [C#递归排序算法]()
+* [C#二分查找算法]()
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
@@ -152,15 +162,22 @@
 
 
 ### Microsoft SQL Server
+* [SQL Server 技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
 * [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
+* [SQL Server文章目录](https://www.cnblogs.com/CareySon/archive/2012/05/08/2489748.html)
+* [SSMS管理工具快速入门](https://docs.microsoft.com/zh-cn/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver15)
 
 ### PostgreSQL
+* [PostgreSQL中文社区](http://www.postgres.cn/v2/home)
+* [PostgreSQL中文文档](http://www.postgres.cn/v2/document)
 * [PostgreSQL 教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
+* [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/)
 * [PostgreSQL 11.2 手册](http://www.postgres.cn/docs/11/)
 
 ### Oracle
 * [Oracle入门教程](https://www.w3cschool.cn/oraclejc/)
+* [Oracle基础教程](https://www.oraclejsq.com/article/010100110.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -197,7 +214,8 @@
 
 
 ## 💡系统设计
-* [Microservices from Design to Deployment 中文版 《微服务：从设计到部署》](https://github.com/DocsHome/microservices)
+* [系统设计入门](https://github.com/donnemartin/system-design-primer)
+* [微服务：从设计到部署](https://github.com/DocsHome/microservices)
 * [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md)
 
@@ -216,15 +234,23 @@
 ---
 
 
+
 ## 🛰️网络相关
+
 * [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
 * [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 * [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
 * [TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 * [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
 
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
+---
+
+
 
 ## ☁️容器技术
+
 ### Kubernetes（K8s）
 > Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
 
@@ -233,7 +259,9 @@
 * [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 
 
+
 ### Docker
+
 > Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。 
 
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
@@ -242,8 +270,15 @@
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
+* [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
+* [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
 
 
+
+### 服务编排
+
+- [Kubernetes](https://kubernetes.io/)
+- [Docker Swarm](https://docs.docker.com/engine/swarm)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -260,8 +295,16 @@
 
 ### CI&CD构建、部署、自动化工具
 * [21个自动化部署工具](https://zhuanlan.zhihu.com/p/248508683)
+* [7个CI / CD(持续集成和持续部署)工具](https://cloud.tencent.com/developer/article/1346876)
+* 常用持续集成与部署工具
+  - [Jenkins](https://www.jenkins.io/)
+  - [Github Actions](https://github.com/features/actions)
+  - [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
+  - [Travis CI](https://travis-ci.org/)
+  - [Circle CI](https://circleci.com/)
+  - [TeamCity](https://www.jetbrains.com/teamcity)
 
-
+> 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致[持续集成](https://cloud.tencent.com/product/coding-ci?from=10680)和[持续部署](https://cloud.tencent.com/product/coding-cd?from=10680)/交付工具的兴起。
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -269,15 +312,39 @@
 
 
 ## 🌍Web前端相关
+### Web前端自学面试宝典
+
+* [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
+* [大圣编程自学网](https://shengxinjing.cn/)
+* [前端进阶之道](https://yuchengkai.cn/)
+* [前端3+1面试题库](https://github.com/haizlin/fe-interview)
+* [Vue官网](https://v3.cn.vuejs.org/)
+* [HTML/CSS菜鸟教程](https://www.runoob.com/)
+
+### Web前端常见面试题
+
 * [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
+
 * HTTP响应状态码
   >1xx：指示信息--表示请求已接收，继续处理。
-2xx：成功--表示请求已被成功接收、理解、接受。
-3xx：重定向--要完成请求必须进行更进一步的操作。
-4xx：客户端错误--请求有语法错误或请求无法实现。
-5xx：服务器端错误--服务器未能实现合法的请求。
+  2xx：成功--表示请求已被成功接收、理解、接受。
+  3xx：重定向--要完成请求必须进行更进一步的操作。
+  4xx：客户端错误--请求有语法错误或请求无法实现。
+  5xx：服务器端错误--服务器未能实现合法的请求。
+  
 * [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
-* [经典面试题：在浏览器地址栏输入一个URL后回车，背后发生了什么？](https://www.cnblogs.com/cswiki/p/14429730.html)
+
+* [经典面试题：在浏览器地址栏输入一个URL后回车，背后发生了什么?](https://www.cnblogs.com/cswiki/p/14429730.html)
+
+* [最新前端面试中常见的面试题（附答案）](https://blog.csdn.net/Jet_Lover/article/details/115637795)
+
+* [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.cn/post/6844903776512393224)
+
+* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
+
+* [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
+
+* [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
