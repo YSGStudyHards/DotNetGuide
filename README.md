@@ -43,8 +43,8 @@
 ## 🏷️C#/.NET/.NET Core高质量教程收录栈
 ### [⚒️开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
+### 📚[.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 ### 📰[C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
-### 📚[.NET 应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 ### 📚[C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
 ### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🐮[C#/.NET/.NET Core推荐博客or博主](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
