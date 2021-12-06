@@ -60,6 +60,8 @@
 
 
 ## 🏫C#/.NET/.NET Core基础面试题
+*  [C#是什么？可以用来做什么?](https://www.w3cschool.cn/article/53529719.html)
+   
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
    
    >Object
@@ -99,9 +101,13 @@
 *  描述类和对象的区别
    
    >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类可以通过构造函数生成对象，对象实现了类的定义，且用于具体的数据。
-* [C#面向对象编程之使用代码描述类和对象的区别](https://www.cnblogs.com/Can-daydayup/p/13894227.html)
+   
+* [彻底明白对象，类，实例化的区别及联系](https://blog.csdn.net/yyp0304Devin/article/details/84619920)
+
 * [走进C# abstract，了解抽象类与接口的异同](https://www.cnblogs.com/Can-daydayup/p/13676586.html)
+
 * [委托、事件、反射与特性](https://www.cnblogs.com/edisonchou/p/4827578.html)
+
 * [C#多线程开发基础](https://www.cnblogs.com/edisonchou/p/4848131.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
@@ -133,10 +139,13 @@
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
 * [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
-* [C#冒泡法排序算法]()
-* [C#快速排序算法]()
-* [C#递归排序算法]()
-* [C#二分查找算法]()
+* [C#冒泡法排序算法](http://c.biancheng.net/view/2854.html)
+* C#快速排序算法
+  * [C#快速排序算法基础入门篇](https://www.cnblogs.com/csdbfans/p/3541044.html)
+  * [C#排序算法之快速排序](https://www.jianshu.com/p/db020fa7130a)
+* [C#递归排序算法](https://blog.51cto.com/tonyqus/1154618)
+* [C#二分查找算法](https://lovejy.blog.csdn.net/article/details/81844237?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase)
+* [C#经典算法面试题汇总]()
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
