@@ -211,38 +211,44 @@ static void CountChar(string str)
 ## 实现一个将字符串转换为整数的方法，不要使用int.Parse、int.TryParse、Convert.ToInt32等任何类库方法
 
 ``` C#
-static bool TryParse(string s, out int num)
-{
-    if (!string.IsNullOrWhiteSpace(s))
-    {
-        num = 0;
-        return false;
-    }
-    int result = 0;
-
-    bool minus = s[0] == '-' ? true : false;
-    if (minus && s.Length == 1)
-    {
-        num = 0;
-        return false;
-    }
-
-    for (int i = minus ? 1 : 0; i < s.Length; i++)
-    {
-        if (s[i] >= '0' && s[i] <= '9')
+        public static bool TryParseToInt(string strData, out int num)
         {
-            result = s[i] - 48 + result * 10;
-        }
-        else
-        {
-            num = 0;
-            return false;
-        }
-    }
+            if (string.IsNullOrWhiteSpace(strData))
+            {
+                num = 0;
+                return false;
+            }
+            int result = 0;
 
-    num = minus ? -result : result;
-    return true;
-}
+            bool minus = strData[0] == '-' ? true : false;
+            if (minus && strData.Length == 1)
+            {
+                num = 0;
+                return false;
+            }
+
+            for (int i = minus ? 1 : 0; i < strData.Length; i++)
+            {
+                if (strData[i] >= '0' && strData[i] <= '9')
+                {
+                    result = strData[i] - 48 + result * 10;
+                }
+                else
+                {
+                    num = 0;
+                    return false;
+                }
+            }
+
+            num = minus ? -result : result;
+            return true;
+        }
+
+        static void Main(string[] args)
+        {
+            //打印输出getValue为转化而成的整数
+            var result = TryParseToInt("99", out int getValue);
+        }
 ```
 
 
