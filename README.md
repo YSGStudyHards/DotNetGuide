@@ -9,7 +9,7 @@
 
 [![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues001.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
-**🤝欢迎关注一起沟通学习，共同进步（获取更多.NET学习资料）**
+**🤝欢迎关注一起沟通学习(关注后回复【1】加入DotNetGuide技术交流群)，共同进步（获取更多.NET学习资料）**
 
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
@@ -49,7 +49,7 @@
 ### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🐮[C#/.NET/.NET Core推荐博客or博主](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 ### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总 ](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
-### 📚[2021年 ASP.NET Core 开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
+### 📚[2022年 ASP.NET Core 开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 ### ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
 ### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 ### 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）](https://docs.microsoft.com/zh-cn/dotnet/)
