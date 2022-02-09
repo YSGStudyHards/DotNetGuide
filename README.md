@@ -365,6 +365,7 @@
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
 * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
+* [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/Snailclimb/programmer-advancement#%E5%A4%9A%E7%94%A8-github)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 
