@@ -376,6 +376,7 @@
 
 
 ## 🧭宝藏指南
+* [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
