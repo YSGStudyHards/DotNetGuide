@@ -1,11 +1,11 @@
 # 🐮C#/.NET/.NET Core学习、工作、面试指南（让现在的自己不再迷茫✨）
-> 概述：发现网上关于Java、前端、Android、Go...等相关技术的学习资料，面试指南一搜都是一大把，但是我们大.NET/C#的相关学习资料，面试指南和一些常见的面试题都是寥寥无几，并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个汇总的知识库。因此作为.NET开发中的一员当然是不想让这种现象普遍存在啦，建立这个知识库的初衷就是为了收集、汇总、总结网上优秀的.NET相关学习资料和常见的面试题以及自己的一些微薄的见解供大家参考学习，并且还会有一些面试时需要注意的事项供大家参考。同时由衷的希望大家可以在Issues中投稿一起完善我们的.NET学习，面试的知识库。
+> 概述：发现现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料，面试指南一搜都是一大把，但是我们大.NET/C#的相关学习资料，面试指南和一些常见的面试题都是寥寥无几，并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个汇总的知识库。因此作为.NET开发中的一员当然是不想让这种现象普遍存在啦，建立这个知识库的初衷就是为了收集、汇总、总结网上优秀的.NET相关学习资料和常见的面试题以及自己在学习和工作中的一些微薄的见解供大家参考学习，并且还会有一些面试时需要注意的事项供大家参考。同时由衷的希望大家可以在Issues中投稿或者直接提交PR一起完善我们.NET学习、工作、面试指南知识库。
 
 🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
-如果这个知识库对大家有帮助的话记得给作者一个星星哟(您的小星星就是对我最大的肯定和鼓励)⭐
+如果这个知识库对大家有帮助的话记得给作者一个星星哟⭐(您的小星星就是对我最大的肯定和鼓励)！
 
 
-> 点击下面的图片，前往Issues留下您收集的宝藏👇：
+> 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
 [![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues001.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
@@ -137,10 +137,10 @@
 
 
 ## 🧮算法
-* [在线算法刷题平台-力扣（LeetCode)](https://leetcode-cn.com/)
+* [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
-* [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
+* [在线算法刷题平台-力扣（LeetCode)](https://leetcode-cn.com/)
 * [C#冒泡法排序算法](http://c.biancheng.net/view/2854.html)
 * C#快速排序算法
   * [C#快速排序算法基础入门篇](https://www.cnblogs.com/csdbfans/p/3541044.html)
@@ -162,33 +162,34 @@
 #### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
-* [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
-* [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
-* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
+* [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/cAJg_MZP_xI853wLdWAE7A)
-
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### Microsoft SQL Server
+
+* [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
+
 * [SQL Server 技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
-* [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
 * [SQL Server文章目录](https://www.cnblogs.com/CareySon/archive/2012/05/08/2489748.html)
 * [SSMS管理工具快速入门](https://docs.microsoft.com/zh-cn/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver15)
 
 ### PostgreSQL
-* [PostgreSQL中文社区](http://www.postgres.cn/v2/home)
-* [PostgreSQL中文文档](http://www.postgres.cn/v2/document)
 * [PostgreSQL 教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
-* [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/)
+* [PostgreSQL中文文档](http://www.postgres.cn/v2/document)
 * [PostgreSQL 11.2 手册](http://www.postgres.cn/docs/11/)
+* [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/)
 
 ### Oracle
 * [Oracle入门教程](https://www.w3cschool.cn/oraclejc/)
 * [Oracle基础教程](https://www.oraclejsq.com/article/010100110.html)
+* [Oracle快速入门视频教程](https://www.bilibili.com/video/BV1u54y1G7xq?spm_id_from=333.337.search-card.all.click)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -202,11 +203,10 @@
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
 * [Redis 设计与实现](http://redisbook.com/)
 * [Redis 命令参考](http://redisdoc.com/)
-* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
-* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
-* [Redis知识点总结](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
-* [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
 * [Redis基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html#%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
+* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+* [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -280,9 +280,9 @@
 * [Docker中文社区](https://www.docker.org.cn/)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
-* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
 * [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
+* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 
 
 
@@ -290,6 +290,7 @@
 
 - [Kubernetes](https://kubernetes.io/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm)
+- [Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
@@ -325,11 +326,12 @@
 ## 🌍Web前端相关
 ### Web前端自学面试宝典
 
+* [Vue官网](https://v3.cn.vuejs.org/)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
 * [大圣编程自学网](https://shengxinjing.cn/)
 * [前端进阶之道](https://yuchengkai.cn/)
+* [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
-* [Vue官网](https://v3.cn.vuejs.org/)
 * [HTML/CSS菜鸟教程](https://www.runoob.com/)
 
 ### Web前端常见面试题
@@ -363,6 +365,31 @@
 
 
 
+## 🧲版本控制工具
+
+### Git
+
+* [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
+* [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+* [Git参考手册](http://gitref.justjavac.com/)
+* [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+* [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
+* [Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7see_no_evil)
+* [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
+* [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
+
+### SVN
+
+* [Subversion版本控制](https://svnbook.red-bean.com/nightly/zh/index.html)
+* [SVN教程-菜鸟教程](https://www.runoob.com/svn/svn-tutorial.html)
+* [SVN版本控制软件视频教程](https://www.bilibili.com/video/BV1mW411M7yR?p=5)
+
+
+
+#### 🔝[返回目录]()
+
+---
+
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
 * [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
@@ -376,15 +403,14 @@
 
 
 ## 🧭宝藏指南
-* [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
-* [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
-* [世界上最大的电子书图书馆（九百万本电子图书任你下载）](https://hk1lib.org/)
 * [编程电子书，电子书，编程书籍PDF免费地址](https://github.com/itdevbooks/pdf)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
+* [世界上最大的电子书图书馆（九百万本电子图书任你下载）](https://hk1lib.org/)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
@@ -407,4 +433,8 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
+
 𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉
+
+
+
