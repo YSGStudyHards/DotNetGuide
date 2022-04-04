@@ -7,16 +7,13 @@
 
 > 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
-[![宝藏收集地](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/GithubIssues001.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_220404051508_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220404131422.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
-**🤝欢迎关注一起沟通学习(关注后回复【1】加入DotNetGuide技术交流群)，共同进步（获取更多.NET学习资料）**
+**🤝欢迎关注我一起沟通、交流学习、共同进步（💯关注后回复【1】加入DotNetGuide技术交流微信群，回复其他关键字获取更多.NET相关学习资料）**
 
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
-**💯.NET相关学习资料书籍PDF**
-> 注意：这些PDF资料仅限于个人学习若要商用请自行联系作者购买版权，这些资源均来源于网上若有侵权的PDF请联系我立马处理谢谢🤞
 
-![.NET相关学习资料书籍PDF](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/StudyInfomation001.png)
 
 
 ## 🔍目录(善用Ctrl+F)
@@ -65,24 +62,33 @@
 ## 🏫C#/.NET/.NET Core基础面试题
 *  [C#是什么？可以用来做什么?](https://www.w3cschool.cn/article/53529719.html)
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
+   
    >Object
 *  [C#中类和结构的基本概念](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/)
+   
    > 类和结构是 .NET通用类型系统的两种基本构造。每种本质上都是一种数据结构，其中封装了同属一个逻辑单元的一组数据和行为。 数据和行为是类或结构的成员，包括字段、方法、属性、索引器、运算符和事件等。
 *  [C#支持的六种常见的访问修饰符](https://www.cnblogs.com/Can-daydayup/p/13894517.html)
 *  C#类和结构默认访问修饰符
+   
    > Internal
 *  C#适用于类和结构访问修饰符有哪些
+   
    > public 或 internal
 *  类成员和结构成员的默认访问修饰符为
+   
    > private
 *  结构成员（包括嵌套的类和结构）可以声明为
+   
    > public、internal 或 private   注意：结构成员无法声明为 protected、protected internal 或 private protected，因为结构不支持继承。
 *  类成员（包括嵌套的类和结构）可以声明为
+   
    > public、protected internal、protected、internal、private protected 或 private
 *  [C#类成员包括](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/members)
+   
    >字段、常量、属性、方法、事件、运算符、索引器、构造函数、终结器、嵌套类型
 *  派生类不能具有高于其基类型的可访问性
 *  描述类和对象的区别
+   
    >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类可以通过构造函数生成对象，对象实现了类的定义，且用于具体的数据。
 * [彻底明白对象，类，实例化的区别及联系](https://blog.csdn.net/yyp0304Devin/article/details/84619920)
 * [走进C# abstract，了解抽象类与接口的异同](https://www.cnblogs.com/Can-daydayup/p/13676586.html)
