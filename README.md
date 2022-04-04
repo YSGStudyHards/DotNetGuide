@@ -64,53 +64,29 @@
 
 ## 🏫C#/.NET/.NET Core基础面试题
 *  [C#是什么？可以用来做什么?](https://www.w3cschool.cn/article/53529719.html)
-   
 *  [.NET 中所有类的基类](https://docs.microsoft.com/zh-cn/dotnet/api/system.object?view=netcore-3.1)
-   
    >Object
-   
 *  [C#中类和结构的基本概念](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/)
-   
    > 类和结构是 .NET通用类型系统的两种基本构造。每种本质上都是一种数据结构，其中封装了同属一个逻辑单元的一组数据和行为。 数据和行为是类或结构的成员，包括字段、方法、属性、索引器、运算符和事件等。
-   
 *  [C#支持的六种常见的访问修饰符](https://www.cnblogs.com/Can-daydayup/p/13894517.html)
-
 *  C#类和结构默认访问修饰符
-   
    > Internal
-   
 *  C#适用于类和结构访问修饰符有哪些
-   
    > public 或 internal
-   
 *  类成员和结构成员的默认访问修饰符为
-   
    > private
-   
 *  结构成员（包括嵌套的类和结构）可以声明为
-   
    > public、internal 或 private   注意：结构成员无法声明为 protected、protected internal 或 private protected，因为结构不支持继承。
-   
 *  类成员（包括嵌套的类和结构）可以声明为
-   
    > public、protected internal、protected、internal、private protected 或 private
-   
 *  [C#类成员包括](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/members)
-   
    >字段、常量、属性、方法、事件、运算符、索引器、构造函数、终结器、嵌套类型
-   
 *  派生类不能具有高于其基类型的可访问性
-
 *  描述类和对象的区别
-   
    >类（class）指一类事物，对象（object）指属于这一类事物的实体。类定义了对象的相关数据和方法，类可以通过构造函数生成对象，对象实现了类的定义，且用于具体的数据。
-   
 * [彻底明白对象，类，实例化的区别及联系](https://blog.csdn.net/yyp0304Devin/article/details/84619920)
-
 * [走进C# abstract，了解抽象类与接口的异同](https://www.cnblogs.com/Can-daydayup/p/13676586.html)
-
 * [委托、事件、反射与特性](https://www.cnblogs.com/edisonchou/p/4827578.html)
-
 * [C#多线程开发基础](https://www.cnblogs.com/edisonchou/p/4848131.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
@@ -173,9 +149,7 @@
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### Microsoft SQL Server
-
 * [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
-
 * [SQL Server 技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
 * [SQL Server文章目录](https://www.cnblogs.com/CareySon/archive/2012/05/08/2489748.html)
@@ -248,7 +222,6 @@
 
 
 ## 🛰️网络相关
-
 * [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
 * [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 * [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
@@ -262,7 +235,6 @@
 
 
 ## ☁️容器技术
-
 ### Kubernetes（K8s）
 > Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
 
@@ -273,7 +245,6 @@
 
 
 ### Docker
-
 > Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。 
 
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
@@ -288,7 +259,6 @@
 
 
 ### 服务编排
-
 - [Kubernetes](https://kubernetes.io/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm)
 - [Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
@@ -359,9 +329,7 @@
 
 
 ## 🧲版本控制工具
-
 ### Git
-
 * [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 * [Git参考手册](http://gitref.justjavac.com/)
@@ -372,7 +340,6 @@
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 
 ### SVN
-
 * [Subversion版本控制](https://svnbook.red-bean.com/nightly/zh/index.html)
 * [SVN教程-菜鸟教程](https://www.runoob.com/svn/svn-tutorial.html)
 * [SVN版本控制软件视频教程](https://www.bilibili.com/video/BV1mW411M7yR?p=5)
