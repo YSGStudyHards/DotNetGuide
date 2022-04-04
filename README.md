@@ -9,7 +9,7 @@
 
 [![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_220404051508_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220404131422.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
-**🤝欢迎关注我一起沟通、交流学习、共同进步（💯关注后回复【1】加入DotNetGuide技术交流微信群，回复其他关键字获取更多.NET相关学习资料）**
+**🤝欢迎关注我一起沟通、交流学习、共同进步（💯关注后回复【1】加入DotNetGuide技术交流微信群，回复其他关键字获取更多.NET相关学习资料）。**
 
 ![追逐时光者的微信公众号](http://ysgdaydayup.gitee.io/my-picture-bed/SourceMaterial/GithubPicture/MpQrcode.jpg "追逐时光者的微信公众号")
 
