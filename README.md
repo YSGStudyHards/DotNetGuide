@@ -304,6 +304,7 @@
 * [Vue官网](https://v3.cn.vuejs.org/)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
 * [大圣编程自学网](https://shengxinjing.cn/)
+* [前端学习路线图](https://github.com/CurrentVastStars/front-end-roadmap)
 * [前端进阶之道](https://yuchengkai.cn/)
 * [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
