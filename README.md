@@ -17,22 +17,22 @@
 
 
 ## 🔍目录(善用Ctrl+F)
-* [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
-* [🏫C#/.NET/.NET Core基础面试题](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98)
-* [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-* [🧮算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%AE%97%E6%B3%95)
-* [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
-* [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
-* [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
-* [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+* [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
+* [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+* [🧮算法](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%97%E6%B3%95)
+* [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
+* [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
+* [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
+* [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 * [🛰️网络相关](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
-* [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
-* [🧰DevOps、CI&CD自动化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
-* [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
+* [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
+* [🧰DevOps、CI&CD自动化工具](https://github.com/YSGStudyHards/DotNetGuide#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
+* [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
-* [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
-* [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
-* [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
+* [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
+* [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
+* [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
 ---
 
@@ -60,7 +60,7 @@
 
 
 ## 🎁C#/.NET/.NET Core面试宝典
-关注公众号获取宝库地址：👉
+关注公众号获取面试宝典地址：[https://mp.weixin.qq.com/s/dw7i5sI9izV4HpId-tbvNQ👉](https://mp.weixin.qq.com/s/dw7i5sI9izV4HpId-tbvNQ)
 
 ![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_220416073638_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220416153509.png)
 
