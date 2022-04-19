@@ -61,6 +61,7 @@
 
 ## 🎁C#/.NET/.NET Core面试宝典
 关注公众号获取面试宝典地址：[https://mp.weixin.qq.com/s/dw7i5sI9izV4HpId-tbvNQ👉](https://mp.weixin.qq.com/s/dw7i5sI9izV4HpId-tbvNQ)
+> 🐱‍🚀C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺，扩充知识面，大家共同进步。
 
 ![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_220416073638_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220416153509.png)
 
