@@ -281,6 +281,7 @@
 * [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
 * [HTML/CSS菜鸟教程](https://www.runoob.com/)
+* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 
 ### Web前端常见面试题
 
