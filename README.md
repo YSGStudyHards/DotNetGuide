@@ -111,10 +111,13 @@
 
 ## 🍇关系型数据库（SQL）
 > 关系型数据库指的是使用关系模型（二维表格模型）来组织数据的数据库。
-#### [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
-#### [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
-#### [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
-#### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+
+## SQL和数据库相关
+* [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
+* [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
+* [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
+* [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
@@ -152,7 +155,10 @@
 
 ## 🍉非关系型数据库（NoSQL）
 > 非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。通常指数据以对象的形式存储在数据库中，而对象之间的关系通过每个对象自身的属性来决定，常用于存储非结构化的数据。
-#### [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
+
+### NoSQL相关概念
+* [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
+
 ### Redis
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
 * [Redis 设计与实现](http://redisbook.com/)
