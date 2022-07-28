@@ -31,6 +31,7 @@
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
+* [👩‍💻程序员简历模板](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
