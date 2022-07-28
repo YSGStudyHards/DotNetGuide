@@ -335,12 +335,10 @@
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
 
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
-* [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
 * [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/Snailclimb/programmer-advancement#%E5%A4%9A%E7%94%A8-github)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
@@ -349,6 +347,21 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+## 👩‍💻程序员简历模板
+
+| 项目描述 | 项目地址 |
+| --- | --- |
+| Resume template for Chinese programmers：程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
+| Markdown-Resume：用 markdown 语法来写的简历模版，非常简结通用 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
+| awesome-resume：程序员简历例句，程序员简历范例 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
+| DeerResume：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
+| markdown-resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能[支持Markdown和富文本的在线简历排版工具]| [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
+| best-resume-ever：快速轻松制作多份精美简历，打造您有史以来最好的简历！ 用Vue和LESS制作| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
+| awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
+
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
 
 
 ## 🧭宝藏指南
