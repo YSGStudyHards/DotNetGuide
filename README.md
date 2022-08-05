@@ -121,15 +121,16 @@
 * [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 
 ### MySQL
-* [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
+* [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
-* [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
+* [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/cAJg_MZP_xI853wLdWAE7A)
 * [MySQL夺命16问，你能回答出几个？](https://mp.weixin.qq.com/s/eJepG60ll0gaEPVb1IAKVA)
+* [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### Microsoft SQL Server
@@ -358,7 +359,8 @@
 | DeerResume：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
 | markdown-resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能[支持Markdown和富文本的在线简历排版工具]| [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
 | best-resume-ever：快速轻松制作多份精美简历，打造您有史以来最好的简历！ 用Vue和LESS制作| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
-| awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
+| awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
+|resume：在线简历生成器|https://github.com/visiky/resume|
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
