@@ -240,7 +240,9 @@
 * [Docker中文社区](https://www.docker.org.cn/)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
+* [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
+* [Ubuntu 20.04安装Docker](https://www.cnblogs.com/Can-daydayup/p/16472375.html)
 * [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
 * [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 
