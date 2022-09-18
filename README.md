@@ -227,6 +227,7 @@
 > Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
 
 * [一文了解 Kubernetes](https://zhuanlan.zhihu.com/p/162928436)
+* [Kubernetes（K8S）是什么?](https://www.cnblogs.com/Can-daydayup/p/16706198.html)
 * [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
 * [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 
@@ -241,11 +242,12 @@
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
+* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
 * [Ubuntu 20.04安装Docker](https://www.cnblogs.com/Can-daydayup/p/16472375.html)
 * [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
-* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
-
+* [Docker安装MySQL并使用Navicat连接 ](https://www.cnblogs.com/Can-daydayup/p/16653879.html)
+* [Docker安装Redis并使用Another Redis Desktop Manager连接](https://www.cnblogs.com/Can-daydayup/p/16653903.html)
 
 
 ### 服务编排
