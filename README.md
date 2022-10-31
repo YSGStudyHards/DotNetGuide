@@ -7,7 +7,7 @@
 
 > 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
-[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_220404051508_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220404131422.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_221031161905_QQ%E5%9B%BE%E7%89%8720221101001913.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 **🤝欢迎关注我一起沟通、交流学习、共同进步（💯关注后回复【1】加入DotNetGuide技术交流微信群，回复其他关键字获取更多.NET相关学习资料）。**
 
@@ -64,9 +64,9 @@
 ## 🎁C#/.NET/.NET Core面试宝典
 面试宝典地址：[https://www.yuque.com/ysgstudyhard/da6e0c👉](https://www.yuque.com/ysgstudyhard/da6e0c)
 > 🐱‍🚀因为个人的能力和精力有限没法把涉及的所有知识点都总结归纳（现在主要是对一些常见的知识点进行了总结和归纳），希望有更多的小伙伴能加入和我一起完善这方面的相关知识点。对知识库有贡献者可获得更多学习资源。
+* C#/.NET/.NET Core常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习进步。*
 
-
-![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_1fa3a7ef.png)
+![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_221031161923_QQ%E5%9B%BE%E7%89%8720221101001736.png)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
