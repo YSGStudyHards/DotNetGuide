@@ -182,7 +182,7 @@
 * [MongoDB安全加固，防止数据库攻击删除勒索威胁](https://www.cnblogs.com/Can-daydayup/p/16970210.html)
 
 ### Memcached
-* [Memcached入门教程](http://c.biancheng.net/view/6498.html)
+* [Memcached入门教程](https://www.runoob.com/memcached/memcached-tutorial.html)
 * [Memcached视频教程_免费Memcached教程在线学习](https://www.php.cn/course/list/55.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
