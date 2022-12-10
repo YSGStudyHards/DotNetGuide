@@ -179,6 +179,7 @@
 * [MongoDB教程：1天玩转MongoDB数据库](http://c.biancheng.net/mongodb/)
 * [MongoDB高频面试题](https://mongoing.com/archives/docs/mongodb%e5%88%9d%e5%ad%a6%e8%80%85%e6%95%99%e7%a8%8b/mongodb%e9%ab%98%e9%a2%91%e9%9d%a2%e8%af%95%e9%a2%98)
 * [95道MongoDB面试题详解](https://developer.aliyun.com/article/764824)
+* [MongoDB安全加固，防止数据库攻击删除勒索威胁](https://www.cnblogs.com/Can-daydayup/p/16970210.html)
 
 ### Memcached
 * [Memcached入门教程](http://c.biancheng.net/view/6498.html)
