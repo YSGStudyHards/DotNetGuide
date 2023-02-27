@@ -87,9 +87,8 @@
 ### .NET Core NPOI实操教程
 - [.NET Core使用NPOI导出复杂Word详解](https://www.cnblogs.com/Can-daydayup/p/11588531.html)
 - [.NET之NPOI Excel数据导出和批量导入功能](https://www.cnblogs.com/Can-daydayup/p/10513764.html)
-- [.NET Core使用NPOI将Excel中的数据批量导入到MySQL](https://www.cnblogs.com/Can-daydayup/p/12593165.html)
 - [.NET Core使用NPOI导出复杂，美观的Excel详解](https://www.cnblogs.com/Can-daydayup/p/12501400.html)
-
+- [.NET Core使用NPOI将Excel中的数据批量导入到MySQL](https://www.cnblogs.com/Can-daydayup/p/12593165.html)
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
