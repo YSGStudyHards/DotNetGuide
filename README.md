@@ -90,6 +90,24 @@
 - [.NET Core使用NPOI导出复杂，美观的Excel详解](https://www.cnblogs.com/Can-daydayup/p/12501400.html)
 - [.NET Core使用NPOI将Excel中的数据批量导入到MySQL](https://www.cnblogs.com/Can-daydayup/p/12593165.html)
 
+### .NET高级调试系列-WinDbg调试实战教程
+> 文章源于一线码农大佬，更多高级调试系列教程欢迎关于大佬的GitHub仓库。[dotnetfly👉](https://github.com/ctripxchuang/dotnetfly)
+- 【2023年02月27日 周一】[记一次 .NET某家装ERP 内存暴涨分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496557&idx=1&sn=65252d960b0e22a4c19e2b9696671440&chksm=a69b802091ec0936ebd715a4311db47797a8390a4c8ad0f3892bdd6a3f1afd9d6f658c0ff5e0&token=1227076055&lang=zh_CN#rd)
+- 【2023年02月21日 周二】[记一次 .NET 某医保平台 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496507&idx=2&sn=2f78f01f01754259b9b059f30429bfd6&chksm=a69b807691ec0960db2f7adecf19e8466ef270ccb91b7f12569a6f978def54b05e65c0da0d4e&token=1227076055&lang=zh_CN#rd)
+- 【2023年02月13日 周一】[记一次 .NET 某游戏网站 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496418&idx=1&sn=f47f12b9aa479de45c5ea9bfd09f14ca&chksm=a69b81af91ec08b9d86ac97b14d0a5ae130f55d7204117cfe3659037dd417a92dbe5af3169fe&token=246753473&lang=zh_CN#rd)
+- 【2022年12月19日 周一】[记一次.NET 某安全生产系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495965&idx=1&sn=2087fb7e30e536bff7aee6f2928ae86c&chksm=a69b825091ec0b46e8a44099ded5a83b2a8d0ab88b58f6765d262f8eafd49dac5a80e3559f26&token=103031729&lang=zh_CN#rd)
+- 【2022年12月16日 周五】[记一次 .NET 某工控MES程序 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495943&idx=2&sn=c2e34e949edd8cb24c1a275f71e98891&chksm=a69b824a91ec0b5c727fdaa67e3f7a11a135d97eef00c19eddce537a06260314f23be10efd6b&token=103031729&lang=zh_CN#rd)
+- 【2022年12月05日 周一】[记一次 .NET 某工控软件 内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495897&idx=1&sn=2f81da9c5a6a3efc3433229469a2a908&chksm=a69b839491ec0a8272d3ecabd1ca2dd308beeb4127b40960a51e046a4be35a1ff019c66fb725&token=103031729&lang=zh_CN#rd)
+- 【2022年12月02日 周五】[记一次 .NET 某电子厂OA系统 非托管内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495866&idx=1&sn=9cc3c442b43855f0f8129b1c1911b2c2&chksm=a69b83f791ec0ae1b2d495dcbb8b334385b9f89d6c4bbee2e81188bb0e5a0fd792c4be1353ad&token=1751121168&lang=zh_CN#rd)
+- 【2022年11月18日 周五】[记一次 .NET 某自动化采集软件 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495763&idx=1&sn=f1ff8b53898edfc14d38e65e6028f977&chksm=a69b831e91ec0a0889913af94ba6ea92025eb64dab4201962ab47d5a2926294bbe25796ddc82&token=1946171397&lang=zh_CN#rd)
+- 【2022年11月14日 周一】[记一次.NET某工控图片上传CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495731&idx=1&sn=289d6388bedc172fe6a2438e4304b99a&chksm=a69b837e91ec0a685f15f9dce9d843cc4b186542d1c1a156fc9272bb53775c16438aac04c0a8&token=1946171397&lang=zh_CN#rd)
+- 【2022年11月04日 周五】[记一次 .NET 某制造业 MES 系统崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495663&idx=1&sn=eacf1e9e70184ce6349e90fa7bb63429&chksm=a69b9ca291ec15b497d0442d7729ca9aeb8638ce79db32ac5c0dcc7c3513a57a0a0c1de3e670&token=1947614004&lang=zh_CN#rd)
+- 【2022年10月25日 周二】[记一次 .NET 某医疗器械 程序崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495591&idx=1&sn=ffa939a902fbec5e961afe1fcb4b8347&chksm=a69b9cea91ec15fc82aaaefb5d54dd0f2b24dab1dc1762804000051841f61e8600ba81003068&token=730191575&lang=zh_CN#rd)
+- 【2022年10月23日 周日】[记一次 .NET 某娱乐聊天流平台 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495548&idx=1&sn=9f377a2c229981481a2af6eefd652a10&chksm=a69b9c3191ec1527596da4e18106e26e01ff678e4701c4ac1d2faff0a0b8e7a3dd46d02cfb1c&token=1362409699&lang=zh_CN#rd)
+- 【2022年10月13日 周四】[记一次 .NET 某企业OA后端服务 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495503&idx=1&sn=9b3066ad6b3f846ede84cb18a355f294&chksm=a69b9c0291ec15140121b12fddf4d5c9645f4ccc824ea1cbc27f16b2f9694f02d09e22b3b715&token=1362409699&lang=zh_CN#rd)
+- 【2022年10月11日 周二】[记一次 .NET 某电子病历 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495487&idx=1&sn=727e2a2d7afc15857e42c603b4d28114&chksm=a69b9c7291ec1564dadb868713b16b11587d53a56547c7dd0ccb8b74b5dbaaea1d044f2dd125&token=1007664770&lang=zh_CN#rd)
+
+
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
