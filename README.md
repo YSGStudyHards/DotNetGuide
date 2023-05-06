@@ -114,7 +114,18 @@
 - 【2022年10月13日 周四】[记一次 .NET 某企业OA后端服务 卡死分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495503&idx=1&sn=9b3066ad6b3f846ede84cb18a355f294&chksm=a69b9c0291ec15140121b12fddf4d5c9645f4ccc824ea1cbc27f16b2f9694f02d09e22b3b715&token=1362409699&lang=zh_CN#rd)
 - 【2022年10月11日 周二】[记一次 .NET 某电子病历 CPU 爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247495487&idx=1&sn=727e2a2d7afc15857e42c603b4d28114&chksm=a69b9c7291ec1564dadb868713b16b11587d53a56547c7dd0ccb8b74b5dbaaea1d044f2dd125&token=1007664770&lang=zh_CN#rd)
 
-
+### C#开发PACS、RIS、3D医学影像处理系统系列教程
+> 文章源于博客园乔克灬叔叔，更多C#开发PACS、RIS、3D医学影像处理系统系列教程欢迎关注[乔克灬叔叔博客👉](https://www.cnblogs.com/Uncle-Joker)。
+- [C#开发PACS医学影像处理系统(一)：开发背景和功能预览](https://www.cnblogs.com/Uncle-Joker/p/13646949.html)
+- [C#开发PACS医学影像处理系统(二)：界面布局之菜单栏](https://www.cnblogs.com/Uncle-Joker/p/13650213.html)
+- [C#开发PACS医学影像处理系统(三)：界面布局之工具栏](https://www.cnblogs.com/Uncle-Joker/p/13650330.html)
+- [C#开发PACS医学影像处理系统(四)：界面布局之状态栏](https://www.cnblogs.com/Uncle-Joker/p/13650514.html)
+- [C#开发PACS医学影像处理系统(五)：查询病人信息列表](https://www.cnblogs.com/Uncle-Joker/p/13651660.html)
+- [C#开发PACS医学影像处理系统(六)：加载Dicom影像](https://www.cnblogs.com/Uncle-Joker/p/13665748.html)
+- [C#开发PACS医学影像处理系统(七)：读取影像Dicom信息](https://www.cnblogs.com/Uncle-Joker/p/13666034.html)
+- [C#开发PACS医学影像处理系统(八)：单元格变换](https://www.cnblogs.com/Uncle-Joker/p/13666817.html)
+- [C#开发PACS医学影像处理系统(九)：序列控件与拖拽](https://www.cnblogs.com/Uncle-Joker/p/13672042.htm)
+- [C#开发PACS医学影像处理系统(十)：Dicom影像下载策略与算法](https://www.cnblogs.com/Uncle-Joker/p/13667467.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
