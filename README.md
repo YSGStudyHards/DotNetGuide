@@ -396,6 +396,8 @@
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7see_no_evil)
 * [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
+* [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
+* [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://www.cnblogs.com/Can-daydayup/p/17416495.html)
 
 ### SVN
 * [Subversion版本控制](https://svnbook.red-bean.com/nightly/zh/index.html)
