@@ -40,7 +40,7 @@
 
 
 
-## 🏷️C#/.NET/.NET Core高质量教程收录栈
+## 🏷️C#/.NET/.NET Core/前端等高质量教程收录栈
 ### ⚒️[开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
 ### 🥇[高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
