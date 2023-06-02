@@ -44,6 +44,7 @@
 ### ⚒️[开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
 ### 🥇[高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
+### 🚤[适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 ### 📚[.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 ### 📰[C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
 ### 📚[C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
@@ -126,6 +127,13 @@
 - [C#开发PACS医学影像处理系统(八)：单元格变换](https://www.cnblogs.com/Uncle-Joker/p/13666817.html)
 - [C#开发PACS医学影像处理系统(九)：序列控件与拖拽](https://www.cnblogs.com/Uncle-Joker/p/13672042.htm)
 - [C#开发PACS医学影像处理系统(十)：Dicom影像下载策略与算法](https://www.cnblogs.com/Uncle-Joker/p/13667467.html)
+
+### 从零开始学习ASP.NET Core Blazor
+- [值得推荐的Blazor UI组件库](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
+- [微软官方教程ASP.NET Core Blazor](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
+- [全面的ASP.NET Core Blazor简介和快速入门](https://www.cnblogs.com/Can-daydayup/p/17157143.html)
+- [Blazor教程 - 生成第一个 Blazor 应用](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-tutorial/run)
+- [Blazor Server和WebAssembly应用程序入门指南](https://www.cnblogs.com/ittranslator/p/a-beginners-guide-to-blazor-server-and-webassembly-applications.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
