@@ -17,7 +17,7 @@
 
 
 ## 🔍目录(善用Ctrl+F)
-* [🏷️C#/.NET/.NET Core高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [🏷️C#/.NET/.NET Core/前端等高质量教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
@@ -50,8 +50,8 @@
 ### 📚[C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
 ### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🐮[C#/.NET/.NET Core推荐博客or博主](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
-### 🚤[值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
 ### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
+### 🥏[值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
 ### 📚[2023年 ASP.NET Core 开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 ### ⛵[C#/.NET/.NET Core推荐学习路线，文档，文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
 ### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
