@@ -323,6 +323,7 @@
 * [Docker安装MySQL并使用Navicat连接 ](https://www.cnblogs.com/Can-daydayup/p/16653879.html)
 * [Docker安装Redis并使用Another Redis Desktop Manager连接](https://www.cnblogs.com/Can-daydayup/p/16653903.html)
 * [Docker安装MongoDB并使用Navicat连接](https://www.cnblogs.com/Can-daydayup/p/16653882.html)
+* [Docker安装MS SQL Server并使用Navicat远程连接](https://www.cnblogs.com/Can-daydayup/p/17455612.html)
 
 
 ### 服务编排
