@@ -11,8 +11,7 @@
 [![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_b2b7f774.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 ## 🤝交流学习共同进步
-> 欢迎关注我一起沟通、交流学习、共同进步。
-- [了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
+> 欢迎关注我一起沟通、交流学习、共同进步([了解作者&获取更多学习资料😎](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw))。
 
 ![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_666709f8.png "交流学习共同进步")
 
