@@ -182,7 +182,7 @@
 * [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 * [自学SQL网](http://xuesql.cn/)
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
-* [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+* [非关系型数据库和关系型数据库区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
