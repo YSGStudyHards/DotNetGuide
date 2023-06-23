@@ -2,6 +2,7 @@
 ## 📚DotNetGuide简介
 现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信群和知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、好用框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了收集、汇总、总结网上优秀的.NET相关学习资料、常见的面试题、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者真正使用.NET的同学。一个人的力量是十分有限的，由衷的希望大家可以在Issues中投稿或者直接提交PR一起完善我们C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
 
+
 ## 🎉Issues宝藏存库
 🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
 如果DotNetGuide知识库对大家有帮助的话记得给作者一个星星哟⭐(您的小星星就是对我最大的肯定和鼓励)！
@@ -9,6 +10,7 @@
 > 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
 [![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_b2b7f774.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+
 
 ## 🤝交流学习共同进步
 > 欢迎关注我一起沟通、交流学习、共同进步([了解作者&获取更多学习资料😎](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw))。
@@ -38,9 +40,6 @@
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
----
-
-
 
 ## 🏷️C#/.NET/.NET Core/前端等高质量教程收录栈
 ### ⚒️[开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
@@ -61,8 +60,6 @@
 ### 🔎[面向开发人员和技术专业人员的Microsoft文档和学习主页](https://docs.microsoft.com/zh-cn/)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🎁C#/.NET/.NET Core面试宝典
@@ -74,7 +71,7 @@
 ![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_221031161923_QQ%E5%9B%BE%E7%89%8720221101001736.png)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
+
 
 ## 🥇C#/.NET/.NET Core开发实战教程
 ### .NET MongoDB从入门到实战的教程
@@ -142,7 +139,6 @@
 - [使用 Blazor 构建 Web 应用程序](https://learn.microsoft.com/zh-cn/training/paths/build-web-apps-with-blazor/?view=aspnetcore-6.0)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
 
 
 ## 🧱设计模式
@@ -160,8 +156,6 @@
 * [23种面向对象设计模式示例代码（C#实现,含源码，EdisonChou）](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🧮算法
@@ -177,10 +171,7 @@
 * [C#二分查找算法](https://lovejy.blog.csdn.net/article/details/81844237?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase)
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/project/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🍇关系型数据库（SQL）
@@ -225,8 +216,6 @@
 * [Oracle快速入门视频教程](https://www.bilibili.com/video/BV1u54y1G7xq?spm_id_from=333.337.search-card.all.click)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🍉非关系型数据库（NoSQL）
@@ -257,11 +246,9 @@
 
 ### Memcached
 * [Memcached入门教程](https://www.runoob.com/memcached/memcached-tutorial.html)
-* [Memcached视频教程_免费Memcached教程在线学习](https://www.php.cn/course/list/55.html)
+* [Memcached免费学习视频教程](https://www.php.cn/course/list/55.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 💡系统设计
@@ -271,8 +258,6 @@
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 💻操作系统
@@ -280,10 +265,7 @@
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
 
-
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🛰️网络相关
@@ -295,9 +277,6 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
----
-
-
 
 ## ☁️容器技术
 ### Kubernetes（K8s）
@@ -307,7 +286,6 @@
 * [Kubernetes（K8S）是什么?](https://www.cnblogs.com/Can-daydayup/p/16706198.html)
 * [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
 * [Kubernetes中文社区](https://www.kubernetes.org.cn/)
-
 
 
 ### Docker
@@ -335,8 +313,6 @@
 - [Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🧰DevOps、CI&CD自动化工具
@@ -361,8 +337,6 @@
 > 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致[持续集成](https://cloud.tencent.com/product/coding-ci?from=10680)和[持续部署](https://cloud.tencent.com/product/coding-cd?from=10680)/交付工具的兴起。
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🌍Web前端相关
@@ -395,10 +369,7 @@
 * [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
 * [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
 
-
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## 🧲版本控制工具
@@ -419,10 +390,8 @@
 * [SVN教程-菜鸟教程](https://www.runoob.com/svn/svn-tutorial.html)
 * [SVN版本控制软件视频教程](https://www.bilibili.com/video/BV1mW411M7yR?p=5)
 
-
-
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
+
 
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
@@ -432,7 +401,7 @@
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
+
 
 ## 👩‍💻程序员简历模板
 
@@ -447,13 +416,10 @@
 | awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
 |resume：在线简历生成器|https://github.com/visiky/resume|
 
-
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
 
 
 ## 🧭宝藏指南
-
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
@@ -464,8 +430,6 @@
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
 
 
 ## ✈️社区组织
@@ -484,8 +448,4 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
-
-𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉
-
-
-
+𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉
