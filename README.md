@@ -85,6 +85,8 @@
 - [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（4）-MongoDB数据仓储和工作单元模式封装](https://www.cnblogs.com/Can-daydayup/p/17157135.html)
 - [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（5）-MongoDB数据仓储和工作单元模式实操](https://www.cnblogs.com/Can-daydayup/p/17294749.html)
 - [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（6）-Blazor介绍和快速入门](https://www.cnblogs.com/Can-daydayup/p/17157143.html)
+- [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（7）-Blazor UI框架选型](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
+- [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（8）-Ant Design Blazor前端框架搭建](https://www.cnblogs.com/Can-daydayup/p/17453162.html)
 
 ### .NET Core NPOI实操教程
 - [.NET Core使用NPOI导出复杂Word详解](https://www.cnblogs.com/Can-daydayup/p/11588531.html)
