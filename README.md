@@ -140,6 +140,22 @@
 - [使用Blazor的ASP.NET Core SignalR](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server)
 - [使用 Blazor 构建 Web 应用程序](https://learn.microsoft.com/zh-cn/training/paths/build-web-apps-with-blazor/?view=aspnetcore-6.0)
 
+### ASP.NET Core从壹开始微服务 [ DDD ]
+> 文章源于博客园老张的哲学，更多.NET相关优质文章教程欢迎关注[老张的哲学👉](https://www.cnblogs.com/laozhang-is-phi/)
+- [从壹开始微服务 [ DDD ] 之一 ║ D3模式设计初探 与 我的计划书](https://www.cnblogs.com/laozhang-is-phi/p/9806335.html)
+- [从壹开始微服务 [ DDD ] 之二 ║ DDD入门 & 项目结构粗搭建](https://www.cnblogs.com/laozhang-is-phi/p/9832684.html)
+- [从壹开始微服务 [ DDD ] 之三 ║ 简单说说：领域、子域、限界上下文](https://www.cnblogs.com/laozhang-is-phi/p/9845573.html)
+- [从壹开始微服务 [ DDD ] 之四 ║让你明白DDD的小故事 & EFCore初探](https://www.cnblogs.com/laozhang-is-phi/p/9872450.html)
+- [从壹开始微服务 [ DDD ] 之五 ║聚合：实体与值对象 （上）](https://www.cnblogs.com/laozhang-is-phi/p/9888502.html)
+- [从壹开始微服务 [ DDD ] 之六 ║聚合 与 聚合根 （下）](https://www.cnblogs.com/laozhang-is-phi/p/9916785.html)
+- [从壹开始微服务 [ DDD ] 之七 ║项目第一次实现 & CQRS初探](https://www.cnblogs.com/laozhang-is-phi/p/9931304.html)
+- [从壹开始微服务 [ DDD ] 之八 ║剪不断理还乱的 值对象和Dto](https://www.cnblogs.com/laozhang-is-phi/p/9962759.html)
+- [从壹开始微服务 [ DDD ] 之九 ║从军事故事中，明白领域命令验证（上）](https://www.cnblogs.com/laozhang-is-phi/p/9984740.html)
+- [从壹开始微服务 [ DDD ] 之十 ║领域驱动【实战篇】：命令总线Bus分发（一）](https://www.cnblogs.com/laozhang-is-phi/p/10000662.html)
+- [从壹开始微服务 [ DDD ] 之十一 ║ 基于源码分析，命令分发的过程（二）](https://www.cnblogs.com/laozhang-is-phi/p/10025913.html)
+- [从壹开始微服务 [ DDD ] 之十二 ║ 核心篇【下】：事件驱动EDA 详解](https://www.cnblogs.com/laozhang-is-phi/p/10059878.html)
+- [从壹开始微服务 [ DDD ] 之终篇 ║当事件溯源](https://www.cnblogs.com/laozhang-is-phi/p/10093444.html)
+
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
