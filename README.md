@@ -9,13 +9,13 @@
 
 > 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
-[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_b2b7f774.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_b65cb647.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 
 ## 🤝交流学习共同进步
 > 欢迎关注我一起沟通、交流学习、共同进步([了解作者&获取更多学习资料😎](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw))。
 
-![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_666709f8.png "交流学习共同进步")
+![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_e2255c47.png "交流学习共同进步")
 
 ![追逐时光者的微信公众号](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg "追逐时光者的微信公众号")
 
