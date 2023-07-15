@@ -1,5 +1,5 @@
 # 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
-> 让现在的自己不再迷茫✨!
+> 让现在的自己不再迷茫✨✨✨
 
 
 ## 📚DotNetGuide简介
@@ -45,10 +45,10 @@
 
 
 ## 🏷️C#/.NET/.NET Core/前端等高质量教程收录栈
-### 🐱‍🚀[零基础如何自学C#? ](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
-### ⚒️[程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🔋[awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
+### 🐱‍🚀[零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
+### ⚒️[程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🥇[高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 ### 🚤[适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 ### 📚[.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
@@ -57,8 +57,8 @@
 ### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🏗️[C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
 ### ✍[C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
-### 🐮[C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 ### 🥏[值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
+### 🐮[C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 ### 📚[2023年ASP.NET Core开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 ### ⛵[C#/.NET/.NET Core推荐学习路线&文档&文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
 ### 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
