@@ -1,4 +1,4 @@
-# 🐮C#/.NET/.NET Core学习、工作、面试指南（让现在的自己不再迷茫✨）
+# 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南（让现在的自己不再迷茫✨）
 ## 📚DotNetGuide简介
 现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信群和知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、好用框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了收集和总结网上优质的.NET相关学习资料（学习路线、视频、文章、书籍、框架...等）、开发实战教程、常见面试题、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者正在使用.NET的同学。一个人的力量是十分有限的，由衷的欢迎大家可以在Issues中投稿或者直接提交PR一起完善我们的C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
 
@@ -44,6 +44,7 @@
 ## 🏷️C#/.NET/.NET Core/前端等高质量教程收录栈
 ### 🐱‍🚀[零基础如何自学C#? ](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
 ### ⚒️[程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
+### 🔋[awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
 ### 🥇[高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 ### 🚤[适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
