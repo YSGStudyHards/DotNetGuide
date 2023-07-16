@@ -137,6 +137,7 @@
 - [C#开发PACS医学影像处理系统(十)：Dicom影像下载策略与算法](https://www.cnblogs.com/Uncle-Joker/p/13667467.html)
 
 ### 从零开始学习ASP.NET Core Blazor
+- [ASP.NET Core的Razor语法](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 - [值得推荐的Blazor UI组件库](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
 - [微软官方教程ASP.NET Core Blazor](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
 - [全面的ASP.NET Core Blazor简介和快速入门](https://www.cnblogs.com/Can-daydayup/p/17157143.html)
@@ -145,6 +146,14 @@
 - [生成Blazor待办事项列表应用](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server)
 - [使用Blazor的ASP.NET Core SignalR](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-6.0&pivots=server)
 - [使用 Blazor 构建 Web 应用程序](https://learn.microsoft.com/zh-cn/training/paths/build-web-apps-with-blazor/?view=aspnetcore-6.0)
+- [使用 Blazor 进行 Web 开发的简介](https://learn.microsoft.com/zh-cn/training/modules/blazor-introduction/)
+- [使用 Blazor 生成 Web 应用](https://learn.microsoft.com/zh-cn/training/modules/build-blazor-webassembly-visual-studio-code/)
+- [与 Blazor Web 应用中的数据交互](https://learn.microsoft.com/zh-cn/training/modules/interact-with-data-blazor-web-apps/)
+- [使用页面、路由和布局改进 Blazor 导航](https://learn.microsoft.com/zh-cn/training/modules/use-pages-routing-layouts-control-blazor-navigation/)
+- [改进表单和验证在 Blazor Web 应用中的工作方式](https://learn.microsoft.com/zh-cn/training/modules/blazor-improve-how-forms-work/)
+- [在 Blazor Web 应用中构建丰富的交互式组件](https://learn.microsoft.com/zh-cn/training/modules/blazor-build-rich-interactive-components/)
+- [使用 Blazor 生成可重用组件](https://learn.microsoft.com/zh-cn/training/modules/blazor-build-reusable-components/)
+- [使用 Blazor 生成四子棋游戏](https://learn.microsoft.com/zh-cn/training/modules/dotnet-connect-four/)
 
 ### ASP.NET Core从壹开始微服务 [ DDD ]
 > 文章源于博客园老张的哲学，更多.NET相关优质文章教程欢迎关注[老张的哲学👉](https://www.cnblogs.com/laozhang-is-phi/)
