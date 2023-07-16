@@ -373,8 +373,7 @@
 
 
 ## 🌍Web前端相关
-### Web前端自学面试宝典
-
+### Web前端自学&面试宝典
 * [Vue官网](https://v3.cn.vuejs.org/)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
 * [大圣编程自学网](https://shengxinjing.cn/)
@@ -383,10 +382,8 @@
 * [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
 * [HTML/CSS菜鸟教程](https://www.runoob.com/)
-* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 
 ### Web前端常见面试题
-
 * [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
 * HTTP响应状态码
   * 1xx：指示信息--表示请求已接收，继续处理。
@@ -401,6 +398,11 @@
 * [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
 * [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
 * [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
+
+### Web前端优质资源和文章汇总
+* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
+* [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
