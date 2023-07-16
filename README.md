@@ -80,7 +80,7 @@
 
 
 ## 🥇C#/.NET/.NET Core开发实战教程
-### .NET MongoDB从入门到实战的教程
+### 全面的.NET Core MongoDB入门到实战教程
 - [MongoDB从入门到实战之MongoDB简介](https://www.cnblogs.com/Can-daydayup/p/16797608.html)
 - [MongoDB从入门到实战之MongoDB快速入门](https://www.cnblogs.com/Can-daydayup/p/16804415.html)
 - [MongoDB从入门到实战之Docker快速安装MongoDB](https://www.cnblogs.com/Can-daydayup/p/16838976.html)
@@ -136,7 +136,7 @@
 - [C#开发PACS医学影像处理系统(九)：序列控件与拖拽](https://www.cnblogs.com/Uncle-Joker/p/13672042.htm)
 - [C#开发PACS医学影像处理系统(十)：Dicom影像下载策略与算法](https://www.cnblogs.com/Uncle-Joker/p/13667467.html)
 
-### 从零开始学习ASP.NET Core Blazor
+### ASP.NET Core Blazor入门到实战教程
 - [ASP.NET Core的Razor语法](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 - [值得推荐的Blazor UI组件库](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
 - [微软官方教程ASP.NET Core Blazor](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-7.0)
@@ -155,7 +155,7 @@
 - [使用 Blazor 生成可重用组件](https://learn.microsoft.com/zh-cn/training/modules/blazor-build-reusable-components/)
 - [使用 Blazor 生成四子棋游戏](https://learn.microsoft.com/zh-cn/training/modules/dotnet-connect-four/)
 
-### ASP.NET Core从壹开始微服务 [ DDD ]
+### ASP.NET Core从壹开始微服务[DDD]教程
 > 文章源于博客园老张的哲学，更多.NET相关优质文章教程欢迎关注[老张的哲学👉](https://www.cnblogs.com/laozhang-is-phi/)
 - [从壹开始微服务 [ DDD ] 之一 ║ D3模式设计初探 与 我的计划书](https://www.cnblogs.com/laozhang-is-phi/p/9806335.html)
 - [从壹开始微服务 [ DDD ] 之二 ║ DDD入门 & 项目结构粗搭建](https://www.cnblogs.com/laozhang-is-phi/p/9832684.html)
@@ -413,6 +413,7 @@
 * [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 * [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7see_no_evil)
+* [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 * [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
