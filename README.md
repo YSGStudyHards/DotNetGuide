@@ -12,7 +12,7 @@
 
 > 点击下面的图片，前往Issues留下您压箱底的大宝藏👇：
 
-[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_b65cb647.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
+[![宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_d5d655a0.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues)
 
 
 ## 🤝交流学习共同进步
