@@ -28,7 +28,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-* [🧮常见算法](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%97%E6%B3%95)
+* [🧮常见算法](https://github.com/YSGStudyHards/DotNetGuide#%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
@@ -135,6 +135,15 @@
 * [C#开发PACS医学影像处理系统(八)：单元格变换](https://www.cnblogs.com/Uncle-Joker/p/13666817.html)
 * [C#开发PACS医学影像处理系统(九)：序列控件与拖拽](https://www.cnblogs.com/Uncle-Joker/p/13672042.htm)
 * [C#开发PACS医学影像处理系统(十)：Dicom影像下载策略与算法](https://www.cnblogs.com/Uncle-Joker/p/13667467.html)
+* [C#开发PACS医学影像处理系统(十一)：Dicom影像挂片协议](https://www.cnblogs.com/Uncle-Joker/p/13677272.html)
+* [C#开发PACS医学影像处理系统(十二)：绘图处理之图形标记](https://www.cnblogs.com/Uncle-Joker/p/13677726.html)
+* [C#开发PACS医学影像处理系统(十三)：绘图处理之病灶测量](https://www.cnblogs.com/Uncle-Joker/p/13679635.html)
+* [C#开发PACS医学影像处理系统(十四)：处理Dicom影像窗宽窗位](https://www.cnblogs.com/Uncle-Joker/p/13683841.html)
+* [C#开发PACS医学影像处理系统(十五)：Dicom影像交叉定位线算法](https://www.cnblogs.com/Uncle-Joker/p/13686618.html)
+* [C#开发PACS医学影像处理系统(十六)：2D处理之影像平移和缩放](https://www.cnblogs.com/Uncle-Joker/p/13690213.html)
+* [C#开发PACS医学影像处理系统(十七)：2D处理之影像旋转和翻转](https://www.cnblogs.com/Uncle-Joker/p/13690483.html)
+* [C#开发PACS医学影像处理系统(十八)：Dicom使用LUT色彩增强和反色](https://www.cnblogs.com/Uncle-Joker/p/13690710.html)
+* [C#开发PACS医学影像处理系统(十九)：Dicom影像放大镜](https://www.cnblogs.com/Uncle-Joker/p/13690862.html)
 
 ### ASP.NET Core Blazor入门到实战教程
 * [ASP.NET Core的Razor语法](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
@@ -191,7 +200,7 @@
 
 
 ## 🧮常见算法
-* [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
+* [小浩算法](https://www.bookstack.cn/read/hello-algorithm/README.md)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
 * [在线算法刷题平台-力扣（LeetCode)](https://leetcode-cn.com/)
