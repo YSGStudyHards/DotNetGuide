@@ -4,17 +4,15 @@
 
 ## 使用递归算法来实现计算1+2+3+4+…+100的结果
 
-``` C#
+```C#
 static int SUM(int x)
 {
   if (x <= 1)
     return x;
-	else
+    else
     return x + SUM(x - 1);
 }
 ```
-
-
 
 ## 一列数的规则如下 : 1 、 1 、 2 、 3 、 5 、 8 、 13 、 21 、 34… 求第 30 位数是多少， 用递归算法实现
 
@@ -35,16 +33,13 @@ static void Main(string[] args)
     int dataValue = Foo(30);  
     Console.WriteLine(dataValue.ToString());  
 }  
-
 ```
 
-
-
-# 排序算法 
+# 排序算法
 
 ## 实现一个冒泡排序算法(升序)
 
-``` C#
+```C#
 static void Sort(int[] nums)
 {
     int temp;
@@ -64,11 +59,9 @@ static void Sort(int[] nums)
 }
 ```
 
-
-
 ## 冒泡排序
 
-``` C#
+```C#
  namespace BubbleSorter  
     {  
         class BubbleSorter  
@@ -81,7 +74,7 @@ static void Sort(int[] nums)
                 arraySize = myArray.Length;  
                 BubbleSort(myArray);  
             }  
-      
+
             public static void BubbleSort(int[] myArray)  
             {  
                 for (int i = 0; i < myArray.Length-1; i++)   //由于数组的特点，从0开始，但myArray的长度为5，所以需要减1，实际进行了（0~3）4趟循环  
@@ -95,7 +88,7 @@ static void Sort(int[] nums)
                     }  
                 }  
             }  
-      
+
             private static void Swap(ref int left, ref int right)  
             {  
                 int temp;  
@@ -103,7 +96,7 @@ static void Sort(int[] nums)
                 left = right;  
                 right = temp;  
             }  
-      
+
             static void Main(string[] args)  
             {  
                 int[] a = { 2, 1, 5, 10, 9 };  
@@ -118,71 +111,77 @@ static void Sort(int[] nums)
     }  
 ```
 
+## 选择排序[√]
 
+> 选择排序是一种简单直观的排序算法，它的工作原理如下：
+> 
+> 选择排序算法的核心思想是每次从未排序的部分中找到最小元素，然后将其与未排序部分的第一个元素交换位置。通过不断进行这个过程，逐步将最小元素放到正确的位置，完成整个数组的排序。
 
-## 选择排序
+```C#
+    public class 选择排序算法
+    {
+        /// <summary>
+        /// 选择排序算法
+        /// 选择排序算法的核心思想是每次从未排序的部分中找到最小元素，然后将其与未排序部分的第一个元素交换位置。
+        /// 通过不断进行这个过程，逐步将最小元素放到正确的位置，完成整个数组的排序。
+        /// </summary>
+        public static void SelectionSortAlgorithmMain()
+        {
+            int[] array = { 64, 25, 12, 22, 11 };
 
-> 选择排序是一种简单直观的排序算法。它的工作原理如下。
->
-> 首先在未排序列中找到最小的元素，存放到排序序列的起始位置。然后，在从剩余未排序元素中继续寻找最小的元素，放到排序序列末尾。以此类推，直到所有元素均排序完毕。
+            Console.WriteLine("原始数组: ");
+            PrintArray(array);
 
-``` C#
- class SelectSorter  
-    {  
-        private static int[] myArray;  
-        private static int arraySize;  
-        public static void Sort(int[] a)  
-        {  
-            myArray = a;  
-            arraySize = myArray.Length;  
-            SelectSort(myArray);  
-        }  
-        public static void SelectSort(int[] myArray)   
-        {  
-            int i, j, smallest;  
-            for(i=0;i<myArray.Length-1;i++)  //数据起始位置，从0到倒数第二个数据  
-            {  
-                smallest = i;            //记录最小数的下标  
-                for (j = i + 1; j < myArray.Length; j++)    //在剩下的数据中寻找最小数  
-                {  
-                    if (myArray[j] < myArray[smallest]) {  
-                        smallest = j;    //如果有比它更小的，记录下标  
-                    }  
-                }  
-                Swap(ref myArray[i], ref myArray[smallest]);   //将最小数据和未排序的第一个数交换  
-            }  
-        }  
-      
-        private static void Swap(ref int left, ref int right)  
-        {  
-            int temp;  
-            temp = left;  
-            left = right;  
-            right = temp;  
-        }  
-      
-        static void Main(string[] args)  
-        {  
-            int[] a = new int[] { 4, 2, 1, 6, 3 };  
-            SelectSorter.Sort(a);  
-            for (int i = 0; i < a.Length; i++)  
-            {  
-                System.Console.WriteLine(a[i]);  
-            }  
-            System.Console.Read();  
-        }  
-    }  
+            SelectionSortAlgorithm(array);
+
+            Console.WriteLine("排序后的数组: ");
+            PrintArray(array);
+        }
+
+        static void SelectionSortAlgorithm(int[] arr)
+        {
+            int n = arr.Length;
+
+            for (int i = 0; i < n - 1; i++)
+            {
+                // 在未排序部分中找到最小元素的索引
+                int minIndex = i;
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (arr[j] < arr[minIndex])
+                    {
+                        minIndex = j;
+                    }
+                }
+
+                // 将最小元素与未排序部分的第一个元素交换位置
+                int temp = arr[minIndex];
+                arr[minIndex] = arr[i];
+                arr[i] = temp;
+            }
+        }
+
+        static void PrintArray(int[] arr)
+        {
+            int n = arr.Length;
+            for (int i = 0; i < n; ++i)
+            {
+                Console.Write(arr[i] + " ");
+            }
+            Console.WriteLine();
+        }
+    }
 ```
 
+ ![](D:\Desktop\DotNetGuide\assets\images\2023-07-18-23-49-30-image.png)
 
-
-# C#List集合相关
+# C#List集合相关[√]
 
 ## C#List RemoveAt（按照索引移除）、Remove（按照对象移除）
 
-``` C#
         /// <summary>
         /// 获取移除后的列表数据
+        /// 考察内容：C#List RemoveAt（按照索引移除）、Remove（按照对象移除）
         /// </summary>
         /// <returns></returns>
         public static List<int> GetAfterRemoveListData()
@@ -192,19 +191,16 @@ static void Sort(int[] nums)
             {
                 list.Add(i);
             }
-
+    
             for (int i = 0; i < 5; i++)
             {
-                list.RemoveAt(i);//输出结果：2,4,6,8,10，按照索引移除
-                list.Remove(i);//输出结果：5,6,7,8,9,10，按照对象移除
+                list.RemoveAt(i);//单独使用输出结果：2,4,6,8,10，按照索引移除
+                list.Remove(i);//单独使用输出结果：5,6,7,8,9,10，按照对象移除
             }
-
+    
             //以上两种同时使用时输出结果：6,7,9
             return list;
         }
-```
-
-
 
 # 其他
 
@@ -236,11 +232,9 @@ static void CountChar(string str)
 }
 ```
 
-
-
 ## 实现一个将字符串转换为整数的方法，不要使用int.Parse、int.TryParse、Convert.ToInt32等任何类库方法
 
-``` C#
+```C#
         public static bool TryParseToInt(string strData, out int num)
         {
             if (string.IsNullOrWhiteSpace(strData))
@@ -281,11 +275,9 @@ static void CountChar(string str)
         }
 ```
 
-
-
 ## 求以下表达式的值，写出您想到的一种或几种实现方法： 1-2+3-4+……+m
 
-``` C#
+```C#
   //通过顺序规律写程序，同时也知道flag标志位的重要性
   static int F1(int m)  
     {  
@@ -298,11 +290,11 @@ static void CountChar(string str)
             else  
                 sum -= i;  
             flag = !flag;  
-      
+
         }  
         return sum;  
     }  
-      
+
     //通过奇偶性  
     static int F2(int m)  
     {  
@@ -318,8 +310,6 @@ static void CountChar(string str)
     }  
 ```
 
-
-
 ## 有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
 
 ```C#
@@ -327,13 +317,13 @@ static void CountChar(string str)
     {  
         static void Main(string[] args)  
         {  
-      
+
             //有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？  
             //分解题目  
             //条件：四个数字1、2、3、4  ；三位数：百位、十位、个位  
             //要求：互不相同；无重复数字：每个数字在三位中只出现一次  
             //结果：多少个？ 都是多少？  
-      
+
             int count = 0; //统计个数  
             for (int bw = 1; bw <= 4; bw++)  
             {  
@@ -354,18 +344,16 @@ static void CountChar(string str)
             }  
             Console.WriteLine("一共有{0}个", count);  
             Console.Read();  
-      
+
         }  
     }   
 ```
-
-
 
 ## 一个6位数乘以一个3位数，得到一个结果。但不清楚6位数的两个数字是什么，而且结果中有一位数字也不清楚，请编程找出问好代表的数字，答案可能有多个。
 
 > 表达式：12?56?*123 = 154?4987
 
-``` C#
+```C#
  for (int a = 0; a < 10; a++)  
     {  
         for (int b = 0; b < 10; b++)  
@@ -384,11 +372,9 @@ static void CountChar(string str)
     Console.Read();  
 ```
 
-
-
 ## 有一个字符串 "I am a good man",设计一个函数,返回 "man good a am I"。
 
-``` C#
+```C#
           static string Reverse()  
           {  
               string s = "I am a good man";  
@@ -404,11 +390,9 @@ static void CountChar(string str)
           }  
 ```
 
-
-
 ## C# 九九乘法表算法实现
 
-``` C#
+```C#
          static void Mu()  
           {  
               string t = string.Empty;  
@@ -427,20 +411,18 @@ static void CountChar(string str)
           }  
 ```
 
-
-
 ## 在1~10000的整数中，找出同时符合以下条件的数：a.必须是质数。b.该数字各位数字之和为偶数，如数字12345，各位数字之和为1+2+3+4+5=15，不是偶数。
 
->本题考了两个地方：
->
->（1）、质数的理解：质数就是所有比1大的整数中，除了1和它本身外，不再有别的约数。2是一个不是奇数的质数，它既是质数也是偶数，面试者极容易忽略这点。判断数N是否为质数要直接从3开始判断（如果N不是2），首先不能是偶数，然后再判断是否能被3、5、7....整除，直到sqrt(N)止。
->
->（2）、求各位数字之和，可以通过循环取余的办法。
+> 本题考了两个地方：
+> 
+> （1）、质数的理解：质数就是所有比1大的整数中，除了1和它本身外，不再有别的约数。2是一个不是奇数的质数，它既是质数也是偶数，面试者极容易忽略这点。判断数N是否为质数要直接从3开始判断（如果N不是2），首先不能是偶数，然后再判断是否能被3、5、7....整除，直到sqrt(N)止。
+> 
+> （2）、求各位数字之和，可以通过循环取余的办法。
 
-``` C#
+```C#
  using System;  
     using System.Collections.Generic;  
-      
+
     class program  
     {  
        static void Mian(string[] args)  
@@ -452,7 +434,7 @@ static void CountChar(string str)
           for(int i=3;i<N,i+=2)  
           {  
               if(!)  
-             
+
           }  
        }  
        static bool IsDigitSumEven(int n)  
@@ -467,14 +449,3 @@ static void CountChar(string str)
        }  
     }  
 ```
-
-
-
-
-
-## 参考文章
-
-### [C#经典算法面试题](https://blog.csdn.net/qq_43562262/article/details/110634559)
-
-### [C#常见算法面试](https://blog.csdn.net/taoerchun/article/details/51693960)
-

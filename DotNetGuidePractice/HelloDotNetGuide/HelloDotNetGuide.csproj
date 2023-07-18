@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="C#常见算法\" />
-  </ItemGroup>
-
 </Project>
