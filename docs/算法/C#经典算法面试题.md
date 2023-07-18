@@ -173,7 +173,7 @@ static void Sort(int[] nums)
     }
 ```
 
- ![](D:\Desktop\DotNetGuide\assets\images\2023-07-18-23-49-30-image.png)
+ ![](assets/images/2023-07-19-00-08-11-6b0749ea6f6c3cc152c521bd3b6f91c.png)
 
 # C#List集合相关[√]
 
