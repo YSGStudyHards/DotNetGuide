@@ -28,7 +28,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-* [🧮算法](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%97%E6%B3%95)
+* [🧮常见算法](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
@@ -190,7 +190,7 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
-## 🧮算法
+## 🧮常见算法
 * [小浩算法](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
@@ -201,7 +201,7 @@
   * [C#排序算法之快速排序](https://www.jianshu.com/p/db020fa7130a)
 * [C#递归排序算法](https://blog.51cto.com/tonyqus/1154618)
 * [C#二分查找算法](https://lovejy.blog.csdn.net/article/details/81844237?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase)
-* [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/project/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
