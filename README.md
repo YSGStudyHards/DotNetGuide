@@ -303,9 +303,9 @@
 
 
 ## 💻操作系统
-* [王道计算机考研 操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13464543417132613798&spm_id_from=333.337.0.0)
-* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
+* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
+* [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13464543417132613798&spm_id_from=333.337.0.0)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
