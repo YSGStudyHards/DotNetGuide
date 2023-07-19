@@ -28,6 +28,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+* [🛠️数据结构]()
 * [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
 * [🍉非关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
@@ -199,12 +200,26 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
+## 🛠️数据结构
+> * 数据结构是一种组织和存储数据的方式，它用于管理和操作数据的集合。数据结构可以定义为不同数据元素之间的关系，以及在存储和访问数据时使用的算法。它涉及到如何存储、组织和管理数据，以便能够高效地进行检索和操作。
+> * 常见的数据结构包括数组、链表、栈、队列、树和图等。每种数据结构都有其特定的优势和应用场景。例如，数组适用于索引访问和快速查找，链表适用于插入和删除操作频繁的情况，树适用于层次结构数据的表示和搜索，图适用于表示复杂的关系网络等。
+> * 选择合适的数据结构可以提高程序的效率和性能，因此在软件开发中，了解和掌握各种数据结构是非常重要的。数据结构是计算机科学的基础，它为开发者提供了一种组织和处理数据的框架，使得我们能够更好地理解和解决实际问题。
+* [数据结构-维基百科](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+* [八种数据结构分类](https://zhuanlan.zhihu.com/p/547679051)
+* [数据结构知识点大汇总](https://zhuanlan.zhihu.com/p/356047870)
+* [十三张图带你彻底了解所有数据结构](https://zhuanlan.zhihu.com/p/138523723)
+
+
 ## 🧮逻辑算法
+> 逻辑算法是一种基于逻辑推理和结构化思维的算法设计方法。它是指通过逻辑关系和规则来解决问题的算法。逻辑算法通常使用形式化的逻辑语言和符号进行描述和表达，以便于机器或计算机程序的理解和执行。
+
 ### 逻辑算法提升
 * [在线算法刷题平台-力扣](https://leetcode-cn.com/)
+* [牛客网基础算法](https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21000)
 * [小浩算法](https://www.bookstack.cn/read/hello-algorithm/README.md)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
+* [程序员必须掌握的算法有哪些？](https://zhuanlan.zhihu.com/p/367994409)
 
 ### C#常见逻辑算法
 * [C#冒泡法排序算法](http://c.biancheng.net/view/2854.html)
@@ -307,6 +322,7 @@
 
 ## 💻操作系统
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
+* [Linux备忘手册](https://gitee.com/jishupang/linux-memo)
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13464543417132613798&spm_id_from=333.337.0.0)
 
@@ -442,18 +458,22 @@
 
 
 ## 🙇面试须知
+* [面试工作流程](https://zhuanlan.zhihu.com/p/121555573)
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
+* [牛客网面试经验](https://www.nowcoder.com/interview/center?entranceType=%25E9%259D%25A2%25E8%25AF%2595%25E7%25BB%258F%25E9%25AA%258Ctab)
+* [牛客网AI模拟面试](https://www.nowcoder.com/interview/ai/index?entranceType=AI%25E6%25A8%25A1%25E6%258B%259F%25E9%259D%25A2%25E8%25AF%2595tab)
 * [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 * [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
+* [程序员面试都需要准备什么?](https://zhuanlan.zhihu.com/p/137490246)
+* [程序员面试时如何做自我介绍?](https://zhuanlan.zhihu.com/p/65287910)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
 ## 👩‍💻简历模板
-
 | 项目描述 | 项目地址 |
 | --- | --- |
 | Resume template for Chinese programmers：程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
@@ -464,6 +484,8 @@
 | best-resume-ever：快速轻松制作多份精美简历，打造您有史以来最好的简历！ 用Vue和LESS制作| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
 | awesome-resume-for-chinese：适合中文的简历模板收集 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
 |resume：在线简历生成器|https://github.com/visiky/resume|
+|BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改|https://github.com/youngyangyang04/Markdown-Resume-Template|
+|Resume template for Coder适合程序员的简历模板|https://github.com/byoungd/Resume-template-for-Coder|
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
