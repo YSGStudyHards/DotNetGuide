@@ -3,7 +3,7 @@
 
 
 ## 📚DotNetGuide简介
-现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信群和知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、项目框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了记录、收集和总结优质的.NET相关学习资料（学习路线、视频、文章、书籍、项目、框架...等）、开发实战教程、开发必备工具、常见面试题、面试须知、程序员简历模板、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者正在使用.NET的同学。一个人的力量是十分有限的，由衷的欢迎大家可以在Issues中投稿或者直接提交PR一起完善我们的C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
+现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信群和知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、项目框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了记录、收集和总结优质的.NET相关学习资料（学习路线、视频、文章、书籍、项目、框架...等）、开发实战教程、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者正在使用.NET的同学。一个人的力量是十分有限的，由衷的欢迎大家可以在Issues中投稿或者直接提交PR一起完善我们的C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
 
 
 ## 🎉Issues宝藏存库
@@ -28,7 +28,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-* [🧮常见算法](https://github.com/YSGStudyHards/DotNetGuide#%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95)
+* [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库（SQL）](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
@@ -39,7 +39,7 @@
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
-* [👩‍💻程序员简历模板](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+* [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
@@ -61,8 +61,8 @@
 * 🐮[C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 * 📚[2023年ASP.NET Core开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 * ⛵[C#/.NET/.NET Core推荐学习路线&文档&文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
-* 📚[C# 指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
-* 📚[.NET 文档（微软提供的最权威，最全面的.NET学习资料）](https://docs.microsoft.com/zh-cn/dotnet/)
+* 📚[C#指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+* 📚[.NET文档（微软提供的最权威，最全面的.NET学习资料）](https://docs.microsoft.com/zh-cn/dotnet/)
 * 🔎[面向开发人员和技术专业人员的Microsoft文档和学习主页](https://docs.microsoft.com/zh-cn/)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
@@ -199,11 +199,14 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
-## 🧮常见算法
+## 🧮逻辑算法
+### 逻辑算法提升
+* [在线算法刷题平台-力扣](https://leetcode-cn.com/)
 * [小浩算法](https://www.bookstack.cn/read/hello-algorithm/README.md)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
-* [在线算法刷题平台-力扣（LeetCode)](https://leetcode-cn.com/)
+
+### C#常见逻辑算法
 * [C#冒泡法排序算法](http://c.biancheng.net/view/2854.html)
 * C#快速排序算法
   * [C#快速排序算法基础入门篇](https://www.cnblogs.com/csdbfans/p/3541044.html)
