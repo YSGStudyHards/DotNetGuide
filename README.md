@@ -28,7 +28,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-* [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95)
+* [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
 * [🍇关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93sql)
 * [🍉非关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
@@ -452,7 +452,7 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 
-## 👩‍💻程序员简历模板
+## 👩‍💻简历模板
 
 | 项目描述 | 项目地址 |
 | --- | --- |
