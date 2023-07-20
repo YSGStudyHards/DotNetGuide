@@ -493,6 +493,7 @@
 
 ## 🧭宝藏指南
 * [程序员技能图谱](https://github.com/MyBigKnowledgeBase/skill-map)
+* [Github-Trending](https://github.com/trending)
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
 * [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 * [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
