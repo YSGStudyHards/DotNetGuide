@@ -70,8 +70,12 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
 ## ✍C#入门到进阶学习指南
-> 努力编写中。。。。。。。
+> 作者正在努力编写中，欢迎大家一起加入。。。。。。。
+
 所有学习示例代码都在[DotNetGuidePractice👉](https://github.com/YSGStudyHards/DotNetGuide/tree/main/DotNetGuidePractice)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
 
 ## 🎁C#/.NET/.NET Core面试宝典
 面试宝典地址：[https://www.yuque.com/ysgstudyhard/da6e0c👉](https://www.yuque.com/ysgstudyhard/da6e0c)
