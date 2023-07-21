@@ -466,6 +466,7 @@
 * [程序员面试都需要准备什么?](https://zhuanlan.zhihu.com/p/137490246)
 * [程序员面试时如何做自我介绍?](https://zhuanlan.zhihu.com/p/65287910)
 * [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
+* [程序员写简历必须要注意的技术词汇拼写](https://github.com/StartInterview/Awesome-Tech-Words)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 * [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
