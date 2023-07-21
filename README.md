@@ -478,6 +478,7 @@
 ## 👩‍💻简历模板
 | 项目描述 | 项目地址 |
 | --- | --- |
+|codecv一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费|https://github.com/acmenlei/codecv|
 | Resume template for Chinese programmers：程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
 | Markdown-Resume：用 markdown 语法来写的简历模版，非常简结通用 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
 | awesome-resume：程序员简历例句，程序员简历范例 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
