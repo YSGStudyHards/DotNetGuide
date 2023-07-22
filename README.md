@@ -71,6 +71,18 @@
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
+
+## 🏹编程效率提升技巧集
+### Visual Studio
+* [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
+* [使用Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
+
+### Visual Studio Code
+
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+
+
 ## ✍C#入门到进阶学习指南
 > 作者正在努力编写中，欢迎大家一起加入。。。。。。。
 
