@@ -48,6 +48,7 @@
 
 ## 🏷️高质量学习资料和教程收录栈
 * [🔋Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
+* [🔋Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [🔋Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 * [🔋Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
 * [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
