@@ -25,6 +25,7 @@
 
 ## 🔍目录(善用Ctrl+F)
 * [🏷️高质量学习资料和教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
