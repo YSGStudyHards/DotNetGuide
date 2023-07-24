@@ -79,7 +79,11 @@
 * [使用Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
 ### Visual Studio Code
+* VS Code常用快捷键
 
+### GitHub
+* [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
+* 五分钟教你使用GitHub寻找优质项目
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
