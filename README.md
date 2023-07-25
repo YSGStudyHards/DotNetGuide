@@ -83,7 +83,7 @@
 
 ### GitHub
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
-* 五分钟教你使用GitHub寻找优质项目
+* [五分钟教你使用GitHub寻找优质项目](https://mp.weixin.qq.com/s/JDF891QrJ-5o1ozurpR84Q)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
