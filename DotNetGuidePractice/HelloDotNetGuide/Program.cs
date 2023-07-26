@@ -1,4 +1,5 @@
 ﻿using HelloDotNetGuide.常见算法;
+using HelloDotNetGuide.数组相关;
 
 namespace HelloDotNetGuide
 {
@@ -10,7 +11,9 @@ namespace HelloDotNetGuide
 
             //List集合相关算法.GetAfterRemoveListData();
 
-            选择排序算法.SelectionSortAlgorithmMain();
+            //选择排序算法.SelectionSortAlgorithmMain();
+
+            ArrayDeduplication.LoopTraversalDuplicate();
         }
     }
 }
