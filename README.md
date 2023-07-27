@@ -80,10 +80,17 @@
 
 ### Visual Studio Code
 * VS Code常用快捷键
+* [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 
 ### GitHub
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
+* [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
 * [五分钟教你使用GitHub寻找优质项目](https://mp.weixin.qq.com/s/JDF891QrJ-5o1ozurpR84Q)
+
+### Git管理工具
+* [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
+* [最全面的SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
+* TortoiseGit-使用教程（图文详细版）
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
