@@ -75,6 +75,7 @@
 
 ## 🏹编程效率提升技巧集
 ### Visual Studio
+* Visual Studio常用快捷键
 * [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
 * [使用Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
@@ -90,7 +91,7 @@
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
 * [最全面的SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
-* TortoiseGit-使用教程（图文详细版）
+* [TortoiseGit-使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 
