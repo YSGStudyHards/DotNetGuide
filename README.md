@@ -253,6 +253,7 @@
 * [在线算法刷题平台-力扣](https://leetcode-cn.com/)
 * [牛客网基础算法](https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21000)
 * [小浩算法](https://www.bookstack.cn/read/hello-algorithm/README.md)
+* [Hello 算法](https://www.hello-algo.com/)
 * [CodeTop企业题库](https://codetop.cc/home)
 * [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
 * [程序员必须掌握的算法有哪些？](https://zhuanlan.zhihu.com/p/367994409)
