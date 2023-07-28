@@ -23,7 +23,7 @@
 ![追逐时光者的微信公众号](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg "追逐时光者的微信公众号")
 
 
-## 🔍目录(善用Ctrl+F)
+## 🔍目录导航(善用Ctrl+F)
 * [🏷️高质量学习资料和教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
