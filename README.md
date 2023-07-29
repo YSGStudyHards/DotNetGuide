@@ -287,6 +287,7 @@
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL中文文档](https://www.mysqlzh.com/doc/124.html)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
+* [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 * [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
@@ -505,11 +506,12 @@
 * [程序员面试都需要准备什么?](https://zhuanlan.zhihu.com/p/137490246)
 * [程序员面试时如何做自我介绍?](https://zhuanlan.zhihu.com/p/65287910)
 * [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
-* [程序员写简历必须要注意的技术词汇拼写](https://github.com/StartInterview/Awesome-Tech-Words)
-* [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
 * [大厂面试,面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 * [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
+* [程序员写简历必须要注意的技术词汇拼写](https://github.com/StartInterview/Awesome-Tech-Words)
+* [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
+* [专科学历的程序员想要面试获胜必须要做的两个点](https://mp.weixin.qq.com/s/HrbIlWDY7oqFOWDonKD89A)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
