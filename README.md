@@ -110,7 +110,7 @@
 
 **🐱‍🚀C#/.NET/.NET Core常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习进步。**
 
-![追逐时光者](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_221031161923_QQ%E5%9B%BE%E7%89%8720221101001736.png)
+![C#.NET.NET Core面试宝典（基础版）](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_221031161923_QQ%E5%9B%BE%E7%89%8720221101001736.png)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
