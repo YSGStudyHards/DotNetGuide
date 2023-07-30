@@ -7,13 +7,17 @@ namespace HelloDotNetGuide
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello DotNetGuide!");
+            Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
+
+            冒泡排序算法.RecursiveBubbleSortRun();
+
+            #region 技能点 
 
             //List集合相关算法.GetAfterRemoveListData();
-
             //选择排序算法.SelectionSortAlgorithmMain();
+            //ArrayDeduplication.LoopTraversalDuplicate();
 
-            ArrayDeduplication.LoopTraversalDuplicate();
+            #endregion
         }
     }
 }
