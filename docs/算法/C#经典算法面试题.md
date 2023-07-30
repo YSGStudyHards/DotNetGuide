@@ -35,83 +35,72 @@ static void Main(string[] args)
 }  
 ```
 
-# 排序算法
-
-## 实现一个冒泡排序算法(升序)
-
+# C#常见排序算法
+## 冒泡排序算法[√]
+### 双重循环方式实现冒泡排序
 ```C#
-static void Sort(int[] nums)
-{
-    int temp;
-    for (int i = 0; i < nums.Length; i++)
-    {
-        for (int j = i + 1; j < nums.Length; j++)
+        /// <summary>
+        /// 双重循环方式实现冒泡排序
+        /// </summary>
+        public static void BubbleSort()
         {
-            if (nums[i] > nums[j])
+            int[] arr = { 1, 8, 9, 5, 6, 2, 3, 4, 7 };
+            int arrLength = arr.Length;
+            for (int i = 0; i < arrLength - 1; i++)
             {
-                temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
+                for (int j = 0; j < arrLength - i - 1; j++)
+                {
+                    if (arr[j] > arr[j + 1])
+                    {
+                        //交换arr[j]和arr[j+1]的值
+                        int temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
+                    }
+                }
             }
+
+            Console.WriteLine("排序后结果：" + string.Join(", ", arr));
         }
-        Console.WriteLine(nums[i]);
-    }
-}
 ```
 
-## 冒泡排序
-
+### 递归方式实现冒泡排序
 ```C#
- namespace BubbleSorter  
-    {  
-        class BubbleSorter  
-        {  
-            private static int[] myArray;  
-            private static int arraySize;  
-            public static void Sort(int[] a)  
-            {  
-                myArray = a;  
-                arraySize = myArray.Length;  
-                BubbleSort(myArray);  
-            }  
+        /// <summary>
+        /// 递归方式实现冒泡排序
+        /// </summary>
+        /// <param name="arr">arr</param>
+        /// <param name="arrLength">arrLength</param>
+        public static void RecursiveBubbleSort(int[] arr, int arrLength)
+        {
+            if (arrLength == 1)
+                return;
 
-            public static void BubbleSort(int[] myArray)  
-            {  
-                for (int i = 0; i < myArray.Length-1; i++)   //由于数组的特点，从0开始，但myArray的长度为5，所以需要减1，实际进行了（0~3）4趟循环  
-                {  
-                    for (int j =0; j < myArray.Length -1- i; j++)  //内层循环的要点是相邻比较。当j=4的时候，就推出循环了  
-                    {  
-                        if (myArray[j] > myArray[j + 1])  
-                        {  
-                            Swap(ref myArray[j], ref myArray[j + 1]);  
-                        }  
-                    }  
-                }  
-            }  
+            for (int i = 0; i < arrLength - 1; i++)
+            {
+                if (arr[i] > arr[i + 1])
+                {
+                    //交换arr[i]和arr[i+1]的值
+                    int temp = arr[i];
+                    arr[i] = arr[i + 1];
+                    arr[i + 1] = temp;
+                }
+            }
 
-            private static void Swap(ref int left, ref int right)  
-            {  
-                int temp;  
-                temp = left;  
-                left = right;  
-                right = temp;  
-            }  
+            RecursiveBubbleSort(arr, arrLength - 1);
+        }
 
-            static void Main(string[] args)  
-            {  
-                int[] a = { 2, 1, 5, 10, 9 };  
-                BubbleSorter.Sort(a);  
-                foreach (int i in a)  
-                {  
-                    Console.WriteLine(i);  
-                }  
-                Console.Read();  
-            }  
-        }  
-    }  
+        public static void RecursiveBubbleSortRun()
+        {
+            int[] arr = { 1, 8, 9, 5, 6, 2, 3, 4, 7 };
+            int arrLength = arr.Length;
+            RecursiveBubbleSort(arr, arrLength);
+            Console.WriteLine("排序后结果：" + string.Join(", ", arr));
+        }
 ```
 
-## 选择排序[√]
+
+## 选择排序算法[√]
 
 > 选择排序是一种简单直观的排序算法，它的工作原理如下：
 > 
