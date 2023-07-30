@@ -1,5 +1,5 @@
 # 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
-> 让现在的自己不再迷茫✨✨✨
+> 让现在的自己不再迷茫✨✨✨。
 
 
 ## 📚DotNetGuide简介
@@ -362,7 +362,6 @@
 
 ## 💻操作系统
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
-* [Linux备忘手册](https://gitee.com/jishupang/linux-memo)
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13464543417132613798&spm_id_from=333.337.0.0)
 
