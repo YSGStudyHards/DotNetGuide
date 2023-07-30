@@ -259,7 +259,7 @@
 * [程序员必须掌握的算法有哪些？](https://zhuanlan.zhihu.com/p/367994409)
 
 ### C#常见逻辑算法
-* [C#冒泡法排序算法](http://c.biancheng.net/view/2854.html)
+* [C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
 * [C#选择排序算法](https://mp.weixin.qq.com/s/B1QdqyP8HQgOv8tlSujtog)
 * C#快速排序算法
   * [C#快速排序算法基础入门篇](https://www.cnblogs.com/csdbfans/p/3541044.html)
