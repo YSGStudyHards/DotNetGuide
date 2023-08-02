@@ -27,15 +27,13 @@
 * [🏷️高质量学习资料和教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
-* [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
-* [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
+* [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
 * [📺C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
-* [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
@@ -61,6 +59,8 @@
 * [🔋Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 * [🔋Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
 * [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
+* [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
+* [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [📚2023年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
@@ -237,9 +237,8 @@
 
 
 ## 🛠️数据结构
-> * 数据结构是一种组织和存储数据的方式，它用于管理和操作数据的集合。数据结构可以定义为不同数据元素之间的关系，以及在存储和访问数据时使用的算法。它涉及到如何存储、组织和管理数据，以便能够高效地进行检索和操作。
-> * 常见的数据结构包括数组、链表、栈、队列、树和图等。每种数据结构都有其特定的优势和应用场景。例如，数组适用于索引访问和快速查找，链表适用于插入和删除操作频繁的情况，树适用于层次结构数据的表示和搜索，图适用于表示复杂的关系网络等。
-> * 选择合适的数据结构可以提高程序的效率和性能，因此在软件开发中，了解和掌握各种数据结构是非常重要的。数据结构是计算机科学的基础，它为开发者提供了一种组织和处理数据的框架，使得我们能够更好地理解和解决实际问题。
+> 数据结构是一种组织和存储数据的方式，它用于管理和操作数据的集合。数据结构可以定义为不同数据元素之间的关系，以及在存储和访问数据时使用的算法。它涉及到如何存储、组织和管理数据，以便能够高效地进行检索和操作。
+
 * [数据结构-维基百科](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [八种数据结构分类](https://zhuanlan.zhihu.com/p/547679051)
 * [数据结构知识点大汇总](https://zhuanlan.zhihu.com/p/356047870)
@@ -395,8 +394,8 @@
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
 * [Docker官方文档教程](https://docs.docker.com/)
 * [Docker中文社区](https://www.docker.org.cn/)
+* [Docker从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
-* [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
 * [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
@@ -468,6 +467,7 @@
 * [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
 
 ### Web前端优质资源和文章汇总
+* [适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
