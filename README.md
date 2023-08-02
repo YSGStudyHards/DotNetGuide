@@ -42,7 +42,7 @@
 * [🍉非关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-* [🛰️网络相关](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
+* [🛰️计算机网络](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
 * [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
 * [🧰DevOps&CI&CD](https://github.com/YSGStudyHards/DotNetGuide#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
@@ -368,12 +368,12 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## 🛰️网络相关
-* [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
+## 🛰️计算机网络
 * [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 * [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
 * [TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 * [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
+* [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
