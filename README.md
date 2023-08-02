@@ -24,7 +24,7 @@
 
 
 ## 🔍目录导航(善用Ctrl+F)
-* [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E4%BC%98%E8%B4%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
@@ -42,10 +42,10 @@
 * [🍉非关系型数据库](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-* [🛰️计算机网络](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
+* [🛰️计算机网络](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 * [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
 * [🧰DevOps&CI&CD](https://github.com/YSGStudyHards/DotNetGuide#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
-* [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
+* [🌍Web前端开发](https://github.com/YSGStudyHards/DotNetGuide#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
