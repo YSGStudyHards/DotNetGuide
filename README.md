@@ -24,7 +24,7 @@
 
 
 ## 🔍目录导航(善用Ctrl+F)
-* [🏷️高质量学习资料和教程收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
+* [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%92%8C%E6%95%99%E7%A8%8B%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
@@ -53,7 +53,7 @@
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
 
-## 🏷️高质量学习资料和教程收录栈
+## 🏷️优质学习资料收录栈
 * [🔋Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [🔋Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [🔋Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
@@ -439,7 +439,7 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## 🌍Web前端相关
+## 🌍Web前端开发
 ### Web前端自学&面试宝典
 * [Vue官网](https://v3.cn.vuejs.org/)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
