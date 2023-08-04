@@ -450,6 +450,7 @@
 * [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
 * [HTML/CSS菜鸟教程](https://www.runoob.com/)
+* [TypeScript使用教程](https://wangdoc.com/typescript/intro)
 
 ### Web前端常见面试题
 * [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
