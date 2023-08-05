@@ -322,8 +322,8 @@
 > 非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。指的是与传统关系型数据库（RDBMS）相对应的一类数据库管理系统。与关系型数据库不同的是非关系型数据库不使用传统的表格和行列结构来存储数据，而是采用更灵活的数据模型，例如键值对、文档、列族、图形等形式。
 
 ### NoSQL相关概念
-* [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
 * [非关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+* [常见的 NoSQL 数据库有哪些？](https://mp.weixin.qq.com/s/GUnXVSszDZ9vpPQG2BS3UA)
 
 ### Redis
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
