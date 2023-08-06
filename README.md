@@ -286,6 +286,7 @@
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL中文文档](https://www.mysqlzh.com/doc/124.html)
+* [图解图解MySQL](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3mysql)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 * [MySQL基础快速入门](https://mp.weixin.qq.com/s/tWGdh045_ayz07fYhDgakw)
@@ -327,8 +328,9 @@
 
 ### Redis
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
-* [Redis 设计与实现](http://redisbook.com/)
-* [Redis 命令参考](http://redisdoc.com/)
+* [Redis设计与实现](http://redisbook.com/)
+* [Redis命令参考](http://redisdoc.com/)
+* [图解Redis](https://github.com/MyBigKnowledgeBase/CS-Base#open_book-%E5%9B%BE%E8%A7%A3redis)
 * [Redis基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html#%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0)
 * [一天吃透Redis面试八股文](https://mp.weixin.qq.com/s/CiFSsOx_g9g-0PUGXDuvcQ)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
@@ -365,6 +367,7 @@
 ## 💻操作系统
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
+* [图解计算机操作系统](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F)
 * [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=13464543417132613798&spm_id_from=333.337.0.0)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -376,6 +379,7 @@
 * [TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 * [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
 * [计算机网络基础](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
+* [图解计算机网络](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%BD%91%E7%BB%9C)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -384,10 +388,10 @@
 ### Kubernetes（K8s）
 > Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
 
+* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 * [一文了解 Kubernetes](https://zhuanlan.zhihu.com/p/162928436)
 * [Kubernetes（K8S）是什么?](https://www.cnblogs.com/Can-daydayup/p/16706198.html)
 * [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
-* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 
 
 ### Docker
