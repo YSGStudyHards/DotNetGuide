@@ -34,7 +34,7 @@
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
 * [📺C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
-* [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
+* [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
@@ -221,11 +221,12 @@
 
 
 ## 🏗️C#/.NET/.NET Core优秀项目框架
-### [C#/.NET/.NET Core项目宝库](https://github.com/dotNetTreasury)
-🎁C#/.NET/.NET Core项目宝库(收集了大量优秀的C#、.NET、.NET Core项目和框架)
+### C#/.NET/.NET Core项目宝库
+**[🎁C#/.NET/.NET Core项目宝库(收集了大量优秀的C#、.NET、.NET Core项目和框架)](https://github.com/dotNetTreasury)**
 为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往原址Star💖。大家可以在该🏗️C#/.NET/.NET Core优秀项目和框架Issues中留下C#/.NET/.NET Core项目or框架，我会定期收录到项目宝库组织中。
 
-### [C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
+### C#/.NET/.NET Core优秀项目和框架
+**[C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
 为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址存到在这里，提供给广大.NET开发者们学习使用（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。
 
 
