@@ -2,7 +2,7 @@
 ## 前言
 > 注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：追逐时光者，第一时间获取每周精选分享资讯🔔）。
 
-每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
+每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。坑已挖，欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
 
 ## 项目分类(善用Ctrl+F)
 * 开源框架
@@ -11,15 +11,16 @@
   * 分布式框架
   * 微服务框架
   * .NET ORM框架
+  * 网络应用框架
  
 * 优质项目
-  * 商城项目系统（Shop）
-  * 后台&权限管理系统（Admin&RBAC）
-  * 仓库管理系统（WMS）
-  * 内容管理系统（CMS）
+  * 商城项目系统
+  * 后台&权限管理系统
+  * 仓库管理系统
+  * 内容管理系统
   * 配置中心系统
   * 任务调度系统
-  * 
+  * 分布式事务的解决方案
 
 * 实用工具 
   
@@ -42,20 +43,25 @@
 
 #### 微服务框架
 
+#### .NET ORM框架
+
+#### 网络应用框架
+
+
 ### 优质项目
-#### 商城项目系统（Shop）
+#### 商城项目系统
 | ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
 |:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
 | 1   | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://mp.weixin.qq.com/s/GMCIYwGUr4JkraeWIG-F0Q |
 
 #### 后台&权限管理系统（Admin&RBAC）
 
-#### 仓库管理系统（WMS）
+#### 仓库管理系统
 | ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
 |:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
 | 1   | [ModernWMS](https://github.com/fjykTec/ModernWMS) | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 | https://mp.weixin.qq.com/s/kUaYfuTVenzUK7TDC2vF2w |
 
-#### 内容管理系统（CMS）
+#### 内容管理系统
 
 #### 配置中心系统
 | ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
@@ -64,6 +70,8 @@
 
 #### 任务调度系统
 
+
+#### 分布式事务的解决方案
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -78,7 +86,7 @@
 | 6    | [1Remote](https://github.com/1Remote/1Remote)                            | 一款由.NET开源且免费的远程桌面管理软件                                                           | https://mp.weixin.qq.com/s/pZN_MdQu4TbBhfRUbol7KA |
 | 5    | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore)             | 一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库                                                   | https://mp.weixin.qq.com/s/1jeFEZ0-RKBKtxQPXBCfVA |
 | 4    | [Files](https://github.com/files-community/Files)                        | 一款.NET开源的、简洁、易用的Windows文件管理器                                                    | https://mp.weixin.qq.com/s/cZNuMo1qfdqMoo5mZRcziQ |
-| 3    | [GeekDesk](https://github.com/BookerLiu/GeekDesk)                        | 一款.NET开源的小巧、美观的桌面快速启动工具                                                         | https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg |
+| 3    | [GeekDesk](https://github.com/BookerLiu/GeekDesk)                        | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）                                                       | https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg |
 | 2    | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)       | 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁                                               |                                                   |
 | 1    | [SteamTools](https://github.com/BeyondDimension/SteamTools)              | 一个开源跨平台的多功能 Steam 工具箱                                                           |                                                   |
 
