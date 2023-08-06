@@ -229,11 +229,13 @@
 ### C#/.NET/.NET Core优秀项目和框架
 **[🏗️C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
 
-> 为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues留言地址，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址和描述提交到在这里，提供给广大.NET开发者们参考、学习和使用(注意：排名不分先后，都是十分优秀的开源框架和项目💖)。
+> 为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址和描述提交到在这里，提供给广大.NET开发者们参考、学习和使用，并且我会定期在公众号推广分享这些优秀项目和框架(注意：排名不分先后，都是十分优秀的开源框架和项目💖)。
 
 ### C#/.NET/.NET Core优秀项目和框架每周精选
 **[🔔C#/.NET/.NET Core优秀项目和框架每周精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md)**
-> 注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享。
+
+> 注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：追逐时光者，第一时间获取每周精选分享资讯🔔）。
+
 > 每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。这个资源合集提供了最新、最热门的C#、.NET和.NET Core项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
