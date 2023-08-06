@@ -82,7 +82,7 @@
 #### 仓库管理系统
 | ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
 |:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
-| 2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) | .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。 | https://github.com/lysilver/KopSoftWms |
+| 2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) | .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。 | https://mp.weixin.qq.com/s/k-6wU842gdPE0Zp1Wt6nxA |
 | 1   | [ModernWMS](https://github.com/fjykTec/ModernWMS) | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 | https://mp.weixin.qq.com/s/kUaYfuTVenzUK7TDC2vF2w |
 
 #### 内容管理系统
