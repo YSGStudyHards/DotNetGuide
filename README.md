@@ -223,14 +223,20 @@
 ## 🏗️C#/.NET/.NET Core优秀项目框架
 ### C#/.NET/.NET Core项目宝库
 **[🎁C#/.NET/.NET Core项目宝库(收集了大量优秀的C#、.NET、.NET Core项目和框架)](https://github.com/dotNetTreasury)**
->为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往项目原址Star💖。大家可以在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录到项目宝库组织中。
+
+为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往项目原址Star💖。大家可以在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录到项目宝库组织中。
 
 ### C#/.NET/.NET Core优秀项目和框架
 **[🏗️C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
->为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址存到在这里，提供给广大.NET开发者们学习使用（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。
+> 注意：排名不分先后，都是十分优秀的开源框架和项目💖。
+
+为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址存到在这里，提供给广大.NET开发者们学习使用。
 
 ### C#/.NET/.NET Core优秀项目和框架每周精选
->每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。这个资源合集提供了最新、最热门的C#、.NET和.NET Core项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
+**[🔔C#/.NET/.NET Core优秀项目和框架每周精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md)**
+> 注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享。
+
+每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。这个资源合集提供了最新、最热门的C#、.NET和.NET Core项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
