@@ -226,13 +226,15 @@
 >为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往原址Star💖。大家可以在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留下C#/.NET/.NET Core项目or框架，我会定期收录到项目宝库组织中。
 
 ### C#/.NET/.NET Core优秀项目和框架
-**[C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
+**[🏗️C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
 >为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址存到在这里，提供给广大.NET开发者们学习使用（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。
 
-
+### C#/.NET/.NET Core优秀项目和框架每周精选
+>每周精选会挑选出一些在功能、性能、创新性或易用性方面表现出色的项目和框架，并进行简单介绍。这个资源合集可以帮助开发者了解到一些最新和最热门的C#、.NET和.NET Core项目，以及一些具有实用价值和技术价值的框架。无论是想要寻找灵感、学习新技术、改进代码质量，还是拓展自己的技术视野，每周精选都能提供有价值的参考和指导。通过关注每周精选，开发者可以及时了解到C#、.NET和.NET Core领域的前沿动态和最佳实践。这些精选项目和框架的介绍将帮助开发者更好地选择适合自己项目的工具和技术，提高开发效率和质量。
 
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
 
 ## 🧱设计模式
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
