@@ -21,6 +21,7 @@
   * 配置中心系统
   * 任务调度系统
   * 分布式事务的解决方案
+  * C#微信相关项目
 
 * 实用工具 
   
@@ -33,19 +34,25 @@
 | 1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://github.com/dotnet/aspnetcore |
 
 #### Web应用框架
+| ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
+|:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
+| 1  | [ABP Framework](https://github.com/abpframework/abp) | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 | https://docs.abp.io/zh-Hans/abp/latest/ |
+
 
 #### 分布式框架
 | ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
 |:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
 | 1  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://mp.weixin.qq.com/s/LXR7cZBsZFpuzgKpSQP4pQ |
 
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
 #### 微服务框架
+
 
 #### .NET ORM框架
 
 #### 网络应用框架
+
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
 ### 优质项目
@@ -86,6 +93,11 @@
 |:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
 | 1   | [CAP](https://github.com/dotnetcore/CAP) | CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。 | https://github.com/dotnetcore/CAP |
 
+#### C#微信相关项目
+| ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
+|:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
+| 2   | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 | https://github.com/JeffreySu/WeiXinMPSDK |
+| 1   | [DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) | 全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
