@@ -45,11 +45,24 @@
 | 1  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://mp.weixin.qq.com/s/LXR7cZBsZFpuzgKpSQP4pQ |
 
 #### 微服务框架
-
+| ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
+|:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
+| 2  | [Surging](https://github.com/fanliang11/surging) | surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，RPC可以选择采用netty或thrift框架，采用异步非阻塞传输。 | https://github.com/fanliang11/surging |
+| 1  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot 是一个 .NET API 网关。该项目面向使用 .NET 运行微服务/面向服务架构的人，他们需要一个统一的入口点进入他们的系统。但是，它适用于任何使用 HTTP 的内容并在 ASP.NET Core 支持的任何平台上运行。 | https://github.com/ThreeMammals/Ocelot |
 
 #### .NET ORM框架
+| ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
+|:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
+| 4  | [SqlSugar](https://github.com/donet5/SqlSugar) |SqlSugar是一款老牌 .NET 开源ORM框架，支持.NET CORE 和 MySql、SqlServer、Sqlite、Oracle 、 postgresql 、达梦、人大金仓 数据库，具有EF NH的功能，比EF更人性化的语法，支持真实的批量操作，另外还有媲美Dapper的性能。 |https://www.donet5.com/ |
+| 3  | [FreeSql](https://github.com/dotnetcore/FreeSql) |FreeSql 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 | https://freesql.net/|
+| 2  | [Dapper](https://github.com/DapperLib/Dapper) | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 | https://github.com/DapperLib/Dapper |
+| 1  | [EF/EF Core](https://github.com/dotnet/efcore) | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+
 
 #### 网络应用框架
+| ✍   | 项目名称和地址                                                    | 项目简介                                                        | 项目详细介绍                                            |
+|:---:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------:|
+| 1  | [DotNetty](https://github.com/Azure/DotNetty) | DotNetty是Netty的移植版，它是一个异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端。 | https://github.com/Azure/DotNetty |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
