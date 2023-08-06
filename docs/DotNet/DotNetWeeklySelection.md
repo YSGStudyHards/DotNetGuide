@@ -87,8 +87,8 @@
 | 5    | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore)             | 一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库                                                   | https://mp.weixin.qq.com/s/1jeFEZ0-RKBKtxQPXBCfVA |
 | 4    | [Files](https://github.com/files-community/Files)                        | 一款.NET开源的、简洁、易用的Windows文件管理器                                                    | https://mp.weixin.qq.com/s/cZNuMo1qfdqMoo5mZRcziQ |
 | 3    | [GeekDesk](https://github.com/BookerLiu/GeekDesk)                        | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）                                                       | https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg |
-| 2    | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)       | 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁                                               |                                                   |
-| 1    | [SteamTools](https://github.com/BeyondDimension/SteamTools)              | 一个开源跨平台的多功能 Steam 工具箱                                                           |                                                   |
+| 2    | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)       | 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁                                               |                                               https://github.com/huiyadanli/RevokeMsgPatcher    |
+| 1    | [SteamTools](https://github.com/BeyondDimension/SteamTools)              | 一个开源跨平台的多功能 Steam 工具箱                                                           |                                               https://github.com/BeyondDimension/SteamTools    |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
