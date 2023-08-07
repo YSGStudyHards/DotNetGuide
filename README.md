@@ -222,12 +222,12 @@
 
 ## 🏗️C#/.NET/.NET Core优秀项目框架
 ### C#/.NET/.NET Core项目宝库
-**[🎁C#/.NET/.NET Core项目宝库(收集了大量优秀的C#、.NET、.NET Core项目和框架)](https://github.com/dotNetTreasury)**
+**[🎁C#/.NET/.NET Core项目宝库组织](https://github.com/dotNetTreasury)**
 
 > 为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往项目原址Star💖。大家可以在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录到项目宝库组织中。
 
 ### C#/.NET/.NET Core优秀项目和框架
-**[🏗️C#/.NET/.NET Core优秀项目和框架](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
+**[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
 
 > 为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址和描述提交到在这里，提供给广大.NET开发者们参考、学习和使用，并且我会定期在公众号推广分享这些优秀项目和框架（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。
 
