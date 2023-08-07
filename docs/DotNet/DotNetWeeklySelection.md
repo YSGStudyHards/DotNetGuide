@@ -4,6 +4,11 @@
 
 每周精选优秀的C#/.NET/.NET Core项目和框架，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的项目和框架。无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，每周精选都会为你提供有价值的参考和指导。关注每周精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。坑已挖，欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录分享🤞。
 
+* [📈C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
+* [🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
+* [🔔C#/.NET/.NET Core优秀项目和框架每周精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md)
+* [🎁C#/.NET/.NET Core项目宝库(收集了大量优秀的C#、.NET、.NET Core项目和框架)](https://github.com/dotNetTreasury)
+
 ## 项目分类(善用Ctrl+F)
 * 开源框架
   * 开源和跨平台框架
