@@ -438,3 +438,9 @@ static void CountChar(string str)
        }  
     }  
 ```
+
+# 参考文章
+* [C#常见算法面试](https://blog.csdn.net/taoerchun/article/details/51693960)
+* [C#经典算法面试题](https://blog.csdn.net/qq_43562262/article/details/110634559)
+
+
