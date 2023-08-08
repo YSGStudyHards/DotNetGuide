@@ -61,7 +61,6 @@
 * [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
-* [👓.NET应用程序体系结构指南](https://dotnet.microsoft.com/zh-cn/learn/dotnet/architecture-guides)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [📚2023年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
