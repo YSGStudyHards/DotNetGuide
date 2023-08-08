@@ -61,6 +61,7 @@
 * [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
+* [👓.NET应用程序体系结构指南](https://dotnet.microsoft.com/zh-cn/learn/dotnet/architecture-guides)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [📚2023年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
@@ -399,6 +400,7 @@
 * [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
 * [计算机网络基础](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
 * [图解计算机网络](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%BD%91%E7%BB%9C)
+* [学习网络技术的方法和路径](https://mp.weixin.qq.com/s/XY3TPLnr3bNIij_f3e7W1g)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
