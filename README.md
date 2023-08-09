@@ -89,7 +89,8 @@
 ### GitHub
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
-* [五分钟教你使用GitHub寻找优质项目](https://mp.weixin.qq.com/s/JDF891QrJ-5o1ozurpR84Q)
+* [如何给Github上的开源项目提交PR?](https://mp.weixin.qq.com/s/YJwW9AFPoEKuU_MXqL_Pcg)
+* [五分钟教你使用GitHub寻找优质项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
