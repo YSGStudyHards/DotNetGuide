@@ -75,12 +75,14 @@
 
 ## 🏹编程效率提升技巧集
 ### Visual Studio
+* Visual Studio实用插件
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
 ### Visual Studio Code
+* VS Code实用插件
 * VS Code常用快捷键
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 
