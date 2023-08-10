@@ -84,7 +84,7 @@
 #### 后台&权限管理系统（Admin&RBAC）
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |            项目详细介绍             |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
-|  1   | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【 .NET Core6.0 Api + Vue 2.x + RBAC】权限框架。 | https://github.com/anjoy8/Blog.Core |
+|  1   | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【 .NET Core6.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
 
 #### 仓库管理系统
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                   项目详细介绍                    |
