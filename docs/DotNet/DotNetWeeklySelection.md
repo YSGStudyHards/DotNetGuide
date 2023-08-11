@@ -87,6 +87,7 @@
 #### 网络应用通信框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  3  | [SignalR](https://github.com/SignalR/SignalR) | SignalR 是一个实时网络通信框架，可以进行服务器到客户端和客户端到客户端的双向通信。它支持 WebSocket、Server-Sent Events 和 Long Polling 等传输协议，适用于实时聊天、实时推送等场景。 | https://learn.microsoft.com/zh-cn/aspnet/core/signalr/introduction?view=aspnetcore-7.0 |
 |  2   | [TouchSocket](https://github.com/RRQM/TouchSocket) | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。 | https://rrqm_home.gitee.io/touchsocket/ |
 |  1   | [DotNetty](https://github.com/Azure/DotNetty) | DotNetty是Netty的移植版，它是一个异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端。 | https://github.com/Azure/DotNetty |
 
