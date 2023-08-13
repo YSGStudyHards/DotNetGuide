@@ -283,9 +283,7 @@
 ### C#常见逻辑算法
 * [C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
 * [C#选择排序算法](https://mp.weixin.qq.com/s/B1QdqyP8HQgOv8tlSujtog)
-* C#快速排序算法
-  * [C#快速排序算法基础入门篇](https://www.cnblogs.com/csdbfans/p/3541044.html)
-  * [C#排序算法之快速排序](https://www.jianshu.com/p/db020fa7130a)
+* [C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
 * [C#递归排序算法](https://blog.51cto.com/tonyqus/1154618)
 * [C#二分查找算法](https://lovejy.blog.csdn.net/article/details/81844237?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase)
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
