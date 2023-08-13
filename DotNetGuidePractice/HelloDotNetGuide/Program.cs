@@ -9,12 +9,17 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
-            冒泡排序算法.RecursiveBubbleSortRun();
+            #region 常见算法
 
-            #region 技能点 
-
+            快速排序算法.QuickSortRun();
+            //冒泡排序算法.RecursiveBubbleSortRun();
             //List集合相关算法.GetAfterRemoveListData();
             //选择排序算法.SelectionSortAlgorithmMain();
+
+            #endregion
+
+            #region 数组相关
+
             //ArrayDeduplication.LoopTraversalDuplicate();
 
             #endregion
