@@ -286,6 +286,8 @@
 * [C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
 * [C#递归排序算法](https://blog.51cto.com/tonyqus/1154618)
 * [C#二分查找算法](https://lovejy.blog.csdn.net/article/details/81844237?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.opensearchhbase)
+* C#插入排序算法
+* C#计数排序算法
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
