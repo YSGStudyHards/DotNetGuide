@@ -83,7 +83,7 @@
 
 ### Visual Studio Code
 * VS Code实用插件
-* VS Code常用快捷键
+* [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 
 ### GitHub
