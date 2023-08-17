@@ -12,8 +12,8 @@
 
 ## 2023年
 ### 7月
-#### 1.GeekDesk
-项目简介：一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。
-项目源码地址：https://github.com/BookerLiu/GeekDesk
-公众号推广地址：https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg
+#### 1、GeekDesk
+* 项目简介：一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。
+* 项目源码地址：https://github.com/BookerLiu/GeekDesk
+* 公众号推广地址：https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg
 
