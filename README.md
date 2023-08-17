@@ -253,7 +253,7 @@
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
 * [免费在线学习代码重构和设计模式](https://refactoringguru.cn/)
 * [C#常见的23种设计模式（含源码）圣杰](https://github.com/sheng-jie/Design-Pattern)
-* [23种面向对象设计模式示例代码（C#实现,含源码，EdisonChou）](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
+* [23种面向对象设计模式示例代码（C#实现）Edison Zhou](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
