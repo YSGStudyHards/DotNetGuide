@@ -12,6 +12,11 @@
 
 ## 2023年
 ### 7月
+#### NewLife.Stardust
+* 项目简介：一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。
+* 项目源码地址：https://github.com/NewLifeX/Stardust
+* 公众号详细介绍：https://mp.weixin.qq.com/s/LXR7cZBsZFpuzgKpSQP4pQ
+
 #### 	nopCommerce
 * 项目简介：一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力)
 * 项目源码地址： https://github.com/nopSolutions/nopCommerce
