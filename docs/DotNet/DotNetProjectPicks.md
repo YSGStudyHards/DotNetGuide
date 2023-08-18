@@ -67,7 +67,7 @@
 |  ✍   |                      项目名称和地址                      |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 |   2  | [orleans](https://github.com/dotnet/orleans) | Orleans 是一个用于构建稳健、可扩展的分布式应用程序的跨平台框架。它是由微软研究院开发的开源项目，旨在简化分布式系统的开发过程（Orleans 提供了一种编程模型，使开发人员可以使用面向对象的方式来构建分布式应用程序）。 | https://github.com/dotnet/orleans |
-|  1   | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | (https://github.com/NewLifeX/Stardust |
+|  1   | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://github.com/NewLifeX/Stardust |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -110,7 +110,7 @@
 #### 商城项目系统
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  1   | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://mp.weixin.qq.com/s/GMCIYwGUr4JkraeWIG-F0Q |
+|  1   | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
