@@ -11,6 +11,33 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 ## 2023年
+### 8月
+#### SSCMS
+* 项目简介：一款基于.NET Core开源、企业级、可商用、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的内容管理系统。
+* 项目源码地址：https://github.com/siteserver/cms
+* 公众号详细介绍：https://mp.weixin.qq.com/s/J02PQGT3O_NkpmFTMWXzyA
+
+#### Blog.Core
+* 项目简介：一个开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架（提高生产效率，快速开发就选它）。
+* 项目源码地址：https://github.com/anjoy8/Blog.Core
+* 公众号详细介绍：https://mp.weixin.qq.com/s/mnYJLRRroDRgmInjkpwtQg
+
+#### GeekDesk
+* 项目简介：一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。
+* 项目源码地址： https://github.com/BookerLiu/GeekDesk
+* 公众号详细介绍： https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg
+
+#### AgileConfig
+* 项目简介： AgileConfig基于.NET Core开发的轻量级分布式配置中心，秉承轻量化的特点，部署简单、配置简单、使用简单、学习简单，它只提取了必要的一些功能，并没有像Apollo那样复杂且庞大。
+* 项目源码地址： https://github.com/dotnetcore/AgileConfig
+* 公众号详细介绍：https://mp.weixin.qq.com/s/sYDtlS_ImXWDTTKD30GLxg
+
+#### KopSoftWms
+* 项目简介：.NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。
+* 项目源码地址： https://github.com/lysilver/KopSoftWms
+* 公众号详细介绍：https://mp.weixin.qq.com/s/k-6wU842gdPE0Zp1Wt6nxA
+
+
 ### 7月
 #### NewLife.Stardust
 * 项目简介：一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。
@@ -22,20 +49,10 @@
 * 项目源码地址： https://github.com/nopSolutions/nopCommerce
 * 公众号详细介绍：https://mp.weixin.qq.com/s/GMCIYwGUr4JkraeWIG-F0Q
 
-#### KopSoftWms
-* 项目简介：.NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。
-* 项目源码地址： https://github.com/lysilver/KopSoftWms
-* 公众号详细介绍：https://mp.weixin.qq.com/s/k-6wU842gdPE0Zp1Wt6nxA
-
 #### ModernWMS
 * 项目简介：ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。
 * 项目源码地址： https://github.com/fjykTec/ModernWMS
 * 公众号详细介绍：https://mp.weixin.qq.com/s/kUaYfuTVenzUK7TDC2vF2w
-
-#### AgileConfig
-* 项目简介： AgileConfig基于.NET Core开发的轻量级分布式配置中心，秉承轻量化的特点，部署简单、配置简单、使用简单、学习简单，它只提取了必要的一些功能，并没有像Apollo那样复杂且庞大。
-* 项目源码地址： https://github.com/dotnetcore/AgileConfig
-* 公众号详细介绍：https://mp.weixin.qq.com/s/sYDtlS_ImXWDTTKD30GLxg
 
 #### SmartSQL
 * 项目简介：一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。
@@ -72,8 +89,4 @@
 * 项目源码地址： https://github.com/files-community/Files
 * 公众号详细介绍：https://mp.weixin.qq.com/s/cZNuMo1qfdqMoo5mZRcziQ
 
-#### GeekDesk
-* 项目简介：一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。
-* 项目源码地址： https://github.com/BookerLiu/GeekDesk
-* 公众号详细介绍： https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg
 
