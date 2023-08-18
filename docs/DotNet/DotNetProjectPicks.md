@@ -122,8 +122,8 @@
 #### 仓库管理系统
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。    | https://mp.weixin.qq.com/s/k-6wU842gdPE0Zp1Wt6nxA |
-|  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 | https://mp.weixin.qq.com/s/kUaYfuTVenzUK7TDC2vF2w |
+|  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
+|  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -141,7 +141,7 @@
 #### 配置中心系统
 |  ✍   |                      项目名称和地址                      |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  1   | [AgileConfig](https://github.com/dotnetcore/AgileConfig) | AgileConfig基于.NET Core开发的轻量级分布式配置中心，秉承轻量化的特点，部署简单、配置简单、使用简单、学习简单，它只提取了必要的一些功能，并没有像Apollo那样复杂且庞大。 | https://mp.weixin.qq.com/s/sYDtlS_ImXWDTTKD30GLxg |
+|  1   | [AgileConfig](https://github.com/dotnetcore/AgileConfig) | AgileConfig基于.NET Core开发的轻量级分布式配置中心，秉承轻量化的特点，部署简单、配置简单、使用简单、学习简单，它只提取了必要的一些功能，并没有像Apollo那样复杂且庞大。 | https://github.com/dotnetcore/AgileConfig |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeeklySelection.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -169,14 +169,14 @@
 ### 实用工具
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  10  |      [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)      | 一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具 | https://mp.weixin.qq.com/s/ZKzGnqAHM07SMMQyp7TmWQ |
-|  9   | [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) | 一款.NET开源跨平台的开箱即用的DNS服务器软件（用于提供 DNS 解析服务） | https://mp.weixin.qq.com/s/CQNaozz0njcrjfENCz5thg |
-|  8   |  [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器 | https://mp.weixin.qq.com/s/dj_EMNDCIo4s5nljzrNvww |
-|  7   |    [FastGithub](https://github.com/dotnetcore/FastGithub)    | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题 | https://mp.weixin.qq.com/s/v44O6vUT0pKmmbuq-W1vAQ |
-|  6   |        [1Remote](https://github.com/1Remote/1Remote)         |            一款由.NET开源且免费的远程桌面管理软件            | https://mp.weixin.qq.com/s/pZN_MdQu4TbBhfRUbol7KA |
-|  5   | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |   一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库   | https://mp.weixin.qq.com/s/1jeFEZ0-RKBKtxQPXBCfVA |
-|  4   |      [Files](https://github.com/files-community/Files)       |        一款.NET开源的、简洁、易用的Windows文件管理器         | https://mp.weixin.qq.com/s/cZNuMo1qfdqMoo5mZRcziQ |
-|  3   |      [GeekDesk](https://github.com/BookerLiu/GeekDesk)       | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面） | https://mp.weixin.qq.com/s/sJ4wWm9yf9y_Y_qyOIZUBg |
+|  10  |      [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)      | 一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具 | https://gitee.com/dotnetchina/SmartSQL |
+|  9   | [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) | 一款.NET开源跨平台的开箱即用的DNS服务器软件（用于提供 DNS 解析服务） | https://github.com/TechnitiumSoftware/DnsServer |
+|  8   |  [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器 | https://github.com/NickeManarin/ScreenToGif |
+|  7   |    [FastGithub](https://github.com/dotnetcore/FastGithub)    | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题 | https://github.com/dotnetcore/FastGithub |
+|  6   |        [1Remote](https://github.com/1Remote/1Remote)         |            一款由.NET开源且免费的远程桌面管理软件            | https://github.com/1Remote/1Remote |
+|  5   | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |   一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库   | https://github.com/ViewFaceCore/ViewFaceCore |
+|  4   |      [Files](https://github.com/files-community/Files)       |        一款.NET开源的、简洁、易用的Windows文件管理器         | https://github.com/files-community/Files |
+|  3   |      [GeekDesk](https://github.com/BookerLiu/GeekDesk)       | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面） | https://github.com/BookerLiu/GeekDesk |
 |  2   | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) |        适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁        |  https://github.com/huiyadanli/RevokeMsgPatcher   |
 |  1   | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |             一个开源跨平台的多功能 Steam 工具箱              |   https://github.com/BeyondDimension/SteamTools   |
 
