@@ -22,34 +22,34 @@
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
 
-* [开源项目]()
-  * 商城项目系统（Shop）
-  * 后台&权限管理系统（Admin&RBAC）
-  * 仓库管理系统（WMS）
-  * 内容管理系统（CMS）
-  * 客户关系管理系统（CRM）
-  * 企业资源计划系统（ERP）
-  * 配置中心系统（CCS）
-  * 任务调度系统（Scheduler）
-  * 分布式事务解决方案
+* [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+  * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
+  * [后台&权限管理系统（Admin&RBAC）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbac)
+  * [仓库管理系统（WMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fwms)
+  * [内容管理系统（CMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcms)
+  * [客户关系管理系统（CRM）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%A2%E6%88%B7%E5%85%B3%E7%B3%BB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcrm)
+  * [企业资源计划系统（ERP）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BC%81%E4%B8%9A%E8%B5%84%E6%BA%90%E8%AE%A1%E5%88%92%E7%B3%BB%E7%BB%9Ferp)
+  * [配置中心系统（CCS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%B3%BB%E7%BB%9Fccs)
+  * [任务调度系统（Scheduler）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9Fscheduler)
+  * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
-* 实用工具
-  * 桌面管理工具
-  * 文件管理工具
-  * 远程连接工具
-  * 数据管理工具
-  * 实用桌面工具箱
-  * DNS服务器工具
-  * 录屏和GIF制作工具
-  * GitHub加速工具
-  * 其他工具
+* [实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
+  * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [远程连接工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
+  * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [实用桌面工具箱](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7%E7%AE%B1)
+  * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
+  * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
+  * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
+  * [其他工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7)
 
-* 实用SDK&类库
-  * C#版微信SDK
-  * C#实用工具类库
-  * C#人脸识别库
-  * C#FFmpeg封装库
-  * 高精度数值计算库
+* [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
+  * [C#版微信SDK](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E7%89%88%E5%BE%AE%E4%BF%A1sdk)
+  * [C#实用工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
+  * [C#人脸识别库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%BA%93)
+  * [C#FFmpeg封装库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#cffmpeg%E5%B0%81%E8%A3%85%E5%BA%93)
+  * [高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
   
 
 ## 项目列表
