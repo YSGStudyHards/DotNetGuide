@@ -12,17 +12,17 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 ## 项目分类(善用Ctrl+F)
-* 开源框架
-  * Web应用框架
-  * 桌面应用框架
-  * 分布式框架
-  * 微服务框架
-  * .NET ORM框架
-  * 网络应用通信框架
-  * 系统日志框架
-  * 深度学习框架
+* [开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
+  * [Web应用框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#web%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
+  * [桌面应用框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
+  * [分布式框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E6%A1%86%E6%9E%B6)
+  * [微服务框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6)
+  * [.NET ORM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-orm%E6%A1%86%E6%9E%B6)
+  * [网络应用通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
+  * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
+  * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
 
-* 开源项目
+* [开源项目]()
   * 商城项目系统（Shop）
   * 后台&权限管理系统（Admin&RBAC）
   * 仓库管理系统（WMS）
