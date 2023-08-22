@@ -33,7 +33,7 @@
   * [任务调度系统（Scheduler）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9Fscheduler)
   * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 
-* [实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
+* [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
   * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [远程连接工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
@@ -42,7 +42,8 @@
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
   * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
-  * [其他工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7)
+  * [桌宠软件]()
+  * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
   * [C#版微信SDK](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E7%89%88%E5%BE%AE%E4%BF%A1sdk)
@@ -250,7 +251,7 @@
 
 
 
-### 实用工具
+### 实用工具&软件
 #### 桌面管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -332,9 +333,28 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
-#### 其他工具
+#### 桌宠软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
+
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+#### 其他工具&软件
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  12  |  |  |  |
+|  11  |  |  |  |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) |        适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。        |  https://github.com/huiyadanli/RevokeMsgPatcher   |
