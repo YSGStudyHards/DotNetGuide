@@ -11,7 +11,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            快速排序算法.QuickSortRun();
+            插入排序算法.InsertionSortRun();
+            //快速排序算法.QuickSortRun();
             //冒泡排序算法.RecursiveBubbleSortRun();
             //List集合相关算法.GetAfterRemoveListData();
             //选择排序算法.SelectionSortAlgorithmMain();
