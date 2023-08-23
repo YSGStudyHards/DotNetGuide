@@ -285,7 +285,7 @@
 * C#经典十大排序算法
   * [C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
   * [C#选择排序算法](https://mp.weixin.qq.com/s/B1QdqyP8HQgOv8tlSujtog)
-  * C#插入排序算法
+  * [C#插入排序算法](https://mp.weixin.qq.com/s/YEregZ_GOGgEltGUJadycw)
   * C#希尔排序算法
   * C#归并排序算法
   * [C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
