@@ -76,6 +76,8 @@
 
 ## 🏹编程效率提升技巧集
 ### Visual Studio
+* [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
+* [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
 * Visual Studio实用插件
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
@@ -83,6 +85,7 @@
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
 ### Visual Studio Code
+* [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
