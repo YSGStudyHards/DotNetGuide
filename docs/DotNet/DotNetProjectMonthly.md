@@ -2,7 +2,7 @@
 ![优秀项目和框架公众号月刊图](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2336784/o_230817142917_%E6%AF%8F%E6%9C%88%E7%AE%80%E6%8A%A5.png "优秀项目和框架公众号月刊图")
 
 ## 前言
-公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周公众号至少保证推荐两个优秀的项目和框架当然节假日除外），公众号推文有项目和框架的介绍、功能特点以及部分截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：**追逐时光者**，第一时间获取每周精选分享资讯🔔）。
+公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（公众号每周至少推荐两个优秀的项目和框架当然节假日除外），公众号推文有项目和框架的介绍、功能特点以及部分截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：**追逐时光者**，第一时间获取每周精选分享资讯🔔）。
 
 * [📈C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [🎁C#/.NET/.NET Core项目宝库组织](https://github.com/dotNetTreasury)
@@ -11,7 +11,24 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 ## 2023年
+### 9月
+
 ### 8月
+#### FreeIM
+* 项目简介：一个.NET Core WebSocket实现简易、高性能、集群即时通讯组件。
+* 项目源码地址：https://github.com/2881099/FreeIM
+* 公众号详细介绍：https://mp.weixin.qq.com/s/tm1FJb7GhDWOJqY9dAZbCQ
+
+#### DotNetCore.SKIT.FlurlHttpClient.Wechat
+* 项目简介：可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。
+* 项目源码地址：https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat
+* 公众号详细介绍：https://mp.weixin.qq.com/s/ifSqskAgMMiSGtEzygm1Ig
+
+#### VPet
+* 项目简介：一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件，可以内置到任何WPF应用程序。
+* 项目源码地址：https://github.com/LorisYounger/VPet
+* 公众号详细介绍：https://mp.weixin.qq.com/s/sFwxLTeXKieZ57-GZ87Vlg
+
 #### SSCMS
 * 项目简介：一款基于.NET Core开源、企业级、可商用、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的内容管理系统。
 * 项目源码地址：https://github.com/siteserver/cms
