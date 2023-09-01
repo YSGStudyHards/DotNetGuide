@@ -82,6 +82,7 @@
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
+* [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
 ### Visual Studio Code
