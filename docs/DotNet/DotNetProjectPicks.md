@@ -52,7 +52,7 @@
   * [C#人脸识别库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%BA%93)
   * [C#FFmpeg封装库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#cffmpeg%E5%B0%81%E8%A3%85%E5%BA%93)
   * [高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
-  * [第三方登录整合库]()
+  * [第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
   
 
 ## 项目列表
