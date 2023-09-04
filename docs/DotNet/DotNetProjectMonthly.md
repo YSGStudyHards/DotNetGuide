@@ -12,6 +12,15 @@
 
 ## 2023年
 ### 9月
+#### 
+* 项目简介：
+* 项目源码地址：
+* 公众号详细介绍：
+
+#### CollectiveOAuth
+* 项目简介：.Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。
+* 项目源码地址：https://gitee.com/rthinking/CollectiveOAuth
+* 公众号详细介绍：https://mp.weixin.qq.com/s/SrZ5hWKU2aIScPwQIUSQdw
 
 ### 8月
 #### FreeIM
