@@ -53,7 +53,7 @@
   * [C#FFmpeg封装库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#cffmpeg%E5%B0%81%E8%A3%85%E5%BA%93)
   * [高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
   * [第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
-  * [UI自动化库]()
+  * [UI自动化库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#ui%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BA%93)
   
 
 ## 项目列表
@@ -244,8 +244,9 @@
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
+|  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
 |  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
 |  1  |  [Hangfire](https://github.com/HangfireIO/Hangfire)  | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
 
