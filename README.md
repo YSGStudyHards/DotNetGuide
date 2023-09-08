@@ -572,6 +572,7 @@
 | resume：在线简历生成器。|[https://github.com/visiky/resume](https://github.com/visiky/resume)|
 | Markdown-Resume-Template：BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。|[https://github.com/youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)|
 | Resume-template-for-Coder：适合程序员的简历模板。|[https://github.com/byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder)|
+| 冷熊简历：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。| [http://cv.ftqq.com/?fr=github](http://cv.ftqq.com/?fr=github) |
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
