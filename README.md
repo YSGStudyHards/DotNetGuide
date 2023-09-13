@@ -96,6 +96,7 @@
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
 * [如何给Github上的开源项目提交PR?](https://mp.weixin.qq.com/s/YJwW9AFPoEKuU_MXqL_Pcg)
 * [五分钟教你使用GitHub寻找优质项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
+* [我找回了我喜欢的Github Old Feed](https://mp.weixin.qq.com/s/liXDb4MGXlSrAryRDSkcbw)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
@@ -315,6 +316,7 @@
 * [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
 * [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+* [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
@@ -375,7 +377,7 @@
 * [MongoDB中文社区](https://mongoing.com/)
 * [MongoDB官方手册](https://docs.mongodb.com/manual/)
 * [MongoDB高频面试题](https://mongoing.com/archives/docs/mongodb%e5%88%9d%e5%ad%a6%e8%80%85%e6%95%99%e7%a8%8b/mongodb%e9%ab%98%e9%a2%91%e9%9d%a2%e8%af%95%e9%a2%98)
-* [95道MongoDB面试题详解](https://developer.aliyun.com/article/764824)
+* [95道MongoDB面试题详解](https://mp.weixin.qq.com/s/k_yMMFsCALxS6TELc8wYNA)
 * [MongoDB从入门到实战之MongoDB简介](https://www.cnblogs.com/Can-daydayup/p/16797608.html)
 * [MongoDB从入门到实战之MongoDB快速入门](https://www.cnblogs.com/Can-daydayup/p/16804415.html)
 * [MongoDB从入门到实战之Docker快速安装MongoDB](https://www.cnblogs.com/Can-daydayup/p/16838976.html)
