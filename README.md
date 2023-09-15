@@ -91,6 +91,9 @@
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 
+### AI辅助编程工具
+* [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
+
 ### GitHub
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
