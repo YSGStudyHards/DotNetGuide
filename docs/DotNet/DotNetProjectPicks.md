@@ -62,7 +62,7 @@
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                      项目详细介绍（文档、文章、源码地址）                      |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | http://furion.baiqian.ltd/docs/ |
 |  3   | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
 |  2   | [MASA Framework](https://github.com/masastack/MASA.Framework) | . net下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
 |  1   | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
@@ -173,7 +173,7 @@
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
 |  4  | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) | YiShaAdmin 基于.NET Core Web开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单，所以我也把她开源了。 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api。 | https://github.com/liukuo362573/YiShaAdmin |
 |  3  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
 |  2  | [DncZeus](https://github.com/lampo1024/DncZeus) | DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。 | https://github.com/lampo1024/DncZeus |
