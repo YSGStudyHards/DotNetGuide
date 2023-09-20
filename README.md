@@ -368,6 +368,7 @@
 
 ### Redis
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
+* [Redis 全景解析](https://mp.weixin.qq.com/s/kRpdvtRajvs9DuDt7UHGpQ)
 * [Redis设计与实现](http://redisbook.com/)
 * [Redis命令参考](http://redisdoc.com/)
 * [图解Redis](https://github.com/MyBigKnowledgeBase/CS-Base#open_book-%E5%9B%BE%E8%A7%A3redis)
