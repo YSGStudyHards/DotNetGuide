@@ -367,11 +367,11 @@
 * [常见的 NoSQL 数据库有哪些？](https://mp.weixin.qq.com/s/GUnXVSszDZ9vpPQG2BS3UA)
 
 ### Redis
+* [Redis图解](https://github.com/MyBigKnowledgeBase/CS-Base#open_book-%E5%9B%BE%E8%A7%A3redis)
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
-* [Redis 全景解析](https://mp.weixin.qq.com/s/kRpdvtRajvs9DuDt7UHGpQ)
+* [Redis全景解析](https://mp.weixin.qq.com/s/kRpdvtRajvs9DuDt7UHGpQ)
 * [Redis设计与实现](http://redisbook.com/)
 * [Redis命令参考](http://redisdoc.com/)
-* [图解Redis](https://github.com/MyBigKnowledgeBase/CS-Base#open_book-%E5%9B%BE%E8%A7%A3redis)
 * [Redis基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html#%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0)
 * [一天吃透Redis面试八股文](https://mp.weixin.qq.com/s/CiFSsOx_g9g-0PUGXDuvcQ)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
