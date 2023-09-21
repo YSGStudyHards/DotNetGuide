@@ -55,6 +55,7 @@
   * [高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
   * [第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
   * [UI自动化库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#ui%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BA%93)
+  * [.NET二维码类库]()
   
 
 ## 项目列表
@@ -473,6 +474,18 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [FlaUI](https://github.com/FlaUI/FlaUI) | FlaUI是一个.Net的UI自动化库，用于自动化测试Windows应用程序（包括Win32、WinForms、WPF、Store Apps等）。它基于Microsoft的原生UI自动化库，并在其周围提供了一层封装。FlaUI几乎包含了UI自动化库中的所有功能，并在有特殊需求（目前尚未覆盖）的情况下提供了原生对象。 | https://github.com/FlaUI/FlaUI |
+
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+#### .NET二维码类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp是由Mono团队维护的开源项目，它是基于Google的Skia图形库的.NET跨平台绑定，提供了强大的2D图形绘制和处理功能，适用于多个平台，包括Windows、macOS、Linux、iOS和Android，可用于创建高性能的、可移植的2D图形应用程序。 | https://github.com/mono/SkiaSharp |
+|  2  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
+|  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
