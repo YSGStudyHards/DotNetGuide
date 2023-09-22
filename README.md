@@ -90,6 +90,8 @@
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
+* [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
+* [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
 
 ### AI辅助编程工具
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
@@ -151,7 +153,7 @@
 * [.NET Core使用NPOI将Excel中的数据批量导入到MySQL](https://www.cnblogs.com/Can-daydayup/p/12593165.html)
 
 ### .NET高级调试系列-WinDbg调试实战教程
-> 文章源于一线码农大佬，更多高级调试系列教程欢迎关于大佬的GitHub仓库[dotnetfly👉](https://github.com/ctripxchuang/dotnetfly)。
+> 文章源于一线码农大佬，更多高级调试系列教程欢迎关注大佬的GitHub仓库[dotnetfly👉](https://github.com/ctripxchuang/dotnetfly)。
 * 【2023年03月31日 周五】[记一次 .NET 某手术室行为信息系统 内存泄露分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496819&idx=1&sn=48c91cbbc6ecd7783aac2308cf89110c&chksm=a69b873e91ec0e287b0c4cdd3112956271360e78a5c1f6a7f03207299c1719de03f9effbc77d&token=1657656528&lang=zh_CN#rd)
 * 【2023年03月30日 周四】[记一次 .NET 某传感器采集系统 线程爆高分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496797&idx=1&sn=76c6a17a86b1333555ce278b91b8121b&chksm=a69b871091ec0e06f73e37a692448b605c7cd94a0a14290caff4b255b33d973dafbd3c4198c2&token=1657656528&lang=zh_CN#rd)
 * 【2023年03月26日 周日】[记一次.NET某企业ERP网站系统 崩溃分析](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247496710&idx=1&sn=2c2027c3020c0de6c9161920c4f9bb14&chksm=a69b874b91ec0e5d1ec0ed0b7124682944308f1c349851ad37e60f7fbbc156621f23a4f93ac5&token=143112780&lang=zh_CN#rd)
