@@ -90,8 +90,8 @@
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
-* [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
 * [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
+* [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
 
 ### AI辅助编程工具
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
