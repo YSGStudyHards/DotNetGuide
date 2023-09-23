@@ -434,7 +434,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen) | FFmpeg AutoGen是一个为C#/.NET和Core（Linux、MacOS和Mono）自动生成的不安全绑定库。它提供了与FFmpeg的接口对应的C#代码，使开发者能够在C#/.NET和Core平台上使用FFmpeg的功能。 | https://github.com/Ruslan-B/FFmpeg.AutoGen |
 |  3  | [FFMpegCore ](https://github.com/rosenbjerg/FFMpegCore)| 是一个基于 .NET Standard 的 FFmpeg 处理库。它提供了一个简单而直观的 API，使开发者能够在 .NET 应用程序中轻松使用 FFmpeg 进行媒体处理任务，如转码、剪辑、合并等。FFMpegCore 具有跨平台支持，可以在 Windows、Linux 和 macOS 等操作系统上运行。 | https://github.com/rosenbjerg/FFMpegCore |
 |  2  | [Xabe.FFmpeg ](https://github.com/tomaszzmuda/Xabe.FFmpeg)| FFmpeg 的.NET 标准包装器。它允许在不了解 FFmpeg 工作原理的情况下处理媒体，并可用于从 dotnet 核心应用程序向 FFmpeg 传递自定义参数。 | https://github.com/tomaszzmuda/Xabe.FFmpeg |
 |  1  | [Sdcb.FFmpeg ](https://github.com/sdcb/Sdcb.FFmpeg)| FFmpeg开源C#封装库。 | https://www.cnblogs.com/sdflysha/p/dotnet-conf-china-2022-ffmpeg.html |
