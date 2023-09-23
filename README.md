@@ -520,6 +520,7 @@
 
 ### Web前端优质资源和文章汇总
 * [适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
+* [开源实用的大屏数据展示模板](https://mp.weixin.qq.com/s/Aky1uQe3FnSlEy3YwjEWTw)
 * [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
