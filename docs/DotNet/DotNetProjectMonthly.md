@@ -23,6 +23,9 @@
 * 公众号详细介绍：https://mp.weixin.qq.com/s/SrZ5hWKU2aIScPwQIUSQdw
 
 ### 8月
+#### 公众号2023年8月简报
+* C#/.NET/.NET Core优秀项目和框架8月简报：https://mp.weixin.qq.com/s/hrhBdsmKvJcD3WNZTwtFcQ
+
 #### FreeIM
 * 项目简介：一个.NET Core WebSocket实现简易、高性能、集群即时通讯组件。
 * 项目源码地址：https://github.com/2881099/FreeIM
@@ -65,7 +68,7 @@
 
 
 ### 7月
-#### 公众号7月简报
+#### 公众号2023年7月简报
 * C#/.NET/.NET Core优秀项目和框架7月简报：https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
 
 #### NewLife.Stardust
