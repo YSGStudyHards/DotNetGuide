@@ -65,6 +65,9 @@
 
 
 ### 7月
+#### 公众号7月简报
+* C#/.NET/.NET Core优秀项目和框架7月简报：https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
+
 #### NewLife.Stardust
 * 项目简介：一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。
 * 项目源码地址：https://github.com/NewLifeX/Stardust
@@ -114,5 +117,3 @@
 * 项目简介：一款.NET开源的、简洁、易用的Windows文件管理器。
 * 项目源码地址： https://github.com/files-community/Files
 * 公众号详细介绍：https://mp.weixin.qq.com/s/cZNuMo1qfdqMoo5mZRcziQ
-
-
