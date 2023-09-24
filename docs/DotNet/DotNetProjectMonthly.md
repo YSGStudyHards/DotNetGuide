@@ -13,14 +13,14 @@
 ## 2023年
 ### 9月
 #### 
-* 项目简介：
-* 项目源码地址：
-* 公众号详细介绍：
+* **项目简介：**
+* **项目源码地址：**
+* **公众号详细介绍：**
 
 #### Optimizer
-* 项目简介：Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。
-* 项目源码地址：https://github.com/hellzerg/optimizer
-* 公众号详细介绍：https://mp.weixin.qq.com/s/-7r0p75xV4Q_t3Ny5cvcvw
+* **项目简介：** Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。
+* **项目源码地址：** https://github.com/hellzerg/optimizer
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/-7r0p75xV4Q_t3Ny5cvcvw
 
 #### JustDecompile
 * 项目简介：JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。
