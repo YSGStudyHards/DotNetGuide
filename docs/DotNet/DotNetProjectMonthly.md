@@ -17,6 +17,46 @@
 * 项目源码地址：
 * 公众号详细介绍：
 
+#### Optimizer
+* 项目简介：Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。
+* 项目源码地址：https://github.com/hellzerg/optimizer
+* 公众号详细介绍：https://mp.weixin.qq.com/s/-7r0p75xV4Q_t3Ny5cvcvw
+
+#### JustDecompile
+* 项目简介：JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。
+* 项目源码地址：https://github.com/telerik/justdecompileengine
+* 公众号详细介绍：https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw
+
+#### dnSpy
+* 项目简介：dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（dnSpy已经该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响您继续使用 dnSpy 工具本身。）
+* 项目源码地址：https://github.com/dnSpy/dnSpy
+* 公众号详细介绍：https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw
+
+#### ILSpy
+* 项目简介：ILSpy是一款免费、开源的 .NET 反编译工具，能够将已编译的 .NET 程序集转换为易于阅读和理解的源代码。
+* 项目源码地址：https://github.com/icsharpcode/ILSpy
+* 公众号详细介绍：https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw
+
+#### QuickLook
+* 项目简介：QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。
+* 项目源码地址：https://github.com/QL-Win/QuickLook
+* 公众号详细介绍：https://mp.weixin.qq.com/s/fo8VQSEKlzi_UdCh5p-FWA
+
+#### Wing
+* 项目简介：Wing致力于打造一个功能强大、最接地气的.NET微服务框架，支持.NET Core 3.1+运行平台。支持Consul服务注册与发现，服务间通讯支持http和grpc调用，内置负载均衡器。支持服务策略配置，服务异常降级处理。支持 Saga分布式事务，支持三种恢复策略：向前恢复、向后恢复、先前再后。自带配置中心，服务配置可以在线集中统一管理。支持http/grpc/sql链路追踪APM及耗时分析统计。内置服务网关，支持全局服务策略和个性化服务策略配置。支持RabbitMQ事件总线，自带人性化的Dashboard管理界面。
+* 项目源码地址：https://gitee.com/linguicheng/Wing
+* 公众号详细介绍：https://mp.weixin.qq.com/s/vu5DVapmCDxRv5YXdNOgNg
+
+#### Tai
+* 项目简介：一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。
+* 项目源码地址：https://github.com/Planshit/Tai
+* 公众号详细介绍：https://mp.weixin.qq.com/s/VTfEC4m_3C7XHFw_Ydwbww
+
+#### FreeScheduler
+* 项目简介：FreeScheduler 是利用 IdleBus 实现的轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。
+* 项目源码地址：https://github.com/2881099/FreeScheduler
+* 公众号详细介绍：https://mp.weixin.qq.com/s/9XYtauAe_qVcAj77G7eaLQ
+
 #### CollectiveOAuth
 * 项目简介：.Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。
 * 项目源码地址：https://gitee.com/rthinking/CollectiveOAuth
