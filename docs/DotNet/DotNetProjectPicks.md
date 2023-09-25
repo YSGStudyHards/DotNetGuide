@@ -289,7 +289,7 @@
 |  4  |  |  |  |
 |  3  | [IEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | JIEJIE.NET是一个开源的.NET程序集混淆工具，旨在帮助保护.NET应用程序的版权和知识产权。它被描述为轻量级、快速且强大。该项目的主要目标是通过对程序集进行混淆，使其难以逆向工程和分析，从而增加代码的保护程度。 | https://github.com/dcsoft-yyf/JIEJIE.NET |
 |  2  | [Obfuscar](https://github.com/obfuscar/obfuscar) | Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。 | https://github.com/obfuscar/obfuscar |
-|  1  | [ConfuserEx](https://github.com/mkaring/ConfuserEx) | ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制。 | https://github.com/mkaring/ConfuserEx |
+|  1  | [ConfuserEx](https://github.com/mkaring/ConfuserEx) | ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制（不足的是目前只支持.NET Framework 2.0/3.0/3.5/4.0/4.5/4.6/4.7/4.8，不支持.NET Core代码混淆）。 | https://github.com/mkaring/ConfuserEx |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
