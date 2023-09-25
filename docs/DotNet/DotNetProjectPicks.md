@@ -36,6 +36,7 @@
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
+  * [代码混淆工具]()
   * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [远程连接工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
@@ -277,6 +278,18 @@
 |  3  | [ILSpy](https://github.com/icsharpcode/ILSpy) | ILSpy是一款免费、开源的 .NET 反编译工具，能够将已编译的 .NET 程序集转换为易于阅读和理解的源代码。 | https://github.com/icsharpcode/ILSpy |
 |  2  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（dnSpy已经该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响您继续使用 dnSpy 工具本身。） | https://github.com/dnSpy/dnSpy |
 |  1  | [JustDecompile](https://github.com/telerik/justdecompileengine)  | JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。 | https://github.com/telerik/justdecompileengine |
+
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+#### 代码混淆工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [IEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | JIEJIE.NET是一个开源的.NET程序集混淆工具，旨在帮助保护.NET应用程序的版权和知识产权。它被描述为轻量级、快速且强大。该项目的主要目标是通过对程序集进行混淆，使其难以逆向工程和分析，从而增加代码的保护程度。 | https://github.com/dcsoft-yyf/JIEJIE.NET |
+|  2  | [Obfuscar](https://github.com/obfuscar/obfuscar) | Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。 | https://github.com/obfuscar/obfuscar |
+|  1  | [ConfuserEx](https://github.com/mkaring/ConfuserEx) | ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制。 | https://github.com/mkaring/ConfuserEx |
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
