@@ -21,6 +21,7 @@
   * [网络应用通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
+  * [Blazor UI框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
@@ -149,7 +150,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [TorchSharp](https://github.com/dotnet/TorchSharp) | TorchSharp 是一个.NET库，它提供了访问支持 PyTorch 的库的功能。TorchSharp 的重点是绑定由 libtorch 提供的 API，特别关注张量操作。设计意图是尽可能接近 PyTorch 的使用体验，同时在适当的情况下利用.NET静态类型系统的优势。例如，当PyTorch为特定参数定义了多个有效类型时，会使用方法重载进行处理。 | https://github.com/dotnet/TorchSharp |
 |  4  | [Keras.NET ](https://github.com/SciSharp/Keras.NET)| 是一个基于 .NET 平台的 Keras 框架移植版，Keras 是一个流行的深度学习框架，以易用性和可扩展性而闻名。通过 Keras.NET，您可以在 .NET 应用程序中使用 Keras 的高级 API 构建和训练神经网络模型。 | https://github.com/SciSharp/Keras.NET |
 |  3  | [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET)| 是一个将 TensorFlow 框架移植到 .NET 平台的项目。它提供了用于构建和训练深度学习模型的强大功能和 API，并允许开发者在 .NET 应用程序中直接使用 TensorFlow 的功能。 | https://github.com/SciSharp/TensorFlow.NET |
 |  2  | [ML.NET](https://github.com/dotnet/machinelearning) | 由 Microsoft 推出的开源机器学习框架，它提供了一套简单易用的 API 和工具，便于开发者在.NET 应用程序中进行机器学习和深度学习任务。 | https://dotnet.microsoft.com/zh-cn/apps/machinelearning-ai/ml-dotnet |
@@ -158,6 +159,24 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
+#### Blazor UI框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  12 |  |  |  |
+|  11 |  |  |  |
+|  10 |  |  |  |
+|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
+|  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
+|  7  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
+|  6  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
+|  5  | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise 是用于Blazor的 UI 组件库，支持使用Bootstrap、Tailwind、Bulma、Ant Design 和 Material 等 CSS 框架，可用于构建响应式的单页 Web 应用程序。 | https://blazorise.com/docs |
+|  4  | [Microsoft Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor是一个基于Blazor的组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。 | https://www.fluentui-blazor.net/ |
+|  3  | [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) | Radzen Blazor 是一个包含70多个免费的原生 Blazor UI 组件的集合，其中包括 DataGrid、Scheduler、Charts 等功能强大的组件，并提供了丰富的主题样式，包括 Material Design 和 FluentUI。可以将 Radzen Blazor 视为一个用于构建 Blazor 应用程序的 UI 框架，它提供了一系列预构建的组件和工具，帮助开发人员快速搭建和定制自己的应用程序界面。 | https://github.com/radzenhq/radzen-blazor |
+|  2  | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
+|  1  | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
+
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
 ### 开源项目
@@ -267,7 +286,6 @@
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
 
 
 ### 实用工具&软件
@@ -403,7 +421,6 @@
 
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
 
 
 ### 实用SDK&类库
