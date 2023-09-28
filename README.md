@@ -134,6 +134,9 @@
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 * [Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
+* [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
+* [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
+* [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
