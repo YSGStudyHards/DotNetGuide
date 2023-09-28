@@ -29,7 +29,7 @@
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
 * [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
-* [🔋C#/.NET/.NET Core充电站]()
+* [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
@@ -56,10 +56,6 @@
 
 
 ## 🏷️优质学习资料收录栈
-* [🔋Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
-* [🔋Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
-* [🔋Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
-* [🔋Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
 * [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
@@ -124,12 +120,20 @@
 
 
 ## 🔋C#/.NET/.NET Core充电站
-- [.NET 开发者社区](https://dotnet.microsoft.com/zh-cn/platform/community)
-- [.NET Blog 官方博客](https://devblogs.microsoft.com/dotnet/)
-- [.NET中文官方博客](https://devblogs.microsoft.com/dotnet-ch/?c=85&WT.mc_id=dotnet-35129-website)
-- [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/?cis=vshelp)
-- [在线.NET源码查询](http://source.dot.net)
-- [在线.NET API目录查询](https://apisof.net/catalog)
+### 在线学习站
+* [.NET官网](https://dotnet.microsoft.com/zh-cn/)
+* [.NET开发者社区](https://dotnet.microsoft.com/zh-cn/platform/community)
+* [.NET Blog官方博客](https://devblogs.microsoft.com/dotnet/)
+* [.NET中文官方博客](https://devblogs.microsoft.com/dotnet-ch/?c=85&WT.mc_id=dotnet-35129-website)
+* [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/?cis=vshelp)
+* [在线.NET源码查询](http://source.dot.net)
+* [在线.NET API目录查询](https://apisof.net/catalog)
+
+## Awesome Collection
+* [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
+* [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
+* [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
+* [Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
