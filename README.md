@@ -134,10 +134,11 @@
 * [.NET API在线目录查询](https://apisof.net/catalog)
 
 ### Awesome Collection
+* [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
-* [Awesome .NET Core](https://github.com/jasonhua95/awesome-dotnet-core)
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
 * [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
