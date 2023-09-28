@@ -71,8 +71,8 @@
 |  2   | [MASA Framework](https://github.com/masastack/MASA.Framework) | . net下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
 |  1   | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 桌面应用框架
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
@@ -80,8 +80,8 @@
 |  2   | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | 是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
 |  1   | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 分布式框架
 |  ✍   |                      项目名称和地址                      |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
@@ -91,8 +91,8 @@
 |  2  | [orleans](https://github.com/dotnet/orleans) | Orleans 是一个用于构建稳健、可扩展的分布式应用程序的跨平台框架。它是由微软研究院开发的开源项目，旨在简化分布式系统的开发过程（Orleans 提供了一种编程模型，使开发人员可以使用面向对象的方式来构建分布式应用程序）。 | https://github.com/dotnet/orleans |
 |  1  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://github.com/NewLifeX/Stardust |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 微服务框架
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |              项目详细介绍（文档、文章、源码地址）              |
@@ -104,8 +104,8 @@
 |  2  | [Surging](https://github.com/fanliang11/surging) | surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，RPC可以选择采用netty或thrift框架，采用异步非阻塞传输。 | https://github.com/fanliang11/surging  |
 |  1  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot 是一个 .NET API 网关。该项目面向使用 .NET 运行微服务/面向服务架构的人，他们需要一个统一的入口点进入他们的系统。但是，它适用于任何使用 HTTP 的内容并在 ASP.NET Core 支持的任何平台上运行。 | https://github.com/ThreeMammals/Ocelot |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### .NET ORM框架
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）              |
@@ -121,8 +121,8 @@
 |  2   |  [Dapper](https://github.com/DapperLib/Dapper)   | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 |  https://github.com/DapperLib/Dapper  |
 |  1   |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 网络应用通信框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -133,8 +133,8 @@
 |  2  | [TouchSocket](https://github.com/RRQM/TouchSocket) | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。 | https://rrqm_home.gitee.io/touchsocket/ |
 |  1  | [DotNetty](https://github.com/Azure/DotNetty) | DotNetty是Netty的移植版，它是一个异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端。 | https://github.com/Azure/DotNetty |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 系统日志框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -143,8 +143,8 @@
 |  2  | [Serilog](https://github.com/serilog/serilog) | 是一个简单而灵活的日志记录库，它支持结构化日志记录，并提供了丰富的日志输出和处理方式。通过使用 Serilog，可以轻松地将日志记录到不同的目标，如控制台、文件、数据库等。 | https://github.com/serilog/serilog |
 |  1  | [Log4net](https://github.com/apache/logging-log4net) | 是一个成熟稳定的日志记录框架，它被广泛用于.NET 应用程序开发。log4net 提供了高度可配置的日志记录功能，支持多种日志输出目标和日志级别。 | https://github.com/apache/logging-log4net |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 深度学习框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -156,8 +156,8 @@
 |  2  | [ML.NET](https://github.com/dotnet/machinelearning) | 由 Microsoft 推出的开源机器学习框架，它提供了一套简单易用的 API 和工具，便于开发者在.NET 应用程序中进行机器学习和深度学习任务。 | https://dotnet.microsoft.com/zh-cn/apps/machinelearning-ai/ml-dotnet |
 |  1  | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | 基于百度飞桨的深度学习框架.NET封装。 | https://www.cnblogs.com/sdflysha/p/20230724-paddlesharp-in-a-year.html |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### Blazor UI框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -175,7 +175,6 @@
 |  2  | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
 |  1  | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
@@ -187,8 +186,8 @@
 |  2  |  |  |  |
 |  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 后台&权限管理系统（Admin&RBAC）
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |            项目详细介绍（文档、文章、源码地址）             |
@@ -201,8 +200,8 @@
 |  2  | [DncZeus](https://github.com/lampo1024/DncZeus) | DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。 | https://github.com/lampo1024/DncZeus |
 |  1  | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【 .NET Core6.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 仓库管理系统（WMS）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
@@ -212,8 +211,8 @@
 |  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
 |  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 内容管理系统（CMS）
 |  ✍   |                   项目名称和地址                    |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）           |
@@ -222,8 +221,8 @@
 |  2  |  |  |  |
 |  1   | [siteserver/cms](https://github.com/siteserver/cms) | 是基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 客户关系管理系统（CRM）
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -232,8 +231,8 @@
 |  2  |  |  |  |
 |  1  |  |  |  |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 企业资源计划系统（ERP）
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -242,8 +241,8 @@
 |  2  |  |  |  |
 |  1  |  |  |  |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 即时通讯系统（IM）
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -252,8 +251,8 @@
 |  2  |  |  |  |
 |  1  | [FreeIM](https://github.com/2881099/FreeIM) | FreeIM 使用 websocket 协议实现简易、高性能（单机支持5万+连接）、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能。 | https://github.com/2881099/FreeIM |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 配置中心系统（CCS）
 |  ✍   |                      项目名称和地址                      |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
@@ -262,8 +261,8 @@
 |  2  |  |  |  |
 |  1  | [AgileConfig](https://github.com/dotnetcore/AgileConfig) | AgileConfig基于.NET Core开发的轻量级分布式配置中心，秉承轻量化的特点，部署简单、配置简单、使用简单、学习简单，它只提取了必要的一些功能，并没有像Apollo那样复杂且庞大。 | https://github.com/dotnetcore/AgileConfig |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
@@ -274,8 +273,8 @@
 |  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
 |  1  |  [Hangfire](https://github.com/HangfireIO/Hangfire)  | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 分布式事务解决方案
 |  ✍   |              项目名称和地址              |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -283,7 +282,6 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [CAP](https://github.com/dotnetcore/CAP) | CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。 | https://github.com/dotnetcore/CAP |
-
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -297,8 +295,8 @@
 |  2  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（dnSpy已经该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响您继续使用 dnSpy 工具本身。） | https://github.com/dnSpy/dnSpy |
 |  1  | [JustDecompile](https://github.com/telerik/justdecompileengine)  | JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。 | https://github.com/telerik/justdecompileengine |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 代码混淆工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -309,8 +307,8 @@
 |  2  | [Obfuscar](https://github.com/obfuscar/obfuscar) | Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。 | https://github.com/obfuscar/obfuscar |
 |  1  | [ConfuserEx](https://github.com/mkaring/ConfuserEx) | ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制（不足的是目前只支持.NET Framework 2.0/3.0/3.5/4.0/4.5/4.6/4.7/4.8，不支持.NET Core代码混淆）。 | https://github.com/mkaring/ConfuserEx |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 桌面管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -319,8 +317,8 @@
 |  2  |  |  |  |
 |  1  | [GeekDesk](https://github.com/BookerLiu/GeekDesk)  | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。 | https://github.com/BookerLiu/GeekDesk |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 文件管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -329,8 +327,8 @@
 |  2  |  |  |  |
 |  1  |      [Files](https://github.com/files-community/Files)       |        一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 远程连接工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -338,7 +336,6 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  |    [1Remote](https://github.com/1Remote/1Remote)    |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
-
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -350,8 +347,8 @@
 |  2  |  |  |  |
 |  1  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)      | 一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 实用桌面工具箱
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -360,8 +357,8 @@
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |             一个开源跨平台的多功能 Steam 工具箱。              |   https://github.com/BeyondDimension/SteamTools   |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### DNS服务器工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -370,8 +367,8 @@
 |  2  |  |  |  |
 |  1  | [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) | 一款.NET开源跨平台的开箱即用的DNS服务器软件（用于提供 DNS 解析服务）。 | https://github.com/TechnitiumSoftware/DnsServer |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 录屏和GIF制作工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -380,8 +377,8 @@
 |  2  |  |  |  |
 |  1  |  [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### GitHub加速工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -390,8 +387,8 @@
 |  2  |  |  |  |
 |  1  | [FastGithub](https://github.com/dotnetcore/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotnetcore/FastGithub |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 系统优化工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -400,8 +397,8 @@
 |  2  |  |  |  |
 |  1  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -419,7 +416,6 @@
 |  2  | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
 |  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) |        适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。        |  https://github.com/huiyadanli/RevokeMsgPatcher   |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
@@ -433,8 +429,8 @@
 |  2   | [DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) | 全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat |
 |  1   | [Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat) | Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。 | https://github.com/EasyAbp/Abp.WeChat |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### C#实用工具类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -445,8 +441,8 @@
 |  2  | [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。 | https://github.com/ldqk/Masuit.Tools |
 |  1  | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) | 比较全面的C#帮助类，日常工作收集，各式各样的几乎都能找到,所有功能性代码都是独立的类，类与类之间没有联系，可以单独引用至项目。 | https://github.com/Jimmey-Jiang/Common.Utility |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### C#人脸识别库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -457,8 +453,8 @@
 |  2  |  |  |  |
 |  1  | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |   一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库。   | https://github.com/ViewFaceCore/ViewFaceCore |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### C#FFmpeg封装库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -469,8 +465,8 @@
 |  2  | [Xabe.FFmpeg ](https://github.com/tomaszzmuda/Xabe.FFmpeg)| FFmpeg 的.NET 标准包装器。它允许在不了解 FFmpeg 工作原理的情况下处理媒体，并可用于从 dotnet 核心应用程序向 FFmpeg 传递自定义参数。 | https://github.com/tomaszzmuda/Xabe.FFmpeg |
 |  1  | [Sdcb.FFmpeg ](https://github.com/sdcb/Sdcb.FFmpeg)| FFmpeg开源C#封装库。 | https://www.cnblogs.com/sdflysha/p/dotnet-conf-china-2022-ffmpeg.html |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### .NET高精度数值计算库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -481,8 +477,8 @@
 |  2  |  |  |  |
 |  1  | [Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) | .NET高精度数值计算库。 | https://www.cnblogs.com/sdflysha/p/20230725-sdcb-arithmetic-intro.html |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### .NET第三方登录整合库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -493,8 +489,8 @@
 |  2  |  |  |  |
 |  1  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### .NET UI自动化库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -505,8 +501,8 @@
 |  2  |  |  |  |
 |  1  | [FlaUI](https://github.com/FlaUI/FlaUI) | FlaUI是一个.Net的UI自动化库，用于自动化测试Windows应用程序（包括Win32、WinForms、WPF、Store Apps等）。它基于Microsoft的原生UI自动化库，并在其周围提供了一层封装。FlaUI几乎包含了UI自动化库中的所有功能，并在有特殊需求（目前尚未覆盖）的情况下提供了原生对象。 | https://github.com/FlaUI/FlaUI |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 #### .NET二维码类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
@@ -517,5 +513,5 @@
 |  2  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
 |  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
 
-
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
