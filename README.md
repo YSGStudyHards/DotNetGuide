@@ -126,10 +126,14 @@
 * [.NET Blog官方博客](https://devblogs.microsoft.com/dotnet/)
 * [.NET中文官方博客](https://devblogs.microsoft.com/dotnet-ch/?c=85&WT.mc_id=dotnet-35129-website)
 * [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/?cis=vshelp)
-* [在线.NET源码查询](http://source.dot.net)
-* [在线.NET API目录查询](https://apisof.net/catalog)
+* [博客园.NET技术专区](https://www.cnblogs.com/cate/108698/)
+* [Stack Overflow](https://stackoverflow.com/)
+   - [Stack Overflow C#问题专栏](https://stackoverflow.com/questions/tagged/c%23)
+   - [Stack Overflow .NET问题专栏](https://stackoverflow.com/questions/tagged/.net)
+* [.NET在线源码查询](http://source.dot.net)
+* [.NET API在线目录查询](https://apisof.net/catalog)
 
-## Awesome Collection
+### Awesome Collection
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
