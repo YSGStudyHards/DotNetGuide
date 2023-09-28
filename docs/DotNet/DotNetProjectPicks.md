@@ -21,7 +21,7 @@
   * [网络应用通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
-  * [Blazor UI框架]()
+  * [Blazor UI框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
