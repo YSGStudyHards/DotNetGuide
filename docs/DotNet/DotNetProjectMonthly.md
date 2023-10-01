@@ -11,16 +11,15 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2023年
-## 9月
+## 10月
 ### 
 * **项目简介：**
 * **项目源码地址：**
 * **公众号详细介绍：**
 
-### 
-* **项目简介：**
-* **项目源码地址：**
-* **公众号详细介绍：**
+## 9月
+### 公众号9月简报
+* **C#/.NET/.NET Core优秀项目和框架2023年9月简报：** https://mp.weixin.qq.com/s/Lq7V_MHymddbf8ZPtTlG2w
 
 ### DncZeus
 * **项目简介：** DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。
@@ -95,7 +94,7 @@
 
 ## 8月
 ### 公众号8月简报
-* C#/.NET/.NET Core优秀项目和框架8月简报：https://mp.weixin.qq.com/s/hrhBdsmKvJcD3WNZTwtFcQ
+* **C#/.NET/.NET Core优秀项目和框架8月简报：** https://mp.weixin.qq.com/s/hrhBdsmKvJcD3WNZTwtFcQ
 
 ### FreeIM
 * **项目简介：** 一个.NET Core WebSocket实现简易、高性能、集群即时通讯组件。
@@ -140,7 +139,7 @@
 
 ## 7月
 ### 公众号7月简报
-* C#/.NET/.NET Core优秀项目和框架7月简报：https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
+* **C#/.NET/.NET Core优秀项目和框架7月简报：** https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
 
 ### NewLife.Stardust
 * **项目简介：** 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。
