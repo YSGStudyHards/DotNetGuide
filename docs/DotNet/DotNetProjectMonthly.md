@@ -94,7 +94,7 @@
 
 ## 8月
 ### 公众号8月简报
-* **C#/.NET/.NET Core优秀项目和框架8月简报：** https://mp.weixin.qq.com/s/hrhBdsmKvJcD3WNZTwtFcQ
+* **C#/.NET/.NET Core优秀项目和框架2023年8月简报：** https://mp.weixin.qq.com/s/hrhBdsmKvJcD3WNZTwtFcQ
 
 ### FreeIM
 * **项目简介：** 一个.NET Core WebSocket实现简易、高性能、集群即时通讯组件。
@@ -139,7 +139,7 @@
 
 ## 7月
 ### 公众号7月简报
-* **C#/.NET/.NET Core优秀项目和框架7月简报：** https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
+* **C#/.NET/.NET Core优秀项目和框架2023年7月简报：** https://mp.weixin.qq.com/s/LLu9ju8neGmHnHxp-UlpTA
 
 ### NewLife.Stardust
 * **项目简介：** 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。
