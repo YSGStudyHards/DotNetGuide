@@ -23,7 +23,7 @@
 
 ### DncZeus
 * **项目简介：** DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。
-* **项目源码地址：** https://mp.weixin.qq.com/s/07SxRGkzQJusUvc49sIxKQ
+* **项目源码地址：** https://github.com/lampo1024/DncZeus
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/07SxRGkzQJusUvc49sIxKQ
 
 ### IEJIE.NET
