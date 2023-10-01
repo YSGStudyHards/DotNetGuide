@@ -292,7 +292,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  4  |  |  |  |
 |  3  | [ILSpy](https://github.com/icsharpcode/ILSpy) | ILSpy是一款免费、开源的 .NET 反编译工具，能够将已编译的 .NET 程序集转换为易于阅读和理解的源代码。 | https://github.com/icsharpcode/ILSpy |
-|  2  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（dnSpy已经该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响您继续使用 dnSpy 工具本身。） | https://github.com/dnSpy/dnSpy |
+|  2  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（虽然dnSpy该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响你继续使用dnSpy工具本身。） | https://github.com/dnSpy/dnSpy |
 |  1  | [JustDecompile](https://github.com/telerik/justdecompileengine)  | JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。 | https://github.com/telerik/justdecompileengine |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
