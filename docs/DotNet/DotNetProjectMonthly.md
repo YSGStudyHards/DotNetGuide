@@ -17,6 +17,36 @@
 * **项目源码地址：**
 * **公众号详细介绍：**
 
+### 
+* **项目简介：**
+* **项目源码地址：**
+* **公众号详细介绍：**
+
+### DncZeus
+* **项目简介：** DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。
+* **项目源码地址：** https://mp.weixin.qq.com/s/07SxRGkzQJusUvc49sIxKQ
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/07SxRGkzQJusUvc49sIxKQ
+
+### IEJIE.NET
+* **项目简介：** JIEJIE.NET是一个开源的.NET程序集混淆工具，旨在帮助保护.NET应用程序的版权和知识产权。它被描述为轻量级、快速且强大。该项目的主要目标是通过对程序集进行混淆，使其难以逆向工程和分析，从而增加代码的保护程度。
+* **项目源码地址：** https://github.com/dcsoft-yyf/JIEJIE.NET
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA
+
+### Obfuscar
+* **项目简介：** Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。
+* **项目源码地址：** https://github.com/obfuscar/obfuscar
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA
+
+### ConfuserEx
+* **项目简介：** ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制（不足的是目前只支持.NET Framework 2.0/3.0/3.5/4.0/4.5/4.6/4.7/4.8，不支持.NET Core代码混淆）。
+* **项目源码地址：** https://github.com/mkaring/ConfuserEx
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA
+
+### Common.Utility
+* **项目简介：** 该项目收集和整理了许多常用的C#帮助类和工具类库，从而减少了开发人员的重复劳动，提高工作效率。主要工具类包括Excel操作类、DataTable转实体、Cookie&Session、NPOI、MongoDBHelper、二维码操作类、分词辅助类、处理枚举类、图片验证码、汉字转拼音、计划任务等。
+* **项目源码地址：** https://github.com/laochiangx/Common.Utility
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/RNsZPTHIZviMKYz1Uc3Ssg
+
 ### Optimizer
 * **项目简介：** Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。
 * **项目源码地址：** https://github.com/hellzerg/optimizer
@@ -28,7 +58,7 @@
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw
 
 ### dnSpy
-* **项目简介：** dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（dnSpy已经该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响您继续使用 dnSpy 工具本身。）
+* **项目简介：** dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（虽然dnSpy该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响你继续使用dnSpy工具本身。）
 * **项目源码地址：** https://github.com/dnSpy/dnSpy
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw
 
