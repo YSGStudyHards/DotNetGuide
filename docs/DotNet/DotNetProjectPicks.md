@@ -67,7 +67,7 @@
   * [.NET二维码类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%B1%BB%E5%BA%93)
   * [.NET加密解密库]()
   * [.NET支付SDK]()
-  * [.NET Excel操作库]()
+  * [.NET Office文件操作库]()
   * [.NET JSON处理库]()
   * [.NET对象映射库]()
   * [.NET Redis客户端驱动库]()
@@ -661,7 +661,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### .NET Excel操作库
+#### .NET Office文件操作库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
