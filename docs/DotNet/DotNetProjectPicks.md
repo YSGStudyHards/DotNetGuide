@@ -21,7 +21,10 @@
   * [网络应用通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
-  * [Blazor UI框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E6%A1%86%E6%9E%B6)
+  * [单元测试框架]()
+  * [程序限流框架]()
+  * [工作流引擎框架]()
+  * [身份认证授权框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
@@ -34,6 +37,10 @@
   * [配置中心系统（CCS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%B3%BB%E7%BB%9Fccs)
   * [任务调度系统（Scheduler）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9Fscheduler)
   * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+  * [博客系统（Blog）]()
+  * [办公系统（OA）]()
+  * [媒体服务器系统（Media）]()
+  * [自动化构建系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -58,13 +65,26 @@
   * [.NET第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
   * [.NET UI自动化库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-ui%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BA%93)
   * [.NET二维码类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%B1%BB%E5%BA%93)
-  
+  * [.NET加密解密库]()
+  * [.NET支付SDK]()
+  * [.NET Excel操作库]()
+  * [.NET JSON处理库]()
+  * [.NET对象映射库]()
+  * [.NET Redis客户端驱动库]()
+ 
+* [界面&控件&UI组件库]()
+  * [Blazor UI组件库]()
+
 
 ## 项目列表
 ### 开源框架
 #### Web应用框架
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                      项目详细介绍（文档、文章、源码地址）                      |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
 |  5  |  |  |  |
 |  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | http://furion.baiqian.ltd/docs/ |
 |  3   | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
@@ -77,6 +97,9 @@
 #### 桌面应用框架
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
 |  2   | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | 是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
 |  1   | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
 
@@ -97,9 +120,13 @@
 #### 微服务框架
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |              项目详细介绍（文档、文章、源码地址）              |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :------------------------------------: |
+|  10 |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Viper](https://github.com/duyanming/Viper) | Viper 是一个基于Anno微服务引擎开发的Dashboard示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等。 | https://github.com/duyanming/Viper |
 |  3  | [Wing](https://gitee.com/linguicheng/Wing) | Wing致力于打造一个功能强大、最接地气的.NET微服务框架，支持.NET Core 3.1+运行平台。支持Consul服务注册与发现，服务间通讯支持http和grpc调用，内置负载均衡器。支持服务策略配置，服务异常降级处理。支持 Saga分布式事务，支持三种恢复策略：向前恢复、向后恢复、先前再后。自带配置中心，服务配置可以在线集中统一管理。支持http/grpc/sql链路追踪APM及耗时分析统计。内置服务网关，支持全局服务策略和个性化服务策略配置。支持RabbitMQ事件总线，自带人性化的Dashboard管理界面。 | https://linguicheng.gitee.io/wing/ |
 |  2  | [Surging](https://github.com/fanliang11/surging) | surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，RPC可以选择采用netty或thrift框架，采用异步非阻塞传输。 | https://github.com/fanliang11/surging  |
 |  1  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot 是一个 .NET API 网关。该项目面向使用 .NET 运行微服务/面向服务架构的人，他们需要一个统一的入口点进入他们的系统。但是，它适用于任何使用 HTTP 的内容并在 ASP.NET Core 支持的任何平台上运行。 | https://github.com/ThreeMammals/Ocelot |
@@ -116,10 +143,10 @@
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4   |  [SqlSugar](https://github.com/donet5/SqlSugar)  | SqlSugar是一款老牌 .NET 开源ORM框架，支持.NET CORE 和 MySql、SqlServer、Sqlite、Oracle 、 postgresql 、达梦、人大金仓 数据库，具有EF NH的功能，比EF更人性化的语法，支持真实的批量操作，另外还有媲美Dapper的性能。 |        https://www.donet5.com/        |
-|  3   | [FreeSql](https://github.com/dotnetcore/FreeSql) | FreeSql 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 |         https://freesql.net/          |
-|  2   |  [Dapper](https://github.com/DapperLib/Dapper)   | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 |  https://github.com/DapperLib/Dapper  |
-|  1   |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+|  4  |  [SqlSugar](https://github.com/donet5/SqlSugar)  | SqlSugar是一款老牌 .NET 开源ORM框架，支持.NET CORE 和 MySql、SqlServer、Sqlite、Oracle 、 postgresql 、达梦、人大金仓 数据库，具有EF NH的功能，比EF更人性化的语法，支持真实的批量操作，另外还有媲美Dapper的性能。 |        https://www.donet5.com/        |
+|  3  | [FreeSql](https://github.com/dotnetcore/FreeSql) | FreeSql 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 |         https://freesql.net/          |
+|  2  |  [Dapper](https://github.com/DapperLib/Dapper)   | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 |  https://github.com/DapperLib/Dapper  |
+|  1  |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -127,8 +154,10 @@
 #### 网络应用通信框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  7  |  |  |  |
+|  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [BeetleX](https://github.com/beetlex-io/BeetleX) | BeetleX是一个开源的高性能 .NET Core网络库，提供了TCP、UDP、HTTP和WebSocket协议的支持。它的设计目标是简单易用、高性能、可扩展性强，并支持大规模并发连接。BeetleX基于.NET Core实现，支持跨平台运行，可以运行在Windows、Linux和macOS等系统上。 | https://github.com/beetlex-io/BeetleX |
 |  3  | [SignalR](https://github.com/SignalR/SignalR) | SignalR 是一个实时网络通信框架，可以进行服务器到客户端和客户端到客户端的双向通信。它支持 WebSocket、Server-Sent Events 和 Long Polling 等传输协议，适用于实时聊天、实时推送等场景。 | https://learn.microsoft.com/zh-cn/aspnet/core/signalr/introduction?view=aspnetcore-7.0 |
 |  2  | [TouchSocket](https://github.com/RRQM/TouchSocket) | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。 | https://rrqm_home.gitee.io/touchsocket/ |
 |  1  | [DotNetty](https://github.com/Azure/DotNetty) | DotNetty是Netty的移植版，它是一个异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端。 | https://github.com/Azure/DotNetty |
@@ -139,6 +168,8 @@
 #### 系统日志框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  5  |  |  |  |
+|  4  |  |  |  |
 |  3  | [NLog](https://github.com/NLog/NLog) | 是一个功能强大且易于配置的日志记录库，它提供了多种输出目标和过滤器，可以满足各种日志记录需求。NLog 支持异步日志记录、日志级别、事件跟踪等功能。 | https://github.com/NLog/NLog |
 |  2  | [Serilog](https://github.com/serilog/serilog) | 是一个简单而灵活的日志记录库，它支持结构化日志记录，并提供了丰富的日志输出和处理方式。通过使用 Serilog，可以轻松地将日志记录到不同的目标，如控制台、文件、数据库等。 | https://github.com/serilog/serilog |
 |  1  | [Log4net](https://github.com/apache/logging-log4net) | 是一个成熟稳定的日志记录框架，它被广泛用于.NET 应用程序开发。log4net 提供了高度可配置的日志记录功能，支持多种日志输出目标和日志级别。 | https://github.com/apache/logging-log4net |
@@ -159,23 +190,57 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### Blazor UI框架
+#### 单元测试框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  12 |  |  |  |
-|  11 |  |  |  |
-|  10 |  |  |  |
-|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
-|  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
-|  7  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
-|  6  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
-|  5  | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise 是用于Blazor的 UI 组件库，支持使用Bootstrap、Tailwind、Bulma、Ant Design 和 Material 等 CSS 框架，可用于构建响应式的单页 Web 应用程序。 | https://blazorise.com/docs |
-|  4  | [Microsoft Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor是一个基于Blazor的组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。 | https://www.fluentui-blazor.net/ |
-|  3  | [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) | Radzen Blazor 是一个包含70多个免费的原生 Blazor UI 组件的集合，其中包括 DataGrid、Scheduler、Charts 等功能强大的组件，并提供了丰富的主题样式，包括 Material Design 和 FluentUI。可以将 Radzen Blazor 视为一个用于构建 Blazor 应用程序的 UI 框架，它提供了一系列预构建的组件和工具，帮助开发人员快速搭建和定制自己的应用程序界面。 | https://github.com/radzenhq/radzen-blazor |
-|  2  | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
-|  1  | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [xUnit.net](https://github.com/xunit/xunit) | xUnit.net是一个.NET平台上的开源单元测试框架，它提供了简洁、现代化的设计和丰富的功能，使开发人员能够轻松编写高效的单元测试。 | https://github.com/xunit/xunit |
+|  1  | [NUnit](https://github.com/nunit/nunit) | NUnit是一个流行的.NET平台上的开源单元测试框架，它提供了强大的功能和灵活性，使开发人员能够编写高质量的单元测试代码。 | https://github.com/nunit/nunit |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 程序限流框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) | AspNetCoreRateLimit是一个基于ASP.NET Core的限流框架，提供了灵活的限流功能，帮助开发人员控制和保护应用程序中的HTTP请求频率和数量。 | https://github.com/stefanprodan/AspNetCoreRateLimit |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 工作流引擎框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Workflow Core](https://github.com/danielgerlag/workflow-core) | Workflow Core是一个基于.NET的开源工作流引擎，提供了可扩展和灵活的工作流管理功能，帮助开发人员设计和执行复杂的工作流程。 | https://github.com/danielgerlag/workflow-core |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 身份认证授权框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) | IdentityServer4是一个基于OpenID Connect和OAuth 2.0的开源身份认证和授权框架，用于构建安全的认证服务器和单点登录解决方案。 | https://github.com/IdentityServer/IdentityServer4 |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 
 ### 开源项目
@@ -284,6 +349,59 @@
 |  1  | [CAP](https://github.com/dotnetcore/CAP) | CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。 | https://github.com/dotnetcore/CAP |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 博客系统（Blog）
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 办公系统（OA）
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 媒体服务器系统（Media）
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [jellyfin](https://github.com/jellyfin/jellyfin) | Jellyfin是一个免费软件媒体系统，让你完全控制管理和流媒体播放你的媒体文件。它是专有软件Emby和Plex的替代品，通过多个应用程序将媒体从专用服务器提供给最终用户设备。Jellyfin衍生自Emby的3.5.2版本，并移植到.NET Core框架，以实现完全的跨平台支持。 | https://github.com/jellyfin/jellyfin |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 自动化构建系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [cake](https://github.com/cake-build/cake) | Cake是一个构建自动化系统，使用C# DSL来执行诸如编译代码、复制文件/文件夹、运行单元测试、压缩文件和构建NuGet包等任务。 | https://github.com/cake-build/cake |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
 
 
 ### 实用工具&软件
@@ -419,6 +537,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+
 ### 实用SDK&类库
 #### C#版微信SDK
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                         项目详细介绍（文档、文章、源码地址）                         |
@@ -514,4 +633,106 @@
 |  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET加密解密库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [bc-csharp](https://github.com/bcgit/bc-csharp) | bc-csharp是一个Bouncy Castle密码库的C#版本，提供了丰富的加密算法支持，并被广泛应用于.NET平台的安全性开发。 | https://github.com/bcgit/bc-csharp |
+|  1  | [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) | .NET Core加密解密类库，包括AES、DES、RSA、MD5、SHA1、SHA256、SHA384、SHA512等算法。 | https://github.com/myloveCc/NETCore.Encrypt |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET支付SDK
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [paylink](https://github.com/essensoft/paylink) | 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。 | https://github.com/essensoft/paylink |
+|  1  | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | https://github.com/Varorbc/PaySharp |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET Excel操作库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET处理Excel工具，旨在避免OOM（内存溢出）问题。目前，大多数流行的框架需要将所有数据加载到内存中进行操作，但这会导致内存消耗问题。MiniExcel尝试使用流式算法，将原始的1000 MB占用减少到几MB，以避免OOM问题。 | https://github.com/MiniExcel/MiniExcel |
+|  1  | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET JSON处理库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET对象映射库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，减少手动映射代码的编写工作量。 | https://github.com/AutoMapper/AutoMapper |
+|  1  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET Redis客户端驱动库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis 是一个Redis客户端组件，以高性能处理大数据实时计算为目标。 | https://github.com/NewLifeX/NewLife.Redis |
+|  3  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
+|  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于 .NET 的 Redis 客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 | https://github.com/2881099/FreeRedis |
+|  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个高性能的.NET Redis客户端，用于在.NET应用程序中访问Redis数据库提供的数据结构和功能。 | https://github.com/StackExchange/StackExchange.Redis |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+
+### 界面&控件&UI组件库
+#### Blazor UI组件库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  12 |  |  |  |
+|  11 |  |  |  |
+|  10 |  |  |  |
+|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
+|  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
+|  7  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
+|  6  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
+|  5  | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise 是用于Blazor的 UI 组件库，支持使用Bootstrap、Tailwind、Bulma、Ant Design 和 Material 等 CSS 框架，可用于构建响应式的单页 Web 应用程序。 | https://blazorise.com/docs |
+|  4  | [Microsoft Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor是一个基于Blazor的组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。 | https://www.fluentui-blazor.net/ |
+|  3  | [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) | Radzen Blazor 是一个包含70多个免费的原生 Blazor UI 组件的集合，其中包括 DataGrid、Scheduler、Charts 等功能强大的组件，并提供了丰富的主题样式，包括 Material Design 和 FluentUI。可以将 Radzen Blazor 视为一个用于构建 Blazor 应用程序的 UI 框架，它提供了一系列预构建的组件和工具，帮助开发人员快速搭建和定制自己的应用程序界面。 | https://github.com/radzenhq/radzen-blazor |
+|  2  | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
+|  1  | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+
 
