@@ -349,6 +349,7 @@
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
 * [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 * [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
+* [SQL中的各种连接的区别总结](https://mp.weixin.qq.com/s/lIrxpuY340zV2Nj5LxcKzQ)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
