@@ -11,7 +11,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            希尔排序算法.ShellSortRun();
+            归并排序算法.MergeSortRun();
+            //希尔排序算法.ShellSortRun();
             //插入排序算法.InsertionSortRun();
             //快速排序算法.QuickSortRun();
             //冒泡排序算法.RecursiveBubbleSortRun();
