@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace HelloDotNetGuide.常见算法
+﻿namespace HelloDotNetGuide.常见算法
 {
     public class 冒泡排序算法
     {
