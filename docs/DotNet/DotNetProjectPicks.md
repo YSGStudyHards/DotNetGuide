@@ -389,7 +389,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习~ | https://github.com/Deali-Axy/StarBlog |
 |  1  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
