@@ -389,7 +389,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习~ | https://github.com/Deali-Axy/StarBlog |
+|  2  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
 |  1  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -786,10 +786,10 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis 是一个Redis客户端组件，以高性能处理大数据实时计算为目标。 | https://github.com/NewLifeX/NewLife.Redis |
+|  4  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis 是一个Redis客户端组件，以高性能处理大数据实时计算为目标。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。 | https://github.com/NewLifeX/NewLife.Redis |
 |  3  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
-|  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于 .NET 的 Redis 客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 | https://github.com/2881099/FreeRedis |
-|  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个高性能的.NET Redis客户端，用于在.NET应用程序中访问Redis数据库提供的数据结构和功能。 | https://github.com/StackExchange/StackExchange.Redis |
+|  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
+|  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
