@@ -327,7 +327,7 @@
   * [C#希尔排序算法](https://www.cnblogs.com/Can-daydayup/p/17689566.html)
   * [C#归并排序算法](https://www.cnblogs.com/Can-daydayup/p/17750516.html)
   * [C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
-  * C#堆排序算法
+  * [C#堆排序算法](https://mp.weixin.qq.com/s/zS_ESKzlg05ICqFPIaePkg)
   * C#计数排序算法
   * C#桶排序算法
   * C#基数排序算法
