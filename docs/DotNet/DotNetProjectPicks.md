@@ -25,6 +25,7 @@
   * [程序限流框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%A8%8B%E5%BA%8F%E9%99%90%E6%B5%81%E6%A1%86%E6%9E%B6)
   * [工作流引擎框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%A1%86%E6%9E%B6)
   * [身份认证授权框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83%E6%A1%86%E6%9E%B6)
+  * [反向代理框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
@@ -73,8 +74,10 @@
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
  
-* [界面&控件&UI组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E7%BB%84%E4%BB%B6%E5%BA%93)
-  * [Blazor UI组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E7%BB%84%E4%BB%B6%E5%BA%93)
+* [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E7%BB%84%E4%BB%B6%E5%BA%93)
+  * [Blazor UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E7%BB%84%E4%BB%B6%E5%BA%93)
+  * [WPF UI库]()
+  * [WinForm UI库]()
 
 
 ## 项目列表
@@ -227,7 +230,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [Elsa Core](https://github.com/elsa-workflows/elsa-core) | Elsa Core项目建立在.NET Core平台上，一个强大且灵活的工作流引擎和设计器，适用于构建各种类型的工作流应用。提供了一组功能强大且灵活的工具和组件，用于定义、运行和监控工作流。它支持多种工作流模型、活动节点、并行执行、条件分支、定时触发等特性，使得开发人员能够根据业务需要构建复杂的工作流程。 | https://github.com/elsa-workflows/elsa-core |
 |  1  | [Workflow Core](https://github.com/danielgerlag/workflow-core) | Workflow Core是一个基于.NET的开源工作流引擎，提供了可扩展和灵活的工作流管理功能，帮助开发人员设计和执行复杂的工作流程。 | https://github.com/danielgerlag/workflow-core |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -245,6 +248,18 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
+
+#### 反向代理框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [](https://github.com/microsoft/reverse-proxy) | YARP (Yet Another Reverse Proxy) 是一个开源的反向代理项目，由微软推出并维护。它提供了一个灵活、高性能和可扩展的反向代理解决方案。YARP 的设计目标是为开发人员提供一个简单而强大的工具，用于构建和管理反向代理服务。它支持多种功能和特性，包括负载均衡、路由规则、请求转发、请求/响应修改、流量控制等。该项目采用基于配置的方式来定义反向代理的行为。通过简单的配置文件，您可以指定转发规则、负载均衡策略、路由规则以及其他扩展功能。这使得 YARP 可以适应不同类型的应用场景和需求。 | https://github.com/microsoft/reverse-proxy |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
 ### 开源项目
@@ -795,8 +810,8 @@
 
 
 
-### 界面&控件&UI组件库
-#### Blazor UI组件库
+### 界面&控件&UI库
+#### Blazor UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  12 |  |  |  |
@@ -814,6 +829,31 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
+
+#### WPF UI库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### WinForm UI库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI 是一个开源的 .NET 项目，旨在为希望使用 HTML、CSS 和 JavaScript 创建桌面应用程序的 .NET 开发人员提供支持。 | https://github.com/XuanchenLin/NanUI |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
 
