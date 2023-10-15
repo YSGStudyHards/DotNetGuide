@@ -257,7 +257,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  | [](https://github.com/microsoft/reverse-proxy) | YARP (Yet Another Reverse Proxy) 是一个开源的反向代理项目，由微软推出并维护。它提供了一个灵活、高性能和可扩展的反向代理解决方案。YARP 的设计目标是为开发人员提供一个简单而强大的工具，用于构建和管理反向代理服务。它支持多种功能和特性，包括负载均衡、路由规则、请求转发、请求/响应修改、流量控制等。该项目采用基于配置的方式来定义反向代理的行为。通过简单的配置文件，您可以指定转发规则、负载均衡策略、路由规则以及其他扩展功能。这使得 YARP 可以适应不同类型的应用场景和需求。 | https://github.com/microsoft/reverse-proxy |
+|  1  | [YARP](https://github.com/microsoft/reverse-proxy) | YARP (Yet Another Reverse Proxy) 是一个开源的反向代理项目，由微软推出并维护。它提供了一个灵活、高性能和可扩展的反向代理解决方案。YARP 的设计目标是为开发人员提供一个简单而强大的工具，用于构建和管理反向代理服务。它支持多种功能和特性，包括负载均衡、路由规则、请求转发、请求/响应修改、流量控制等。该项目采用基于配置的方式来定义反向代理的行为。通过简单的配置文件，您可以指定转发规则、负载均衡策略、路由规则以及其他扩展功能。这使得 YARP 可以适应不同类型的应用场景和需求。 | https://github.com/microsoft/reverse-proxy |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
