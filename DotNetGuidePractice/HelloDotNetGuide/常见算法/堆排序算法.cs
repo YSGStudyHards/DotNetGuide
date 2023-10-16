@@ -51,6 +51,7 @@
         public static void HeapSortRun()
         {
             int[] array = { 19, 27, 46, 48, 50, 2, 4, 44, 47, 36, 38, 15, 26, 5, 3, 99, 888, 0, -1 };
+
             Console.WriteLine("排序前数组：" + string.Join(", ", array));
 
             HeapSort(array);
