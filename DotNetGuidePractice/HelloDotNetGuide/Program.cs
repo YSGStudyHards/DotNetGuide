@@ -11,7 +11,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            计数排序算法.CountingSortRun();
+            桶排序算法.BucketSortRun();
+            //计数排序算法.CountingSortRun();
             //堆排序算法.HeapSortRun();
             //归并排序算法.MergeSortRun();
             //希尔排序算法.ShellSortRun();
