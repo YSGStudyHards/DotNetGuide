@@ -148,7 +148,7 @@
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Chloe.ORM](https://github.com/shuxinqin/Chloe) | Chloe.ORM 是一款国产十分稳定可靠的 ORM 框架。除了常规增删查改外还支持连接查询、分组查询、聚合查询、子查询，大部分操作可通过 lambda 完成。还支持分库分表分页、聚合、分组聚合，并支持多个字段组合分片以及多字段路由。 | https://github.com/shuxinqin/Chloe |
 |  4  |  [SqlSugar](https://github.com/donet5/SqlSugar)  | SqlSugar是一款老牌 .NET 开源ORM框架，支持.NET CORE 和 MySql、SqlServer、Sqlite、Oracle 、 postgresql 、达梦、人大金仓 数据库，具有EF NH的功能，比EF更人性化的语法，支持真实的批量操作，另外还有媲美Dapper的性能。 |        https://www.donet5.com/        |
 |  3  | [FreeSql](https://github.com/dotnetcore/FreeSql) | FreeSql 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 |         https://freesql.net/          |
 |  2  |  [Dapper](https://github.com/DapperLib/Dapper)   | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 |  https://github.com/DapperLib/Dapper  |
