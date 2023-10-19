@@ -138,8 +138,10 @@
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
+* [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms)
 * [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
 * [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
@@ -329,8 +331,8 @@
   * [C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
   * [C#堆排序算法](https://mp.weixin.qq.com/s/zS_ESKzlg05ICqFPIaePkg)
   * [C#计数排序算法](https://mp.weixin.qq.com/s/PA5NNqcy3CM9PSncWCsmEg)
-  * C#桶排序算法
-  * C#基数排序算法
+  * [C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
+  * [C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
 * C#经典查找算法
   * C#二分查找算法
   * C#线性查找算法
