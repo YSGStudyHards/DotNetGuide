@@ -322,7 +322,7 @@
 * [程序员必须掌握的算法有哪些？](https://zhuanlan.zhihu.com/p/367994409)
 
 ### C#常见逻辑算法
-* C#经典十大排序算法
+* [C#经典十大排序算法](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
   * [C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
   * [C#选择排序算法](https://mp.weixin.qq.com/s/B1QdqyP8HQgOv8tlSujtog)
   * [C#插入排序算法](https://mp.weixin.qq.com/s/YEregZ_GOGgEltGUJadycw)
