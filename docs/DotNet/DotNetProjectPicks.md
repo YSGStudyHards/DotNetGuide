@@ -26,6 +26,7 @@
   * [工作流引擎框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%A1%86%E6%9E%B6)
   * [身份认证授权框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83%E6%A1%86%E6%9E%B6)
   * [反向代理框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%A1%86%E6%9E%B6)
+  * [API 网关]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
@@ -42,6 +43,7 @@
   * [办公系统（OA）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8A%9E%E5%85%AC%E7%B3%BB%E7%BB%9Foa)
   * [媒体服务器系统（Media）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9Fmedia)
   * [自动化构建系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F)
+  * [任务管理系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -50,7 +52,7 @@
   * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [远程连接工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
   * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-  * [实用桌面工具箱](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7%E7%AE%B1)
+  * [实用桌面工具]()
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
   * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
@@ -243,7 +245,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [Casbin.NET ](https://github.com/casbin/Casbin.NET)| 一种授权库，支持在.NET（C#）中的ACL、RBAC、ABAC等访问控制模型。 | https://github.com/casbin/Casbin.NET |
 |  1  | [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) | IdentityServer4是一个基于OpenID Connect和OAuth 2.0的开源身份认证和授权框架，用于构建安全的认证服务器和单点登录解决方案。 | https://github.com/IdentityServer/IdentityServer4 |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -262,6 +264,20 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### API 网关
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot是一个基于.NET Core的开源网关库，它提供了一种简单而灵活的方式来构建和管理微服务架构中的API网关。通过使用Ocelot，您可以轻松地实现反向代理、路由、请求转发、负载均衡、身份验证、授权等功能。 | https://github.com/ThreeMammals/Ocelot |
+|  1  | [Apiumc Gateway](https://gitee.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关，它从底层Socket原始通信层开始，采用多线程、多任务模式从新构建Web服务，充分发挥当下多核的CPU的多任务并行性能，达到不输nginx的性能表现，而多线程、多任务天生比多进程模式更有编程可控性，基于这此原理，为Apiumc带来丰富多的基于网关深度应用，是网关功能集大成者；它一个工具等于Nginx + 网关登录 + 图片处理 + 内网穿透 + 免费Ssl证书，且配置全程界面化，让你告别难懂、难记易出错的指令配置。 | https://gitee.com/apiumc/Gateway |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+
 ### 开源项目
 #### 商城项目系统（Shop）
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
@@ -271,7 +287,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 多租户多商户多应用开源平台。 | https://github.com/jerrytang67/SoMall |
 |  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -280,8 +296,15 @@
 #### 后台&权限管理系统（Admin&RBAC）
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |            项目详细介绍（文档、文章、源码地址）             |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
-|  7  |  |  |  |
-|  6  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11 |  |  |  |
+|  10 |  |  |  |
+|  9  |  |  |  |
+|  8  | [YuebonCore](https://gitee.com/yuebon/YuebonNetCore) | YuebonCore基于.Net7.0的权限管理及快速开发框架，前后端分离，核心模块包括：组织机构、角色用户、权限授权、多系统、多应用管理、定时任务、业务单据编码规则、代码生成器等，整合应用最新技术包括Asp.NetCore MVC、SqlSugar、WebAPI、Swagger、Vue等。它的架构易于扩展，是中小项目的首选。 | https://gitee.com/yuebon/YuebonNetCore |
+|  7  | [ApeVolo](https://github.com/xianhc/apevolo-api) | .Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台管理系统。 | https://github.com/xianhc/apevolo-api |
+|  6  | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
 |  5  | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
 |  4  | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) | YiShaAdmin 基于.NET Core Web开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单，所以我也把她开源了。 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api。 | https://github.com/liukuo362573/YiShaAdmin |
 |  3  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
@@ -449,6 +472,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 任务管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [YyFlight.ToDoList](https://github.com/YSGStudyHards/YyFlight.ToDoList) | 【.NET7 MongoDB 待办清单系统】.NET7 MongoDB从入门到实战基础教程，该项目后端使用的是.NET7、前端页面使用Blazor、使用MongoDB存储数据，更多相关内容大家可以看目录中的MongoDB从入门到实战的相关教程。该系列教程可作为.NET Core入门项目进行学习，感兴趣的小伙伴可以关注博主和我一起学习共同进步。 | https://github.com/YSGStudyHards/YyFlight.ToDoList |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 
 ### 实用工具&软件
 #### 反编译工具
@@ -529,7 +565,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 实用桌面工具箱
+#### 实用桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
@@ -537,7 +573,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
-|  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |             一个开源跨平台的多功能 Steam 工具箱。              |   https://github.com/BeyondDimension/SteamTools   |
+|  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。              |   https://github.com/BeyondDimension/SteamTools   |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -604,8 +640,8 @@
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  5  |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
+|  4  | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
 |  3  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
 |  2  | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
 |  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) |        适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。        |  https://github.com/huiyadanli/RevokeMsgPatcher   |
