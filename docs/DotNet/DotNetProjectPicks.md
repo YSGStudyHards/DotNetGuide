@@ -800,7 +800,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET处理Excel工具，旨在避免OOM（内存溢出）问题。目前，大多数流行的框架需要将所有数据加载到内存中进行操作，但这会导致内存消耗问题。MiniExcel尝试使用流式算法，将原始的1000 MB占用减少到几MB，以避免OOM问题。 | https://github.com/MiniExcel/MiniExcel |
+|  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
 |  1  | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
