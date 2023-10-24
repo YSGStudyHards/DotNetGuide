@@ -301,7 +301,7 @@
 |  16  |  |  |  |
 |  15  |  |  |  |
 |  14  |  |  |  |
-|  13  |  |  |  |
+|  13  | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) | .NetCore、.Net6、Vue2、Vue3、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。 | https://github.com/cq-panda/Vue.NetCore |
 |  12  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
 |  11 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
 |  10 | [Admin.Core](https://github.com/zhontai/Admin.Core) | Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 | https://github.com/zhontai/Admin.Core |
@@ -430,7 +430,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier 是一个使用 ASP.NET 和 Blazor WebAssembly 编写的开源发布平台。使用 Blogifier 可以创建个人博客或网站。 | https://github.com/blogifierdotnet/Blogifier |
 |  2  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
 |  1  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
 
@@ -483,7 +483,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [TodoApi](https://github.com/davidfowl/TodoApi) | 使用 ASP.NET Core Blazor WASM、Minimal APIs 和身份验证实现 Todo 应用程序。 | https://github.com/davidfowl/TodoApi |
 |  1  | [YyFlight.ToDoList](https://github.com/YSGStudyHards/YyFlight.ToDoList) | 【.NET7 MongoDB 待办清单系统】.NET7 MongoDB从入门到实战基础教程，该项目后端使用的是.NET7、前端页面使用Blazor、使用MongoDB存储数据，更多相关内容大家可以看目录中的MongoDB从入门到实战的相关教程。该系列教程可作为.NET Core入门项目进行学习，感兴趣的小伙伴可以关注博主和我一起学习共同进步。 | https://github.com/YSGStudyHards/YyFlight.ToDoList |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
