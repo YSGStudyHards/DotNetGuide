@@ -296,12 +296,16 @@
 #### 后台&权限管理系统（Admin&RBAC）
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |            项目详细介绍（文档、文章、源码地址）             |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
+|  18  |  |  |  |
+|  17  |  |  |  |
+|  16  |  |  |  |
+|  15  |  |  |  |
 |  14  |  |  |  |
 |  13  |  |  |  |
-|  12  |  |  |  |
-|  11 |  |  |  |
-|  10 |  |  |  |
-|  9  |  |  |  |
+|  12  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
+|  11 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
+|  10 | [Admin.Core](https://github.com/zhontai/Admin.Core) | Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 | https://github.com/zhontai/Admin.Core |
+|  9  | [WTM](https://github.com/dotnetcore/WTM) | WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。 | https://github.com/dotnetcore/WTM |
 |  8  | [YuebonCore](https://gitee.com/yuebon/YuebonNetCore) | YuebonCore基于.Net7.0的权限管理及快速开发框架，前后端分离，核心模块包括：组织机构、角色用户、权限授权、多系统、多应用管理、定时任务、业务单据编码规则、代码生成器等，整合应用最新技术包括Asp.NetCore MVC、SqlSugar、WebAPI、Swagger、Vue等。它的架构易于扩展，是中小项目的首选。 | https://gitee.com/yuebon/YuebonNetCore |
 |  7  | [ApeVolo](https://github.com/xianhc/apevolo-api) | .Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台管理系统。 | https://github.com/xianhc/apevolo-api |
 |  6  | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
