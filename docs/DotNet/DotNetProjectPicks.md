@@ -639,7 +639,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
 |  5  |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
 |  4  | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
 |  3  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
