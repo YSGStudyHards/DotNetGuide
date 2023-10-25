@@ -244,7 +244,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [OpenIddict](https://github.com/openiddict/openiddict-core) | 一个开源的身份认证和授权框架，用于简化实现身份验证、令牌颁发和访问控制等功能的过程。 提供了丰富的配置选项和扩展点，使开发人员能够根据自己的需求进行定制和扩展。它还提供了与 ASP.NET Core 和 Entity Framework Core 的无缝集成，使其更容易与现有的应用程序和数据存储进行整合。 | https://github.com/openiddict/openiddict-core |
 |  2  | [Casbin.NET ](https://github.com/casbin/Casbin.NET)| 一种授权库，支持在.NET（C#）中的ACL、RBAC、ABAC等访问控制模型。 | https://github.com/casbin/Casbin.NET |
 |  1  | [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) | IdentityServer4是一个基于OpenID Connect和OAuth 2.0的开源身份认证和授权框架，用于构建安全的认证服务器和单点登录解决方案。 | https://github.com/IdentityServer/IdentityServer4 |
 
