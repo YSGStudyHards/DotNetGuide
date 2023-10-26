@@ -44,6 +44,8 @@
   * [媒体服务器系统（Media）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9Fmedia)
   * [自动化构建系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F)
   * [任务管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+  * [进销存管理系统]()
+  * [在线考试系统]()
   * [大屏幕&报表系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -76,8 +78,7 @@
   * [.NET JSON处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-json%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
-  * [C#拼多多开放平台SDK]()
-  * [C# Aliyun OSS SDK]()
+  * [其他第三方SDK&类库]()
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
   * [Blazor UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E5%BA%93)
@@ -504,6 +505,45 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 进销存管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | 这是一个示例项目，采用Asp.Net Core Mvc实现了库存订单管理系统。该系统包括仓库、产品、供应商、客户、采购订单、销售订单、出货、收货等功能。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
+|  1  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | 使用.net6，基于 Furion +viewui开发的一套极简的进销存管理系统。 | https://gitee.com/a106_admin/tuling-member |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 在线考试系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君 - 基于 .NET 6 语言的 Furion 框架在线考试系统。 | https://gitee.com/pig0224/ExamKing |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 大屏幕&报表系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport 是一个以复杂中国式报表为核心目标的制作、运行工具，可以让任意net程序具有js脚本功能。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 
 ### 实用工具&软件
 #### 反编译工具
@@ -742,7 +782,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | .netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台。 | https://github.com/mrhuo/MrHuo.OAuth |
 |  1  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -860,6 +900,25 @@
 |  3  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
 |  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
 |  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 他第三方SDK&类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| 12  |  |  |  |
+| 11  |  |  |  |
+| 10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance |
+|  2  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
+|  1  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
