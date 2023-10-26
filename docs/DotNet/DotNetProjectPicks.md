@@ -327,7 +327,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 | https://github.com/CoreUnion/CoreShop |
 |  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 多租户多商户多应用开源平台。 | https://github.com/jerrytang67/SoMall |
 |  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
 
