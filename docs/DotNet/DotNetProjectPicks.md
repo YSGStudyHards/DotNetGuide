@@ -44,6 +44,7 @@
   * [媒体服务器系统（Media）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9Fmedia)
   * [自动化构建系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F)
   * [任务管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+  * [大屏幕&报表系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -75,6 +76,8 @@
   * [.NET JSON处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-json%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
+  * [C#拼多多开放平台SDK]()
+  * [C# Aliyun OSS SDK]()
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
   * [Blazor UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E5%BA%93)
@@ -415,7 +418,7 @@
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  3  | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
 |  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
 |  1  |  [Hangfire](https://github.com/HangfireIO/Hangfire)  | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
@@ -653,7 +656,7 @@
 |  11  |  |  |  |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
 |  7  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
 |  6  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
 |  5  |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
