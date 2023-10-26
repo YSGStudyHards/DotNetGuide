@@ -642,7 +642,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
 |  6  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
 |  5  |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
 |  4  | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
