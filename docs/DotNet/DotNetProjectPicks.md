@@ -29,8 +29,8 @@
   * [API 网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+  * [后台&权限&工作流管理系统（Admin&RBAC&Workflow）]()
   * [商城项目系统（Shop）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E7%B3%BB%E7%BB%9Fshop)
-  * [后台&权限管理系统（Admin&RBAC）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbac)
   * [仓库管理系统（WMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fwms)
   * [内容管理系统（CMS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcms)
   * [客户关系管理系统（CRM）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%A2%E6%88%B7%E5%85%B3%E7%B3%BB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fcrm)
@@ -279,28 +279,26 @@
 
 
 ### 开源项目
-#### 商城项目系统（Shop）
-|  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
-| :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 多租户多商户多应用开源平台。 | https://github.com/jerrytang67/SoMall |
-|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
-
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
-
-#### 后台&权限管理系统（Admin&RBAC）
+#### 后台&权限&工作流管理系统（Admin&RBAC&Workflow）
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |            项目详细介绍（文档、文章、源码地址）             |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
-|  18  |  |  |  |
-|  17  |  |  |  |
-|  16  |  |  |  |
-|  15  |  |  |  |
-|  14  |  |  |  |
+|  30  |  |  |  |
+|  29  |  |  |  |
+|  28  |  |  |  |
+|  27  |  |  |  |
+|  26  |  |  |  |
+|  25  |  |  |  |
+|  24  |  |  |  |
+|  23  |  |  |  |
+|  22  |  |  |  |
+|  21  |  |  |  |
+|  20  |  |  |  |
+|  19  | [Meiam.System](https://github.com/91270/Meiam.System) | .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架。 | https://github.com/91270/Meiam.System |
+|  18  | [WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud) | .NET和Layui集成的最佳实践；敏捷开发优选框架，自带权限包含字段、数据权限，自带流程表单设计，基于多数据库的多租户等。 | https://gitee.com/qian_wei_hong/WaterCloud |
+|  17  | [ZR.Admin.NET](https://gitee.com/izory/ZrAdminNetCore) | 一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多种数据库、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。 | https://gitee.com/izory/ZrAdminNetCore |
+|  16  | [OSharp](https://github.com/dotnetcore/osharp) | OSharp是一个基于.Net6.0的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net 框架更易于应用到实际项目开发中。 | https://github.com/dotnetcore/osharp |
+|  15  | [Serenity](https://github.com/serenity-is/Serenity) | Serenity 是一个 ASP.NET Core / TypeScript 应用程序平台，旨在通过基于服务的架构简化和缩短以数据为中心的业务应用程序的开发过程。它旨在通过避免模板代码、减少重复性任务所花费的时间以及应用最佳软件设计实践，使开发更轻松，同时降低维护成本。 | https://github.com/serenity-is/Serenity |
+|  14  | [AIBPM](https://github.com/leooneone/aibpm.plus) | 一个基于.Net开发的工作流/工单系统，自己实现的顺序流引擎。 | https://github.com/leooneone/aibpm.plus |
 |  13  | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) | .NetCore、.Net6、Vue2、Vue3、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。 | https://github.com/cq-panda/Vue.NetCore |
 |  12  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
 |  11 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
@@ -314,6 +312,20 @@
 |  3  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
 |  2  | [DncZeus](https://github.com/lampo1024/DncZeus) | DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。 | https://github.com/lampo1024/DncZeus |
 |  1  | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【 .NET Core6.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 商城项目系统（Shop）
+|  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
+| :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
+|  7  |  |  |  |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 多租户多商户多应用开源平台。 | https://github.com/jerrytang67/SoMall |
+|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
