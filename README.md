@@ -107,7 +107,7 @@
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
 * [最全面的SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
-* [TortoiseGit-使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
+* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -563,12 +563,13 @@
 * [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 * [Git参考手册](http://gitref.justjavac.com/)
-* [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 * [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7see_no_evil)
+* [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 * [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
+* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
 * [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/JTs66P2gIPr7LnkZ43y8dA)
 * [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://www.cnblogs.com/Can-daydayup/p/17416495.html)
