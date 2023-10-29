@@ -95,10 +95,10 @@
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
 |  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | http://furion.baiqian.ltd/docs/ |
 |  3   | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
-|  2   | [MASA Framework](https://github.com/masastack/MASA.Framework) | . net下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
+|  2   | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
 |  1   | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -110,7 +110,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2   | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | 是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
+|  2   | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | WinForm是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
 |  1   | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -296,7 +296,7 @@
 |  23  |  |  |  |
 |  22  |  |  |  |
 |  21  |  |  |  |
-|  20  |  |  |  |
+|  20  | [FytSoa Admin](https://gitee.com/feiyit/fytsoa) | FytSoa Admin 是一个快速搭建中后台解决方案，后台基于 NetCore 6 和前端 VUE3+Element+Plus 实现。使用最新的前沿技术栈，提供各类使用组件方便在业务开发时调用，并且持续性的提供丰富的业务模块，帮助你快速搭建企业级中后台任务。 | https://gitee.com/feiyit/fytsoa |
 |  19  | [Meiam.System](https://github.com/91270/Meiam.System) | .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架。 | https://github.com/91270/Meiam.System |
 |  18  | [WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud) | .NET和Layui集成的最佳实践；敏捷开发优选框架，自带权限包含字段、数据权限，自带流程表单设计，基于多数据库的多租户等。 | https://gitee.com/qian_wei_hong/WaterCloud |
 |  17  | [ZR.Admin.NET](https://gitee.com/izory/ZrAdminNetCore) | 一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多种数据库、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。 | https://gitee.com/izory/ZrAdminNetCore |
@@ -915,7 +915,7 @@
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
 |  3  | [DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance |
 |  2  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
 |  1  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
