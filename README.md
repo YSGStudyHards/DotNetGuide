@@ -105,7 +105,7 @@
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
-* [最全面的SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
+* [最全面的SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 
@@ -567,12 +567,12 @@
 * [Git详细使用教程](https://mp.weixin.qq.com/s/Yr2EEzpkCP7f8y8LrgI7UA)
 * [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
-* [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
-* [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
+* [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
+* [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/JTs66P2gIPr7LnkZ43y8dA)
-* [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://www.cnblogs.com/Can-daydayup/p/17416495.html)
+* [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://mp.weixin.qq.com/s/31p8oXyKJW7T2_0grcE7HQ)
 
 ### SVN
 * [Subversion版本控制](https://svnbook.red-bean.com/nightly/zh/index.html)
