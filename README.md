@@ -81,7 +81,6 @@
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [18款Visual Studio实用插件](https://mp.weixin.qq.com/s/2Kq4_BzvrkBIgeqpyR9fDQ)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
-* [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 
@@ -349,9 +348,8 @@
 * [自学SQL网](http://xuesql.cn/)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
 * [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
-* [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
-* [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+* [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html#_label1)
 * [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
 * [SQL中的各种连接的区别总结](https://mp.weixin.qq.com/s/lIrxpuY340zV2Nj5LxcKzQ)
 
@@ -396,7 +394,7 @@
 > 非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。指的是与传统关系型数据库（RDBMS）相对应的一类数据库管理系统。与关系型数据库不同的是非关系型数据库不使用传统的表格和行列结构来存储数据，而是采用更灵活的数据模型，例如键值对、文档、列族、图形等形式。
 
 ### NoSQL相关概念
-* [非关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
+* [非关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html#_label2)
 * [常见的 NoSQL 数据库有哪些？](https://mp.weixin.qq.com/s/GUnXVSszDZ9vpPQG2BS3UA)
 
 ### Redis
