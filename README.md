@@ -502,18 +502,19 @@
 
 * [DevOps到底是什么意思？](https://zhuanlan.zhihu.com/p/91371659)
 * [DevOps，CI，CD，自动化简单介绍](https://www.cnblogs.com/Can-daydayup/p/14274932.html)
-* [2021年25佳DevOps工具](https://www.kubernetes.org.cn/9538.html)
 
 ### CI&CD构建、部署、自动化工具
 * [21个自动化部署工具](https://zhuanlan.zhihu.com/p/248508683)
 * [7个CI / CD(持续集成和持续部署)工具](https://cloud.tencent.com/developer/article/1346876)
 * 常用持续集成与部署工具
   - [Jenkins](https://www.jenkins.io/)
-  - [Github Actions](https://github.com/features/actions)
-  - [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
+  - [Zadig](https://gitee.com/koderover/zadig)
+  - [GitLab](https://about.gitlab.com/topics/ci-cd/)
   - [Travis CI](https://travis-ci.org/)
   - [Circle CI](https://circleci.com/)
   - [TeamCity](https://www.jetbrains.com/teamcity)
+  - [Github Actions](https://github.com/features/actions)
+  - [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
 
 > 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致[持续集成](https://cloud.tencent.com/product/coding-ci?from=10680)和[持续部署](https://cloud.tencent.com/product/coding-cd?from=10680)/交付工具的兴起。
 
@@ -559,6 +560,7 @@
 
 ## 🧲版本控制工具
 ### Git
+* [Git大全](https://gitee.com/all-about-git)
 * [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 * [Git参考手册](http://gitref.justjavac.com/)
