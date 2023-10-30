@@ -89,7 +89,7 @@
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
-* [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
+* [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
 
@@ -108,6 +108,7 @@
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
 * [最全面的SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
+* [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -409,6 +410,7 @@
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s/3Fmv7h5p2QDtLxc9n1dp5A)
+* [4款.NET开源的Redis客户端驱动库](https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -478,14 +480,14 @@
 * [Docker容器入门详解](https://mp.weixin.qq.com/s/RrMkeIWO0PePhXf3pTjsRQ)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
-* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
 * [Ubuntu 20.04安装Docker](https://www.cnblogs.com/Can-daydayup/p/16472375.html)
 * [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
 * [Docker安装MySQL并使用Navicat连接 ](https://www.cnblogs.com/Can-daydayup/p/16653879.html)
-* [Docker安装Redis并使用Another Redis Desktop Manager连接](https://www.cnblogs.com/Can-daydayup/p/16653903.html)
 * [Docker安装MongoDB并使用Navicat连接](https://www.cnblogs.com/Can-daydayup/p/16653882.html)
+* [十本你不容错过的Docker入门到精通书籍推荐](https://www.cnblogs.com/Can-daydayup/p/15585714.html)
 * [Docker安装MS SQL Server并使用Navicat远程连接](https://www.cnblogs.com/Can-daydayup/p/17455612.html)
+* [Docker安装Redis并使用Another Redis Desktop Manager连接](https://www.cnblogs.com/Can-daydayup/p/16653903.html)
 
 
 ### 服务编排
@@ -554,7 +556,6 @@
 * [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
-
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
@@ -571,7 +572,7 @@
 * [最全面SourceTree使用教程详解](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 * [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
-* [VS Code使用Git可视化管理源代码详细教程](https://www.cnblogs.com/Can-daydayup/p/14413914.html)
+* [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/JTs66P2gIPr7LnkZ43y8dA)
 * [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://www.cnblogs.com/Can-daydayup/p/17416495.html)
 
