@@ -12,10 +12,73 @@
 
 # 2023年
 ## 10月
-### 
-* **项目简介：**
-* **项目源码地址：**
-* **公众号详细介绍：**
+### 公众号10月简报
+* **C#/.NET/.NET Core优秀项目和框架2023年10月简报：** 
+
+### SKIT.FlurlHttpClient.ByteDance
+* **项目简介：** 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。
+* **项目源码地址：** https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/wIxGNf7UV9HmBat8wxqUig
+
+### SwashbucklerDiary
+* **项目简介：** 一个.NET开源、跨平台的本地日记APP：SwashbucklerDiary「 侠客日记 」。
+* **项目源码地址：** https://github.com/Yu-Core/SwashbucklerDiary
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/6LXcWMo7homcLwBRcIS7nA
+
+### MiniExcel
+* **项目简介：** MiniExcel简单、高效避免OOM的.NET处理Excel查、写、填充数据工具。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。
+* **项目源码地址：** https://gitee.com/dotnetchina/MiniExcel
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/8BjPoAnPjfr00v-LaNYIWQ
+
+### DMSkin-CloudMusic
+* **项目简介：** 一款基于DMSkin框架开发的网易云音乐播放器。
+* **项目源码地址：** https://github.com/944095635/DMSkin-CloudMusic
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/zzT-4Aueb97AjPIIJNjKgw
+
+### AduSkin
+* **项目简介：** 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。
+* **项目源码地址：** https://github.com/aduskin/AduSkin
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g
+
+### Hangfire
+* **项目简介：** Hangfire 是一个非常简单易用的库，可以在 .NET 应用程序中执行后台的、延迟的和定期的任务。它支持 CPU 密集型、I/O 密集型、长时间运行和短时间运行的任务。无需使用 Windows 服务或任务计划程序。同时，Hangfire 可以与 Redis、SQL Server、SQL Azure 和 MSMQ 集成。
+* **项目源码地址：** https://github.com/HangfireIO/Hangfire
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/KchZwSnu8D817klvKvQFAQ
+
+### StarBlog
+* **项目简介：** StarBlog支持Markdown导入的博客。后端基于最新的.Net6和Asp.Net Core框架，遵循RESTFul接口规范，前端基于Vue+ElementUI开发，可作为 .Net Core 入门项目学习。
+* **项目源码地址：** https://github.com/Deali-Axy/StarBlog
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/DveemFRAZKNRYDD6ZIWsIA
+
+### StackExchange.Redis
+* **项目简介：** StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。
+* **项目源码地址：** https://github.com/StackExchange/StackExchange.Redis
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ
+
+### FreeRedis
+* **项目简介：** 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。
+* **项目源码地址：** https://github.com/2881099/FreeRedis
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ
+
+### csredis
+* **项目简介：** .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。
+* **项目源码地址：** https://github.com/2881099/csredis
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ
+
+### NewLife.Redis
+* **项目简介：** NewLife.Redis 是一个Redis客户端组件，以高性能处理大数据实时计算为目标。Redis协议基础实现Redis/RedisClient位于X组件，本库为扩展实现，主要增加列表结构、哈希结构、队列等高级功能。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。
+* **项目源码地址：** https://github.com/NewLifeX/NewLife.Redis
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ
+
+### SkiaSharp
+* **项目简介：** SkiaSharp是由Mono团队维护的开源项目，它是基于Google的Skia图形库的.NET跨平台绑定，提供了强大的2D图形绘制和处理功能，适用于多个平台，包括Windows、macOS、Linux、iOS和Android，可用于创建高性能的、可移植的2D图形应用程序。
+* **项目源码地址：** https://github.com/mono/SkiaSharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/y_IbZNESZFFEzk0JWiZnDQ
+
+### paylink
+* **项目简介：** 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程从而大大提供我们的工作生产效率。
+* **项目源码地址：** https://github.com/essensoft/paylink
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/QF66HAdNRgm4IXXlS6ZcQQ
 
 ## 9月
 ### 公众号9月简报
