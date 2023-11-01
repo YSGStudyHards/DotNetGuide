@@ -106,7 +106,7 @@
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
 * [最全面的SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
-* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
+* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -137,6 +137,7 @@
 ### Awesome Collection
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome Abp](https://github.com/EasyAbp/awesome-abp)
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf)
@@ -571,9 +572,9 @@
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
-* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/9NoocaR_AHxYu24WIJr2Cw)
+* [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
-* [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/JTs66P2gIPr7LnkZ43y8dA)
+* [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/I6LgkVPJFwopnYeANq3uOQ)
 * [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://mp.weixin.qq.com/s/31p8oXyKJW7T2_0grcE7HQ)
 
 ### SVN
