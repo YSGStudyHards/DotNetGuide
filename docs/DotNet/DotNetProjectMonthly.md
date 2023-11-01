@@ -13,7 +13,7 @@
 # 2023年
 ## 10月
 ### 公众号10月简报
-* **C#/.NET/.NET Core优秀项目和框架2023年10月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2023年10月简报：** https://mp.weixin.qq.com/s/pvX-EwCXWQPyTaNfLBYzaQ
 
 ### SKIT.FlurlHttpClient.ByteDance
 * **项目简介：** 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。
