@@ -83,6 +83,7 @@
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
+* [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
 
 ### Visual Studio Code
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
@@ -569,12 +570,14 @@
 * [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 * [Git详细使用教程](https://mp.weixin.qq.com/s/Yr2EEzpkCP7f8y8LrgI7UA)
 * [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+* [gitignore templates](https://github.com/github/gitignore)
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/I6LgkVPJFwopnYeANq3uOQ)
+* [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
 * [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://mp.weixin.qq.com/s/31p8oXyKJW7T2_0grcE7HQ)
 
 ### SVN
