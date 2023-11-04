@@ -60,7 +60,7 @@
   * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
-  * [网络代理工具]()
+  * [网络代理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7)
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -594,7 +594,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |      [Files](https://github.com/files-community/Files)       |        一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
+|  1  |  [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -606,8 +606,8 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
-|  1  |    [1Remote](https://github.com/1Remote/1Remote)    |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
+|  2  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
+|  1  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -631,7 +631,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款以 MIT 协议开源的原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新 功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。              |   https://github.com/BeyondDimension/SteamTools   |
 
