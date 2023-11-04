@@ -60,6 +60,7 @@
   * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
+  * [网络代理工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -689,6 +690,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 网络代理工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  |  [v2rayN](https://github.com/2dust/v2rayN)  | v2rayN是一个v2ray Windows 客户端，它提供了简洁的界面和易于使用的功能，让用户能够轻松地配置和使用v2ray。 | https://github.com/2dust/v2rayN |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -701,8 +715,8 @@
 |  14  |  |  |  |
 |  13  |  |  |  |
 |  12  |  |  |  |
-|  11  |  |  |  |
-|  10  |  |  |  |
+|  11  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
+|  10  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
 |  9  | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
 |  8  | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
 |  7  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
