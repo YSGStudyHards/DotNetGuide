@@ -293,7 +293,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider是一个.NET标准的网络爬虫库。它是一个轻量级、高效和快速的高级网络爬虫和数据抓取框架。 | https://github.com/dotnetcore/DotnetSpider |
+|  1  |  [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider 是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
