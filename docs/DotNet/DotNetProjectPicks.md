@@ -28,6 +28,7 @@
   * [反向代理框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%A1%86%E6%9E%B6)
   * [API 网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
   * [网络爬虫框架]()
+  * [内网穿透框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [后台&权限&工作流管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbacworkflow)
@@ -358,8 +359,8 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
+|  3  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | 一款基于NetCore2.2/3.1（Razor Page）功能强大的Cms建站系统，支持前后端分离。 | https://gitee.com/feiyit/FytSoaCms |
+|  2  |  [lin-cms-dotnetcore](https://gitee.com/igeekfan/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://gitee.com/igeekfan/lin-cms-dotnetcore |
 |  1   | [siteserver/cms](https://github.com/siteserver/cms) | 是基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -692,7 +693,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 网络代理工具
+#### 
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
@@ -700,7 +701,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  [v2rayN](https://github.com/2dust/v2rayN)  | v2rayN是一个v2ray Windows 客户端，它提供了简洁的界面和易于使用的功能，让用户能够轻松地配置和使用v2ray。 | https://github.com/2dust/v2rayN |
+|  1  |  []()  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -938,7 +939,7 @@
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [sentry-dotnet](https://github.com/dotNetTreasury/sentry-dotnet) | Sentry SDK for .NET。 | https://github.com/dotNetTreasury/sentry-dotnet |
 |  4  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
 |  3  | [DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance |
 |  2  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
