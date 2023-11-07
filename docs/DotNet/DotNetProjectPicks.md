@@ -82,6 +82,7 @@
   * [.NET JSON处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-json%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
+  * [.NET的OCR工具类库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -964,6 +965,19 @@
 |  3  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
 |  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
 |  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET的OCR工具类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [PaddleOCRSarp](https://gitee.com/raoyutian/paddle-ocrsharp) | PaddleOCRSarp是一个基于百度飞桨PaddleOCR的C++代码修改并封装的.NET的OCR工具类库。包含文本识别、文本检测、表格识别功能。本项目针对小图识别不准的情况下做了优化，比飞桨原代码识别准确率有所提高。 包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持多种文本检测。 | https://gitee.com/raoyutian/paddle-ocrsharp |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
