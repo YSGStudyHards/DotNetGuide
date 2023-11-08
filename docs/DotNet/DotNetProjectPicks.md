@@ -922,7 +922,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
 |  3  | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
 |  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
 |  1  | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
@@ -991,7 +991,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) | Alipay SDK for .NET，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。 | https://github.com/alipay/alipay-sdk-net-all |
 |  5  | [sentry-dotnet](https://github.com/dotNetTreasury/sentry-dotnet) | Sentry SDK for .NET。 | https://github.com/dotNetTreasury/sentry-dotnet |
 |  4  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
 |  3  | [DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance |
