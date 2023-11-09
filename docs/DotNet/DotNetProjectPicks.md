@@ -90,8 +90,8 @@
   * [WPF UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#wpf-ui%E5%BA%93)
   * [WinForm UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
 
-* [开源学习知识库]()
-  * [数据结构与算法]()
+* [开源学习知识库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93)
+  * [数据结构与算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 ## 项目列表
 ### 开源框架
