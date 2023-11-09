@@ -90,6 +90,8 @@
   * [WPF UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#wpf-ui%E5%BA%93)
   * [WinForm UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
 
+* [开源学习知识库]()
+  * [数据结构与算法]()
 
 ## 项目列表
 ### 开源框架
@@ -1047,5 +1049,19 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
+
+
+### 开源学习知识库
+#### 数据结构与算法
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
