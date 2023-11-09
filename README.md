@@ -314,13 +314,14 @@
 > 逻辑算法是一种基于逻辑推理和结构化思维的算法设计方法。它是指通过逻辑关系和规则来解决问题的算法。逻辑算法通常使用形式化的逻辑语言和符号进行描述和表达，以便于机器或计算机程序的理解和执行。
 
 ### 逻辑算法提升
-* [AcWing在线题库](https://www.acwing.com/problem/)
-* [在线算法刷题平台-力扣](https://leetcode-cn.com/)
-* [牛客网基础算法](https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21000)
 * [小浩算法](https://www.bookstack.cn/read/hello-algorithm/README.md)
-* [Hello 算法](https://www.hello-algo.com/)
+* [Hello算法](https://www.hello-algo.com/)
+* [AcWing在线题库](https://www.acwing.com/problem/)
+* [牛客网基础算法](https://www.nowcoder.com/exam/intelligent?questionJobId=10&tagId=21000)
 * [CodeTop企业题库](https://codetop.cc/home)
+* [在线算法刷题平台-力扣](https://leetcode-cn.com/)
 * [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
+* [VisuAlgo可视化学习算法](https://visualgo.net/zh)
 * [程序员必须掌握的算法有哪些？](https://zhuanlan.zhihu.com/p/367994409)
 
 ### C#常见逻辑算法
