@@ -156,16 +156,28 @@
 #### .NET ORM框架
 |  ✍   |                  项目名称和地址                  |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）              |
 | :--: | :----------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
+|  20 |  |  |  |
+|  19 |  |  |  |
+|  18 |  |  |  |
+|  17 |  |  |  |
+|  16 |  |  |  |
+|  15  |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+|  14 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。 | https://github.com/sqlkata/querybuilder |
+|  13 | [TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | TinyORM是一个简单、快速且安全的微型.NET ORM。 | https://github.com/sdrapkin/SecurityDriven.TinyORM |
+|  12 | [cyqdata](https://github.com/cyq1162/cyqdata) | cyq.data是一个高性能且功能最强大的orm（支持.NET Core），支持Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。 | https://github.com/cyq1162/cyqdata |
+|  11 | [Insight.Database](https://github.com/jonwagner/Insight.Database) | Insight.Database是一个用于 .NET 的快速、轻量级的 micro-orm。 | https://github.com/jonwagner/Insight.Database |
+|  10 | [SQLite-net](https://github.com/praeclarum/sqlite-net) |  简单、强大、跨平台的 SQLite 客户端和 .NET 的 ORM。 | https://github.com/praeclarum/sqlite-net |
+|  9  | [RepoDb](https://github.com/mikependon/RepoDB) | RepoDB是一个开源的.NET ORM库，它弥合了微ORM和完整ORM之间的差距。它帮助您简化在开发过程中何时使用基本操作和高级操作的切换。 | https://github.com/mikependon/RepoDB |
+|  8  | [linq2db](https://github.com/linq2db/linq2db) | LINQ to DB 是最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单、轻量、快速且类型安全的层。
+在架构上，它比 Dapper、Massive 或 PetaPoco 等微 ORM 高出一步，因为您使用 LINQ 表达式，而不是魔术字符串，同时在代码和数据库之间维护一个薄抽象层。您的查询由 C# 编译器检查并允许轻松重构。
+但是，它不像 LINQ to SQL 或实体框架那么重。没有更改跟踪，因此您必须自己进行管理，但从积极的方面来说，您可以获得更多控制权并更快地访问您的数据。 | https://github.com/linq2db/linq2db |
+|  7  | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) | PetaPoco 是一个用于 .NET（4、4.5+、net standard 2.0+）和 Mono 的微型、快速、易于使用的 micro-ORM。由于 PetaPoco 所代表的简单性和易用性，它受到许多人的喜爱。PetaPoco 是首选的微 ORM，也是任何体面的开发人员工具包中必不可少的实用程序。 | https://github.com/CollaboratingPlatypus/PetaPoco |
+|  6  | [SmartSql](https://github.com/dotnetcore/SmartSql) | SmartSql = C# 中的 MyBatis + .NET Core+ 缓存（内存 | Redis）+ R/W 拆分 + PropertyChangedTrack +动态存储库 + InvokeSync + 诊断。SmartSql 借鉴了 MyBatis 的思想，使用 XML 来管理 SQL ，并且提供了若干个筛选器标签来消除代码层面的各种 if/else 的判断分支。SmartSql将管理你的 SQL ，并且通过筛选标签来维护本来你在代码层面的各种条件判断，使你的代码更加优美。 | https://github.com/dotnetcore/SmartSql |
 |  5  | [Chloe.ORM](https://github.com/shuxinqin/Chloe) | Chloe.ORM 是一款国产十分稳定可靠的 ORM 框架。除了常规增删查改外还支持连接查询、分组查询、聚合查询、子查询，大部分操作可通过 lambda 完成。还支持分库分表分页、聚合、分组聚合，并支持多个字段组合分片以及多字段路由。 | https://github.com/shuxinqin/Chloe |
 |  4  |  [SqlSugar](https://github.com/donet5/SqlSugar)  | SqlSugar是一款老牌 .NET 开源ORM框架，支持.NET CORE 和 MySql、SqlServer、Sqlite、Oracle 、 postgresql 、达梦、人大金仓 数据库，具有EF NH的功能，比EF更人性化的语法，支持真实的批量操作，另外还有媲美Dapper的性能。 |        https://www.donet5.com/        |
 |  3  | [FreeSql](https://github.com/dotnetcore/FreeSql) | FreeSql 是一款功能强大的对象关系映射（O/RM）组件，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。 |         https://freesql.net/          |
 |  2  |  [Dapper](https://github.com/DapperLib/Dapper)   | Dapper是一个简单的.NET对象映射器，在速度方面具有"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET数据读取器一样快。ORM是一个对象关系映射器，它负责数据库和编程语言之间的映射。Dapper通过扩展IDbConnection提供一些有用的扩展方法去查询您的数据库。 |  https://github.com/DapperLib/Dapper  |
-|  1  |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+|  1  |  [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)  | OrmLite是一个快速、简单、类型化的.NET ORM，OrmLite 的目标是提供一个方便、DRY、无配置、与 RDBMS 无关的类型包装器，该包装器与 SQL 保持高度亲和性，公开直观的 API，生成可预测的 SQL 并干净地映射到断开连接和数据传输对象 (DTO) 友好、普通的旧C# 对象 (POCO)。这种方法更容易推理您的数据访问，从而清楚地知道什么 SQL 在什么时间执行，同时减轻意外行为、隐式 N+1 查询和重对象关系映射器 (ORM) 中普遍存在的泄漏数据访问。 | https://github.com/ServiceStack/ServiceStack.OrmLite |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
