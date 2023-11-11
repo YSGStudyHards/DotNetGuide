@@ -91,6 +91,7 @@
   * [WinForm UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
 
 * [开源学习知识库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93)
+  * [设计模式]()
   * [数据结构与算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 ## 项目列表
@@ -1062,6 +1063,19 @@
 
 
 ### 开源学习知识库
+#### 设计模式
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [DesignPattern.Samples.CSharp](https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp) | 23种面向对象设计模式示例代码（C#实现）。 | https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp |
+|  1  | [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) | 设计模式 C# 版（ .NET 6）。 | https://github.com/sheng-jie/Design-Pattern |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 数据结构与算法
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
