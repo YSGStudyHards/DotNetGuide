@@ -83,6 +83,8 @@
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
   * [.NET的OCR工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%9A%84ocr%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
+  * [敏感词检测组件库]()
+  * [C#拼音字母转化类库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -991,6 +993,32 @@
 |  3  |  |  |  |
 |  2  | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | 百度飞桨PaddleOCR .NET调用库，PaddleInference C API 提供的 .NET 包装，支持 Windows(x64) ，基于NVIDIA Cuda 10.2+ 的 GPU  和 Linux(Ubuntu-22.04 x64)。 | https://github.com/sdcb/PaddleSharp |
 |  1  | [PaddleOCRSharp](https://gitee.com/raoyutian/paddle-ocrsharp) | PaddleOCRSharp 是一个基于百度飞桨PaddleOCR的.NET版本OCR工具类库。项目核心组件PaddleOCR.dll,由C++编写，根据百度飞桨PaddleOCR的C++代码修改并优化而成。目前已经支持C++、.NET、Python、Golang、Rust等开发语言的直接API接口调用。项目包含文本识别、文本检测、表格识别功能。本项目针对小图识别不准的情况下做了优化，比飞桨原代码识别准确率有所提高。包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持中英文、纯英文以及多种语言文本检测识别。 | https://gitee.com/raoyutian/paddle-ocrsharp |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 敏感词检测组件库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。 | https://github.com/toolgood/ToolGood.Words |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### C#拼音字母转化类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
