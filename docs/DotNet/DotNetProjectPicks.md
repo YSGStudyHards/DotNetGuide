@@ -163,7 +163,7 @@
 |  19 |  |  |  |
 |  18 |  |  |  |
 |  17 |  |  |  |
-|  16 |  |  |  |
+|  16 | [nhibernate-core](https://github.com/nhibernate/nhibernate-core) | NHibernate是.NET框架的成熟、开源的对象关系映射工具。它在积极开发中，功能齐全，并已成功应用于数千个项目中。 | https://github.com/nhibernate/nhibernate-core |
 |  15  |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
 |  14 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。 |https://github.com/sqlkata/querybuilder |
 |  13 | [TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | TinyORM是一个简单、快速且安全的微型.NET ORM。 | https://github.com/sdrapkin/SecurityDriven.TinyORM |
