@@ -688,7 +688,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
 |  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款以 MIT 协议开源的原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新 功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。              |   https://github.com/BeyondDimension/SteamTools   |
@@ -936,7 +936,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
 |  4  | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
 |  3  | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
 |  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
