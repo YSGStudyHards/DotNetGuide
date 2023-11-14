@@ -97,6 +97,7 @@
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 
 ### GitHub
+* [GitHub漫游指南](https://github.com/phodal/github)
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
 * [如何给GitHub上的开源项目提交PR?](https://mp.weixin.qq.com/s/YJwW9AFPoEKuU_MXqL_Pcg)
