@@ -795,10 +795,10 @@
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
-|  3   |   [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)    | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 |           https://github.com/JeffreySu/WeiXinMPSDK           |
-|  2   | [DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) | 全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat |
-|  1   | [Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat) | Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。 | https://github.com/EasyAbp/Abp.WeChat |
+|  4  | [Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk) | 最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。 | https://github.com/xin-lai/Magicodes.Wx.Sdk |
+|  3  | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)    | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 |           https://github.com/JeffreySu/WeiXinMPSDK           |
+|  2  | [DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) | 全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。 | https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat |
+|  1  | [Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat) | Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。 | https://github.com/EasyAbp/Abp.WeChat |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
