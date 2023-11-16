@@ -392,6 +392,7 @@
 * [Oracle快速入门视频教程](https://www.bilibili.com/video/BV1u54y1G7xq?spm_id_from=333.337.search-card.all.click)
 
 ### SQLite
+* [SQLite官网](https://www.sqlite.org/index.html)
 * [SQLite教程](https://www.runoob.com/sqlite/sqlite-intro.html)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
