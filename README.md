@@ -381,7 +381,7 @@
 * [SSMS管理工具快速入门](https://docs.microsoft.com/zh-cn/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver15)
 
 ### PostgreSQL
-* [PostgreSQL 教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
+* [PostgreSQL教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
 * [PostgreSQL中文文档](http://www.postgres.cn/v2/document)
 * [PostgreSQL 11.2 手册](http://www.postgres.cn/docs/11/)
 * [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/)
