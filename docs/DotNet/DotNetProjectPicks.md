@@ -742,7 +742,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
+|  2  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的Windows内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
 |  1  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
