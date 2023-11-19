@@ -13,7 +13,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 > 欢迎关注作者（微信公众号：**追逐时光者**），与大姚一起沟通、交流学习、共同进步。
 * [了解作者&获取更多学习资料😎](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-* [DotNetGuide技术社区微信交流群👪](https://mp.weixin.qq.com/s/l575mzQVYxwOgPI1UE6HmQ)
+* [DotNetGuide技术社区微信交流群👪](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
 
 ![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_9076dd69.png "交流学习共同进步")
 
