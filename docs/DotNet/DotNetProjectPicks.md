@@ -951,8 +951,8 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
+|  3  | [Jil](https://github.com/kevin-montrose/Jil) | 一个快速的JSON（反）序列化器，基于Sigil构建，采用了一些有点疯狂的优化技巧。 | https://github.com/kevin-montrose/Jil |
+|  2  | [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | System.Text.Json是 .NET Core 3.0 及以上版本中内置的 JSON 序列化和反序列化库。 | https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json |
 |  1  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -964,7 +964,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
 |  2  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，减少手动映射代码的编写工作量。 | https://github.com/AutoMapper/AutoMapper |
 |  1  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
 
@@ -1066,8 +1066,12 @@
 #### WPF UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
 |  4  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
 |  3  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  2  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
@@ -1079,10 +1083,15 @@
 #### WinForm UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) | c#winform自定义控件，对触屏具有更好的操作支持，项目是基于framework4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
 |  2  | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 | https://github.com/yhuse/SunnyUI |
 |  1  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI 是一个开源的 .NET 项目，旨在为希望使用 HTML、CSS 和 JavaScript 创建桌面应用程序的 .NET 开发人员提供支持。 | https://github.com/XuanchenLin/NanUI |
 
