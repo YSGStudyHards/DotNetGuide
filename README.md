@@ -182,6 +182,11 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（7）-Blazor UI框架选型](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（8）-Ant Design Blazor前端框架搭建](https://www.cnblogs.com/Can-daydayup/p/17453162.html)
 
+### 七天.NET 8操作SQLite入门到实战详细教程
+* [第一天 SQLite 简介](https://mp.weixin.qq.com/s/wCKjqDv2hpvsu-01meSMNA)
+* [第二天 在 Windows 上配置 SQLite环境](https://mp.weixin.qq.com/s/fbsLOfE1gQLG3OPpz3UZMA)
+* [第三天SQLite快速入门](https://mp.weixin.qq.com/s/wgMDqIdaQsMfOuiLl07ggw)
+
 ### .NET Core NPOI实操教程
 * [.NET Core使用NPOI导出复杂Word详解](https://www.cnblogs.com/Can-daydayup/p/11588531.html)
 * [.NET之NPOI Excel数据导出和批量导入功能](https://www.cnblogs.com/Can-daydayup/p/10513764.html)
