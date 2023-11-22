@@ -341,7 +341,7 @@
 |  24  |  |  |  |
 |  23  |  |  |  |
 |  22  |  |  |  |
-|  21  |  |  |  |
+|  21  | [NetAdmin](https://github.com/nsnail/NetAdmin) | 通用后台权限管理系统、快速开发框架（基于C#12/.NET8、Vue3/Vite、Element Plus等现代技术构建，具有十分整洁、优雅的编码规范）。 | https://github.com/nsnail/NetAdmin |
 |  20  | [FytSoa Admin](https://gitee.com/feiyit/fytsoa) | FytSoa Admin 是一个快速搭建中后台解决方案，后台基于 NetCore 6 和前端 VUE3+Element+Plus 实现。使用最新的前沿技术栈，提供各类使用组件方便在业务开发时调用，并且持续性的提供丰富的业务模块，帮助你快速搭建企业级中后台任务。 | https://gitee.com/feiyit/fytsoa |
 |  19  | [Meiam.System](https://github.com/91270/Meiam.System) | .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架。 | https://github.com/91270/Meiam.System |
 |  18  | [WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud) | .NET和Layui集成的最佳实践；敏捷开发优选框架，自带权限包含字段、数据权限，自带流程表单设计，基于多数据库的多租户等。 | https://gitee.com/qian_wei_hong/WaterCloud |
