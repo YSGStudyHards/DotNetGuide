@@ -3,7 +3,7 @@
 
 
 ## 前言
-古人云：“书中自有黄金屋，书中自有颜如玉”，强调了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR留下自己觉得不错的C#/.NET/.NET Core宝藏书籍。
+古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。
 
 - [📚C#/.NET/.NET Core推荐学习书籍Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
 - [📖C#/.NET/.NET Core推荐学习书籍（已分类）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/CsharpRecommendedBooks.md)
