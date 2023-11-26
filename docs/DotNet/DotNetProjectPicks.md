@@ -370,10 +370,13 @@
 #### 商城项目系统（Shop）
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
+|  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
+|  5  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
+|  4  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET Core构建的简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
 |  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 | https://github.com/CoreUnion/CoreShop |
 |  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 多租户多商户多应用开源平台。 | https://github.com/jerrytang67/SoMall |
 |  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
@@ -387,8 +390,8 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   .NET开源免费的WMS仓库管理系统：KopSoftWms仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
+|  3  | [ZEQP](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
+|  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
 |  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -417,7 +420,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  |  |  |
+|  1  | [WebVella-ERP](https://github.com/WebVella/WebVella-ERP) | WebVella ERP是一款免费的开源Web软件，旨在满足任何业务数据管理需求的极端定制和可插拔性。基于 ASP.NET Core、RazorPages 和 PostgreSQL 的免费开源可插拔 ERP 和 CRM 软件。以 Linux 或 Windows 为主机操作系统。这款系统的最大亮点在于其可插拔的设计。无需担心系统的耦合问题，可以轻松地将各个模块进行组合和扩展。系统的各个组件都遵循开放标准，在构建企业级应用时更加得心应手。无论是ERP还是CRM，都可以根据自身需求进行定制开发，实现最佳的业务流程。 | https://github.com/WebVella/WebVella-ERP |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -430,7 +433,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  |  |  |
+|  1  | [WebVella-ERP](https://github.com/WebVella/WebVella-ERP) | WebVella ERP是一款免费的开源Web软件，旨在满足任何业务数据管理需求的极端定制和可插拔性。基于 ASP.NET Core、RazorPages 和 PostgreSQL 的免费开源可插拔 ERP 和 CRM 软件。以 Linux 或 Windows 为主机操作系统。这款系统的最大亮点在于其可插拔的设计。无需担心系统的耦合问题，可以轻松地将各个模块进行组合和扩展。系统的各个组件都遵循开放标准，在构建企业级应用时更加得心应手。无论是ERP还是CRM，都可以根据自身需求进行定制开发，实现最佳的业务流程。 | https://github.com/WebVella/WebVella-ERP |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
