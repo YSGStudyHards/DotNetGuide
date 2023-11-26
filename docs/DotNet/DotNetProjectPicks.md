@@ -390,7 +390,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  | [ZEQP](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
+|  3  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
 |  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
 |  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
 
