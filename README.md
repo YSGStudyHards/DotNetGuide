@@ -96,9 +96,11 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
+* [VS Code安装CodeGeeX AI编程助手提高.NET开发工作效率](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 
 ### AI辅助编程工具
-* [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
+* [CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
+* AI编程工具CodeWhisperer 
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
