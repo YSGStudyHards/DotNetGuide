@@ -467,8 +467,12 @@
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
 |  4  | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  3  | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
 |  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
@@ -837,7 +841,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [FFmpeg.NET](https://github.com/cmxl/FFmpeg.NET) | 常见 FFmpeg 任务的 .NET 封装程序 | https://github.com/cmxl/FFmpeg.NET |
 |  4  | [FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen) | FFmpeg AutoGen是一个为C#/.NET和Core（Linux、MacOS和Mono）自动生成的不安全绑定库。它提供了与FFmpeg的接口对应的C#代码，使开发者能够在C#/.NET和Core平台上使用FFmpeg的功能。 | https://github.com/Ruslan-B/FFmpeg.AutoGen |
 |  3  | [FFMpegCore ](https://github.com/rosenbjerg/FFMpegCore)| 是一个基于 .NET Standard 的 FFmpeg 处理库。它提供了一个简单而直观的 API，使开发者能够在 .NET 应用程序中轻松使用 FFmpeg 进行媒体处理任务，如转码、剪辑、合并等。FFMpegCore 具有跨平台支持，可以在 Windows、Linux 和 macOS 等操作系统上运行。 | https://github.com/rosenbjerg/FFMpegCore |
 |  2  | [Xabe.FFmpeg ](https://github.com/tomaszzmuda/Xabe.FFmpeg)| FFmpeg 的.NET 标准包装器。它允许在不了解 FFmpeg 工作原理的情况下处理媒体，并可用于从 dotnet 核心应用程序向 FFmpeg 传递自定义参数。 | https://github.com/tomaszzmuda/Xabe.FFmpeg |
