@@ -360,6 +360,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * C#经典查找算法
   * C#二分查找算法
   * C#线性查找算法
+* [C#面试常见递归算法](https://mp.weixin.qq.com/s/1YouL0smeUszjcrbRRpQ9g)
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
