@@ -1,4 +1,5 @@
 ﻿using HelloDotNetGuide.常见算法;
+using HelloDotNetGuide.异步编程;
 using HelloDotNetGuide.数组相关;
 
 namespace HelloDotNetGuide
@@ -9,8 +10,16 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region 异步编程
+
+            //var getFileContent = ReadFileAsyncExample.ReadFileAsync("D:\\Desktop\\数据读取.txt").ConfigureAwait(false);
+
+            #endregion
+
             #region 常见算法
 
+            //递归算法.FibonacciSum();
+            //递归算法.RecursiveAlgorithmSum();
             //基数排序算法.RadixSortRun();
             //桶排序算法.BucketSortRun();
             //计数排序算法.CountingSortRun();
