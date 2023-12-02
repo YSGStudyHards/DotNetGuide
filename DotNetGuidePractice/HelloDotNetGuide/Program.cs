@@ -18,7 +18,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            递归算法.RecursiveArraySum();
+            //递归算法.RecursiveFactorial();
+            //递归算法.RecursiveArraySum();
             //递归算法.FibonacciSum();
             //递归算法.RecursiveAlgorithmSum();
             //基数排序算法.RadixSortRun();
