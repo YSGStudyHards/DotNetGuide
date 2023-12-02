@@ -230,7 +230,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [Fixie](https://github.com/fixie/fixie) | Fixie是一个类似于NUnit和xUnit的现代化.NET测试框架，但更注重简洁的默认设置和灵活的定制。 | https://github.com/fixie/fixie |
 |  2  | [xUnit.net](https://github.com/xunit/xunit) | xUnit.net是一个.NET平台上的开源单元测试框架，它提供了简洁、现代化的设计和丰富的功能，使开发人员能够轻松编写高效的单元测试。 | https://github.com/xunit/xunit |
 |  1  | [NUnit](https://github.com/nunit/nunit) | NUnit是一个流行的.NET平台上的开源单元测试框架，它提供了强大的功能和灵活性，使开发人员能够编写高质量的单元测试代码。 | https://github.com/nunit/nunit |
 
