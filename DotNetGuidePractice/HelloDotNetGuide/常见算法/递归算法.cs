@@ -94,5 +94,33 @@
         }
 
         #endregion
+
+        #region C#递归算法计算阶乘的方法
+
+        /// <summary>
+        /// C#递归算法计算阶乘的方法
+        /// 一个正整数的阶乘（factorial）是所有小于及等于该数的正整数的积，并且0的阶乘为1。自然数n的阶乘写作n!。1808年，基斯顿·卡曼引进这个表示法。
+        /// 亦即n!=1×2×3×...×(n-1)×n。阶乘亦可以递归方式定义：0!=1，n!=(n-1)!×n。
+        /// </summary>
+        public static void RecursiveFactorial()
+        {
+            int result = Factorial(5);
+            Console.WriteLine("5的阶乘为：" + result);//5!=120
+        }
+
+        public static int Factorial(int n)
+        {
+            if (n == 0 || n == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                // 递归调用：当前数n乘以前面所有数的阶乘
+                return n * Factorial(n - 1);
+            }
+        }
+
+        #endregion
     }
 }
