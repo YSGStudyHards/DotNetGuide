@@ -11,6 +11,58 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2023年
+## 11月
+### CAP
+* **项目简介：** CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。CAP 是一个EventBus，同时也是一个在微服务或者SOA系统中解决分布式事务问题的一个框架。它有助于创建可扩展，可靠并且易于更改的微服务系统。
+* **项目源码地址：** https://github.com/dotnetcore/CAP
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/ONM9bLKidVCS4pAwJbG9tg
+
+### ZEQP.WMS
+* **项目简介：** ZEQP.WMS仓储管理系统使用 Colder.Admin.AntdVue框架进行功能开发，支持Windows、Linux、macOS多操作系统运行。当前使用的SDK版本是.Net Core 3.1，数据库支持MSSQL/MySQL。
+* **项目源码地址：** https://github.com/awesomedotnetcore/WMS/
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/oSWqG0JZpdlckOOCWwIQow
+
+### HandyControl
+* **项目简介：** HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件。使用HandyControl你可以轻松地创建一个美观的WPF应用程序，从而大大提高开发效率。
+* **项目源码地址：** https://github.com/handyOrg/HandyControl
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ
+
+### NETCore.Encrypt
+* **项目简介：** NETCore.Encrypt是.NET Core加密解密工具类库，包括AES、RSA、MD5、SHA1、DES、SHA256、SHA384、SHA512等更多功能。
+* **项目源码地址：** https://github.com/myloveCc/NETCore.Encrypt
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Z7IcCAqnsKXksNgDUXykag
+
+### WinMemoryCleaner
+* **项目简介：** 一款.NET开源的小巧、智能、免费的Windows内存清理工具（使用Windows内存清理工具来优化内存，这样不必浪费时间去重新启动电脑）。
+* **项目源码地址：** https://github.com/IgorMundstein/WinMemoryCleaner
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/y3hqs9T_i5ApgjZEHeoxJg
+
+### Hello算法
+* **项目简介：** Hello算法一个开源免费、新手友好的数据结构与算法入门教程。全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。源代码可一键运行，帮助读者在练习中提升编程技能，了解算法工作原理和数据结构底层实现。支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+* **项目源码地址：** https://github.com/krahets/hello-algo
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/9lb5iu6tGNiSGcIrf7fQ3A
+
+### PaddleOCRSharp
+* **项目简介：** PaddleOCRSharp 是一个基于百度飞桨PaddleOCR的.NET版本OCR工具类库。项目核心组件PaddleOCR.dll,由C++编写，根据百度飞桨PaddleOCR的C++代码修改并优化而成。目前已经支持C++、.NET、Python、Golang、Rust等开发语言的直接API接口调用。项目包含文本识别、文本检测、表格识别功能。本项目针对小图识别不准的情况下做了优化，比飞桨原代码识别准确率有所提高。包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持中英文、纯英文以及多种语言文本检测识别。
+* **项目源码地址：** https://gitee.com/raoyutian/paddle-ocrsharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/9F_rSB8Wm69jLdgsH4ufvg
+
+### MrHuo.OAuth
+* **项目简介：** MrHuo.OAuth是.NET项目集成OAuth2登录最全面的、最方便的框架，集成了国内外大部分平台(.NET Core 项目或 .NET Framework 4.6 项目均可使用)。
+* **项目源码地址：** https://github.com/mrhuo/MrHuo.OAuth
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/2wTmSz-qPOWPCipIrIWvkg
+
+### CoreShop
+* **项目简介：** 核心商城系统（CoreShop） 是基于 Asp.Net 7.0、Uni-App开发、支持可视化布局的小程序商城系统；前后端分离，支持分布式部署，跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程，支持可视化自定义首页模块布局效果。
+* **项目源码地址：** https://github.com/CoreUnion/CoreShop
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/iRxmWUXrqArZD_Ax4i6wwg
+
+### ToastFish
+* **项目简介：** 一个C#开源且免费的能利用Windows通知栏背单词的软件，可以让你在上班、上课等恶劣环境下安全隐蔽地背单词（利用摸鱼时间背单词的软件）。
+* **项目源码地址：** https://github.com/Uahh/ToastFish
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/CS4NxQMN18LxyBIoEx4RIA
+
+
 ## 10月
 ### 公众号10月简报
 * **C#/.NET/.NET Core优秀项目和框架2023年10月简报：** https://mp.weixin.qq.com/s/pvX-EwCXWQPyTaNfLBYzaQ
@@ -79,6 +131,7 @@
 * **项目简介：** 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程从而大大提供我们的工作生产效率。
 * **项目源码地址：** https://github.com/essensoft/paylink
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/QF66HAdNRgm4IXXlS6ZcQQ
+
 
 ## 9月
 ### 公众号9月简报
