@@ -11,7 +11,13 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2023年
+## 12月
+
+
 ## 11月
+### 公众号11月简报
+* **C#/.NET/.NET Core优秀项目和框架2023年11月简报：** https://mp.weixin.qq.com/s/oiRuGes9sAhLSNHNtSEEaw
+
 ### CAP
 * **项目简介：** CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。CAP 是一个EventBus，同时也是一个在微服务或者SOA系统中解决分布式事务问题的一个框架。它有助于创建可扩展，可靠并且易于更改的微服务系统。
 * **项目源码地址：** https://github.com/dotnetcore/CAP
