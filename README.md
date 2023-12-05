@@ -189,6 +189,15 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [第二天 在 Windows 上配置 SQLite环境](https://mp.weixin.qq.com/s/fbsLOfE1gQLG3OPpz3UZMA)
 * [第三天SQLite快速入门](https://mp.weixin.qq.com/s/wgMDqIdaQsMfOuiLl07ggw)
 
+### .NET微信网页开发相关文章教程
+* [微信网页开发官方详细文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/iOS_WKWebview.html)
+* [全面的.NET微信网页开发之JS-SDK使用步骤、配置信息和接口请求签名生成详解](https://mp.weixin.qq.com/s/zlSKXQg8IgzEFC-7v-Gngg)
+* .NET微信网页开发之网页授权获取用户基本信息
+* [.NET微信网页开发之通过UnionID机制解决用户在不同公众号，或在公众号、移动应用之间帐号统一问题](https://mp.weixin.qq.com/s/hey7I9ZZzTwXmar0ccLGDg)
+* [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/7hC-DrELYJiz8YUt06WxKw)
+* [.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
+* [.NET微信网页开发之使用微信JS-SDK获取当前地理位置](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
+
 ### .NET Core NPOI实操教程
 * [.NET Core使用NPOI导出复杂Word详解](https://www.cnblogs.com/Can-daydayup/p/11588531.html)
 * [.NET之NPOI Excel数据导出和批量导入功能](https://www.cnblogs.com/Can-daydayup/p/10513764.html)
