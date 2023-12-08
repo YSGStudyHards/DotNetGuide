@@ -50,6 +50,7 @@
   * [在线考试系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%9C%A8%E7%BA%BF%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9F)
   * [大屏幕&报表系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%A4%A7%E5%B1%8F%E5%B9%95%E6%8A%A5%E8%A1%A8%E7%B3%BB%E7%BB%9F)
   * [文档管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+  * [访客管理系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -309,7 +310,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [SpiderEye](https://github.com/JBildstein/SpiderEye) | SpiderEye是一个基于.NET的Web爬虫框架，旨在为开发者提供构建高效、可扩展的网络爬虫的工具。与其他类似的框架相比，SpiderEye使用操作系统的原生webview而不是捆绑Chromium，从而提供更轻量级的解决方案。 | https://github.com/JBildstein/SpiderEye |
 |  1  |  [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider 是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -607,6 +608,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  |  [Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan)  | Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，使用 MS SQL 2012 / MySql8.0（或更高版本）后端数据库，您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持令牌基身份验证,项目体系结构遵循著名的软件模式和最佳安全实践。 | https://github.com/dorisoy/Dorisoy.Pan |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 访客管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  |  [visitormanagement](https://github.com/neozhu/visitormanagement) | 智能访客管理系统及门卫登记设备，可以安全可靠地进行来访人员管理，主要提供上传健康码，行程码，核酸报告和多级审批功能，不仅可以保障各个单位的安全，更可以提高企事业单位的电子化访客登记水平和形象。 | https://github.com/neozhu/visitormanagement |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
