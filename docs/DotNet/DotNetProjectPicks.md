@@ -1069,7 +1069,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  |  |  |
+|  1  | [Pinyin4NET](https://gitee.com/hyjiacan/Pinyin4Net) | .net(core)使用的汉字转拼音库(含姓名拼音独立接口)。提供了简单的调用接口和通过拼音查询汉字的接口。 | https://gitee.com/hyjiacan/Pinyin4Net |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
