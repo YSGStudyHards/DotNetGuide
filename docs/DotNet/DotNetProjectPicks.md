@@ -468,11 +468,16 @@
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12 |  |  |  |
+|  11 |  |  |  |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
+|  8  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
+|  7  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
+|  6  | [SilkierQuartz](https://github.com/maikebing/SilkierQuartz) | SilkierQuartz可以作为Quartz.NET插件在现有应用程序中使用，并自动创建嵌入式Web服务器，使用起来非常方便。 | https://github.com/maikebing/SilkierQuartz |
 |  5  | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
 |  4  | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  3  | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
