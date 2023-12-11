@@ -195,7 +195,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ### .NET微信网页开发相关文章教程
 * [微信网页开发官方详细文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/iOS_WKWebview.html)
 * [全面的.NET微信网页开发之JS-SDK使用步骤、配置信息和接口请求签名生成详解](https://mp.weixin.qq.com/s/zlSKXQg8IgzEFC-7v-Gngg)
-* .NET微信网页开发之网页授权获取用户基本信息
+* [.NET微信网页开发之网页授权获取用户基本信息](https://mp.weixin.qq.com/s/5eGEt1JEVKflsR360NexHA)
 * [.NET微信网页开发之通过UnionID机制解决用户帐号统一问题](https://mp.weixin.qq.com/s/hey7I9ZZzTwXmar0ccLGDg)
 * [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/7hC-DrELYJiz8YUt06WxKw)
 * [.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
