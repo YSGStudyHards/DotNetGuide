@@ -88,6 +88,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
+* [Web Deploy配置并使用Visual Studio进行.NET Web项目发布部署](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
 
 ### Visual Studio Code
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
