@@ -99,6 +99,9 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
 * [VS Code安装CodeGeeX AI编程助手提高.NET开发工作效率](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 
+### .NET在线代码编辑工具
+- [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
+
 ### AI辅助编程工具
 * [CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 * AI编程工具CodeWhisperer 
