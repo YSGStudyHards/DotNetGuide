@@ -475,7 +475,7 @@
 |  12 |  |  |  |
 |  11 |  |  |  |
 |  10  |  |  |  |
-|  9  |  |  |  |
+|  9  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
 |  8  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
 |  7  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
 |  6  | [SilkierQuartz](https://github.com/maikebing/SilkierQuartz) | SilkierQuartz可以作为Quartz.NET插件在现有应用程序中使用，并自动创建嵌入式Web服务器，使用起来非常方便。 | https://github.com/maikebing/SilkierQuartz |
