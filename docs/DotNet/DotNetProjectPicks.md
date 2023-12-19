@@ -714,8 +714,12 @@
 #### 实用桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
 |  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
 |  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款以 MIT 协议开源的原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新 功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
