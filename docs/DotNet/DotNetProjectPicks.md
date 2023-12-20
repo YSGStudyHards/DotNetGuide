@@ -88,6 +88,7 @@
   * [C#拼音字母转化类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E6%8B%BC%E9%9F%B3%E5%AD%97%E6%AF%8D%E8%BD%AC%E5%8C%96%E7%B1%BB%E5%BA%93)
   * [.NET枚举工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%9E%9A%E4%B8%BE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
+  * [.NET中文分词类库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1106,6 +1107,19 @@
 |  3  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
 |  2  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit 是一个跨平台的 .NET 邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件。 | https://github.com/jstedfast/MailKit |
 |  1  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET中文分词类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [jieba.NET](https://github.com/anderscui/jieba.NET) | jieba中文分词的.NET版本类库（支持.NET Framework与.NET Core）。 | https://github.com/anderscui/jieba.NET |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
