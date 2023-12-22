@@ -51,6 +51,7 @@
   * [大屏幕&报表系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%A4%A7%E5%B1%8F%E5%B9%95%E6%8A%A5%E8%A1%A8%E7%B3%BB%E7%BB%9F)
   * [文档管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [访客管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BF%E5%AE%A2%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+  * [医疗信息管理系统]()
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -600,7 +601,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于 C# 和 Blazor 开发的前端开源图表库，它把 ChartJs 引入到了 Blazor 中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport 是一个以复杂中国式报表为核心目标的制作、运行工具，可以让任意net程序具有js脚本功能。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -628,6 +629,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  |  [visitormanagement](https://github.com/neozhu/visitormanagement) | 智能访客管理系统及门卫登记设备，可以安全可靠地进行来访人员管理，主要提供上传健康码，行程码，核酸报告和多级审批功能，不仅可以保障各个单位的安全，更可以提高企事业单位的电子化访客登记水平和形象。 | https://github.com/neozhu/visitormanagement |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 医疗信息管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [HospitalManagementSystem-WPF](https://github.com/zjxi/HospitalManagementSystem-WPF) | 医疗信息管理系统，基于WPF (XAML前端+C#后台)，内附SQL Server 2012数据库，界面友好，功能实用。 | https://github.com/zjxi/HospitalManagementSystem-WPF |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
