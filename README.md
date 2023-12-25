@@ -117,7 +117,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
-* Git可视化工具Fork使用指南
 * [最全面的SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * 超详细的Visual Studio Git使用图解
