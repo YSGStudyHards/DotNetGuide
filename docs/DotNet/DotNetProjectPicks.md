@@ -66,6 +66,7 @@
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [性能压测工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
+  * [Excel转JSON工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -804,6 +805,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  |  [Crank](https://github.com/dotnet/crank)  | Crank是一个用于测量Web应用性能和稳定性的工具。它提供了一种简单的方法，用于构建针对Web应用的基准测试和负载测试，并提供了一个可视化仪表板，用于监控测试结果和Web应用的状态。 | https://github.com/dotnet/crank |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### Excel转JSON工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [excel2json](https://github.com/neil3d/excel2json) | .NET开源的把Excel表转换成json对象，并保存到一个文本文件中。 | https://github.com/neil3d/excel2json |
+|  1  | [Excel2Json](https://github.com/brianlagunas/Excel2Json) | Excel转JSON - 将Excel和CSV转换为JSON。 | https://github.com/brianlagunas/Excel2Json |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
