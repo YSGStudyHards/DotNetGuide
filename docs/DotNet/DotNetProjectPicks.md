@@ -1197,7 +1197,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的Layui前端UI样式库。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  7  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | MaterialDesignInXamlToolkit 是一个开源的 WPF UI 框架，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit |
 |  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
 |  5  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
