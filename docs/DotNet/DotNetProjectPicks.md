@@ -58,7 +58,7 @@
   * [代码混淆工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86%E5%B7%A5%E5%85%B7)
   * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-  * [远程连接工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
+  * [远程桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7)
   * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [实用桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7)
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
@@ -701,12 +701,12 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 远程连接工具
+#### 远程桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Remotely](https://github.com/immense/Remotely) | 使用 .NET 7、Blazor 和 SignalR 构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
 |  3  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC,WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
 |  2  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
 |  1  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
