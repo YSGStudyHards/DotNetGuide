@@ -12,6 +12,50 @@
 
 # 2023年
 ## 12月
+### WalkingTec.Mvvm框架（简称WTM）
+* **项目简介：** WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。
+* **项目源码地址：** https://github.com/dotnetcore/WTM
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/BqMMMGylRQb_rq_b6Lkysw
+
+### AutoMapper
+* **项目简介：** AutoMapper是一个流行的.NET对象映射库，它可以自动进行对象之间的转换和映射，极大地简化了开发人员在处理对象映射时的工作量。通过配置映射规则，开发人员可以快速定义对象之间的映射关系，从而避免了手动编写大量的映射代码。这样可以提高开发效率，减少出错的可能性，并使代码更加可维护和易读。
+* **项目源码地址：** https://github.com/AutoMapper/AutoMapper
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/UWe6Z0OF45FpWkLLvQADLw
+
+### Masuit.Tools
+* **项目简介：** 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+* **项目源码地址：** https://github.com/ldqk/Masuit.Tools
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/hpCFIUF0HMD5dcw8GRk_Bw
+
+### Microsoft PowerToys
+* **项目简介：** Microsoft PowerToys 是使用 C++ 和 C# 编程语言开发的。它利用了 Windows 操作系统的底层功能和 API，以及 Microsoft 开发的一些开源库和工具来实现其功能，集成了20多个实用工具。
+* **项目源码地址：** https://github.com/microsoft/PowerToys
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/e6p3YebvL2EebTSwvAFe_A
+
+### ReaLTaiizor
+* **项目简介：** ReaLTaiizor是一个开源免费的.NET WinForms控件库，它提供了广泛的组件和丰富的主题选项（用户友好、注重设计），让用户可以轻松创建美观、专业的桌面应用程序。
+* **项目源码地址：** https://github.com/Taiizor/ReaLTaiizor
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/M7gK2krkZ_PoTiRRR_7nDw
+
+### Quartz.NetUI
+* **项目简介：** 一个基于.NET Core + Quartz.NET + Vue + IView开箱即用的定时任务UI（不依赖数据库，只需在界面做简单配置）。
+* **项目源码地址：** https://github.com/cq-panda/Quartz.NetUI
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/kwke35lYqbHQXC5oTADOpg
+
+### Panuon.WPF.UI
+* **项目简介：** Panuon.WPF.UI 是一个适用于定制个性化UI界面的组件库。它能帮助你快速完成样式和控件的UI设计，而不必深入了解WPF的 ControlTemplate 、 Storyboard 等知识。
+* **项目源码地址：** https://github.com/Panuon/Panuon.WPF.UI
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw
+
+### OpenAuth.Net
+* **项目简介：** .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。核心模块包括：角色授权、代码生成、智能打印、表单设计、工作流、定时任务等。架构易扩展，是中小企业的首选。
+* **项目源码地址：** https://gitee.com/dotnetchina/OpenAuth.Net
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/U01_i2_F0Knk-jcURm96TA
+
+### DotnetSpider
+* **项目简介：** 一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架（可以帮助 .NET 工程师快速的完成爬虫的开发）。
+* **项目源码地址：** https://github.com/dotnetcore/DotnetSpider
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/0R--IvaFANOH3S4nBwU8Qg
 
 
 ## 11月
