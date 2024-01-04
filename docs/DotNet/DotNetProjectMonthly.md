@@ -12,7 +12,7 @@
 
 # 2023年
 ## 12月
-### 公众号11月简报
+### 公众号12月简报
 * **C#/.NET/.NET Core优秀项目和框架2023年12月简报：** https://mp.weixin.qq.com/s/4E9FbrBd9yALdHp7yFWTgg
 
 ### WalkingTec.Mvvm框架（简称WTM）
