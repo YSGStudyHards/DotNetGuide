@@ -12,6 +12,9 @@
 
 # 2023年
 ## 12月
+### 公众号11月简报
+* **C#/.NET/.NET Core优秀项目和框架2023年12月简报：** https://mp.weixin.qq.com/s/4E9FbrBd9yALdHp7yFWTgg
+
 ### WalkingTec.Mvvm框架（简称WTM）
 * **项目简介：** WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。
 * **项目源码地址：** https://github.com/dotnetcore/WTM
