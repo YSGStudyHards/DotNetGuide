@@ -85,6 +85,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [18款Visual Studio实用插件](https://mp.weixin.qq.com/s/2Kq4_BzvrkBIgeqpyR9fDQ)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
+* [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
