@@ -438,6 +438,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [SQLite官网](https://www.sqlite.org/index.html)
 * [SQLite教程](https://www.runoob.com/sqlite/sqlite-intro.html)
 * [.NET操作SQLite实战教程](https://github.com/YSGStudyHards/EasySQLite)
+* [7款实用的SQLite数据库可视化管理工具](https://mp.weixin.qq.com/s/0nwhfbIWSl2rqaOuAuIX3g)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
