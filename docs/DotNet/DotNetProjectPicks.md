@@ -394,7 +394,7 @@
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [SmoWMS](https://github.com/comsmobiler/SmoWMS) | SmoWMS仓库管理系统，移动端APP开源项目，支持Android、iOS，基于.NET（C#、VB）。SmoWMS仓库管理系统包含了仓库管理、订单、主数据维护、图表分析、个人信息等几大功能。 | https://github.com/comsmobiler/SmoWMS |
 |  3  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
 |  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
 |  1   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
@@ -525,7 +525,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  |  |  |
+|  1  | [OneLotus](https://gitee.com/qikj/QJ_Single) | OneLotus信息化平台基于.NET 架构，能够很大程度上节约企业软件开发成本，用户可以直接使用平台已有功能进行信息化建设，框架提供了完整的用户管理，权限管理，表单引擎，流程引擎，报表引擎和信息管理体系，可以大大减化企业信息化建设成本和业务应用开发难度。 | https://www.yuque.com/yibulianhua/lotus/xx0iqe |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
