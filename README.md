@@ -547,7 +547,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ### 服务编排
 - [Kubernetes](https://kubernetes.io/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm)
-- [Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
+- [Apache Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
