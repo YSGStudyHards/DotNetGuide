@@ -526,9 +526,10 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
 * [Docker中文社区](https://www.docker.org.cn/)
-* [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-8-0)
 * [Docker官方文档教程](https://docs.docker.com/)
 * [Docker从入门到实践](https://vuepress.mirror.docker-practice.com/)
+* [.NET和Docker简介](https://learn.microsoft.com/zh-cn/dotnet/core/docker/introduction)
+* [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-8-0)
 * [Docker容器入门详解](https://mp.weixin.qq.com/s/RrMkeIWO0PePhXf3pTjsRQ)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
