@@ -525,8 +525,9 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 > Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。 
 
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
-* [Docker官方文档教程](https://docs.docker.com/)
 * [Docker中文社区](https://www.docker.org.cn/)
+* [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-8-0)
+* [Docker官方文档教程](https://docs.docker.com/)
 * [Docker从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [Docker容器入门详解](https://mp.weixin.qq.com/s/RrMkeIWO0PePhXf3pTjsRQ)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
