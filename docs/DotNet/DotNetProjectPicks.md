@@ -93,7 +93,7 @@
   * [.NET枚举工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%9E%9A%E4%B8%BE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET中文分词类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%B1%BB%E5%BA%93)
-  * [.NET模拟库]()
+  * [.NET模拟库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%A8%A1%E6%8B%9F%E5%BA%93)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
