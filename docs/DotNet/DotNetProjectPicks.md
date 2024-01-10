@@ -93,6 +93,7 @@
   * [.NET枚举工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%9E%9A%E4%B8%BE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET中文分词类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%B1%BB%E5%BA%93)
+  * [.NET模拟库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1176,6 +1177,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [jieba.NET](https://github.com/anderscui/jieba.NET) | jieba中文分词的.NET版本类库（支持.NET Framework与.NET Core）。 | https://github.com/anderscui/jieba.NET |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET模拟库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [moq](https://github.com/devlooped/moq) | Moq（读作 "Mock-you "或 "Mock"）是唯一一个从零开始开发的.NET模拟库，它充分利用了.NET Linq表达式树和lambda表达式的优势，使其成为目前最高效、类型安全和重构友好的模拟库。它还支持模拟接口和类。它的 API 非常简单直接，不需要任何有关模拟概念的知识或经验。 | https://github.com/devlooped/moq |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
