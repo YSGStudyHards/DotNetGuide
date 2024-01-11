@@ -78,6 +78,12 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 
 ## 🏹编程效率提升技巧集
+## .NET相关开发环境
+-  [所有.NET版本](https://dotnet.microsoft.com/zh-cn/download/dotnet)
+-  [.NET Framework版本](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
+-  [.NET 和 ASP.NET Core官方映像](https://hub.docker.com/_/microsoft-dotnet)
+-  [下载本地化的 .NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
+
 ### Visual Studio
 * [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
 * [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
@@ -95,6 +101,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [20款VS Code实用插件](https://mp.weixin.qq.com/s/Ox_4JUOua1S5nJp0i8-Ogw)
+* [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
