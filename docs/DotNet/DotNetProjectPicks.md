@@ -263,7 +263,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Wexflow](https://github.com/aelassas/wexflow)  | Wexflow 是一个开源、跨平台的工作流引擎和自动化平台，旨在实现重复性任务的自动化。在 Wexflow 的帮助下，构建自动化和工作流程变得轻而易举。 | https://github.com/aelassas/wexflow |
 |  3  | [Slickflow](https://github.com/besley/slickflow) | Slickflow是一款.NET开源的工作流引擎，Slickflow工作流引擎，选取BPMN模型作为工作流模型的语义表达，BPMN模型消除技术和业务之间的隔阂，注重业务人员对流程的需求和理解，而不是以技术为本位，相对来说，更近一步体现技术服务于业务需求的概念。 | https://github.com/besley/slickflow |
 |  2  | [Elsa Core](https://github.com/elsa-workflows/elsa-core) | Elsa Core项目建立在.NET Core平台上，一个强大且灵活的工作流引擎和设计器，适用于构建各种类型的工作流应用。提供了一组功能强大且灵活的工具和组件，用于定义、运行和监控工作流。它支持多种工作流模型、活动节点、并行执行、条件分支、定时触发等特性，使得开发人员能够根据业务需要构建复杂的工作流程。 | https://github.com/elsa-workflows/elsa-core |
 |  1  | [Workflow Core](https://github.com/danielgerlag/workflow-core) | Workflow Core是一个基于.NET的开源工作流引擎，提供了可扩展和灵活的工作流管理功能，帮助开发人员设计和执行复杂的工作流程。 | https://github.com/danielgerlag/workflow-core |
