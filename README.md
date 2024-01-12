@@ -490,9 +490,10 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 ## 💡系统设计
 * [系统设计入门](https://github.com/donnemartin/system-design-primer)
-* [微服务：从设计到部署](https://github.com/DocsHome/microservices)
-* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md)
+* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
+* [微服务：从设计到部署](https://github.com/DocsHome/microservices)
+* [浅谈6种流行的API架构风格](https://mp.weixin.qq.com/s/HXi2SBQcjjAk-WExmiXyCA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
