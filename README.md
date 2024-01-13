@@ -119,8 +119,8 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
 * [如何给GitHub上的开源项目提交PR?](https://mp.weixin.qq.com/s/YJwW9AFPoEKuU_MXqL_Pcg)
-* [五分钟教你使用GitHub寻找优质项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
 * [我找回了我喜欢的GitHub Old Feed](https://mp.weixin.qq.com/s/liXDb4MGXlSrAryRDSkcbw)
+* [五分钟教你使用GitHub寻找优质开源项目](https://mp.weixin.qq.com/s/UZ10DmMWzzLHzT0VJiHIHA)
 * [30分钟快速搭建并部署一个免费的个人博客](https://mp.weixin.qq.com/s/x7uZvQvtipr2wbNzxqJ5Ng)
 
 ### Git管理工具
