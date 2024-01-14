@@ -153,6 +153,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
    - [Stack Overflow .NET问题专栏](https://stackoverflow.com/questions/tagged/.net)
 * [CSDN.NET社区论坛](https://bbs.csdn.net/forums/DotNET)
 * [博客园.NET技术专区](https://www.cnblogs.com/cate/108698/)
+* [51CTO技术社区.NET专栏](https://blog.51cto.com/nav/aspnet)
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET API在线目录查询](https://apisof.net/catalog)
 
