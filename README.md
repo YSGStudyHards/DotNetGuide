@@ -148,11 +148,11 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [.NET Blog官方博客](https://devblogs.microsoft.com/dotnet/)
 * [.NET中文官方博客](https://devblogs.microsoft.com/dotnet-ch/?c=85&WT.mc_id=dotnet-35129-website)
 * [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/?cis=vshelp)
-* [博客园.NET技术专区](https://www.cnblogs.com/cate/108698/)
 * [Stack Overflow](https://stackoverflow.com/)
    - [Stack Overflow C#问题专栏](https://stackoverflow.com/questions/tagged/c%23)
    - [Stack Overflow .NET问题专栏](https://stackoverflow.com/questions/tagged/.net)
 * [CSDN.NET社区论坛](https://bbs.csdn.net/forums/DotNET)
+* [博客园.NET技术专区](https://www.cnblogs.com/cate/108698/)
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET API在线目录查询](https://apisof.net/catalog)
 
