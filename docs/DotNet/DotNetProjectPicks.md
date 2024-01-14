@@ -617,7 +617,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [Seal-Report](https://github.com/ariacom/Seal-Report) | Seal Report & ETL是一个开源的、基于Microsoft .Net平台的工具，用于从任何数据库或No SQL数据源生成日报表并执行复杂ETL操作，注重简单安装和报表设计。 | https://github.com/ariacom/Seal-Report |
 |  2  | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于 C# 和 Blazor 开发的前端开源图表库，它把 ChartJs 引入到了 Blazor 中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport 是一个以复杂中国式报表为核心目标的制作、运行工具，可以让任意net程序具有js脚本功能。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
 
@@ -763,7 +763,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱。 | https://github.com/QiBowen2008/SuperTextToolBox |
 |  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
 |  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
 |  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款以 MIT 协议开源的原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新 功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
