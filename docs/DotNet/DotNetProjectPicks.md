@@ -1031,9 +1031,9 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
+|  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
+|  8  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
+|  7  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
 |  6  | [SharpDocx](https://github.com/egonl/SharpDocx) | 用于创建 Word 文档的轻量级模板引擎。 | https://github.com/egonl/SharpDocx |
 |  5  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
 |  4  | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
