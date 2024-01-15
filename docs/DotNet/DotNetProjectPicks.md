@@ -69,6 +69,7 @@
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [性能压测工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
   * [Excel转JSON工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#excel%E8%BD%ACjson%E5%B7%A5%E5%85%B7)
+  * [免费的抢票软件]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -847,6 +848,19 @@
 |  3  |  |  |  |
 |  2  | [excel2json](https://github.com/neil3d/excel2json) | .NET开源的把Excel表转换成json对象，并保存到一个文本文件中。 | https://github.com/neil3d/excel2json |
 |  1  | [Excel2Json](https://github.com/brianlagunas/Excel2Json) | Excel转JSON - 将Excel和CSV转换为JSON。 | https://github.com/brianlagunas/Excel2Json |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 免费的抢票软件
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Bypass](https://www.bypass.cn/) | Bypass是一款基于.NET开发的、完全免费的火车票抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
