@@ -860,7 +860,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  | [Bypass](https://www.bypass.cn/) | Bypass是一款基于.NET开发的、完全免费的火车票抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
+|  1  | [Bypass](https://www.bypass.cn/) | Bypass是一款基于.NET开发的、完全免费的火车票分流抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
