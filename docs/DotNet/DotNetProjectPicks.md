@@ -1233,7 +1233,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  12 |  |  |  |
-|  11 |  |  |  |
+|  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
 |  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
 |  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
 |  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
