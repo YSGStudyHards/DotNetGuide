@@ -1044,7 +1044,12 @@
 #### .NET Office文件操作库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11  |  |  |  |
+|  10  | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
 |  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
 |  8  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
 |  7  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
