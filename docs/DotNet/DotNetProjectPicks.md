@@ -95,6 +95,7 @@
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET中文分词类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%B1%BB%E5%BA%93)
   * [.NET模拟库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%A8%A1%E6%8B%9F%E5%BA%93)
+  * [.NET分布式ID生成库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1212,6 +1213,18 @@
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
+
+#### .NET分布式ID生成库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [IdGenerator](https://github.com/yitter/idgenerator) | IdGenerator是一个全面的分布式主键ID生成器，使用的是优化的雪花算法（SnowFlake）雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 | https://github.com/yitter/idgenerator |
+|  1  | [snowflake-net](https://github.com/stulzq/snowflake-net) | Twitter的分布式全局唯一ID算法，雪花（snowflake）算法。支持.NET Core 2.0。 | https://github.com/stulzq/snowflake-net |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 #### 其他第三方SDK&类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
