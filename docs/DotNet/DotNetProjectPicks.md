@@ -764,7 +764,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
 |  6  | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱。 | https://github.com/QiBowen2008/SuperTextToolBox |
 |  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
 |  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
