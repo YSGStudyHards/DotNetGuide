@@ -90,6 +90,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [18款Visual Studio实用插件](https://mp.weixin.qq.com/s/2Kq4_BzvrkBIgeqpyR9fDQ)
+* [使用Visual Studio调试 .NET源代码]()
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
 * [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
 * [Visual Studio实用的搜索、查找、替换技巧](https://mp.weixin.qq.com/s/Cijr_e1qOjNXOS1TtZjxgA)
