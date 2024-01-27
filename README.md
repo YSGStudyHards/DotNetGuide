@@ -128,6 +128,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
+* [10款实用便捷的Git可视化管理工具](https://mp.weixin.qq.com/s/18J-YoEArJS_rCxkx4-D5w)
 * [最全面的SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * 超详细的Visual Studio Git使用图解
@@ -637,8 +638,8 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
+* [10款实用便捷的Git可视化管理工具](https://mp.weixin.qq.com/s/18J-YoEArJS_rCxkx4-D5w)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
-* [6款实用、免费的Git可视化管理工具](https://mp.weixin.qq.com/s/KE18lC1ILtfNRpQ0hx8y2Q)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/I6LgkVPJFwopnYeANq3uOQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
