@@ -70,6 +70,7 @@
   * [性能压测工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
   * [Excel转JSON工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#excel%E8%BD%ACjson%E5%B7%A5%E5%85%B7)
   * [免费的抢票软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%8D%E8%B4%B9%E7%9A%84%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
+  * [Office实用工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -866,6 +867,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### Office实用工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
+|  1  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一款.NET开源、绿色、安全、无毒的支持一键自动化下载、安装、激活Microsoft Office的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -875,7 +889,7 @@
 |  17  |  |  |  |
 |  16  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
 |  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
-|  14  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
+|  14  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
 |  13  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
 |  12  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF技术的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  11  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
