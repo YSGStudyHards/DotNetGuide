@@ -496,7 +496,7 @@
 |  13  |  |  |  |
 |  12 |  |  |  |
 |  11 |  |  |  |
-|  10  |  |  |  |
+|  10  | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
 |  9  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
 |  8  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
 |  7  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
@@ -619,9 +619,9 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [My-FyiReporting](https://github.com/majorsilence/My-FyiReporting) | FYIReporting Designer是一个基于Microsoft的报表定义语言（RDL）的报表和图表系统。它完全支持表格、自由形式、矩阵和图表。支持HTML、PDF、XML、.Net控件和打印功能。可视化设计工具允许您无需了解RDL即可创建报表。还提供了向现有报表中插入新表格、矩阵和图表的向导。 | https://github.com/majorsilence/My-FyiReporting |
 |  3  | [Seal-Report](https://github.com/ariacom/Seal-Report) | Seal Report & ETL是一个开源的、基于Microsoft .Net平台的工具，用于从任何数据库或No SQL数据源生成日报表并执行复杂ETL操作，注重简单安装和报表设计。 | https://github.com/ariacom/Seal-Report |
-|  2  | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于 C# 和 Blazor 开发的前端开源图表库，它把 ChartJs 引入到了 Blazor 中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
+|  2  | [FastReport](https://github.com/FastReports/FastReport)| 适用于 .NET6/.NET Core/.NET Framework 的免费开源报告工具，可帮助您的应用程序生成类似文档的报告。 | https://github.com/FastReports/FastReport |
 |  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport 是一个以复杂中国式报表为核心目标的制作、运行工具，可以让任意net程序具有js脚本功能。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -1264,7 +1264,11 @@
 #### Blazor UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  12 |  |  |  |
+|  16 |  |  |  |
+|  15 |  |  |  |
+|  14 |  |  |  |
+|  13 |  |  |  |
+|  12  | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
 |  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
 |  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
