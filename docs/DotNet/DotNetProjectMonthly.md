@@ -12,10 +12,65 @@
 
 # 2024年
 ## 1月
-### 
-* **项目简介：** 
-* **项目源码地址：** 
-* **公众号详细介绍：** 
+### lin-cms-dotnetcore
+* **项目简介：** 一款基于.NET+FreeSql实现的仿掘金专栏前后端分离、支持Docker部署、集成了OAtuh2授权登录、QQ、Github、Gitee快速登录、简单实用的CMS。
+* **项目源码地址：** https://github.com/luoyunchong/lin-cms-dotnetcore
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/yzZuQgm1AKBTAPfN_nHWwg
+
+### LKY_OfficeTools
+* **项目简介：** 一款.NET开源、绿色、安全、无毒的支持一键自动化下载、安装、激活Microsoft Office的利器。
+* **项目源码地址：** https://github.com/OdysseusYuan/LKY_OfficeTools
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/vm_qxBsEbhEVgFgbBKCEgA
+
+### DevToys
+* **项目简介：** DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，无需使用许多不真实的网站来处理你的数据，常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、Markdown预览等28+种实用工具。
+* **项目源码地址：** https://github.com/veler/DevToys
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Dg7mGLXYKKIwfHAv2GEkVQ
+
+### IdGenerator
+* **项目简介：** IdGenerator是一个全面的分布式主键ID生成器，使用的是优化的雪花算法（SnowFlake）雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。这是优化的雪花算法（雪花漂移），它生成的ID更短、速度更快。支持 k8s 等容器环境自动扩容（自动注册 WorkerId），可在单机或分布式环境生成数字型唯一ID。原生支持 C#/Java/Go/Rust/C/SQL/Node.js/PHP(C扩展) 等语言，并提供Python、PB多线程安全调用动态库（FFI）。兼容所有雪花算法（号段模式或经典模式，大厂或小厂），将来你可做任意的升级切换。（一般无须升级，但理论上支持）。
+* **项目源码地址：** https://github.com/yitter/IdGenerator
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/U1qKb4nYkQNtbXmQJkxyPA
+
+### 中台Admin（Admin.Core）
+* **项目简介：** 中台Admin（Admin.Core）是前后端分离权限管理系统，前端 UI 基于Vue3开发，后端 Api 基于.NET 8.0开发。支持多租户、接口权限、数据权限、动态 Api、任务调度、OSS 文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。集成统一认证授权、事件总线、数据验证、分布式雪花Id、分布式缓存、分布式事务、IP 限流、性能分析、集成测试、健康检查、接口文档等。
+* **项目源码地址：** https://github.com/zhontai/Admin.Core
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/zxPo6GKHPPLwa_EERVlarw
+
+### Watt Toolkit
+* **项目简介：** 一款C#开源的、跨平台的多功能Steam工具箱和GitHub加速神器。
+* **项目源码地址：** https://github.com/BeyondDimension/SteamTools
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/i9cz0_ik1mY0aujC9dzmrw
+
+### QuestPDF
+* **项目简介：** QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。QuestPDF它提供了一个布局引擎，在设计时考虑了完整的分页支持。与其他库不同，它不依赖于 HTML 到 PDF 的转换，这在许多情况下是不可靠的。相反，它实现了自己的布局引擎，该引擎经过优化，可以满足所有与分页相关的要求。
+* **项目源码地址：** https://github.com/QuestPDF/QuestPDF
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg
+
+### Blazor-ApexCharts
+* **项目简介：** 一款基于ApexCharts.js封装的、C#开源免费的Blazor图表库。
+* **项目源码地址：** https://github.com/apexcharts/Blazor-ApexCharts
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw
+
+### CellReport 
+* **项目简介：** 一个.NET开源、强大的Web报表统计系统。CellReport是一个为复杂统计报表为核心目标的制作、运行工具。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。
+* **项目源码地址：** https://gitee.com/NoneDay/CellReport
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Xi2ch4t71lBaVWfau4iZwg
+
+### LiteDB
+* **项目简介：** LiteDB 是一个小巧、快速和轻量级的 .NET NoSQL 嵌入式数据库。
+* **项目源码地址：** https://github.com/mbdavid/LiteDB
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/7enInefmI7KCUVxT_4OcoA
+
+### Dots
+* **项目简介：** Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。
+* **项目源码地址：** https://github.com/nor0x/Dots
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/2f5XS90Q2bgqDRRHpvkqVg
+
+### Layui-WPF
+* **项目简介：** Layui-WPF是一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。
+* **项目源码地址：** https://github.com/Layui-WPF-Team/Layui-WPF
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/jXCdCa_t_0XVlqLhLmXWWg
 
 
 # 2023年
