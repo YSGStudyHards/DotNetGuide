@@ -10,6 +10,14 @@
 * [🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
+# 2024年
+## 1月
+### 
+* **项目简介：** 
+* **项目源码地址：** 
+* **公众号详细介绍：** 
+
+
 # 2023年
 ## 12月
 ### 公众号12月简报
