@@ -166,6 +166,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome Abp](https://github.com/EasyAbp/awesome-abp)
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
+* [Awesome Unity3D](https://github.com/insthync/awesome-unity3d)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
