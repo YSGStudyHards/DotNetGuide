@@ -15,6 +15,7 @@
 * [开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
   * [Web应用框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#web%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
   * [桌面应用框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
+  * [跨平台应用框架]()
   * [分布式框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E6%A1%86%E6%9E%B6)
   * [微服务框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6)
   * [.NET ORM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-orm%E6%A1%86%E6%9E%B6)
@@ -103,7 +104,7 @@
   * [Blazor UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#blazor-ui%E5%BA%93)
   * [WPF UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#wpf-ui%E5%BA%93)
   * [WinForm UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
-  * [Avalonia UI库]()
+  * [Avalonia UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#avalonia-ui%E5%BA%93)
 
 * [开源学习知识库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93)
   * [设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
@@ -114,15 +115,16 @@
 #### Web应用框架
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                      项目详细介绍（文档、文章、源码地址）                      |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
 |  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | http://furion.baiqian.ltd/docs/ |
-|  3   | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
-|  2   | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
-|  1   | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
+|  3  | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
+|  2  | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
+|  1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -133,8 +135,21 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2   | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | WinForm是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
-|  1   | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
+|  2  | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | WinForm是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
+|  1  | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 跨平台应用框架
+|  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
+| :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。 | https://github.com/AvaloniaUI/Avalonia |
+|  1  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI 是一款开放源代码应用，是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -177,7 +192,7 @@
 |  18 |  |  |  |
 |  17 |  |  |  |
 |  16 | [nhibernate-core](https://github.com/nhibernate/nhibernate-core) | NHibernate是.NET框架的成熟、开源的对象关系映射工具。它在积极开发中，功能齐全，并已成功应用于数千个项目中。 | https://github.com/nhibernate/nhibernate-core |
-|  15  |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+|  15 |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
 |  14 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。 |https://github.com/sqlkata/querybuilder |
 |  13 | [TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | TinyORM是一个简单、快速且安全的微型.NET ORM。 | https://github.com/sdrapkin/SecurityDriven.TinyORM |
 |  12 | [cyqdata](https://github.com/cyq1162/cyqdata) | cyq.data是一个高性能且功能最强大的orm（支持.NET Core），支持Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。 | https://github.com/cyq1162/cyqdata |
@@ -199,6 +214,7 @@
 #### 网络通信框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
@@ -382,7 +398,7 @@
 #### 商城项目系统（Shop）
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
@@ -492,12 +508,12 @@
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
-|  15  |  |  |  |
-|  14  |  |  |  |
-|  13  |  |  |  |
+|  15 |  |  |  |
+|  14 |  |  |  |
+|  13 |  |  |  |
 |  12 |  |  |  |
 |  11 |  |  |  |
-|  10  | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
+|  10 | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
 |  9  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
 |  8  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
 |  7  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
@@ -763,7 +779,7 @@
 #### 实用桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
@@ -1042,7 +1058,7 @@
 #### .NET支付SDK
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
@@ -1060,12 +1076,12 @@
 #### .NET Office文件操作库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  15  |  |  |  |
-|  14  |  |  |  |
-|  13  |  |  |  |
-|  12  |  |  |  |
-|  11  |  |  |  |
-|  10  | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
+|  15 |  |  |  |
+|  14 |  |  |  |
+|  13 |  |  |  |
+|  12 |  |  |  |
+|  11 |  |  |  |
+|  10 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
 |  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
 |  8  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
 |  7  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
@@ -1082,7 +1098,7 @@
 #### .NET JSON处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
@@ -1100,7 +1116,7 @@
 #### .NET对象映射库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
@@ -1118,7 +1134,7 @@
 #### .NET Redis客户端驱动库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
@@ -1136,7 +1152,7 @@
 #### .NET的OCR工具类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
@@ -1269,7 +1285,7 @@
 |  15 |  |  |  |
 |  14 |  |  |  |
 |  13 |  |  |  |
-|  12  | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
+|  12 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
 |  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
 |  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
@@ -1288,7 +1304,7 @@
 #### WPF UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  | [Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的Layui前端UI样式库。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  7  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | MaterialDesignInXamlToolkit 是一个开源的 WPF UI 框架，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit |
@@ -1305,7 +1321,7 @@
 #### WinForm UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
