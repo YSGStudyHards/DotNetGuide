@@ -544,7 +544,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | 基于C#/.NET8的 masuit.org个人博客站项目源码，高性能高安全性低占用的博客系统，仅3MB的代码量！ 目前日均处理请求数80-600w次，同时在线活跃用户数60-600人 | https://github.com/ldqk/Masuit.MyBlogs |
 |  4  | [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) | 一个基于ASP.NET Core 7（3.1及以上版本）构建的功能齐全但简单易用的博客引擎。 | https://github.com/madskristensen/Miniblog.Core |
 |  3  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier 是一个使用 ASP.NET 和 Blazor WebAssembly 编写的开源发布平台。使用 Blogifier 可以创建个人博客或网站。 | https://github.com/blogifierdotnet/Blogifier |
 |  2  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
