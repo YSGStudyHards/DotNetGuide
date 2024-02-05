@@ -12,6 +12,8 @@
 
 # 2024年
 ## 1月
+* **C#/.NET/.NET Core优秀项目和框架2024年1月简报：** https://mp.weixin.qq.com/s/E4mpWRPnIUYoHEron_pF-g
+
 ### lin-cms-dotnetcore
 * **项目简介：** 一款基于.NET+FreeSql实现的仿掘金专栏前后端分离、支持Docker部署、集成了OAtuh2授权登录、QQ、Github、Gitee快速登录、简单实用的CMS。
 * **项目源码地址：** https://github.com/luoyunchong/lin-cms-dotnetcore
