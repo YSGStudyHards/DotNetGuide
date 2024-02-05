@@ -61,8 +61,8 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 
 ## 🏷️优质学习资料收录栈
-* [🐱‍🚀零基础如何自学C#?](https://www.cnblogs.com/Can-daydayup/p/17539010.html)
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
+* [🐱‍🚀C#/.NET该如何自学入门？](https://www.cnblogs.com/Can-daydayup/p/18006914)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [📚2023年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
