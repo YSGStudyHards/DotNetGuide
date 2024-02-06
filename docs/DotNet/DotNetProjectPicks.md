@@ -903,7 +903,7 @@
 |  20  |  |  |  |
 |  19  |  |  |  |
 |  18  |  |  |  |
-|  17  |  |  |  |
+|  17  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
 |  16  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
 |  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
 |  14  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
@@ -1304,9 +1304,15 @@
 #### WPF UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  16 |  |  |  |
+|  15 |  |  |  |
+|  14 |  |  |  |
+|  13 |  |  |  |
+|  12 |  |  |  |
+|  11  |  |  |  |
 |  10 |  |  |  |
-|  9  |  |  |  |
-|  8  | [Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的Layui前端UI样式库。 | https://github.com/Layui-WPF-Team/Layui-WPF |
+|  9  | [Adonis UI](https://github.com/benruehl/adonis-ui) | 为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
+|  8  | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的Layui前端UI样式库。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  7  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | MaterialDesignInXamlToolkit 是一个开源的 WPF UI 框架，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit |
 |  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
 |  5  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
@@ -1326,7 +1332,7 @@
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  6  |  |  |  |
+|  6  | [DarkUI](https://github.com/RobinPerris/DarkUI) | 这是一个为.NET WinForms开发的深色主题控件和停靠功能库，旨在帮助开发者创建具有现代和专业外观的应用程序界面。 | https://github.com/RobinPerris/DarkUI |
 |  5  | [AntdUI](https://gitee.com/antdui/AntdUI) | 基于Ant Design设计语言的WinForm UI界面库。 | https://gitee.com/antdui/AntdUI |
 |  4  | [ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) | ReaLTaiizor是一个开源免费的.NET WinForms控件库，它提供了广泛的组件和丰富的主题选项（用户友好、注重设计），让用户可以轻松创建美观、专业的桌面应用程序。 | https://github.com/Taiizor/ReaLTaiizor |
 |  3  | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) | .NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
