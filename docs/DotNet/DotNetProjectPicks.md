@@ -1310,7 +1310,7 @@
 |  13 |  |  |  |
 |  12 |  |  |  |
 |  11  |  |  |  |
-|  10 |  |  |  |
+|  10 | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
 |  9  | [Adonis UI](https://github.com/benruehl/adonis-ui) | 为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  8  | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的Layui前端UI样式库。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  7  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | MaterialDesignInXamlToolkit 是一个开源的 WPF UI 框架，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit |
