@@ -173,6 +173,9 @@ Microsoft MVP Dino Esposito教会你如何：
 ### [《C#与.NET6 开发从入门到实践》](https://book.douban.com/subject/36325259/)
 本书以ASP.NET Core项目为例，系统地介绍了.NET6的各个重要知识点。书中内容融合了作者多年实践的丰富经验，讲解深入浅出，全面且细致。 本书共分为四篇25章。第一篇（第1-3章）是.NET 6基础篇，主要介绍.NET平台、C#语言和Visual Studio开发环境的常用功能和特性。第二篇（第4-10章）是Entity Framework Core篇，主要介绍Entity Framework Core的各种功能和使用方法，包括快速入门、实体模型、实体模型的关系、管理实体模型和数据库架构、管理数据、查询数据、Entity Framework Core共享功能等内容。第三篇（第11~24章）是ASP.NET Core篇，主要介绍ASP.NET Core框架的基础知识、身份认证、授权、MVC、Razor Pages、Blazor、Razor类库、Web API、远程过程调用、实时通信、应用安全、高级功能等内容。第四篇（第25章）是实战演练篇，用一个功能完整的电子商城项目来串联前面三篇介绍的大部分功能，帮助读者跨越从基础知识的学习到实际应用的门槛。 本书以.NET 6的入门学习者和有其他C系语言的使用经验并有意了解ASP.NET Core的人为主要目标读者，同时适合被中高级开发者当作功能模块速查和学习高级功能的手册，还可以作为高等院校相关专业的教学用书和培训学校的教材。
 
+### [《ASP.NET Core+Vue.js全栈开发训练营》](http://www.tup.tsinghua.edu.cn/booksCenter/book_09320101.html)
+《ASP.NET Core+Vue.js全栈开发训练营》旨在为读者提供一个全面、实用的学习资源，以掌握使用ASP.NET Core 7和Vue.js 3构建功能丰富、高效的Web应用程序的技能。全书分为3部分。第1部分（第1～9章）主要介绍ASP.NET Core的相关内容，包括基础知识、数据访问、远程过程调用、实时通信、安全、性能、测试和部署，这些是构建强大Web应用程序的必要知识。第2部分（第10～17章）主要介绍Vue.js 3的相关内容，包括基础知识、组件开发、路由、状态管理、与服务器通信、测试和调试以及部署；Vue.js 3是一种流行的前端框架，能够构建交互性强大的用户界面。第3部分（第18～20章）是结合ASP.NET Core和Vue.js 3，创建实际的Web应用程序案例，包括博客网站、通用权限系统和ERP系统。
+
 
 ## Linq相关书籍
 ### [《LINQ实战》](https://www.ituring.com.cn/book/314)
