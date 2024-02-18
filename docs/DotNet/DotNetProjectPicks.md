@@ -827,7 +827,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  | [SteamTools](https://github.com/BeyondDimension/SteamTools) | 一款C#开源的、跨平台的GitHub加速神器。 | https://github.com/BeyondDimension/SteamTools |
-|  1  | [FastGithub](https://github.com/shiftwinting/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/shiftwinting/FastGithub |
+|  1  | [FastGithub](https://github.com/dotNetTreasury/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotNetTreasury/FastGithub |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
