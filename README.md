@@ -79,10 +79,10 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 ## 🏹编程效率提升技巧集
 ### .NET相关开发环境
--  [所有.NET版本](https://dotnet.microsoft.com/zh-cn/download/dotnet)
--  [.NET Framework版本](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
--  [.NET 和 ASP.NET Core官方映像](https://hub.docker.com/_/microsoft-dotnet)
--  [下载本地化的 .NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
+* [所有.NET版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
+* [.NET Framework版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
+* [.NET 和 ASP.NET Core官方映像](https://hub.docker.com/_/microsoft-dotnet)
+* [下载本地化的.NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
 
 ### Visual Studio
 * [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
@@ -111,7 +111,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [VS Code安装CodeGeeX AI编程助手提高.NET开发工作效率](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 
 ### .NET在线代码编辑工具
-- [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
+* [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
 
 ### AI辅助编程工具
 * [CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
@@ -547,6 +547,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [.NET和Docker简介](https://learn.microsoft.com/zh-cn/dotnet/core/docker/introduction)
 * [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows&pivots=dotnet-8-0)
 * [Docker容器入门详解](https://mp.weixin.qq.com/s/RrMkeIWO0PePhXf3pTjsRQ)
+* [Docker是怎么工作的？](https://mp.weixin.qq.com/s/_XK3MtVn-KKuVxf13TPwug)
 * [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
