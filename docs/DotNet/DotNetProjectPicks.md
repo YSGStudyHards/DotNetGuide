@@ -890,7 +890,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [kms-activate](https://github.com/jm33-m0/kms-activate) | Microsoft Windows/Office 一键激活工具。 | https://github.com/jm33-m0/kms-activate |
 |  2  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
 |  1  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一款.NET开源、绿色、安全、无毒的支持一键自动化下载、安装、激活Microsoft Office的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
 
