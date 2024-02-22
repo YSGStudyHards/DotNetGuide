@@ -82,7 +82,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [所有.NET版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
 * [.NET Framework版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
 * [.NET 和 ASP.NET Core官方映像](https://hub.docker.com/_/microsoft-dotnet)
-* [下载本地化的.NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
+* [下载本地化的 .NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
 
 ### Visual Studio
 * [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
@@ -97,6 +97,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
+* Visual Studio使用GitHub Copilot挺高.NET开发工作效率
 * [Visual Studio使用Web Deploy发布.NET Web应用到指定服务器的IIS中](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
 
 ### Visual Studio Code
@@ -115,7 +116,8 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 
 ### AI辅助编程工具
 * [CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
-* AI编程工具CodeWhisperer 
+* AI编程工具CodeWhisperer
+* AI辅助神器GitHub Copilot
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
