@@ -92,6 +92,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [18款Visual Studio实用插件](https://mp.weixin.qq.com/s/2Kq4_BzvrkBIgeqpyR9fDQ)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
+* [在Visual Studio中查看EF Core查询计划](https://mp.weixin.qq.com/s/Agyr9CfI_8uIUObm2XbK2g)
 * [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
 * [Visual Studio实用的搜索、查找、替换技巧](https://mp.weixin.qq.com/s/Cijr_e1qOjNXOS1TtZjxgA)
 * [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
