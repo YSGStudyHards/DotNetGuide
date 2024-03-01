@@ -1263,7 +1263,7 @@
 | 12  |  |  |  |
 | 11  |  |  |  |
 | 10  |  |  |  |
-|  9  |  |  |  |
+|  9  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
 |  8  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
 |  7  | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | 一个 C# 架构测试库，用于在 C# 中指定和断言架构规则，以进行自动测试。 | https://github.com/TNG/ArchUnitNET |
 |  6  | [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) | Alipay SDK for .NET，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。 | https://github.com/alipay/alipay-sdk-net-all |
