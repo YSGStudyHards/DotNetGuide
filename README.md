@@ -89,7 +89,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
-* [18款Visual Studio实用插件](https://mp.weixin.qq.com/s/2Kq4_BzvrkBIgeqpyR9fDQ)
+* [20款Visual Studio实用插件推荐](https://mp.weixin.qq.com/s/f6w2cQCnVy9AIlrR7KtP_A)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
 * [在Visual Studio中查看EF Core查询计划](https://mp.weixin.qq.com/s/m0UKt78brvZVx5-GODlIKA)
