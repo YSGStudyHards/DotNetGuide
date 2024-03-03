@@ -12,6 +12,9 @@
 
 # 2024年
 ## 2月
+### 公众号2月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年2月简报：**
+
 ### DotNetGuide
 * **项目简介：** DotNetGuide是一个专注于C#/.NET/.NET Core学习、工作、面试指南的GitHub知识库，该知识库记录、收集和总结了C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及作者在学习和工作中的一些微薄见解。
 * **项目源码地址：** https://github.com/YSGStudyHards/DotNetGuide
@@ -54,6 +57,7 @@
 
 
 ## 1月
+### 公众号1月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年1月简报：** https://mp.weixin.qq.com/s/E4mpWRPnIUYoHEron_pF-g
 
 ### lin-cms-dotnetcore
