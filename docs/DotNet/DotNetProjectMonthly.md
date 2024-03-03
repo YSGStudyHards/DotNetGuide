@@ -11,6 +11,48 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 2月
+### DotNetGuide
+* **项目简介：** DotNetGuide是一个专注于C#/.NET/.NET Core学习、工作、面试指南的GitHub知识库，该知识库记录、收集和总结了C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及作者在学习和工作中的一些微薄见解。
+* **项目源码地址：** https://github.com/YSGStudyHards/DotNetGuide
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/jGbmaFpKPqt4X9aX-nYh-Q
+
+### TimeCrontab
+* **项目简介：** 一个.NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。
+* **项目源码地址：** https://gitee.com/dotnetchina/TimeCrontab
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA
+
+### Vue.NetCore
+* **项目简介：** 一款基于Vue（提供Vue2/Vue3版本）和.Net Core前后端分离、开源免费（MIT License）、强大、跨平台的快速开发框架，并且框架内置代码生成器（解决重复性工作，提高开发效率），支持移动端(iOS/Android/H5/微信小程序）。
+* **项目源码地址：** https://github.com/cq-panda/Vue.NetCore
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/NDIra__cJPuchyix2UQ2QQ
+
+### Coolapk UWP
+* **项目简介：** 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。
+* **项目源码地址：** https://github.com/Coolapk-UWP/Coolapk-UWP
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/rMlIHZSaeeVTLOdb8-eafQ
+
+### EFCore.Visualizer
+* **项目简介：** C#开源的一款可以直接在Visual Studio中查看EF Core查询计划调试器可视化工具（帮助开发者分析和优化数据库查询性能）。
+* **项目源码地址：** https://github.com/Giorgi/EFCore.Visualizer
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Agyr9CfI_8uIUObm2XbK2g
+
+### DreamScene2
+* **项目简介：** 一个.NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放。
+* **项目源码地址：** https://github.com/he55/DreamScene2
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/owP9Of_7CGY1TCEEOzdgwA
+
+### ContextMenuManager
+* **项目简介：** 一个C#开源、免费、纯粹的Windows右键菜单管理工具。
+* **项目源码地址：** https://github.com/BluePointLilac/ContextMenuManager
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Wab-fCTXK4c5zCp6eRklXw
+
+### SukiUI
+* **项目简介：** 一款.NET Avalonia基于MIT License协议开源、免费的桌面UI库，SukiUI 包含 AvaloniaUI 基本控件的主题，支持浅色/深色主题。提供了在不同颜色主题之间选择和切换以及创建自定义主题的能力。并且SukiUI还包含额外的控件，以提供制作丰富多样的用户界面的可能性。
+* **项目源码地址：** https://github.com/kikipoulet/SukiUI
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/yyiTwzeekWnorS8uaJw3jQ
+
+
 ## 1月
 * **C#/.NET/.NET Core优秀项目和框架2024年1月简报：** https://mp.weixin.qq.com/s/E4mpWRPnIUYoHEron_pF-g
 
