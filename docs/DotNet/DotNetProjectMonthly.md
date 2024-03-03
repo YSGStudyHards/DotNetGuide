@@ -38,7 +38,7 @@
 ### EFCore.Visualizer
 * **项目简介：** C#开源的一款可以直接在Visual Studio中查看EF Core查询计划调试器可视化工具（帮助开发者分析和优化数据库查询性能）。
 * **项目源码地址：** https://github.com/Giorgi/EFCore.Visualizer
-* **公众号详细介绍：** https://mp.weixin.qq.com/s/Agyr9CfI_8uIUObm2XbK2g
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/m0UKt78brvZVx5-GODlIKA
 
 ### DreamScene2
 * **项目简介：** 一个.NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放。
