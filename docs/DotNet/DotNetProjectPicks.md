@@ -901,7 +901,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  20  |  |  |  |
-|  19  |  |  |  |
+|  19  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
 |  18  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
 |  17  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
 |  16  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
