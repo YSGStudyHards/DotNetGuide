@@ -3,7 +3,7 @@
     public class GotoExercise
     {
         /// <summary>
-        /// 使用goto重试进行代码重试示例
+        /// 使用goto进行代码重试示例
         /// </summary>
         public static void GotoRetryUseExample()
         {
@@ -42,7 +42,7 @@
         }
 
         /// <summary>
-        /// 不使用goto重试进行代码重试示例
+        /// 不使用goto进行代码重试示例
         /// </summary>
         public static void NonGotoRetryUseExample()
         {
