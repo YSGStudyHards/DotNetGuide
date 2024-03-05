@@ -1,4 +1,5 @@
-﻿using HelloDotNetGuide.常见算法;
+﻿using HelloDotNetGuide.CSharp语法;
+using HelloDotNetGuide.常见算法;
 using HelloDotNetGuide.异步编程;
 using HelloDotNetGuide.数组相关;
 
@@ -9,6 +10,13 @@ namespace HelloDotNetGuide
         static void Main(string[] args)
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
+
+            #region GotoExercise
+
+            //GotoExercise.GotoRetryUseExample();
+            //GotoExercise.NonGotoRetryUseExample();
+
+            #endregion
 
             #region 异步编程
 
