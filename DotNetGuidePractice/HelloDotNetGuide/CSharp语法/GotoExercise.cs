@@ -53,7 +53,7 @@
                 {
                     try
                     {
-                        // 模拟可能出错的操作
+                        //模拟可能出错的操作
                         Random random = new Random();
                         int result = random.Next(0, 2);
 
@@ -63,7 +63,7 @@
                         }
 
                         Console.WriteLine("Operation successful on attempt: " + retryCount);
-                        break; // 成功则跳出循环
+                        break;
                     }
                     catch (Exception ex)
                     {
