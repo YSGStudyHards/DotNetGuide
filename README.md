@@ -694,6 +694,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 | **Resume template for Coder**：适合程序员的简历模板。|[https://github.com/byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder)|
 | **冷熊简历**：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。| [http://cv.ftqq.com/?fr=github](http://cv.ftqq.com/?fr=github) |
 |**latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。|[https://github.com/jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|
+|**AI Job Resume**：AI 算法岗简历模板。 | [https://github.com/amusi/AI-Job-Resume](https://github.com/amusi/AI-Job-Resume) |
 |**King of Pigeon**：计算机保研简历与文书实用模板。|[https://github.com/yuezih/King-of-Pigeon](https://github.com/yuezih/King-of-Pigeon)|
 |**Deedy Resume**：适合应届毕业生的 LaTeX 简历模板。|[https://github.com/dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)|
 
