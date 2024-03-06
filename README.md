@@ -681,18 +681,21 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ## 👩‍💻简历模板
 | 项目描述 | 项目地址 |
 | --- | --- |
-|codecv：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。|https://github.com/acmenlei/codecv|
-| ResumeSample：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
-| Markdown-Resume：用 markdown 语法来写的简历模版，非常简洁通用。 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
-| awesome-resume：程序员简历例句，程序员简历范例，简历模版。 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
-| DeerResume：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。 | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
-| markdown-resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。| [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
-| best-resume-ever：快速轻松制作多份精美简历，打造您有史以来最好的简历！ 用Vue和LESS制作。| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
-| awesome-resume-for-chinese：适合中文的简历模板收集。 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
-| resume：在线简历生成器，无须 fork 仓库，即可在线预览、编辑和下载 PDF 简历。|[https://github.com/visiky/resume](https://github.com/visiky/resume)|
-| Markdown-Resume-Template：BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。|[https://github.com/youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)|
-| Resume-template-for-Coder：适合程序员的简历模板。|[https://github.com/byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder)|
-| 冷熊简历：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。| [http://cv.ftqq.com/?fr=github](http://cv.ftqq.com/?fr=github) |
+|**codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。|https://github.com/acmenlei/codecv|
+| **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
+| **Markdown Resume**：用 markdown 语法来写的简历模版，非常简洁通用。 | [https://github.com/CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) |
+| **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
+| **DeerResume**：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。 | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
+| **mdnice resume**：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。| [https://github.com/mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) |
+| **best resume ever**：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
+| **Awesome Resume for Chinese**：汇总收集中文的简历模板。 | [https://github.com/dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) |
+| **Resume Generator**：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。|[https://github.com/visiky/resume](https://github.com/visiky/resume)|
+| **Markdown Resume Template**：BAT程序员自己的简历模板分享出来了。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。|[https://github.com/youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template)|
+| **Resume template for Coder**：适合程序员的简历模板。|[https://github.com/byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder)|
+| **冷熊简历**：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。| [http://cv.ftqq.com/?fr=github](http://cv.ftqq.com/?fr=github) |
+|**latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。|[https://github.com/jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|
+|**King of Pigeon**：计算机保研简历与文书实用模板。|[https://github.com/yuezih/King-of-Pigeon](https://github.com/yuezih/King-of-Pigeon)|
+|**Deedy Resume**：适合应届毕业生的 LaTeX 简历模板。|[https://github.com/dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)|
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
