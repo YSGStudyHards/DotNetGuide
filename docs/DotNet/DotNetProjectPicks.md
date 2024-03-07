@@ -900,7 +900,7 @@
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  20  |  |  |  |
+|  20  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
 |  19  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
 |  18  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
 |  17  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
