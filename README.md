@@ -36,6 +36,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
 * [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
+* [🚀C#/.NET/.NET Core拾遗补漏]()
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
@@ -192,6 +193,15 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
+## 🚀C#/.NET/.NET Core拾遗补漏
+在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
+
+* [🚀C#/.NET/.NET Core拾遗补漏Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
+* [✍C#/.NET/.NET Core拾遗补漏合集](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
 ## 🥇C#/.NET/.NET Core开发实战教程
 ### 全面的.NET Core MongoDB入门到实战教程
 * [MongoDB从入门到实战之MongoDB简介](https://www.cnblogs.com/Can-daydayup/p/16797608.html)
@@ -319,8 +329,16 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ## 📚C#/.NET/.NET Core推荐学习书籍
 古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。
 
-- [📚C#/.NET/.NET Core推荐学习书籍Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
-- [📖C#/.NET/.NET Core推荐学习书籍（已分类）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/CsharpRecommendedBooks.md)
+* [📚C#/.NET/.NET Core推荐学习书籍Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
+* [📖C#/.NET/.NET Core推荐学习书籍（已分类）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/CsharpRecommendedBooks.md)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## 📺C#/.NET/.NET Core学习视频汇总
+收集、汇总网上一些比较好的C#/.NET/.NET Core这方面的学习视频，希望能够帮助到有需要的小伙伴们。当然假如小伙伴们有更好的学习资源视频推荐可以在我的文章下面留言，该篇文章会持续更新同时也欢迎大家一起来完善和贡献自己觉得不错的C#/.NET/.NET Core学习视频资源。
+
+* [📺最全面的C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
