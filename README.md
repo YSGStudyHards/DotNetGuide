@@ -36,12 +36,12 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [✍C#入门到进阶学习指南](https://github.com/YSGStudyHards/DotNetGuide#c%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
 * [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
-* [🚀C#/.NET/.NET Core拾遗补漏]()
+* [🚀C#/.NET/.NET Core拾遗补漏](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8B%BE%E9%81%97%E8%A1%A5%E6%BC%8F)
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
-* [📺C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
+* [📺C#/.NET/.NET Core学习视频汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB)
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
@@ -338,26 +338,26 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ## 📺C#/.NET/.NET Core学习视频汇总
 收集、汇总网上一些比较好的C#/.NET/.NET Core这方面的学习视频，希望能够帮助到有需要的小伙伴们。当然假如小伙伴们有更好的学习资源视频推荐可以在我的文章下面留言，该篇文章会持续更新同时也欢迎大家一起来完善和贡献自己觉得不错的C#/.NET/.NET Core学习视频资源。
 
-* [📺最全面的C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
+* [🧀最全面的C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
 ## 🏗️C#/.NET/.NET Core优秀项目框架
 ### C#/.NET/.NET Core项目宝库
-**[🎁C#/.NET/.NET Core项目宝库组织](https://github.com/dotNetTreasury)**
-
 > 为.NET开发者提供一个寻找优秀C#/.NET/.NET Core项目和框架的入口，通过了解和对比更多的项目和框架来选择最适合我们自己学习、工作开发的一套项目或者框架。优秀的项目不应该被埋没，欢迎大家一起加入这个组织共同完善、发展.NET社区！！这些都是非常优秀的项目和框架，排名不分先后，欢迎前往项目原址Star💖。大家可以在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言，我会定期收录到项目宝库组织中。
 
-### C#/.NET/.NET Core优秀项目和框架Issues
-**[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
+* **[🎁C#/.NET/.NET Core项目宝库组织](https://github.com/dotNetTreasury)**
 
+### C#/.NET/.NET Core优秀项目和框架Issues
 > 为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址和描述提交到在这里，提供给广大.NET开发者们参考、学习和使用，并且我会定期在[公众号推广和分享👀](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)这些优秀项目和框架（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。
 
-### C#/.NET/.NET Core优秀项目和框架精选
-**[🔔C#/.NET/.NET Core优秀项目和框架精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)**
+* **[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)**
 
+### C#/.NET/.NET Core优秀项目和框架精选
 > 帮助开发者发现功能强大、性能优越、创新前沿、简单易用的C#/.NET/.NET Core优秀项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，都能为你提供有价值的参考和指导。关注优秀项目和框架精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。坑已挖，欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言（**让优秀的项目和框架不被埋没**），我会定期收录、[公众号推广和分享👀](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)（注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享💖）。
+
+* **[🔔C#/.NET/.NET Core优秀项目和框架精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)**
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
