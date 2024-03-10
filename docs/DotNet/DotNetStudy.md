@@ -7,6 +7,7 @@
 * [🚀C#/.NET/.NET Core拾遗补漏Issues投稿](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
 
 ## C#相关
+* [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
 * [C#异步有多少种实现方式？](https://mp.weixin.qq.com/s/Yk5xLp99DOz-gmzcRunCkQ)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
@@ -20,10 +21,11 @@
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
 
 ## .NET/.NET Core相关
+* [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
+* [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
 * [4款免费且实用的.NET反编译工具](https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw)
-* [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET开源的处理分布式事务的解决方案](https://mp.weixin.qq.com/s/ONM9bLKidVCS4pAwJbG9tg)
 * [企业应用开发中.NET EF常用哪种模式？](https://mp.weixin.qq.com/s/r4AehSo86hsMTjagD0VxOQ)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
