@@ -18,7 +18,6 @@
 * [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
 * [老生常谈：值类型 V.S. 引用类型](https://mp.weixin.qq.com/s/kwIPQcwLEbvUrLQFHU_oFA)
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
-* 
 
 ## .NET/.NET Core相关
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
