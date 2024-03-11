@@ -716,6 +716,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 |**AI Job Resume**：AI 算法岗简历模板。 | [https://github.com/amusi/AI-Job-Resume](https://github.com/amusi/AI-Job-Resume) |
 |**King of Pigeon**：计算机保研简历与文书实用模板。|[https://github.com/yuezih/King-of-Pigeon](https://github.com/yuezih/King-of-Pigeon)|
 |**Deedy Resume**：适合应届毕业生的 LaTeX 简历模板。|[https://github.com/dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)|
+|**LapisCV**：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职 / 求学场景。|[https://github.com/BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
