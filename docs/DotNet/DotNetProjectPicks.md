@@ -1049,7 +1049,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [bc-csharp](https://github.com/bcgit/bc-csharp) | bc-csharp是一个Bouncy Castle密码库的C#版本，提供了丰富的加密算法支持，并被广泛应用于.NET平台的安全性开发。 | https://github.com/bcgit/bc-csharp |
+|  2  | [BouncyCastle](https://github.com/bcgit/bc-csharp) | BouncyCastle是一款C#版开源、免费的Bouncy Castle密码库，开发人员可以通过该项目在他们的 C# 应用程序中使用 Bouncy Castle 提供的各种密码学功能，从而加强数据的安全性和保护隐私信息。 | https://github.com/bcgit/bc-csharp |
 |  1  | [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) | .NET Core加密解密类库，包括AES、DES、RSA、MD5、SHA1、SHA256、SHA384、SHA512等算法。 | https://github.com/myloveCc/NETCore.Encrypt |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
