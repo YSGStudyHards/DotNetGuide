@@ -82,7 +82,7 @@
   * [.NET高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
   * [.NET第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
   * [.NET UI自动化库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-ui%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BA%93)
-  * [.NET图形&图表库]()
+  * [.NET图形&图表库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%9B%BE%E5%BD%A2%E5%9B%BE%E8%A1%A8%E5%BA%93)
   * [.NET二维码类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%B1%BB%E5%BA%93)
   * [.NET加密解密库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%BA%93)
   * [.NET支付SDK](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%94%AF%E4%BB%98sdk)
