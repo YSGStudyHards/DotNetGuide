@@ -19,6 +19,7 @@
 * [Visual Studio C# 多环境配置 Web.config](https://mp.weixin.qq.com/s/bEO2SCbpqxLg7eg1TZKMpA)
 * [老生常谈：值类型 V.S. 引用类型](https://mp.weixin.qq.com/s/kwIPQcwLEbvUrLQFHU_oFA)
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
+* [C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
 
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
@@ -43,5 +44,6 @@
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 * [.NET指定图片地址下载并转换Base64字符串](https://mp.weixin.qq.com/s/Q5QlQI4Sfp56aHRscTRqZw)
 * [.NET项目中NLog的配置与使用](https://mp.weixin.qq.com/s/Fvu0e6tFKGiRE7qhxUWurQ)
+* [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
 
 
