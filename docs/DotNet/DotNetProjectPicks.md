@@ -1080,7 +1080,7 @@
 |  14 |  |  |  |
 |  13 |  |  |  |
 |  12 |  |  |  |
-|  11 |  |  |  |
+|  11 | [RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms) | 一个适用于.NET WinForms的 Office 功能区控件类库。 | https://github.com/RibbonWinForms/RibbonWinForms |
 |  10 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
 |  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
 |  8  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
