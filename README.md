@@ -476,7 +476,7 @@
 * [SQLite官网](https://www.sqlite.org/index.html)
 * [SQLite教程](https://www.runoob.com/sqlite/sqlite-intro.html)
 * [.NET操作SQLite实战教程](https://github.com/YSGStudyHards/EasySQLite)
-* [7款实用的SQLite数据库可视化管理工具](https://mp.weixin.qq.com/s/0nwhfbIWSl2rqaOuAuIX3g)
+* [7款实用的SQLite可视化管理工具](https://mp.weixin.qq.com/s/0nwhfbIWSl2rqaOuAuIX3g)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -500,7 +500,8 @@
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s/3Fmv7h5p2QDtLxc9n1dp5A)
 * [4款.NET开源的Redis客户端驱动库](https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ)
-* [一款开源、免费、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/WsNZ9OqIYRv7ZEqDox48mg)
+* [一款实用、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/WsNZ9OqIYRv7ZEqDox48mg)
+* [一个现代化轻量级的跨平台Redis桌面客户端](https://mp.weixin.qq.com/s/K0ff0HnspL7znGWrLMZ5-A)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -542,8 +543,8 @@
 ## 🛰️计算机网络
 * [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 * [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
-* [TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 * [什么是RPC？](https://www.jianshu.com/p/7d6853140e13)
+* [TCP和UDP的区别](https://zhuanlan.zhihu.com/p/24860273)
 * [计算机网络基础](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
 * [图解计算机网络](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%BD%91%E7%BB%9C)
 * [学习网络技术的方法和路径](https://mp.weixin.qq.com/s/XY3TPLnr3bNIij_f3e7W1g)
@@ -572,8 +573,8 @@
 * [Docker从入门到实践](https://vuepress.mirror.docker-practice.com/)
 * [Docker容器入门详解](https://mp.weixin.qq.com/s/RrMkeIWO0PePhXf3pTjsRQ)
 * [Docker是怎么工作的？](https://mp.weixin.qq.com/s/_XK3MtVn-KKuVxf13TPwug)
-* [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [Docker日常工作常用命令](https://www.cnblogs.com/Can-daydayup/p/16456586.html)
+* [全面的Docker快速入门教程](https://www.cnblogs.com/Can-daydayup/p/15559341.html)
 * [CentOS 8.4安装Docker](https://www.cnblogs.com/Can-daydayup/p/15395980.html)
 * [Ubuntu 20.04安装Docker](https://www.cnblogs.com/Can-daydayup/p/16472375.html)
 * [Windows10 Docker安装详细教程](https://www.cnblogs.com/Can-daydayup/p/15468591.html)
@@ -586,10 +587,13 @@
 * [Docker安装Redis并使用Another Redis Desktop Manager连接](https://www.cnblogs.com/Can-daydayup/p/16653903.html)
 
 
-### 服务编排
-- [Kubernetes](https://kubernetes.io/)
-- [Docker Swarm](https://docs.docker.com/engine/swarm)
-- [Apache Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
+### 容器编排平台
+> 容器编排平台的主要作用是帮助用户有效地管理和调度大规模的容器化应用程序，从而提高应用程序的可靠性、弹性和可扩展性。
+
+* [Rancher](https://docs.rancher.cn/docs/rancher2/overview/_index/) 
+* [Kubernetes](https://kubernetes.io/)
+* [Docker Swarm](https://docs.docker.com/engine/swarm)
+* [Apache Mesos](https://mesos-cn.gitbooks.io/mesos-cn/content/OverView/Mesos-Architecture.html)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
