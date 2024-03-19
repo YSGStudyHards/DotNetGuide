@@ -1284,7 +1284,7 @@
 |  16 |  |  |  |
 |  15 |  |  |  |
 |  14 |  |  |  |
-|  13 |  |  |  |
+|  13 | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。 | https://github.com/erossini/BlazorChartjs |
 |  12 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
 |  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
