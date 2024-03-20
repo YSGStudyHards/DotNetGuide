@@ -30,6 +30,7 @@
   * [API 网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
   * [网络爬虫框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)
   * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
+  * [依赖注入框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [后台&权限&工作流管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbacworkflow)
@@ -352,6 +353,23 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  |  [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel 高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 依赖注入框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  | [Autofac](https://github.com/autofac/Autofac) | Autofac是微软.NET平台上的一个IoC容器。它管理类之间的依赖关系，使得随着应用程序规模和复杂性的增长，应用程序保持易于修改。这是通过将普通的.NET类视为组件来实现的。 | https://github.com/autofac/Autofac |
+|  6  | [Scrutor](https://github.com/khellang/Scrutor) | Scrutor 是一个开源的 .NET 库，旨在简化程序集扫描和依赖注入容器的使用。通过 Scrutor，您可以方便地进行程序集扫描，并根据特定的约定自动注册服务到依赖注入容器中。这个框架使得在使用 Microsoft.Extensions.DependencyInjection 进行依赖注入时更加灵活和方便。Scrutor 提供了各种功能，包括程序集扫描、服务装饰等，帮助简化和优化您的依赖注入配置过程。 | https://github.com/khellang/Scrutor |
+|  5  | [Lamar](https://github.com/JasperFx/lamar) | 快速的控制反转工具，是StructureMap的继任者。 | https://github.com/JasperFx/lamar |
+|  4  | [LightInject](https://github.com/seesharper/LightInject) | .NET开源的一个超轻量级的IoC容器。 | https://github.com/seesharper/LightInject |
+|  3  | [Grace](https://github.com/ipjohnson/Grace) | Grace是一个.NET开源的功能丰富的依赖注入容器库。 | https://github.com/ipjohnson/Grace |
+|  2  | [DryIOC](https://github.com/dadhi/DryIoc) | DryIoc是一个快速、小巧、功能齐全的.NET IoC容器。 | https://github.com/dadhi/DryIoc |
+|  1  | [StructureMap](https://github.com/structuremap/structuremap) | 一个用于.NET的依赖注入/控制反转工具。 | https://github.com/structuremap/structuremap |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
