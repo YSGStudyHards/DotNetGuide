@@ -351,8 +351,8 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
-|  1  |  [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel 高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+|  2  | [CYarp](https://github.com/xljiulang/CYarp) | 基于Yarp的http内网穿透中间件。支持tcp、http/2.0或http/3.0作为http/1.1的传输层。 | https://github.com/xljiulang/CYarp |
+|  1  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel 高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
