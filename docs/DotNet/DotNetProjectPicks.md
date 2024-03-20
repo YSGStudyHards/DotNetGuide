@@ -780,7 +780,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10 |  |  |  |
-|  9  |  |  |  |
+|  9  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 |  8  | [DreamScene2](https://github.com/he55/DreamScene2) | .NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放，支持 Windows10/11 系统。 | https://github.com/he55/DreamScene2 |
 |  7  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
 |  6  | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱。 | https://github.com/QiBowen2008/SuperTextToolBox |
