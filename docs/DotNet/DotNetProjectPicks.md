@@ -30,7 +30,7 @@
   * [API 网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
   * [网络爬虫框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)
   * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
-  * [依赖注入框架]()
+  * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [后台&权限&工作流管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbacworkflow)
