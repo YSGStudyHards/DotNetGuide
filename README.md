@@ -76,6 +76,7 @@
 * [📚C#指南（微软提供的最权威，最全面的C#学习资料）](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 * [📚.NET文档（微软提供的最权威，最全面的.NET学习资料）](https://docs.microsoft.com/zh-cn/dotnet/)
 * [💪微软官方.NET免费教程（面向从初学者到高级开发人员）](https://dotnet.microsoft.com/zh-cn/learn)
+* [☁️Azure文档（微软提供的最权威，最全面的Azure学习资料）](https://docs.azure.cn/zh-cn/?product=popular)
 * [🔎面向开发人员和技术专业人员的Microsoft文档和学习主页](https://docs.microsoft.com/zh-cn/)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
