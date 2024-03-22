@@ -21,6 +21,15 @@
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
 * [C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
 
+## WPF相关
+
+## WinForm相关
+* [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
+
+## Blazor相关
+* [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
+* [在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
+
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
@@ -40,10 +49,9 @@
 * [.NET快速对接极光消息推送](https://mp.weixin.qq.com/s/aFzmC-IjiKxtE5j3MK9y2A)
 * [一个基于百度飞桨封装的.NET版本OCR工具类库](https://mp.weixin.qq.com/s/9F_rSB8Wm69jLdgsH4ufvg)
 * [一个简单高效低内存的.NET操作Excel开源框架](https://mp.weixin.qq.com/s/8BjPoAnPjfr00v-LaNYIWQ)
-* [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 * [.NET指定图片地址下载并转换Base64字符串](https://mp.weixin.qq.com/s/Q5QlQI4Sfp56aHRscTRqZw)
 * [.NET项目中NLog的配置与使用](https://mp.weixin.qq.com/s/Fvu0e6tFKGiRE7qhxUWurQ)
-* [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
+* [【干货】Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
 
 
