@@ -36,6 +36,7 @@
 * [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
 * [4款免费且实用的.NET反编译工具](https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw)
+* [【干货】Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
 * [.NET开源的处理分布式事务的解决方案](https://mp.weixin.qq.com/s/ONM9bLKidVCS4pAwJbG9tg)
 * [企业应用开发中.NET EF常用哪种模式？](https://mp.weixin.qq.com/s/r4AehSo86hsMTjagD0VxOQ)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
@@ -52,6 +53,6 @@
 * [.NET开发工作效率提升利器 - CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 * [.NET指定图片地址下载并转换Base64字符串](https://mp.weixin.qq.com/s/Q5QlQI4Sfp56aHRscTRqZw)
 * [.NET项目中NLog的配置与使用](https://mp.weixin.qq.com/s/Fvu0e6tFKGiRE7qhxUWurQ)
-* [【干货】Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
+* [.NET使用分布式网络爬虫框架DotnetSpider快速开发爬虫功能](https://mp.weixin.qq.com/s/0R--IvaFANOH3S4nBwU8Qg)
 
 
