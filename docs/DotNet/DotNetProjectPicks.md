@@ -66,7 +66,7 @@
   * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [实用桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7)
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
-  * [录屏和GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BD%95%E5%B1%8F%E5%92%8Cgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
+  * [截图&录屏&GIF制作工具]()
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [性能压测工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
@@ -825,15 +825,15 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 录屏和GIF制作工具
+#### 截图&录屏&GIF制作工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
-|  1  |  [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
+|  2  | [ShareX](https://github.com/ShareX/ShareX) | 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
+|  1  | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
