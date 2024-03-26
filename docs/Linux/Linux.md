@@ -1,6 +1,7 @@
 * [Linux学习](https://www.yuque.com/ysgstudyhard/linux)
 * [Linux教程](https://github.com/dunwu/linux-tutorial)
 * [Linux命令大全](https://github.com/jaywcjlove/linux-command)
-* [Linux详细介绍](https://mp.weixin.qq.com/s/KPdWk_yUQsQhS-29nWK1jw)
+* [Linux详细介绍](https://mp.weixin.qq.com/s/g-qqCnmSKGAinC2O0S07zg)
 * [Linux备忘手册](https://mp.weixin.qq.com/s/EiubOvbvejD2dHvT-3SfHg)
 * [工作中常用到的Linux命令](https://mp.weixin.qq.com/s/LVg3drjDyd0KJeC18Y_N-w)
+* [一图看懂 Linux 文件系统的组成](https://mp.weixin.qq.com/s/0wuJ4lmcSCSjOAb5ArTItA)
