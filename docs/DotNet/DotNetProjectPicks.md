@@ -461,7 +461,7 @@
 |  ✍   |                   项目名称和地址                    |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）           |
 | :--: | :-------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于Asp.net Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
 |  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco是最友好、最灵活、增长最快的ASP.NET开源的内容管理系统。 | https://github.com/umbraco/Umbraco-CMS |
 |  5  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
 |  4  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
