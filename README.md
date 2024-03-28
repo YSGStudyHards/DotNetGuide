@@ -1,4 +1,4 @@
-# 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
+![image](https://github.com/YSGStudyHards/DotNetGuide/assets/35737263/87324ae7-9714-42ac-8fa4-df5e5c3a6d70)# 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
 > 让现在的自己不再迷茫✨✨✨。
 
 ![C#/.NET/.NET Core学习、工作、面试指南](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2336807/o_230817182324_%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97.png "C#/.NET/.NET Core学习、工作、面试指南")
@@ -192,7 +192,7 @@
 
 **🐱‍🚀C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习进步。**
 
-![C#.NET.NET Core面试宝典（基础版）](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_221031161923_QQ%E5%9B%BE%E7%89%8720221101001736.png)
+![C#.NET.NET Core面试宝典（基础版）](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_240328134732_%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.png)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
