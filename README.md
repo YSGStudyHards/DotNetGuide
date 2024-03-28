@@ -1,4 +1,4 @@
-![image](https://github.com/YSGStudyHards/DotNetGuide/assets/35737263/87324ae7-9714-42ac-8fa4-df5e5c3a6d70)# 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
+# 🐱‍🚀C#/.NET/.NET Core学习、工作、面试指南
 > 让现在的自己不再迷茫✨✨✨。
 
 ![C#/.NET/.NET Core学习、工作、面试指南](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2336807/o_230817182324_%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97.png "C#/.NET/.NET Core学习、工作、面试指南")
