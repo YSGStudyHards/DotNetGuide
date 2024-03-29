@@ -435,7 +435,7 @@
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [WMS（智能仓储配送平台）](https://github.com/qq283335746/Wms) | WMS（智能仓储配送平台），一个具有后端+前端+移动/PDA端的项目。 | https://github.com/qq283335746/Wms |
 |  4  | [SmoWMS](https://github.com/comsmobiler/SmoWMS) | SmoWMS仓库管理系统，移动端APP开源项目，支持Android、iOS，基于.NET（C#、VB）。SmoWMS仓库管理系统包含了仓库管理、订单、主数据维护、图表分析、个人信息等几大功能。 | https://github.com/comsmobiler/SmoWMS |
 |  3  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
 |  2   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
