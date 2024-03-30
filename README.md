@@ -666,7 +666,7 @@
 * [Git参考手册](http://gitref.justjavac.com/)
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips#git-%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7see_no_evil)
 * [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
-* [Git详细使用教程](https://mp.weixin.qq.com/s/Yr2EEzpkCP7f8y8LrgI7UA)
+* [Git详细使用教程](https://mp.weixin.qq.com/s/2qFy-IbUNvPBMuvU6e7-Dg)
 * [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 * [gitignore templates](https://github.com/github/gitignore)
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
