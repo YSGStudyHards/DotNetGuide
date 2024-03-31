@@ -12,30 +12,30 @@
 
 # 2024年
 ## 3月
-### 
-* **项目简介：** 
-* **项目源码地址：** 
-* **公众号详细介绍：** 
+### XCharts
+* **项目简介：** 一款免费（基于MIT License协议）、开源、功能强大、简单易用、可配置的Unity数据可视化图表库。
+* **项目源码地址：** https://github.com/XCharts-Team/XCharts
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/DYbIqFsoZLHU5u9GiUmlZw
 
-### 
-* **项目简介：** 
-* **项目源码地址：** 
-* **公众号详细介绍：** 
+### SourceGit
+* **项目简介：** 一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。
+* **项目源码地址：** https://github.com/sourcegit-scm/sourcegit
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/uaEjj4kJ-xzeWt23AzzehQ
 
-### 
-* **项目简介：** 
-* **项目源码地址：** 
-* **公众号详细介绍：**
+### EF Core Generic Repository
+* **项目简介：** 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。
+* **项目源码地址：** https://github.com/TanvirArjel/EFCore.GenericRepository
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA
 
-### 
-* **项目简介：** 
-* **项目源码地址：** 
-* **公众号详细介绍：** 
+### ShareX
+* **项目简介：** 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。
+* **项目源码地址：** https://github.com/ShareX/ShareX
+* **公众号详细介绍：** https://github.com/ShareX/ShareX
 
 ### Module Shop
 * **项目简介：** 一个基于.NET Core构建的简单、跨平台、模块化、完全开源免费（MIT License）的商城系统。
-* **项目源码地址：** 
-* **公众号详细介绍：** 
+* **项目源码地址：** https://github.com/trueai-org/module-shop
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/zzZW-jhQLXi6aB8GVwZ8rg
 
 ### ScottPlot
 * **项目简介：** 一款.NET开源（采用MIT许可证）、免费、强大的交互式绘图库，该库能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。
