@@ -11,6 +11,73 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 3月
+### 
+* **项目简介：** 
+* **项目源码地址：** 
+* **公众号详细介绍：** 
+
+### 
+* **项目简介：** 
+* **项目源码地址：** 
+* **公众号详细介绍：** 
+
+### 
+* **项目简介：** 
+* **项目源码地址：** 
+* **公众号详细介绍：**
+
+### 
+* **项目简介：** 
+* **项目源码地址：** 
+* **公众号详细介绍：** 
+
+### Module Shop
+* **项目简介：** 一个基于.NET Core构建的简单、跨平台、模块化、完全开源免费（MIT License）的商城系统。
+* **项目源码地址：** 
+* **公众号详细介绍：** 
+
+### ScottPlot
+* **项目简介：** 一款.NET开源（采用MIT许可证）、免费、强大的交互式绘图库，该库能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。
+* **项目源码地址：** https://github.com/ScottPlot/ScottPlot
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/vVy1h4xrU4Vs1MuNGrDbhg
+
+### Flow Launcher
+* **项目简介：** Flow Launcher是一款.NET开源、免费、功能强大、方便实用的 Windows 文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过 "设置 "中的 "插件商店 "菜单快速安装插件。
+* **项目源码地址：** https://github.com/Flow-Launcher/Flow.Launcher
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/WeDpUhAH4L7UksBjTG_2Ow
+
+### BlazorChartjs
+* **项目简介：** BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。
+* **项目源码地址：** https://github.com/erossini/BlazorChartjs
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ
+
+### ReoGrid
+* **项目简介：** 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。
+* **项目源码地址：** https://github.com/unvell/ReoGrid
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/wd1r7KMMzaicweg08mPEBw
+
+### BouncyCastle
+* **项目简介：** BouncyCastle是一款C#版开源、免费的Bouncy Castle密码库，开发人员可以通过该项目在他们的 C# 应用程序中使用 Bouncy Castle 提供的各种密码学功能，从而加强数据的安全性和保护隐私信息。
+* **项目源码地址：** https://github.com/bcgit/bc-csharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog
+
+### STranslate
+* **项目简介：** 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。
+* **项目源码地址：** https://github.com/ZGGSONG/STranslate
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/WTopCglS2ELPWaa5wAMyTQ
+
+### AntdUI
+* **项目简介：** 一款基于Ant Design（使用Ant Design 5.0）设计语言、开源（Apache License）的WinForm UI界面库。
+* **项目源码地址：** https://gitee.com/antdui/AntdUI
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/H46V1EZ7DCduUeS9j7wO0w
+
+### LLCOM
+* **项目简介：** LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。
+* **项目源码地址：** https://github.com/chenxuuu/llcom
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/bqJz8LjdnhpUR_6ynG0soQ
+
+
 ## 2月
 ### 公众号2月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年2月简报：** https://mp.weixin.qq.com/s/3edhYlGfdJZo7Sj1Gvl1Hg
