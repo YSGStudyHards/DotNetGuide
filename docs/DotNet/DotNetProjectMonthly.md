@@ -30,7 +30,7 @@
 ### ShareX
 * **项目简介：** 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。
 * **项目源码地址：** https://github.com/ShareX/ShareX
-* **公众号详细介绍：** https://github.com/ShareX/ShareX
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/9RQhkeOx-4EtY_9RdEn7hQ
 
 ### Module Shop
 * **项目简介：** 一个基于.NET Core构建的简单、跨平台、模块化、完全开源免费（MIT License）的商城系统。
