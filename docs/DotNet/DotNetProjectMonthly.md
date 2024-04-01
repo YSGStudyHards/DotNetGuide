@@ -12,6 +12,9 @@
 
 # 2024年
 ## 3月
+### 公众号3月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年3月简报：** https://mp.weixin.qq.com/s/pPNLpgA7jaGltqYGrVqLew
+
 ### XCharts
 * **项目简介：** 一款免费（基于MIT License协议）、开源、功能强大、简单易用、可配置的Unity数据可视化图表库。
 * **项目源码地址：** https://github.com/XCharts-Team/XCharts
