@@ -133,6 +133,7 @@
 * [我找回了我喜欢的GitHub Old Feed](https://mp.weixin.qq.com/s/liXDb4MGXlSrAryRDSkcbw)
 * [五分钟教你使用GitHub寻找优质开源项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
 * [30分钟快速搭建并部署一个免费的个人博客](https://mp.weixin.qq.com/s/x7uZvQvtipr2wbNzxqJ5Ng)
+* [详细概述Gitee和GitHub生成/添加SSH公钥](https://mp.weixin.qq.com/s/B84wXcX_AlTfCphcL_4MHA)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
