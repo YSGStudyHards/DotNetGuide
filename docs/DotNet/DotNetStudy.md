@@ -10,6 +10,7 @@
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
 * [C#异步有多少种实现方式？](https://mp.weixin.qq.com/s/Yk5xLp99DOz-gmzcRunCkQ)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
+* [C#数据去重的5种方式，你知道几种？](https://mp.weixin.qq.com/s/_eoiBm0y02CSSHUKCjEoaQ)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
 * [C#中IsNullOrEmpty和IsNullOrWhiteSpace的区别？](https://mp.weixin.qq.com/s/50DYqNYHVj9gb4XNGGqE9w)
 * [支持C#的开源免费、新手友好的数据结构与算法入门教程](https://mp.weixin.qq.com/s/9lb5iu6tGNiSGcIrf7fQ3A)
@@ -20,6 +21,7 @@
 * [老生常谈：值类型 V.S. 引用类型](https://mp.weixin.qq.com/s/kwIPQcwLEbvUrLQFHU_oFA)
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
 * [C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
+* [C#优雅的处理TCP数据（心跳，超时，粘包断包，SSL加密 ，数据处理等）](https://mp.weixin.qq.com/s/wPPs2dHPTIPecLvoAg6NIw)
 
 ## WPF相关
 
