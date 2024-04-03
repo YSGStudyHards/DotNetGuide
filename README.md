@@ -450,16 +450,15 @@
 * [MySQL基础快速入门](https://mp.weixin.qq.com/s/pnbI7xSDk7_hQMLgVryPaA)
 * [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
-* [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
-* [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/cAJg_MZP_xI853wLdWAE7A)
+* [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/pN6azE6v4y9sk96FJqctBw)
 * [MySQL夺命16问，你能回答出几个？](https://mp.weixin.qq.com/s/eJepG60ll0gaEPVb1IAKVA)
 * [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### Microsoft SQL Server
 * [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
+* [Microsoft SQL文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
 * [SQL Server 技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
-* [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
 * [SQL Server文章目录](https://www.cnblogs.com/CareySon/archive/2012/05/08/2489748.html)
 * [SSMS管理工具快速入门](https://docs.microsoft.com/zh-cn/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver15)
 
@@ -673,6 +672,7 @@
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
 * [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
+* [实际项目中如何使用Git做分支管理](https://mp.weixin.qq.com/s/WxPPZ8QrhR8opcqADlveMQ)
 * [10款实用便捷的Git可视化管理工具](https://mp.weixin.qq.com/s/18J-YoEArJS_rCxkx4-D5w)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
