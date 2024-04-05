@@ -22,6 +22,7 @@
 * [研究c#异步操作async await状态机的总结](https://mp.weixin.qq.com/s/Nexd6tP1ZDX3tZ-sXVUBDw)
 * [C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
 * [C#优雅的处理TCP数据（心跳，超时，粘包断包，SSL加密 ，数据处理等）](https://mp.weixin.qq.com/s/wPPs2dHPTIPecLvoAg6NIw)
+* [走进C# abstract，了解抽象类与接口的异同](https://mp.weixin.qq.com/s/7kBA93n0pXud-MNorAt98w)
 
 ## WPF相关
 
