@@ -10,6 +10,7 @@
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
 * [C#异步有多少种实现方式？](https://mp.weixin.qq.com/s/Yk5xLp99DOz-gmzcRunCkQ)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
+* [C#基础：理解装箱与拆箱](https://mp.weixin.qq.com/s/VD_x17aWU2SHuVR22tM7pg)
 * [C#数据去重的5种方式，你知道几种？](https://mp.weixin.qq.com/s/_eoiBm0y02CSSHUKCjEoaQ)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
 * [C#中IsNullOrEmpty和IsNullOrWhiteSpace的区别？](https://mp.weixin.qq.com/s/50DYqNYHVj9gb4XNGGqE9w)
@@ -23,6 +24,10 @@
 * [C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
 * [C#优雅的处理TCP数据（心跳，超时，粘包断包，SSL加密 ，数据处理等）](https://mp.weixin.qq.com/s/wPPs2dHPTIPecLvoAg6NIw)
 * [走进C# abstract，了解抽象类与接口的异同](https://mp.weixin.qq.com/s/7kBA93n0pXud-MNorAt98w)
+* [C# XML基础入门（XML文件内容增删改查清）](https://mp.weixin.qq.com/s/578Pudvtwo4uv3a-L_J9ew)
+* [C#XmlHelper帮助类操作Xml文档的通用方法汇总](https://mp.weixin.qq.com/s/VHbEWb0-MlHSDNSnr0Foug)
+* [C#复杂XML反序列化为实体对象两种方式](https://mp.weixin.qq.com/s/D1D6RctMYL8qlJh_u2zgQg)
+* [C#判断字符串是否是有效的XML格式数据](https://mp.weixin.qq.com/s/nJ0TplX-XzffwXo75DzQbg)
 
 ## WPF相关
 
