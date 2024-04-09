@@ -122,9 +122,10 @@
 * [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
 
 ### AI辅助编程工具
-* [CodeGeeX AI编程助手](https://codegeex.cn/zh-CN)
-* [AI编程工具CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer/)
-* [AI辅助神器GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
+* [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
+* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer/)
+* [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
+* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com/)
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
