@@ -107,7 +107,7 @@
   * [WPF UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#wpf-ui%E5%BA%93)
   * [WinForm UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
   * [Avalonia UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#avalonia-ui%E5%BA%93)
-  * [MAUI UI库]()
+  * [MAUI UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#maui-ui%E5%BA%93)
 
 * [开源学习知识库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E5%BA%93)
   * [设计模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
