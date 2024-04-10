@@ -30,29 +30,6 @@
 * [C#复杂XML反序列化为实体对象两种方式](https://mp.weixin.qq.com/s/D1D6RctMYL8qlJh_u2zgQg)
 * [C#判断字符串是否是有效的XML格式数据](https://mp.weixin.qq.com/s/nJ0TplX-XzffwXo75DzQbg)
 
-## WPF相关
-* [一套开源、强大且美观的WPF UI控件库 - HandyControl](https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ)
-* [一个适用于定制个性化界面的WPF UI组件库 - Panuon.WPF.UI](https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw)
-* [一个WPF版的Layui前端UI库 - Layui-WPF](https://mp.weixin.qq.com/s/jXCdCa_t_0XVlqLhLmXWWg)
-* [WPF开源的一款免费、开箱即用的翻译、OCR工具](https://mp.weixin.qq.com/s/WTopCglS2ELPWaa5wAMyTQ)
-* [基于Material Design风格开源、易用、强大的WPF UI控件库](https://mp.weixin.qq.com/s/LpG7T0tZDisSVTvQBxK6Fw)
-* [WPF --- TextBox的输入校验](https://mp.weixin.qq.com/s/r4hhl0jFbO856LnOd78XqA)
-
-## WinForm相关
-* [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
-* [基于Ant Design设计语言的WinForm UI界面库 - AntdUI](https://mp.weixin.qq.com/s/H46V1EZ7DCduUeS9j7wO0w)
-* [一款开源免费美观的WinForm UI控件库](https://mp.weixin.qq.com/s/M7gK2krkZ_PoTiRRR_7nDw)
-* [一个超经典 WinForm 卡死的最后一次反思](https://mp.weixin.qq.com/s/9bSINvK9Ioh0BsYkfIlPkg)
-
-## Blazor相关
-* [10款值得推荐的Blazor UI组件库](https://mp.weixin.qq.com/s/HHqkwpXIi7p3K5eUnTcLTw)
-* [C#开源免费的Blazor图表库](https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw)
-* [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
-* [在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
-* [Ant Design Blazor前端框架搭建](https://mp.weixin.qq.com/s/W98huzk2oYtco3xwtm3NEA)
-* [BootstrapBlazor UI组件库引入](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
-* [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
-
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
@@ -77,5 +54,35 @@
 * [.NET指定图片地址下载并转换Base64字符串](https://mp.weixin.qq.com/s/Q5QlQI4Sfp56aHRscTRqZw)
 * [.NET项目中NLog的配置与使用](https://mp.weixin.qq.com/s/Fvu0e6tFKGiRE7qhxUWurQ)
 * [.NET使用分布式网络爬虫框架DotnetSpider快速开发爬虫功能](https://mp.weixin.qq.com/s/0R--IvaFANOH3S4nBwU8Qg)
+
+## WPF相关
+* [一套开源、强大且美观的WPF UI控件库 - HandyControl](https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ)
+* [一个适用于定制个性化界面的WPF UI组件库 - Panuon.WPF.UI](https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw)
+* [一个WPF版的Layui前端UI库 - Layui-WPF](https://mp.weixin.qq.com/s/jXCdCa_t_0XVlqLhLmXWWg)
+* [WPF开源的一款免费、开箱即用的翻译、OCR工具](https://mp.weixin.qq.com/s/WTopCglS2ELPWaa5wAMyTQ)
+* [基于Material Design风格开源、易用、强大的WPF UI控件库](https://mp.weixin.qq.com/s/LpG7T0tZDisSVTvQBxK6Fw)
+* [WPF --- TextBox的输入校验](https://mp.weixin.qq.com/s/r4hhl0jFbO856LnOd78XqA)
+
+## WinForm相关
+* [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
+* [基于Ant Design设计语言的WinForm UI界面库 - AntdUI](https://mp.weixin.qq.com/s/H46V1EZ7DCduUeS9j7wO0w)
+* [一款开源免费美观的WinForm UI控件库](https://mp.weixin.qq.com/s/M7gK2krkZ_PoTiRRR_7nDw)
+* [一个超经典 WinForm 卡死的最后一次反思](https://mp.weixin.qq.com/s/9bSINvK9Ioh0BsYkfIlPkg)
+
+## Blazor相关
+* [10款值得推荐的Blazor UI组件库](https://mp.weixin.qq.com/s/HHqkwpXIi7p3K5eUnTcLTw)
+* [C#开源免费的Blazor图表库](https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw)
+* [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
+* [在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
+* [Ant Design Blazor前端框架搭建](https://mp.weixin.qq.com/s/W98huzk2oYtco3xwtm3NEA)
+* [BootstrapBlazor UI组件库引入](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+* [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
+
+## Avalonia相关
+* [.NET Avalonia开源、免费的桌面UI库 - SukiUI](https://mp.weixin.qq.com/s/yyiTwzeekWnorS8uaJw3jQ)
+* [在Avalonia项目中使用MediatR和MS.DI库实现事件驱动通信](https://mp.weixin.qq.com/s/I_1AQrWZq5fXKEUt3g6WyQ) 
+
+## MAUI相关
+* [MAUI Blazor 项目实战 - 从0到1轻松构建多平台应用UI](https://mp.weixin.qq.com/s/TKfQPHaWy7400dbmpzOexA)
 
 𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼
