@@ -775,7 +775,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  | [Remotely](https://github.com/immense/Remotely) | 使用 .NET 7、Blazor 和 SignalR 构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
+|  4  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
 |  3  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC,WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
 |  2  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
 |  1  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
@@ -913,7 +913,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
 |  4  | [Mocreak](https://github.com/OdysseusYuan/Mocreak) | 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、部署 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。 | https://github.com/OdysseusYuan/Mocreak |
 |  3  | [kms-activate](https://github.com/jm33-m0/kms-activate) | Microsoft Windows/Office 一键激活工具。 | https://github.com/jm33-m0/kms-activate |
 |  2  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
