@@ -735,6 +735,7 @@
 
 ## 🧭宝藏指南
 * [程序员技能图谱](https://github.com/MyBigKnowledgeBase/skill-map)
+* [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 * [Github-Trending](https://github.com/trending)
 * [Markdown语法教程](https://markdown.com.cn/basic-syntax/)
 * [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
