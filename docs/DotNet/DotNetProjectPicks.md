@@ -152,7 +152,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。 | https://github.com/AvaloniaUI/Avalonia |
-|  1  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI 是一款开放源代码应用，是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
+|  1  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI是一个开源、免费（基于MIT License）的跨平台框架（支持Android、iOS、macOS 和 Windows多平台运行），是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -163,7 +163,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [MassTransit](https://github.com/MassTransit/MassTransit) | MassTransit 是一个免费的、开源的.NET 分布式应用程序框架。 MassTransit 可以轻松创建利用基于消息的松散耦合异步通信来实现更高可用性、可靠性和可扩展性的应用程序和服务。 | https://github.com/MassTransit/MassTransit |
 |  2  | [orleans](https://github.com/dotnet/orleans) | Orleans 是一个用于构建稳健、可扩展的分布式应用程序的跨平台框架。它是由微软研究院开发的开源项目，旨在简化分布式系统的开发过程（Orleans 提供了一种编程模型，使开发人员可以使用面向对象的方式来构建分布式应用程序）。 | https://github.com/dotnet/orleans |
 |  1  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://github.com/NewLifeX/Stardust |
 
