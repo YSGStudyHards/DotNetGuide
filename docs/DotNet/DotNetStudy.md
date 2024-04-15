@@ -85,6 +85,7 @@
 * [在Avalonia项目中使用MediatR和MS.DI库实现事件驱动通信](https://mp.weixin.qq.com/s/I_1AQrWZq5fXKEUt3g6WyQ) 
 
 ## MAUI相关
+* [.NET开源免费的跨平台框架 - MAUI（附学习资料）](https://mp.weixin.qq.com/s/Srita3XuYRUQ3tEzcSB4Og)
 * [.NET MAUI开源免费的UI工具包 - Uranium](https://mp.weixin.qq.com/s/UNhXBQePRmiBBG31jEt2Kg)
 * [MAUI Blazor 项目实战 - 从0到1轻松构建多平台应用UI](https://mp.weixin.qq.com/s/TKfQPHaWy7400dbmpzOexA)
 
