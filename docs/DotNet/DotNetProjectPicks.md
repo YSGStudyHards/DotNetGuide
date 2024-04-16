@@ -461,7 +461,14 @@
 #### 内容管理系统（CMS）
 |  ✍   |                   项目名称和地址                    |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）           |
 | :--: | :-------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  8  |  |  |  |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11  |  |  |  |
+|  10  | [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS是一个针对 .NET 8 和 Entity Framework Core 构建的解耦式、跨平台 CMS。它具有模块化和可扩展的架构，支持多种托管和部署方案。 | https://github.com/PiranhaCMS/piranha.core |
+|  9  | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统。 | https://github.com/SeriaWei/ZKEACMS |
+|  8  | [Oqtane Framework](https://github.com/oqtane/oqtane.framework) | Blazor 和 .NET MAUI 的 CMS & 应用程序框架。 | https://github.com/oqtane/oqtane.framework |
 |  7  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于Asp.net Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
 |  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco是最友好、最灵活、增长最快的ASP.NET开源的内容管理系统。 | https://github.com/umbraco/Umbraco-CMS |
 |  5  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
@@ -1410,8 +1417,8 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
+|  3  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
+|  2  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  1  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
