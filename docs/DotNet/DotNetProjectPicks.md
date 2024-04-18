@@ -31,6 +31,7 @@
   * [网络爬虫框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)
   * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
+  * [开源缓存框架]()
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
   * [后台&权限&工作流管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%90%8E%E5%8F%B0%E6%9D%83%E9%99%90%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fadminrbacworkflow)
@@ -372,6 +373,19 @@
 |  3  | [Grace](https://github.com/ipjohnson/Grace) | Grace是一个.NET开源的功能丰富的依赖注入容器库。 | https://github.com/ipjohnson/Grace |
 |  2  | [DryIOC](https://github.com/dadhi/DryIoc) | DryIoc是一个快速、小巧、功能齐全的.NET IoC容器。 | https://github.com/dadhi/DryIoc |
 |  1  | [StructureMap](https://github.com/structuremap/structuremap) | 一个用于.NET的依赖注入/控制反转工具。 | https://github.com/structuremap/structuremap |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 开源缓存框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（开源（基于MIT license）、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
+|  1  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching是一个.NET开源的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
