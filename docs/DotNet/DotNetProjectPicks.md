@@ -123,12 +123,12 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | 适用于 ASP.NET 6 及更高版本的轻量级 REST API 开发框架。 | https://github.com/FastEndpoints/FastEndpoints |
 |  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
 |  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | https://github.com/MonkSoul/Furion |
 |  3  | [ABP Framework](https://github.com/abpframework/abp) | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
 |  2  | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://github.com/masastack/MASA.Framework |
-|  1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core是一个跨平台、高性能、开源的框架，用于在 Windows、Mac 或 Linux 上构建基于云的现代 Web 应用程序。 | https://github.com/dotnet/aspnetcore |
+|  1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core是一个开源、跨平台、高性能的 .NET 框架，用于在 Windows、Mac 或 Linux 上构建基于云的现代 Web 应用程序。 | https://github.com/dotnet/aspnetcore |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
