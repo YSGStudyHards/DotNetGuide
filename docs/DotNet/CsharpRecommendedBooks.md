@@ -176,6 +176,12 @@ Microsoft MVP Dino Esposito教会你如何：
 ### [《ASP.NET Core+Vue.js全栈开发训练营》](http://www.tup.tsinghua.edu.cn/booksCenter/book_09320101.html)
 本书旨在为读者提供一个全面、实用的学习资源，以掌握使用ASP.NET Core 7和Vue.js 3构建功能丰富、高效的Web应用程序的技能。全书分为3部分。第1部分（第1～9章）主要介绍ASP.NET Core的相关内容，包括基础知识、数据访问、远程过程调用、实时通信、安全、性能、测试和部署，这些是构建强大Web应用程序的必要知识。第2部分（第10～17章）主要介绍Vue.js 3的相关内容，包括基础知识、组件开发、路由、状态管理、与服务器通信、测试和调试以及部署；Vue.js 3是一种流行的前端框架，能够构建交互性强大的用户界面。第3部分（第18～20章）是结合ASP.NET Core和Vue.js 3，创建实际的Web应用程序案例，包括博客网站、通用权限系统和ERP系统。
 
+### [《.NET Core 2.0应用程序高级调试》](http://www.tup.tsinghua.edu.cn/booksCenter/book_07944401.html)
+随着.NET Core 开源和跨平台的特性逐渐被广大开发者熟知和接受，有越来越多的.NET 应用从Windows 平台向Linux 平台进行迁移，有越来越多的开发者在Linux 或者macOS 操作系统上开发.NET 应用。同时，这也给之前只熟悉在Windows 平台上开发.NET 应用的开发者带来了一系列挑战。怎样在Linux 和macOS操作系统上有效地使用工具对.NET Core 应用程序进行调试，找出程序中隐藏的代码错误和内存中的问题成为保障应用程序在Linux 和macOS 上平稳运行的重要课题。本书从.NET Core概念、.NET Core 相关工具、调试器选择、调试命令介绍和多线程、内存调试实践等多个环节对.NET Core在Linux、macOS和Windows 三个操作系统上如何进行调试做了详尽的介绍。内容包括.NET Core基础知识、.NET Core 的编译、.NET Core 命令行工具、调试环境的配置、调试器的基本命令、.NET 基本调试命令、多线程、async和await、内存和垃圾收集等，分9章全面地阐述了.NET Core 跨平台调试技术。
+
+### [《.NET内存管理宝典》](http://www.tup.tsinghua.edu.cn/booksCenter/book_08454701.html)
+了解.NET内存管理的内部工作原理、陷阱和技术，以便有效地避免软件中出现各种性能和可伸缩性问题。尽管.NET具有自动内存管理功能，但了解 .NET的内存管理工作原理以及如何最好地编写与之高效交互的软件方面仍有许多益处。《.NET内存管理宝典 提高代码质量、性能和可扩展性》是你通过了解和处理 .NET 中的内存管理来编写出更好软件的全面指南。《.NET内存管理宝典 提高代码质量、性能和可扩展性》经过了 Microsoft 的 .NET 团队全面审查，包含 了25 个有价值的故障排除方案，旨在帮助诊断具有挑战性的内存问题。读者还将受益于多个 .NET 内存管理”规则”，这些规则介绍了编写内存感知代码的方法以及避免常见的破坏性陷阱的方法。
+
 
 ## Linq相关书籍
 ### [《LINQ实战》](https://www.ituring.com.cn/book/314)
