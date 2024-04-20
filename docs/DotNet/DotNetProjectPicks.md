@@ -122,7 +122,7 @@
 |  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | 用于使用 ASP.NET 和 Entity Framework Core 构建符合 JSON:API 的 REST API 的框架。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
 |  6  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | 适用于 ASP.NET 6 及更高版本的轻量级 REST API 开发框架。 | https://github.com/FastEndpoints/FastEndpoints |
 |  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
 |  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | https://github.com/MonkSoul/Furion |
