@@ -117,18 +117,18 @@
 ## 项目列表
 ### 开源框架
 #### Web应用框架
-|  ✍   |                        项目名称和地址                        |                           项目简介                           |                      项目详细介绍（文档、文章、源码地址）                      |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+|  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
+| :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
 |  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
-|  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | http://furion.baiqian.ltd/docs/ |
+|  4  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | https://github.com/MonkSoul/Furion |
 |  3  | [ABP Framework](https://github.com/abpframework/abp)          | ABP是一个开源应用程序框架,专注于基于ASP.NET Core的Web应用程序开发,但也支持开发其他类型的应用程序。 |   https://docs.abp.io/zh-Hans/abp/latest/         |
-|  2  | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时——Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
-|  1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。详细了解 ASP.NET 核心。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-6.0 |
+|  2  | [MASA Framework](https://github.com/masastack/MASA.Framework) | .NET下一代微服务开发框架，提供基于分布式应用运行时Dapr的云原生最佳实践，可以快速实现分布式、微服务、DDD、SaaS等现代应用开发。 | https://docs.masastack.com/framework/concepts/overview |
+|  1  | [ASP.NET Core](https://github.com/dotnet/aspnetcore) | ASP.NET Core 是一个开源和跨平台框架，用于构建基于云的现代互联网连接应用程序，例如 Web 应用程序、IoT 应用程序和移动后端。ASP.NET 核心应用在 .NET 上运行，.NET 是一个免费的跨平台开源应用程序运行时。它的架构旨在为部署到云或在本地运行的应用提供优化的开发框架。它由开销最小的模块化组件组成，因此您可以在构建解决方案时保持灵活性。您可以在 Windows、Mac 和 Linux 上跨平台开发和运行 ASP.NET Core 应用程序。 | https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-8.0 |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
