@@ -824,7 +824,7 @@
 |  14 |  |  |  |
 |  13 |  |  |  |
 |  12 |  |  |  |
-|  11 |  |  |  |
+|  11 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
 |  10 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
 |  9  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 |  8  | [DreamScene2](https://github.com/he55/DreamScene2) | .NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放，支持 Windows10/11 系统。 | https://github.com/he55/DreamScene2 |
