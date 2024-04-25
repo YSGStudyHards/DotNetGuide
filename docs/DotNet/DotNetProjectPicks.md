@@ -1077,7 +1077,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
 |  4  | [ReoGrid](https://github.com/unvell/ReoGrid) | 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。 | https://github.com/unvell/ReoGrid |
 |  3  | [ScottPlot](https://github.com/ScottPlot/ScottPlot) | ScottPlot是一个免费、开源（采用MIT许可证）的强大.NET交互式绘图库，能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。 | https://github.com/ScottPlot/ScottPlot |
 |  2  | [ImageSharp](https://github.com/SixLabors/ImageSharp) | ImageSharp是一款全新的、功能齐全的、完全管理的、跨平台的2D图形API。ImageSharp旨在简化图像处理，提供了一个极其强大但简洁易用的API。 | https://github.com/SixLabors/ImageSharp |
