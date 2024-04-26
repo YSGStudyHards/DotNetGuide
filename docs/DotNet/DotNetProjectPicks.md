@@ -955,7 +955,7 @@
 |  25  |  |  |  |
 |  24  |  |  |  |
 |  23  |  |  |  |
-|  22  |  |  |  |
+|  22  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) | 一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
 |  21  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
 |  20  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
 |  19  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
@@ -1076,7 +1076,11 @@
 #### .NET图形&图表&表格库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) | LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。 | https://github.com/beto-rodriguez/LiveCharts2 |
 |  5  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
 |  4  | [ReoGrid](https://github.com/unvell/ReoGrid) | 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。 | https://github.com/unvell/ReoGrid |
 |  3  | [ScottPlot](https://github.com/ScottPlot/ScottPlot) | ScottPlot是一个免费、开源（采用MIT许可证）的强大.NET交互式绘图库，能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。 | https://github.com/ScottPlot/ScottPlot |
