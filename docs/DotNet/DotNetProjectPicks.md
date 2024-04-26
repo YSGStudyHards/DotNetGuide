@@ -74,6 +74,7 @@
   * [Excel转JSON工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#excel%E8%BD%ACjson%E5%B7%A5%E5%85%B7)
   * [免费的抢票软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%8D%E8%B4%B9%E7%9A%84%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
   * [Office实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#office%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
+  * [Git管理工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -944,6 +945,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### Git管理工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立 UI 工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019) 集成。 | https://github.com/gitextensions/gitextensions |
+|  1  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) |  一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -955,7 +969,7 @@
 |  25  |  |  |  |
 |  24  |  |  |  |
 |  23  |  |  |  |
-|  22  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) | 一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
+|  22  |  |  |  |
 |  21  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
 |  20  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
 |  19  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
