@@ -1364,7 +1364,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 | 12  |  |  |  |
 | 11  |  |  |  |
-| 10  |  |  |  |
+| 10  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | 一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
 |  9  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
 |  8  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
 |  7  | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | 一个 C# 架构测试库，用于在 C# 中指定和断言架构规则，以进行自动测试。 | https://github.com/TNG/ArchUnitNET |
