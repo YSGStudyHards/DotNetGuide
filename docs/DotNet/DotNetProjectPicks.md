@@ -329,7 +329,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  | [iotgateway](https://gitee.com/iioter/iotgateway) | 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。 | https://gitee.com/iioter/iotgateway |
-|  3  | [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)  | ThingsGateway 是基于Net6/7的跨平台边缘采集网关，提供底层PLC通讯库，通讯调试软件等。 | https://gitee.com/dotnetchina/ThingsGateway |
+|  3  | [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)  | ThingsGateway是一款基于.NET8的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等。 | https://gitee.com/dotnetchina/ThingsGateway |
 |  2  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot是一个基于.NET Core的开源网关库，它提供了一种简单而灵活的方式来构建和管理微服务架构中的API网关。通过使用Ocelot，您可以轻松地实现反向代理、路由、请求转发、负载均衡、身份验证、授权等功能。 | https://github.com/ThreeMammals/Ocelot |
 |  1  | [Apiumc Gateway](https://gitee.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关，它从底层Socket原始通信层开始，采用多线程、多任务模式从新构建Web服务，充分发挥当下多核的CPU的多任务并行性能，达到不输nginx的性能表现，而多线程、多任务天生比多进程模式更有编程可控性，基于这此原理，为Apiumc带来丰富多的基于网关深度应用，是网关功能集大成者；它一个工具等于Nginx + 网关登录 + 图片处理 + 内网穿透 + 免费Ssl证书，且配置全程界面化，让你告别难懂、难记易出错的指令配置。 | https://gitee.com/apiumc/Gateway |
 
@@ -1462,7 +1462,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
+|  4  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
 |  3  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
 |  2  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  1  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
