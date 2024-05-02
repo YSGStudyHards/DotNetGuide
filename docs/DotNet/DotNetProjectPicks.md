@@ -21,6 +21,7 @@
   * [.NET ORM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-orm%E6%A1%86%E6%9E%B6)
   * [网络通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
+  * [AI和LLM框架]()
   * [深度学习框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6)
   * [单元测试框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)
   * [程序限流框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%A8%8B%E5%BA%8F%E9%99%90%E6%B5%81%E6%A1%86%E6%9E%B6)
@@ -241,6 +242,19 @@
 |  3  | [NLog](https://github.com/NLog/NLog) | 是一个功能强大且易于配置的日志记录库，它提供了多种输出目标和过滤器，可以满足各种日志记录需求。NLog 支持异步日志记录、日志级别、事件跟踪等功能。 | https://github.com/NLog/NLog |
 |  2  | [Serilog](https://github.com/serilog/serilog) | 是一个简单而灵活的日志记录库，它支持结构化日志记录，并提供了丰富的日志输出和处理方式。通过使用 Serilog，可以轻松地将日志记录到不同的目标，如控制台、文件、数据库等。 | https://github.com/serilog/serilog |
 |  1  | [Log4net](https://github.com/apache/logging-log4net) | 是一个成熟稳定的日志记录框架，它被广泛用于.NET 应用程序开发。log4net 提供了高度可配置的日志记录功能，支持多种日志输出目标和日志级别。 | https://github.com/apache/logging-log4net |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### AI和LLM框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
+|  3  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
+|  2  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
+|  1  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1448,7 +1462,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
 |  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
 |  3  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
 |  2  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
