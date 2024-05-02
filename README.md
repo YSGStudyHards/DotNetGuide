@@ -511,8 +511,8 @@
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
-* [MongoDB官方手册](https://docs.mongodb.com/manual/)
 * [MongoDB高频面试题](https://mongoing.com/archives/docs/mongodb%e5%88%9d%e5%ad%a6%e8%80%85%e6%95%99%e7%a8%8b/mongodb%e9%ab%98%e9%a2%91%e9%9d%a2%e8%af%95%e9%a2%98)
+* [MongoDB官方中文文档](https://www.mongodb.com/zh-cn/docs/)
 * [95道MongoDB面试题详解](https://www.yuque.com/ysgstudyhard/da6e0c/eetrswgetml77m1h)
 * [MongoDB从入门到实战之MongoDB简介](https://www.cnblogs.com/Can-daydayup/p/16797608.html)
 * [MongoDB从入门到实战之MongoDB快速入门](https://www.cnblogs.com/Can-daydayup/p/16804415.html)
