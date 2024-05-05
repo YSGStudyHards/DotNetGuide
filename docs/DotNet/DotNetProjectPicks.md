@@ -1219,7 +1219,7 @@
 |  4  |  |  |  |
 |  3  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
 |  2  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，减少手动映射代码的编写工作量。 | https://github.com/AutoMapper/AutoMapper |
-|  1  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
+|  1  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、高性能、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
