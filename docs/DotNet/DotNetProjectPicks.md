@@ -249,8 +249,12 @@
 #### AI和LLM框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen 是一个框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
+|  5  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
 |  4  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
 |  3  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
 |  2  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
