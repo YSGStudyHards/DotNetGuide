@@ -11,6 +11,58 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 4月
+### CSharpier
+* **项目简介：** 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。
+* **项目源码地址：** https://github.com/belav/csharpier
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/KcVsLOj1emWtYouyHWbMqg
+
+### Spectre.Console
+* **项目简介：** 一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。
+* **项目源码地址：** https://github.com/spectreconsole/spectre.console
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA
+
+### LiveCharts2
+* **项目简介：** LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。
+* **项目源码地址：** https://github.com/beto-rodriguez/LiveCharts2
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/1eaezZAJwN_JD0mErSeRBA
+
+### CurvaLauncher
+* **项目简介：** 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。
+* **项目源码地址：** https://github.com/OrgEleCho/CurvaLauncher
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/c9w4ElxnFig-onfkq6VxLA
+
+### FusionCache
+* **项目简介：** FusionCache是一个用于构建高效缓存系统的.NET框架（开源（基于MIT license）、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。
+* **项目源码地址：** https://github.com/ZiggyCreatures/FusionCache
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw
+
+### MAUI
+* **项目简介：** .NET 多平台应用 UI (.NET MAUI) 是一个跨平台框架，用于使用 C# 和 XAML 创建本机移动和桌面应用。使用 .NET MAUI，可从单个共享代码库开发可在 Android、iOS、macOS 和 Windows 上运行的应用。
+* **项目源码地址：** https://github.com/dotnet/maui
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Srita3XuYRUQ3tEzcSB4Og
+
+### Uranium
+* **项目简介：** Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。
+* **项目源码地址：** https://github.com/enisn/UraniumUI
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/UNhXBQePRmiBBG31jEt2Kg
+
+### SmartSystemMenu
+* **项目简介：** 一个.NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具（SmartSystemMenu 扩展了系统中所有窗口的系统菜单）。
+* **项目源码地址：** https://github.com/AlexanderPro/SmartSystemMenu
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/X3NtdycCoAE-S3dhIoKF9w
+
+### MaterialDesignInXamlToolkit
+* **项目简介：** MaterialDesignInXamlToolkit 是一个开源、易于使用、强大的 WPF UI 控件库，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。
+* **项目源码地址：** https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/LpG7T0tZDisSVTvQBxK6Fw
+
+### CleanReader.Desktop
+* **项目简介：** 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。
+* **项目源码地址：** https://github.com/Clean-Reader/CleanReader.Desktop
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/znoqc_YGJc8aupKSOQ5ShA
+
+
 ## 3月
 ### 公众号3月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年3月简报：** https://mp.weixin.qq.com/s/pPNLpgA7jaGltqYGrVqLew
