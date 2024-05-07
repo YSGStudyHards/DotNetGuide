@@ -14,8 +14,8 @@
 - 我们致力于构建一个积极向上、和谐友善的.NET技术交流平台。无论您是初学者还是有丰富经验的开发者，我们都希望能为您提供更多的价值和成长机会。
 
 > 欢迎关注作者（微信公众号：**追逐时光者**），与大姚一起沟通、交流学习、共同进步。
-* [了解作者&获取更多学习资料😎](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-* [DotNetGuide技术社区微信交流群👪](https://mp.weixin.qq.com/s/R5MWHkqn5T96sbQ2XFiV5A)
+* [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
+* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/R5MWHkqn5T96sbQ2XFiV5A)
 
 ![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_82a007f0.png "交流学习共同进步")
 
@@ -103,7 +103,7 @@
 * [在Visual Studio中查看EF Core查询计划](https://mp.weixin.qq.com/s/m0UKt78brvZVx5-GODlIKA)
 * [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
 * [Visual Studio实用的搜索、查找、替换技巧](https://mp.weixin.qq.com/s/Cijr_e1qOjNXOS1TtZjxgA)
-* [合理使用Visual Studio 2022内置任务列表（TODO）](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
+* [合理使用Visual Studio 2022内置任务列表-TODO](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
 * Visual Studio使用GitHub Copilot挺高.NET开发工作效率
@@ -233,7 +233,9 @@
 * [第四天EasySQLite前后端项目框架搭建](https://mp.weixin.qq.com/s/RTqRsTrzn7LdTBcMmBtkVw)
 * [第五天引入 SQLite-net ORM 并封装常用方法](https://mp.weixin.qq.com/s/RIT7HnPlrLg5KFtJ6a_Biw)
 * [第六天后端班级管理相关接口完善和Swagger自定义配置](https://mp.weixin.qq.com/s/dI6tb7WtOyB6p1iqYraH5g)
-* [第七天BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+- [第七天BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+- [第七天Blazor前端页面编写和接口对接（2）](https://mp.weixin.qq.com/s/lpXu5Hx_3F7nf970iBo-5A)
+- 第七天Blazor前端页面编写和接口对接（3）
 
 ### .NET微信网页开发相关文章教程
 * [微信网页开发官方详细文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/iOS_WKWebview.html)
