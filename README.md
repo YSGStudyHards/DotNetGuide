@@ -233,9 +233,9 @@
 * [第四天EasySQLite前后端项目框架搭建](https://mp.weixin.qq.com/s/RTqRsTrzn7LdTBcMmBtkVw)
 * [第五天引入 SQLite-net ORM 并封装常用方法](https://mp.weixin.qq.com/s/RIT7HnPlrLg5KFtJ6a_Biw)
 * [第六天后端班级管理相关接口完善和Swagger自定义配置](https://mp.weixin.qq.com/s/dI6tb7WtOyB6p1iqYraH5g)
-- [第七天BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
-- [第七天Blazor前端页面编写和接口对接（2）](https://mp.weixin.qq.com/s/lpXu5Hx_3F7nf970iBo-5A)
-- 第七天Blazor前端页面编写和接口对接（3）
+* [第七天BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+* [第七天Blazor前端页面编写和接口对接（2）](https://mp.weixin.qq.com/s/lpXu5Hx_3F7nf970iBo-5A)
+* 第七天Blazor前端页面编写和接口对接（3）
 
 ### .NET微信网页开发相关文章教程
 * [微信网页开发官方详细文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/iOS_WKWebview.html)
