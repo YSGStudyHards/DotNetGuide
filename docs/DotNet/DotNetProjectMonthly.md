@@ -33,12 +33,12 @@
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/c9w4ElxnFig-onfkq6VxLA
 
 ### FusionCache
-* **项目简介：** FusionCache是一个用于构建高效缓存系统的.NET框架（开源（基于MIT license）、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。
+* **项目简介：** FusionCache是一个用于构建高效缓存系统的.NET框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。
 * **项目源码地址：** https://github.com/ZiggyCreatures/FusionCache
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw
 
 ### MAUI
-* **项目简介：** .NET 多平台应用 UI (.NET MAUI) 是一个跨平台框架，用于使用 C# 和 XAML 创建本机移动和桌面应用。使用 .NET MAUI，可从单个共享代码库开发可在 Android、iOS、macOS 和 Windows 上运行的应用。
+* **项目简介：** .NET MAUI是一个开源、免费（MIT License）的跨平台框架（支持Android、iOS、macOS 和 Windows多平台运行），是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。
 * **项目源码地址：** https://github.com/dotnet/maui
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/Srita3XuYRUQ3tEzcSB4Og
 
@@ -48,7 +48,7 @@
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/UNhXBQePRmiBBG31jEt2Kg
 
 ### SmartSystemMenu
-* **项目简介：** 一个.NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具（SmartSystemMenu 扩展了系统中所有窗口的系统菜单）。
+* **项目简介：** 一个.NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。
 * **项目源码地址：** https://github.com/AlexanderPro/SmartSystemMenu
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/X3NtdycCoAE-S3dhIoKF9w
 
