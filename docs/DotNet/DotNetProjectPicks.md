@@ -76,6 +76,7 @@
   * [免费的抢票软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%8D%E8%B4%B9%E7%9A%84%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
   * [Office实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#office%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
   * [Git管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [通讯调试工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -156,7 +157,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  | [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。 | https://github.com/AvaloniaUI/Avalonia |
-|  1  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI是一个开源、免费（基于MIT License）的跨平台框架（支持Android、iOS、macOS 和 Windows多平台运行），是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
+|  1  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI是一个开源、免费（MIT License）的跨平台框架（支持Android、iOS、macOS 和 Windows多平台运行），是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。 如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。 .NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -404,7 +405,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（开源（基于MIT license）、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
+|  2  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
 |  1  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching是一个.NET开源的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -976,6 +977,19 @@
 |  3  |  |  |  |
 |  2  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立 UI 工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019) 集成。 | https://github.com/gitextensions/gitextensions |
 |  1  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) |  一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 通讯调试工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
+|  1  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus Rtu调试、Mqtt调试。 | https://github.com/Monika1313/Wu.CommTool |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
