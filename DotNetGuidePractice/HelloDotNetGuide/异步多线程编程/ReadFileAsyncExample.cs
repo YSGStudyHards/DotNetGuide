@@ -1,4 +1,4 @@
-﻿namespace HelloDotNetGuide.异步编程
+﻿namespace HelloDotNetGuide.异步多线程编程
 {
     /// <summary>
     /// 使用C#异步方法来进行文件内容读取操作

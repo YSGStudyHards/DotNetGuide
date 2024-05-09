@@ -1,6 +1,6 @@
 ﻿using HelloDotNetGuide.CSharp语法;
 using HelloDotNetGuide.常见算法;
-using HelloDotNetGuide.异步编程;
+using HelloDotNetGuide.异步多线程编程;
 using HelloDotNetGuide.数组相关;
 
 namespace HelloDotNetGuide
@@ -18,9 +18,11 @@ namespace HelloDotNetGuide
 
             #endregion
 
-            #region 异步编程
+            #region 异步多线程编程
 
             //var getFileContent = ReadFileAsyncExample.ReadFileAsync("D:\\Desktop\\数据读取.txt").ConfigureAwait(false);
+
+            MultithreadingExample.ParallelMethod();
 
             #endregion
 
