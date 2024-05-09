@@ -346,7 +346,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [FastGateway](https://github.com/239573049/FastGateway/)  | 基于 .NET8+FreeSql超轻量级网关，为了代替Nginx而生，基于使用Yarp打造更快更轻量级的网关，并且提供了完整的UI界面提供了地区请求数据统计，提供了免费的HTTPS证书申请，并且支持HTTP内网穿透，还提供了黑白名单，并且提供动态更新，支持限流等。  | https://github.com/239573049/FastGateway/ |
 |  4  | [iotgateway](https://gitee.com/iioter/iotgateway) | 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。 | https://gitee.com/iioter/iotgateway |
 |  3  | [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)  | ThingsGateway是一款基于.NET8的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等。 | https://gitee.com/dotnetchina/ThingsGateway |
 |  2  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot是一个基于.NET Core的开源网关库，它提供了一种简单而灵活的方式来构建和管理微服务架构中的API网关。通过使用Ocelot，您可以轻松地实现反向代理、路由、请求转发、负载均衡、身份验证、授权等功能。 | https://github.com/ThreeMammals/Ocelot |
