@@ -49,7 +49,7 @@ namespace HelloDotNetGuide
             #region 数组相关
 
             //ArrayDeduplication.LoopTraversalDuplicate();
-
+            Console.WriteLine( "数组去重结束");
             #endregion
         }
     }
