@@ -22,7 +22,9 @@ namespace HelloDotNetGuide
 
             //var getFileContent = ReadFileAsyncExample.ReadFileAsync("D:\\Desktop\\数据读取.txt").ConfigureAwait(false);
 
-            MultithreadingExample.ParallelMethod();
+            //MultithreadingExample.ParallelMethod();
+
+            AsyncProgrammingExample.TestEAPAsync();
 
             #endregion
 

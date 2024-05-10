@@ -1,5 +1,8 @@
 ﻿namespace HelloDotNetGuide.异步多线程编程
 {
+    /// <summary>
+    /// C#实现多线程的四种方式
+    /// </summary>
     public class MultithreadingExample
     {
         /// <summary>
