@@ -751,6 +751,7 @@
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
+* [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 
