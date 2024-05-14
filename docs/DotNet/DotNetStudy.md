@@ -9,7 +9,6 @@
 
 ## C#相关
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
-* [C#异步有多少种实现方式？](https://mp.weixin.qq.com/s/Yk5xLp99DOz-gmzcRunCkQ)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
 * [C#基础：理解装箱与拆箱](https://mp.weixin.qq.com/s/VD_x17aWU2SHuVR22tM7pg)
 * [C#数据去重的5种方式，你知道几种？](https://mp.weixin.qq.com/s/_eoiBm0y02CSSHUKCjEoaQ)
@@ -32,6 +31,7 @@
 
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
+* [.NET异步有多少种实现方式？](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
 * [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
