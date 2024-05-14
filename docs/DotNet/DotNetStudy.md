@@ -9,7 +9,10 @@
 
 ## C#相关
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
+* [推荐几本C#/.NET进阶书籍](https://mp.weixin.qq.com/s/eQNTWICiuu1mWIUqVVe1Sg)
+* [C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
+* [C#/.NET快速上手学习资料集](https://mp.weixin.qq.com/s/r-2I4njrxluuy5i_5EmrQg)
 * [C#基础：理解装箱与拆箱](https://mp.weixin.qq.com/s/VD_x17aWU2SHuVR22tM7pg)
 * [C#数据去重的5种方式，你知道几种？](https://mp.weixin.qq.com/s/_eoiBm0y02CSSHUKCjEoaQ)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
@@ -28,6 +31,11 @@
 * [C# XmlHelper 帮助类操作Xml文档的通用方法汇总](https://mp.weixin.qq.com/s/VHbEWb0-MlHSDNSnr0Foug)
 * [C#复杂XML反序列化为实体对象两种方式](https://mp.weixin.qq.com/s/D1D6RctMYL8qlJh_u2zgQg)
 * [C#判断字符串是否是有效的XML格式数据](https://mp.weixin.qq.com/s/nJ0TplX-XzffwXo75DzQbg)
+* [4款值得推荐的AI辅助编程工具（支持C#语言）](https://mp.weixin.qq.com/s/iHW38Z64gfFI1xLtxqwvrA)
+* [C#开源的两款功能强大的录屏神器](https://mp.weixin.qq.com/s/6NIQEu-z1vvhH45VBevzsg)
+* [DDD领域驱动设计总结和C#代码示例](https://mp.weixin.qq.com/s/BvelHOrrpiIdx9GFguEgfg)
+* [一个开源轻量级的C#代码格式化工具（支持VS和VS Code）](https://mp.weixin.qq.com/s/KcVsLOj1emWtYouyHWbMqg)
+* 
 
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
@@ -56,8 +64,14 @@
 * [.NET项目中NLog的配置与使用](https://mp.weixin.qq.com/s/Fvu0e6tFKGiRE7qhxUWurQ)
 * [.NET使用分布式网络爬虫框架DotnetSpider快速开发爬虫功能](https://mp.weixin.qq.com/s/0R--IvaFANOH3S4nBwU8Qg)
 * [让IIS支持.NET Web Api PUT和DELETE请求](https://mp.weixin.qq.com/s/kmcQrvFPY6wCVlV6lT3Wzg)
+* [.NET有哪些好用的定时任务调度框架](https://mp.weixin.qq.com/s/-f5QCwfrhBTOe7Tx1ll4ww)
+* [分享几个.NET开源的AI和LLM相关项目框架](https://mp.weixin.qq.com/s/JMXFCWzjtFFiqnPoRgA6Ug)
+* [一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
+* [.NET开源、功能强大、跨平台的图表库](https://mp.weixin.qq.com/s/1eaezZAJwN_JD0mErSeRBA)
+* [.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
 
 ## WPF相关
+* [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
 * [一套开源、强大且美观的WPF UI控件库 - HandyControl](https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ)
 * [一个适用于定制个性化界面的WPF UI组件库 - Panuon.WPF.UI](https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw)
 * [一个WPF版的Layui前端UI库 - Layui-WPF](https://mp.weixin.qq.com/s/jXCdCa_t_0XVlqLhLmXWWg)
