@@ -78,8 +78,8 @@
 * [💥微软官方.NET免费教程(面向从初学者到高级开发人员)](https://dotnet.microsoft.com/zh-cn/learn)
 * [☁️Azure文档(微软提供的最权威，最全面的Azure学习资料)](https://docs.azure.cn/zh-cn/?product=popular)
 * [🔎面向开发人员和技术专业人员的Microsoft文档和学习主页](https://docs.microsoft.com/zh-cn/)
-* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang)
 * [📚.NET MAUI(微软提供的最权威，最全面的.NET MAUI学习资料)](https://learn.microsoft.com/zh-cn/dotnet/maui/?view=net-maui-8.0)
+* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
