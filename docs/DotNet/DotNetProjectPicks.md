@@ -1261,11 +1261,11 @@
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
-|  2  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，减少手动映射代码的编写工作量。 | https://github.com/AutoMapper/AutoMapper |
-|  1  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、高性能、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
+|  5  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，极大的简化了开发人员在处理对象映射时的工作量。 | https://github.com/AutoMapper/AutoMapper |
+|  4  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、高性能、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
+|  3  | [Mapperly](https://github.com/riok/mapperly) | 一个.NET开源的对象映射器，无运行时反射，由于 Mapperly 在构建时创建映射代码，因此运行时的开销最小。更好的是，生成的代码完全可读，使您可以轻松验证生成的映射代码。 | https://github.com/riok/mapperly |
+|  2  | [EmitMapper](https://github.com/MetSystem/EmitMapper) | 一个.NET开源、强大的可定制工具，用于将实体相互映射。实体可以是普通对象、DataReaders、SQL命令或其他任何你需要的内容。该工具通过Emit库进行运行时代码生成。它非常适用于处理DTO对象、数据访问层等。 | https://github.com/MetSystem/EmitMapper |
+|  1  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
