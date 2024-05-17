@@ -1017,7 +1017,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
-|  1  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus Rtu调试、Mqtt调试。 | https://github.com/Monika1313/Wu.CommTool |
+|  1  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus RTU、MQTT调试，界面色彩丰富。 | https://github.com/Monika1313/Wu.CommTool |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
