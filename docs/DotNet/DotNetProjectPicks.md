@@ -437,7 +437,7 @@
 |  27  |  |  |  |
 |  26  |  |  |  |
 |  25  |  |  |  |
-|  24  |  |  |  |
+|  24  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  23  | [BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin) | 基于 RBAC 的 Net7 后台管理框架，权限管理，前后台分离，支持多站点单点登录，兼容所有主流浏览器，内置微信、支付宝、QQ等多种登录方式，内置多种样式，可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。 | https://gitee.com/LongbowEnterprise/BootstrapAdmin |
 |  22  | [Yi.Admin](https://gitee.com/ccnetcore/Yi) | YiFramework是一个基于.Net8+Abp.vNext+SqlSugar的DDD领域驱动设计后端开源框架，前端Vue3，框架三层架构\DDD领域驱动设计，内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 架构干净整洁、采用微软风格原生框架封装。 适合小中大型项目上线、.Net8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。 | https://gitee.com/ccnetcore/Yi |
 |  21  | [NetAdmin](https://github.com/nsnail/NetAdmin) | 通用后台权限管理系统、快速开发框架（基于C#12/.NET8、Vue3/Vite、Element Plus等现代技术构建，具有十分整洁、优雅的编码规范）。 | https://github.com/nsnail/NetAdmin |
@@ -460,7 +460,7 @@
 |  4  | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) | YiShaAdmin 基于.NET Core Web开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单，所以我也把她开源了。 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api。 | https://github.com/liukuo362573/YiShaAdmin |
 |  3  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
 |  2  | [DncZeus](https://github.com/lampo1024/DncZeus) | DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。 | https://github.com/lampo1024/DncZeus |
-|  1  | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【 .NET Core6.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
+|  1  | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【ASP.NET Core 8.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
