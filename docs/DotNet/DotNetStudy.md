@@ -69,6 +69,7 @@
 * [一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
 * [.NET开源、功能强大、跨平台的图表库](https://mp.weixin.qq.com/s/1eaezZAJwN_JD0mErSeRBA)
 * [.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
+* [ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
 
 ## WPF相关
 * [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
