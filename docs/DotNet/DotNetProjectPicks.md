@@ -599,7 +599,7 @@
 |  4  | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  3  | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
 |  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
-|  1  |  [Hangfire](https://github.com/HangfireIO/Hangfire)  | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
+|  1  | [Hangfire](https://github.com/HangfireIO/Hangfire) | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -623,7 +623,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [CoreHome](https://github.com/lixinyang123/CoreHome) | 基于.NET8开源的个人博客项目，采用前后端分离、高并发、高可用的微服务架构，支持 MySQL、SqlServer、Redis 等多种数据库。 | https://github.com/lixinyang123/CoreHome |
 |  6  | [LinkDotNet.Blog](https://github.com/linkdotnet/Blog) | 基于C#和Blazor编写的博客引擎，旨在成为一个简单易用且易于扩展的博客平台。博客文章以Markdown格式编写，并渲染为HTML。 | https://github.com/linkdotnet/Blog |
 |  5  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | 基于C#/.NET8的 masuit.org个人博客站项目源码，高性能高安全性低占用的博客系统，仅3MB的代码量！ 目前日均处理请求数80-600w次，同时在线活跃用户数60-600人。 | https://github.com/ldqk/Masuit.MyBlogs |
 |  4  | [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) | 一个基于ASP.NET Core 7（3.1及以上版本）构建的功能齐全但简单易用的博客引擎。 | https://github.com/madskristensen/Miniblog.Core |
