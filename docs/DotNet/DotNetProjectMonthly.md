@@ -12,6 +12,9 @@
 
 # 2024年
 ## 4月
+### 公众号4月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年4月简报：** https://mp.weixin.qq.com/s/8zqs6b3nngzWklZLAcej2A
+
 ### CSharpier
 * **项目简介：** 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。
 * **项目源码地址：** https://github.com/belav/csharpier
