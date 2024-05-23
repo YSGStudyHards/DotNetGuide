@@ -39,6 +39,7 @@
 
 ## .NET/.NET Core相关
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
+* [.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
 * [.NET异步有多少种实现方式？](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
 * [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
@@ -70,6 +71,8 @@
 * [.NET开源、功能强大、跨平台的图表库](https://mp.weixin.qq.com/s/1eaezZAJwN_JD0mErSeRBA)
 * [.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
 * [ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
+* [​​一款开源的.NET程序集反编译、编辑和调试神器](https://mp.weixin.qq.com/s/5psS3_b5lD0Uw-eUfMHbUA)
+* [YiShaAdmin：一款基于.NET Core Web + Bootstrap的企业级快速开发框架](https://mp.weixin.qq.com/s/vt0_qJ6-oSSd31ZfpyTUrA)
 
 ## WPF相关
 * [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
