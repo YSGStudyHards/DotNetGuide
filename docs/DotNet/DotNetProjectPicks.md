@@ -127,7 +127,7 @@
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
 |  10 |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [ServiceStack](https://github.com/ServiceStack/ServiceStack) | 一个简单、快速、通用且高效的全功能 Web 和 Web 服务框架，其架构经过精心设计，可减少人工复杂性并通过基于消息的设计促进远程服务最佳实践，从而实现最大程度的重用利用集成服务网关创建松散耦合的模块化服务架构。 | https://github.com/ServiceStack/ServiceStack |
 |  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | 用于使用 ASP.NET 和 Entity Framework Core 构建符合 JSON:API 的 REST API 的框架。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
 |  6  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | 适用于 ASP.NET 6 及更高版本的轻量级 REST API 开发框架。 | https://github.com/FastEndpoints/FastEndpoints |
 |  5  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
@@ -365,7 +365,7 @@
 |  4  |  |  |  |
 |  3  | [Abot](https://github.com/sjdirect/abot) | Abot是一个基于C#的开源网络爬虫框架，旨在提供高速和灵活的爬取功能。它负责底层的任务调度、多线程处理、HTTP 请求、链接解析等繁琐的细节，开发者只需要注册事件来处理页面数据。 | https://github.com/sjdirect/abot |
 |  2  | [SpiderEye](https://github.com/JBildstein/SpiderEye) | SpiderEye是一个基于.NET的Web爬虫框架，旨在为开发者提供构建高效、可扩展的网络爬虫的工具。与其他类似的框架相比，SpiderEye使用操作系统的原生webview而不是捆绑Chromium，从而提供更轻量级的解决方案。 | https://github.com/JBildstein/SpiderEye |
-|  1  |  [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
+|  1  | [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -524,8 +524,8 @@
 |  5  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
 |  4  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  3  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | 一款基于NetCore2.2/3.1（Razor Page）功能强大的Cms建站系统，支持前后端分离。 | https://gitee.com/feiyit/FytSoaCms |
-|  2  |  [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
-|  1   | [siteserver/cms](https://github.com/siteserver/cms) | 是基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
+|  2  | [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
+|  1  | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1237,17 +1237,16 @@
 #### .NET JSON处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
+|  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
 |  6  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [Jil](https://github.com/kevin-montrose/Jil) | 一个快速的JSON（反）序列化器，基于Sigil构建，采用了一些有点疯狂的优化技巧。 | https://github.com/kevin-montrose/Jil |
-|  2  | [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | System.Text.Json是 .NET Core 3.0 及以上版本中内置的 JSON 序列化和反序列化库。 | https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json |
-|  1  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
+|  5  | [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | System.Text.Json是 .NET Core 3.0 及以上版本中内置的 JSON 序列化和反序列化库。 | https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json |
+|  4  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
+|  3  | [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) | .NET中最快的JSON、JSV和CSV文本序列化器。 | https://github.com/ServiceStack/ServiceStack.Text |
+|  2  | [Jil](https://github.com/kevin-montrose/Jil) | 一个快速的JSON（反）序列化器，基于Sigil构建，采用了一些有点疯狂的优化技巧。 | https://github.com/kevin-montrose/Jil |
+|  1  | [Utf8Json](https://github.com/neuecc/Utf8Json) | 适用于 C#（NET、.NET Core、Unity、Xamarin）的绝对最快且零分配的 JSON 序列化器。 | https://github.com/neuecc/Utf8Json |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
