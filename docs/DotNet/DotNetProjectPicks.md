@@ -875,7 +875,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  15 |  |  |  |
 |  14 |  |  |  |
-|  13 |  |  |  |
+|  13 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
 |  12 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
 |  11 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
 |  10 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
