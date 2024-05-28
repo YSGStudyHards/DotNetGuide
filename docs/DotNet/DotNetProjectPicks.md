@@ -1276,13 +1276,12 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis 是一个Redis客户端组件，以高性能处理大数据实时计算为目标。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。 | https://github.com/NewLifeX/NewLife.Redis |
-|  3  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
-|  2  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
-|  1  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
+|  6  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis是一个Redis客户端组件，以高性能处理大数据实时计算为目标。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。 | https://github.com/NewLifeX/NewLife.Redis |
+|  5  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
+|  4  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+、Xamarin以及 AOT。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
+|  3  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
+|  2  | [BeetleX.Redis](https://github.com/beetlex-io/BeetleX.Redis) | 一个用于.NET Core的高性能异步/非阻塞Redis客户端组件，默认数据格式化器Json、Protobuf和MessagePack，支持SSL。 | https://github.com/beetlex-io/BeetleX.Redis |
+|  1  | [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) | ServiceStack.Redis是一个.NET开发的简单、高性能且功能丰富的Redis客户端，它提供了对POCOs和复杂类型的原生支持，并提供了高级抽象，同时支持原生的同步和异步API。 | https://docs.servicestack.net/redis/ |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
