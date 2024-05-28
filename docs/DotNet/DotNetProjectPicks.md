@@ -1157,7 +1157,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [Mapsui](https://github.com/Mapsui/Mapsui) | 一个.NET开源（MIT License）、免费、同时支持多平台框架（MAUI、WPF、Avalonia、Uno、Blazor、WinUI、Eto、.NET Android 和 .NET iOS）地图组件库。 | https://github.com/Mapsui/Mapsui |
 |  6  | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) | LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。 | https://github.com/beto-rodriguez/LiveCharts2 |
 |  5  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
 |  4  | [ReoGrid](https://github.com/unvell/ReoGrid) | 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。 | https://github.com/unvell/ReoGrid |
