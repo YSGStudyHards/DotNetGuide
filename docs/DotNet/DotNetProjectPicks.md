@@ -1080,7 +1080,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C#实用工具类库，1000 多种扩展方法增强 .NET Framework 和 .NET Core。 | https://github.com/zzzprojects/Z.ExtensionMethods |
+|  3  | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C#开源实用的工具类库，集成超过1000多种扩展方法增强 .NET Framework 和 .NET Core的使用效率。 | https://github.com/zzzprojects/Z.ExtensionMethods |
 |  2  | [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。 | https://github.com/ldqk/Masuit.Tools |
 |  1  | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) | 比较全面的C#帮助类，日常工作收集，各式各样的几乎都能找到,所有功能性代码都是独立的类，类与类之间没有联系，可以单独引用至项目。 | https://github.com/Jimmey-Jiang/Common.Utility |
 
@@ -1094,7 +1094,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) | 开源、使用简单、适用于 Windows、MacOS 和 Linux 上的 .NET 的面部识别库。 | https://github.com/takuya-takeuchi/FaceRecognitionDotNet |
 |  1  | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |   一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库。   | https://github.com/ViewFaceCore/ViewFaceCore |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
