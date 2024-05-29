@@ -15,7 +15,7 @@
 
 > 欢迎关注作者（微信公众号：**追逐时光者**），与大姚一起沟通、交流学习、共同进步。
 * [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/R5MWHkqn5T96sbQ2XFiV5A)
+* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 
 ![追逐时光者公众号自动回复内容](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145481/o_82a007f0.png "交流学习共同进步")
 
