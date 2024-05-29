@@ -45,6 +45,7 @@
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
 * [📺C#/.NET/.NET Core学习视频汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB)
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
+* [⚔C#/.NET/.NET Core编程技巧练习集]()
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
@@ -371,6 +372,15 @@
 > 帮助开发者发现功能强大、性能优越、创新前沿、简单易用的C#/.NET/.NET Core优秀项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，都能为你提供有价值的参考和指导。关注优秀项目和框架精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。坑已挖，欢迎大家踊跃提交PR或者在该[🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)中留言（**让优秀的项目和框架不被埋没**），我会定期收录、[公众号推广和分享👀](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)（注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享💖）。
 
 * **[🔔C#/.NET/.NET Core优秀项目和框架精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)**
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## ⚔C#/.NET/.NET Core编程技巧练习集
+>C#/.NET/.NET Core编程常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、技巧、中间件、类库等等。
+
+* DotNetExercises仓库地址：https://github.com/YSGStudyHards/DotNetExercises
+* 想要学习DotNet什么技术欢迎Issues中留言：
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
