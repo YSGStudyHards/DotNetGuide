@@ -45,7 +45,7 @@
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
 * [📺C#/.NET/.NET Core学习视频汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB)
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
-* [⚔C#/.NET/.NET Core编程技巧练习集]()
+* [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
@@ -380,7 +380,20 @@
 >C#/.NET/.NET Core编程常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、技巧、中间件、类库等等。
 
 * DotNetExercises仓库地址：https://github.com/YSGStudyHards/DotNetExercises
-* 想要学习DotNet什么技术欢迎Issues中留言：
+* 想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
+
+### 文章详细教程
+* [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise)：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
+* [**2、TimeCrontabExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TimeCrontabExercise)：[.NET 全能 Cron 表达式解析库](https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA)
+* [**3、BouncyCastleExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BouncyCastleExercise)：[C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
+* [**4、ScottPlotWinFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ScottPlotWinFormsExercise)：[使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示
+](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
+* [**5、ChartjsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ChartjsExercise)：[在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
+* [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise)：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
+* [**7、MultithreadingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/MultithreadingExample.cs)：[C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
+* [**8、AsyncProgrammingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs)：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
+* [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise)：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
+* [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise)：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
