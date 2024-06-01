@@ -111,7 +111,7 @@
 * [Visual Studio将JSON格式数据自动转化为对应的类](https://mp.weixin.qq.com/s/-5dL_b5pMLV0LQoVMsFjjQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
 * Visual Studio使用GitHub Copilot挺高.NET开发工作效率
-* [Visual Studio使用Web Deploy发布.NET Web应用到指定服务器的IIS中](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
+* [Visual Studio使用Web Deploy发布应用到指定服务器的IIS中](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
 
 ### Visual Studio Code
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
@@ -191,6 +191,7 @@
 * [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms)
 * [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
+* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -772,8 +773,8 @@
 * [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 * [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
-* [3款程序员常用的画图工具](https://mp.weixin.qq.com/s/t92aadaH1Os9vDPBI-rv8Q)
 * [Awesome-Design-Tools](https://github.com/MyBigKnowledgeBase/Awesome-Design-Tools)
+* [3款程序员常用的画图工具](https://mp.weixin.qq.com/s/t92aadaH1Os9vDPBI-rv8Q)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
@@ -788,17 +789,17 @@
 * [ASP.NET](https://github.com/aspnet)
 * [Microsoft](https://github.com/microsoft)
 * [.NET Platform](https://github.com/dotnet)
+* [App vNext](https://github.com/App-vNext)
+* [dotNET China](https://gitee.com/dotnetchina)
+* [新生命开发团队](https://github.com/NewLifeX)
 * [dotNetTreasury](https://github.com/dotNetTreasury)
 * [.NET Foundation](https://github.com/dotnet-foundation)
 * [Microsoft Docs](https://github.com/MicrosoftDocs)
 * [Microsoft Azure](https://github.com/Azure)
 * [.NET Core Community](https://github.com/dotnetcore)
-* [Organizations Ranking](https://gitstar-ranking.com/organizations)
-* [新生命开发团队](https://github.com/NewLifeX)
-* [App vNext](https://github.com/App-vNext)
-* [dotNET China](https://gitee.com/dotnetchina)
-* [.NET Application Architecture](https://github.com/dotnet-architecture)
 * [Amazon Web Services](https://github.com/aws)
+* [Organizations Ranking](https://gitstar-ranking.com/organizations)
+* [.NET Application Architecture](https://github.com/dotnet-architecture)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
