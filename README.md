@@ -131,6 +131,7 @@
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer/)
 * [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
+* [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
 * [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com/)
 
 ### GitHub
