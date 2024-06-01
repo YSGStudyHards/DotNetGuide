@@ -70,7 +70,7 @@
   * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [实用桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7)
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
-  * [截图&录屏&GIF制作工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8Fgif%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7)
+  * [截图&录屏工具]()
   * [GitHub加速工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#github%E5%8A%A0%E9%80%9F%E5%B7%A5%E5%85%B7)
   * [系统优化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [性能压测工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7)
@@ -84,7 +84,7 @@
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
   * [C#版微信SDK](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E7%89%88%E5%BE%AE%E4%BF%A1sdk)
   * [C#实用工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
-  * [C#人脸识别库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%BA%93)
+  * [.NET人脸识别库]()
   * [C#FFmpeg封装库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#cffmpeg%E5%B0%81%E8%A3%85%E5%BA%93)
   * [.NET高精度数值计算库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%E5%BA%93)
   * [.NET第三方登录整合库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95%E6%95%B4%E5%90%88%E5%BA%93)
@@ -905,7 +905,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 截图&录屏&GIF制作工具
+#### 截图&录屏工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
@@ -1087,15 +1087,15 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### C#人脸识别库
+#### .NET人脸识别库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) | 开源、使用简单、适用于 Windows、MacOS 和 Linux 上的 .NET 的面部识别库。 | https://github.com/takuya-takeuchi/FaceRecognitionDotNet |
-|  1  | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |   一个C#开源的、免费的、跨平台的、使用简单的离线人脸识别库。   | https://github.com/ViewFaceCore/ViewFaceCore |
+|  3  | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) | 一个.NET开源（MIT License）、免费、跨平台（适用于 Windows、MacOS 和 Linux ）、使用简单的面部识别库（是 face_recognition 的 C# 移植版本）。 | https://github.com/takuya-takeuchi/FaceRecognitionDotNet |
+|  2  | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |  一个.NET开源的（MIT License）、免费的、跨平台的、使用简单的离线人脸识别库（一个基于 SeetaFace6 的 .NET 人脸识别解决方案）。   | https://github.com/ViewFaceCore/ViewFaceCore |
+|  1  | [FaceRecognition](https://github.com/iarray/FaceRecognition) | 一个基于C#的离线人脸识别演示项目。该演示包括人脸检测、人脸对齐和人脸识别功能，基于seetaface库实现。 | https://github.com/iarray/FaceRecognition |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
