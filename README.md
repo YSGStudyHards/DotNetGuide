@@ -536,7 +536,7 @@
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s/3Fmv7h5p2QDtLxc9n1dp5A)
-* [4款.NET开源的Redis客户端驱动库](https://mp.weixin.qq.com/s/8s3bK8NNUb2sfTCNM_cAGQ)
+* [5款.NET开源免费的Redis客户端组件库](https://mp.weixin.qq.com/s/z7Wdch8pc0o696DuBY8v0A)
 * [3款实用、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/bLA0eTCeipEiGKuxXl--4A)
 
 ### MongoDB
