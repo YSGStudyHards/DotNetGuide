@@ -436,7 +436,7 @@
 |  28  |  |  |  |
 |  27  |  |  |  |
 |  26  |  |  |  |
-|  25  |  |  |  |
+|  25  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统后端 后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
 |  24  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  23  | [BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin) | 基于 RBAC 的 Net7 后台管理框架，权限管理，前后台分离，支持多站点单点登录，兼容所有主流浏览器，内置微信、支付宝、QQ等多种登录方式，内置多种样式，可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。 | https://gitee.com/LongbowEnterprise/BootstrapAdmin |
 |  22  | [Yi.Admin](https://gitee.com/ccnetcore/Yi) | YiFramework是一个基于.Net8+Abp.vNext+SqlSugar的DDD领域驱动设计后端开源框架，前端Vue3，框架三层架构\DDD领域驱动设计，内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 架构干净整洁、采用微软风格原生框架封装。 适合小中大型项目上线、.Net8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。 | https://gitee.com/ccnetcore/Yi |
@@ -589,7 +589,7 @@
 |  14 |  |  |  |
 |  13 |  |  |  |
 |  12 |  |  |  |
-|  11 |  |  |  |
+|  11 | [TaskScheduler](https://github.com/dahall/TaskScheduler) | 这个原始的.NET封装器用于Windows任务计划程序，它整合了多个版本，并提供了本地化的控件用于编辑。 | https://github.com/dahall/TaskScheduler |
 |  10 | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
 |  9  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
 |  8  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
@@ -1218,7 +1218,7 @@
 |  15 |  |  |  |
 |  14 |  |  |  |
 |  13 |  |  |  |
-|  12 |  |  |  |
+|  12 | [ExcelMapper](https://github.com/mganss/ExcelMapper) | 用于将 POCO 对象映射到 Excel 文件的库。 | https://github.com/mganss/ExcelMapper |
 |  11 | [RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms) | 一个适用于.NET WinForms的 Office 功能区控件类库。 | https://github.com/RibbonWinForms/RibbonWinForms |
 |  10 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
 |  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
