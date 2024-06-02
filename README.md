@@ -597,6 +597,7 @@
 * [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 * [一文了解 Kubernetes](https://zhuanlan.zhihu.com/p/162928436)
 * [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
+* [在 Kubernetes 上优化 RabbitMQ 性能](https://mp.weixin.qq.com/s/GptvqgZB6HYYlDdEnx3ILw)
 
 
 ### Docker
