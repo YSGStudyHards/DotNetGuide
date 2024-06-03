@@ -1508,6 +1508,10 @@
 #### Avalonia UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
 |  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
 |  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
@@ -1521,8 +1525,12 @@
 #### MAUI UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
 |  4  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
 |  3  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
 |  2  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
