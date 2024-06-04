@@ -99,6 +99,7 @@
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
 * [20款Visual Studio实用插件推荐](https://mp.weixin.qq.com/s/f6w2cQCnVy9AIlrR7KtP_A)
+* [使用Visual Studio分析.NET Dump](https://mp.weixin.qq.com/s/JDCsr-sH1Z7jMEcxNfjbmg)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
 * [Visual Studio 2022 Git多存储库管理](https://mp.weixin.qq.com/s/-X04QR3rgXAubCnMVGJosQ)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
