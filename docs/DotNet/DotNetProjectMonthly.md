@@ -11,6 +11,68 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 5月
+### Fluent UI Blazor
+* **项目简介：** Fluent UI Blazor是一个由微软官方开源（MIT License）、免费的Blazor UI组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。
+* **项目源码地址：** https://github.com/microsoft/fluentui-blazor
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/76-k_lAUOLuWVycoWVLAyA
+
+### Z.ExtensionMethods
+* **项目简介：** 一个C#开源（MIT License）、免费、实用且强大的工具类库，集成超过1000多种扩展方法增强 .NET Framework 和 .NET Core的使用效率。
+* **项目源码地址：** https://github.com/zzzprojects/Z.ExtensionMethods
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ
+
+### Mapsui
+* **项目简介：** 一个.NET开源（MIT License）、免费、同时支持多平台框架（MAUI、WPF、Avalonia、Uno、Blazor、WinUI、Eto、.NET Android 和 .NET iOS）地图组件库。
+* **项目源码地址：** https://github.com/Mapsui/Mapsui
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g
+
+### FluentHub
+* **项目简介：** 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。
+* **项目源码地址：** https://github.com/0x5bfa/FluentHub
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/UDNYpHOTBdhZXY9hVR09Ow
+
+### dnSpyEx
+* **项目简介：** dnSpyEx是dnSpy（该代码库已于2020年12月21日被所有者归档为只读状态）项目的非官方Fork维护版本，一款开源、功能强大的.NET反编译工具和调试器，可用于在没有源代码的情况下编辑和调试程序集（支持调试 .NET Framework、.NET Core 和 Unity 程序集）。
+* **项目源码地址：** https://github.com/dnSpyEx/dnSpy
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/5psS3_b5lD0Uw-eUfMHbUA
+
+### YiShaAdmin
+* **项目简介：** 一款基于.NET Core Web + Bootstrap的企业级快速后台开发框架、权限管理系统，代码简单易懂、界面简洁美观（基于MIT License开源，免费可商用），可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api。
+* **项目源码地址：** https://github.com/liukuo362573/YiShaAdmin
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/vt0_qJ6-oSSd31ZfpyTUrA
+
+### Wu.CommTool
+* **项目简介：** 一款基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具（支持Modbus RTU、MQTT调试，界面色彩丰富）。
+* **项目源码地址：** https://github.com/Monika1313/Wu.CommTool
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/7nTJeZIyr3buTvYhI1w-ZQ
+
+### Garnet
+* **项目简介：** Garnet是一款由微软研究院基于.NET开源的高性能、跨平台的分布式缓存存储数据库，该项目提供强大的性能（吞吐量和延迟）、可扩展性、存储、恢复、集群分片、密钥迁移和复制功能。并且无需做任何修改可以与现有的 Redis 客户端配合使用。
+* **项目源码地址：** https://github.com/microsoft/garnet
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/C58UE7__M2lJGeYVRmlidw
+
+### Semantic Kernel
+* **项目简介：** Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。
+* **项目源码地址：** https://github.com/microsoft/semantic-kernel
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/JMXFCWzjtFFiqnPoRgA6Ug
+
+### BotSharp
+* **项目简介：** BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。
+* **项目源码地址：** https://github.com/SciSharp/BotSharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/JMXFCWzjtFFiqnPoRgA6Ug
+
+### LLamaSharp
+* **项目简介：** LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。
+* **项目源码地址：** https://github.com/SciSharp/LLamaSharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/JMXFCWzjtFFiqnPoRgA6Ug
+
+### OpenAI DotNet
+* **项目简介：** 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问。
+* **项目源码地址：** https://github.com/RageAgainstThePixel/OpenAI-DotNet
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/JMXFCWzjtFFiqnPoRgA6Ug
+
+
 ## 4月
 ### 公众号4月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年4月简报：** https://mp.weixin.qq.com/s/8zqs6b3nngzWklZLAcej2A
