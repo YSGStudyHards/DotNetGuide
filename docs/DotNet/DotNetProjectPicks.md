@@ -885,7 +885,7 @@
 |  6  | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱。 | https://github.com/QiBowen2008/SuperTextToolBox |
 |  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
 |  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
-|  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款以 MIT 协议开源的原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新 功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
+|  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。              |   https://github.com/BeyondDimension/SteamTools   |
 
@@ -1494,11 +1494,11 @@
 |  10 |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) | 一个基于Google 的 Material Design 风格开源、免费的.NET WinForms UI控件库。 | https://github.com/IgnaceMaes/MaterialSkin |
 |  6  | [DarkUI](https://github.com/RobinPerris/DarkUI) | 这是一个为.NET WinForms开发的深色主题控件和停靠功能库，旨在帮助开发者创建具有现代和专业外观的应用程序界面。 | https://github.com/RobinPerris/DarkUI |
 |  5  | [AntdUI](https://gitee.com/antdui/AntdUI) | 一款基于Ant Design设计语言、开源（Apache License）的WinForm UI界面库。 | https://gitee.com/antdui/AntdUI |
 |  4  | [ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) | ReaLTaiizor是一个开源免费的.NET WinForms控件库，它提供了广泛的组件和丰富的主题选项（用户友好、注重设计），让用户可以轻松创建美观、专业的桌面应用程序。 | https://github.com/Taiizor/ReaLTaiizor |
-|  3  | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) | .NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
+|  3  | [HZHControls](https://github.com/kwwwvagaa/NetWinformControl) | .NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
 |  2  | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 | https://github.com/yhuse/SunnyUI |
 |  1  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI是一个开源、免费（MIT License）的 .NET 项目，它适用于希望使用HTML5、CSS3和JavaScript等前端技术来构建Windows窗体应用用户界面的.NET/.NET Core开发人员。 | https://github.com/XuanchenLin/NanUI |
 
