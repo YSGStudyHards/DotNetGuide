@@ -62,6 +62,8 @@
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
+  * [桌面工具箱]()
+  * [桌面启动器]()
   * [反编译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
   * [代码混淆工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86%E5%B7%A5%E5%85%B7)
   * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
@@ -794,9 +796,41 @@
 
 
 ### 实用工具&软件
+#### 桌面工具箱
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  6  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
+|  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
+|  4  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
+|  3  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
+|  2  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
+|  1 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 桌面启动器
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
+|  1  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 反编译工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  | [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | dnSpyEx是dnSpy（该代码库已于2020年12月21日被所有者归档为只读状态）项目的非官方Fork维护版本，一款开源、功能强大的.NET反编译工具和调试器，可用于在没有源代码的情况下编辑和调试程序集。 | https://github.com/dnSpyEx/dnSpy |
@@ -810,6 +844,8 @@
 #### 代码混淆工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
@@ -840,7 +876,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  |  [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -849,6 +885,8 @@
 #### 远程桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
@@ -868,32 +906,6 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)      | 一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
-
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
-
-#### 实用桌面工具
-|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
-| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  20 |  |  |  |
-|  19 |  |  |  |
-|  18 |  |  |  |
-|  17 |  |  |  |
-|  16 |  |  |  |
-|  14  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
-|  13  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
-|  12 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
-|  11 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
-|  10 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
-|  9 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
-|  8  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
-|  7  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
-|  6  | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱。 | https://github.com/QiBowen2008/SuperTextToolBox |
-|  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
-|  4  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
-|  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
-|  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
-|  1  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个开源跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1064,7 +1076,11 @@
 |  26  |  |  |  |
 |  25  |  |  |  |
 |  24  |  |  |  |
-|  23  |  |  |  |
+|  24  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
+|  23  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
+|  22 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
+|  21 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
+|  20 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
 |  19  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
 |  18  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
 |  17  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
