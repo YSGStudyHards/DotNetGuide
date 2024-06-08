@@ -79,6 +79,7 @@
   * [Office实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#office%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
   * [Git管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [通讯调试工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%80%9A%E8%AE%AF%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
+  * [翻译工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -255,12 +256,12 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [OpenAI .NET](https://github.com/openai/openai-dotnet) | OpenAI API的官方.NET客户端库。  | https://github.com/openai/openai-dotnet |
 |  6  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen 是一个框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
 |  5  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
 |  4  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
 |  3  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
-|  2  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
+|  2  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问（非官方）。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
 |  1  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -873,8 +874,13 @@
 #### 实用桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  15 |  |  |  |
-|  14 |  |  |  |
+|  20 |  |  |  |
+|  19 |  |  |  |
+|  18 |  |  |  |
+|  17 |  |  |  |
+|  16 |  |  |  |
+|  15  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
+|  14  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
 |  13 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
 |  12 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
 |  11 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
@@ -1022,6 +1028,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 翻译工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1033,13 +1052,10 @@
 |  25  |  |  |  |
 |  24  |  |  |  |
 |  23  |  |  |  |
-|  22  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
-|  21  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
-|  20  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
-|  19  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
-|  18  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
-|  17  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
-|  16  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
+|  19  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
+|  18  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
+|  17  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
+|  16  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
 |  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
 |  14  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
 |  13  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
@@ -1054,7 +1070,7 @@
 |  4  | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
 |  3  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
 |  2  | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
-|  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) |        适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。        |  https://github.com/huiyadanli/RevokeMsgPatcher   |
+|  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
