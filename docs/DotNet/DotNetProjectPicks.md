@@ -57,7 +57,7 @@
   * [大屏幕&报表系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%A4%A7%E5%B1%8F%E5%B9%95%E6%8A%A5%E8%A1%A8%E7%B3%BB%E7%BB%9F)
   * [文档管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [访客管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BF%E5%AE%A2%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
-  * [医疗信息管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+  * [医疗管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
@@ -755,7 +755,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 医疗信息管理系统
+#### 医疗管理系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
