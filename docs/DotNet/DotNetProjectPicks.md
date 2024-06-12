@@ -1201,7 +1201,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [OxyPlot](https://github.com/oxyplot/oxyplot) | 一款.NET开源（MIT License）、免费、跨平台、功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。 | https://github.com/oxyplot/oxyplot |
 |  7  | [Mapsui](https://github.com/Mapsui/Mapsui) | 一个.NET开源（MIT License）、免费、同时支持多平台框架（MAUI、WPF、Avalonia、Uno、Blazor、WinUI、Eto、.NET Android 和 .NET iOS）地图组件库。 | https://github.com/Mapsui/Mapsui |
 |  6  | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) | LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。 | https://github.com/beto-rodriguez/LiveCharts2 |
 |  5  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
@@ -1606,7 +1606,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
+|  2  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
 |  1  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
