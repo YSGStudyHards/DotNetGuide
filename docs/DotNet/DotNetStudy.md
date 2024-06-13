@@ -14,6 +14,7 @@
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
 * [C#/.NET快速上手学习资料集](https://mp.weixin.qq.com/s/r-2I4njrxluuy5i_5EmrQg)
 * [C#基础：理解装箱与拆箱](https://mp.weixin.qq.com/s/VD_x17aWU2SHuVR22tM7pg)
+* [C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
 * [C#数据去重的5种方式，你知道几种？](https://mp.weixin.qq.com/s/_eoiBm0y02CSSHUKCjEoaQ)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
 * [C#中IsNullOrEmpty和IsNullOrWhiteSpace的区别？](https://mp.weixin.qq.com/s/50DYqNYHVj9gb4XNGGqE9w)
@@ -35,9 +36,13 @@
 * [C#开源的两款功能强大的录屏神器](https://mp.weixin.qq.com/s/6NIQEu-z1vvhH45VBevzsg)
 * [DDD领域驱动设计总结和C#代码示例](https://mp.weixin.qq.com/s/BvelHOrrpiIdx9GFguEgfg)
 * [一个开源轻量级的C#代码格式化工具（支持VS和VS Code）](https://mp.weixin.qq.com/s/KcVsLOj1emWtYouyHWbMqg)
-* 
+* [由C# dynamic是否装箱引发的思考](https://mp.weixin.qq.com/s/P2pfJBVzJuSjLB3Rnzr3PQ)
+* [一个开源且全面的C#算法实战教程](https://mp.weixin.qq.com/s/KRl7Zoe3Co42zbWGJitRbg)
+* [使用 C# 集合表达式重构代码](https://mp.weixin.qq.com/s/-79fIn57QMI_1RfagyJJLQ)
+* [C#开源实用的工具类库，集成超过1000多种扩展方法](https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ)
 
 ## .NET/.NET Core相关
+* [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
 * [一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
@@ -73,7 +78,10 @@
 * [.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
 * [ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
 * [​​一款开源的.NET程序集反编译、编辑和调试神器](https://mp.weixin.qq.com/s/5psS3_b5lD0Uw-eUfMHbUA)
+* [使用Visual Studio分析.NET Dump](https://mp.weixin.qq.com/s/JDCsr-sH1Z7jMEcxNfjbmg)
 * [YiShaAdmin：一款基于.NET Core Web + Bootstrap的企业级快速开发框架](https://mp.weixin.qq.com/s/vt0_qJ6-oSSd31ZfpyTUrA)
+* [.NET MAUI是合适的Xamarin继任者吗？](https://mp.weixin.qq.com/s/-ngue0LxUyTG5fn3DdwQFA)
+* 
 
 ## WPF相关
 * [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
