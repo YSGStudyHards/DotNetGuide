@@ -482,6 +482,7 @@
 * [图解图解MySQL](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3mysql)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
+* [MySQL调优13连问](https://mp.weixin.qq.com/s/U68NCGkjGLHXahWmPMHwNA)
 * [MySQL基础快速入门](https://mp.weixin.qq.com/s/pnbI7xSDk7_hQMLgVryPaA)
 * [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
