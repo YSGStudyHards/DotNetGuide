@@ -478,6 +478,7 @@
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
+* [MySQL源代码](https://github.com/mysql/mysql-server)
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL中文文档](https://www.mysqlzh.com/doc/124.html)
 * [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql)
