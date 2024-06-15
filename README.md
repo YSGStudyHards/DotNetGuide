@@ -491,6 +491,7 @@
 * [MySQL夺命16问，你能回答出几个？](https://mp.weixin.qq.com/s/eJepG60ll0gaEPVb1IAKVA)
 * [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [万字解析MySQL InnoDB锁机制实现原理](https://mp.weixin.qq.com/s/1iO33FX_eNTDi_S-DbKIeQ)
 
 ### Microsoft SQL Server
 * [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
