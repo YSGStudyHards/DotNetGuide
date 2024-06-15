@@ -480,7 +480,7 @@
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL源代码](https://github.com/mysql/mysql-server)
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
-* [MySQL中文文档](https://www.mysqlzh.com/doc/124.html)
+* [MySQL中文文档](https://www.mysqlzh.com/)
 * [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
