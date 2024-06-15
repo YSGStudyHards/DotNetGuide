@@ -179,6 +179,7 @@
 * [51CTO技术社区.NET专栏](https://blog.51cto.com/nav/aspnet)
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET API在线目录查询](https://apisof.net/catalog)
+* [.NET Framework在线源码查询](https://referencesource.microsoft.com)
 
 ### Awesome Collection
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
