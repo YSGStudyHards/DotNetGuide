@@ -177,8 +177,8 @@
 * [CSDN.NET社区论坛](https://bbs.csdn.net/forums/DotNET)
 * [博客园.NET技术专区](https://www.cnblogs.com/cate/108698/)
 * [51CTO技术社区.NET专栏](https://blog.51cto.com/nav/aspnet)
-* [.NET在线源码查询](http://source.dot.net)
 * [.NET API在线目录查询](https://apisof.net/catalog)
+* [.NET在线源码查询](http://source.dot.net)
 * [.NET Framework在线源码查询](https://referencesource.microsoft.com)
 
 ### Awesome Collection
@@ -480,7 +480,7 @@
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL中文文档](https://www.mysqlzh.com/doc/124.html)
-* [图解图解MySQL](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3mysql)
+* [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql)
 * [MySQL知识汇总](https://www.cnblogs.com/Gao-yubo/p/15525872.html)
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 * [MySQL调优13连问](https://mp.weixin.qq.com/s/U68NCGkjGLHXahWmPMHwNA)
