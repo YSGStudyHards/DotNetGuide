@@ -806,7 +806,7 @@
 |  6  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
 |  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
 |  4  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
-|  3  | [SteamTools](https://github.com/BeyondDimension/SteamTools)  |一个.NET开源、跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
+|  3  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools)  |一个.NET开源、跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
 |  2  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
 |  1 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
 
@@ -943,7 +943,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [SteamTools](https://github.com/BeyondDimension/SteamTools) | 一款C#开源的、跨平台的GitHub加速神器。 | https://github.com/BeyondDimension/SteamTools |
+|  2  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 一款C#开源的、跨平台的GitHub加速神器。 | https://github.com/BeyondDimension/SteamTools |
 |  1  | [FastGithub](https://github.com/dotNetTreasury/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotNetTreasury/FastGithub |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
