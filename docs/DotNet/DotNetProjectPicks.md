@@ -737,7 +737,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  [Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan)  | Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，使用 MS SQL 2012 / MySql8.0（或更高版本）后端数据库，您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持令牌基身份验证,项目体系结构遵循著名的软件模式和最佳安全实践。 | https://github.com/dorisoy/Dorisoy.Pan |
+|  1  |  [Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan)  | Dorisoy.Pan是一款基于.NET8开源（MIT License）、免费、跨平台文档管理系统，使用MS SQL 2012 / MySQL8.0（或更高版本）后端数据库，您可以在 Windows、Linux 或 Mac 上运行它，项目中的所有方法都是异步的，支持令牌基身份验证，项目体系结构遵循著名的软件模式和最佳安全实践。源代码是完全可定制的，热插拔且清晰的体系结构，使开发定制功能和遵循任何业务需求变得容易。 | https://github.com/dorisoy/Dorisoy.Pan |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
