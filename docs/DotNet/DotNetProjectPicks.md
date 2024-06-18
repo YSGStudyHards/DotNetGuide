@@ -59,6 +59,7 @@
   * [访客管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BF%E5%AE%A2%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [医疗管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
+  * [应用监控系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -777,6 +778,19 @@
 |  3  |  |  |  |
 |  2  | [Garnet](https://github.com/microsoft/garnet) | Garnet是一款由微软研究院基于.NET开源的高性能、跨平台的分布式缓存存储数据库，该项目提供强大的性能（吞吐量和延迟）、可扩展性、存储、恢复、集群分片、密钥迁移和复制功能。并且无需做任何修改可以与现有的 Redis 客户端配合使用。 | https://microsoft.github.io/garnet/docs |
 |  1  | [LiteDB](https://github.com/mbdavid/LiteDB) | LiteDB 一个小巧、快速、轻量级的 NoSQL 嵌入式数据库。 | https://github.com/mbdavid/LiteDB |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 应用监控系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [WatchDog](https://github.com/IzyPro/WatchDog) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。 | https://github.com/IzyPro/WatchDog |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
