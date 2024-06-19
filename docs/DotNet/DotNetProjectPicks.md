@@ -112,7 +112,7 @@
   * [.NET分布式ID生成库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%88%86%E5%B8%83%E5%BC%8Fid%E7%94%9F%E6%88%90%E5%BA%93)
   * [EF/EF Core扩展类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#efef-core%E6%89%A9%E5%B1%95%E7%B1%BB%E5%BA%93)
   * [弹性和瞬态故障处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%B9%E6%80%A7%E5%92%8C%E7%9E%AC%E6%80%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%BA%93)
-  * [.NET文件压缩处理库]()
+  * [.NET文件压缩处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E5%BA%93)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
