@@ -310,9 +310,11 @@
 ### ASP.NET Core Blazor入门到实战教程
 * [ASP.NET Core的Razor语法](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/views/razor?view=aspnetcore-8.0)
 * [值得推荐的Blazor UI组件库](https://mp.weixin.qq.com/s/HHqkwpXIi7p3K5eUnTcLTw)
+* [ASP.NET Core Blazor 支持的平台](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/supported-platforms?view=aspnetcore-8.0)
 * [微软官方教程ASP.NET Core Blazor](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/?view=aspnetcore-8.0)
 * [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
 * [生成Blazor待办事项列表应用](https://learn.microsoft.com/zh-cn/aspnet/core/blazor/tutorials/build-a-blazor-app?view=aspnetcore-8.0&pivots=server)
+* [构建你的第一个 Blazor 应用](https://dotnet.microsoft.com/zh-cn/learn/aspnet/blazor-tutorial/intro)
 * [使用 Blazor 构建 Web 应用程序](https://learn.microsoft.com/zh-cn/training/paths/build-web-apps-with-blazor/)
 * [使用 Blazor 进行 Web 开发的简介](https://learn.microsoft.com/zh-cn/training/modules/blazor-introduction/)
 * [使用 Blazor 生成可重用组件](https://learn.microsoft.com/zh-cn/training/modules/blazor-build-reusable-components/)
