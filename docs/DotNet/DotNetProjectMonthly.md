@@ -12,6 +12,9 @@
 
 # 2024年
 ## 5月
+### 公众号5月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年5月简报：** https://mp.weixin.qq.com/s/Y2nDGcdLIVQkaVfGrduq_w
+
 ### Fluent UI Blazor
 * **项目简介：** Fluent UI Blazor是一个由微软官方开源（MIT License）、免费的Blazor UI组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。
 * **项目源码地址：** https://github.com/microsoft/fluentui-blazor
