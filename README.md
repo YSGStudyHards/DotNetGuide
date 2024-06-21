@@ -180,6 +180,7 @@
 * [.NET API在线目录查询](https://apisof.net/catalog)
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET Framework在线源码查询](https://referencesource.microsoft.com)
+* [.NET公开可用模板在线搜索](https://dotnetnew.azurewebsites.net)
 
 ### Awesome Collection
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
