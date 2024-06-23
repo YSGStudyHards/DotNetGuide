@@ -1544,7 +1544,7 @@
 |  16 |  |  |  |
 |  15 |  |  |  |
 |  14 |  |  |  |
-|  13 | [ModernWpf](https://github.com/Kinnara/ModernWpf) | 适用于 WPF 应用程序的现代样式和控件。 | https://github.com/Kinnara/ModernWpf |
+|  13 | [ModernWpf](https://github.com/Kinnara/ModernWpf) | 一款开源（MIT License）、免费、现代化风格的WPF UI控件库。 | https://github.com/Kinnara/ModernWpf |
 |  12 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  11  | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI 是一个为 WPF 框架提供 Fluent 设计体验的项目。它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
 |  10 | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
@@ -1585,7 +1585,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
+|  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
 |  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
 |  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
 |  3  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
