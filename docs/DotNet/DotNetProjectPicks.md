@@ -890,7 +890,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) | 一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 | https://github.com/zhuxb711/RX-Explorer |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  1  |  [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
 
@@ -1585,10 +1585,10 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
 |  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
 |  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
-|  3  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
+|  3  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
 |  2  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
 |  1  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
 
