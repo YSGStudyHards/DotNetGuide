@@ -26,9 +26,9 @@
 🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
 如果DotNetGuide知识库对大家有帮助的话记得给作者一个星星哟⭐(您的小星星就是对我最大的肯定和鼓励)！
 
-> 点击下面的图片，前往[Issues](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aopen+is%3Aissue)留下您压箱底的大宝藏👇：
+> 点击下面的图片，前往[Issues](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)留下您压箱底的大宝藏👇：
 
-[![DotNetGuide宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_240626195235_DotNetGuide-Issues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aopen+is%3Aissue)
+[![DotNetGuide宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_240626195235_DotNetGuide-Issues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
 
 
 ## 🔍目录导航(善用Ctrl+F)
