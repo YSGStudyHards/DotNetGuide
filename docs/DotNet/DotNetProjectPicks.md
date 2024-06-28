@@ -33,6 +33,7 @@
   * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
   * [开源缓存框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%93%E5%AD%98%E6%A1%86%E6%9E%B6)
+  * [开源游戏框架]()
   * [其他开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
@@ -60,6 +61,7 @@
   * [医疗管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
   * [应用监控系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F)
+  * [开源游戏项目]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -415,6 +417,19 @@
 |  3  |  |  |  |
 |  2  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
 |  1  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching是一个.NET开源的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 开源游戏框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [GameFramework](https://github.com/EllanJiang/GameFramework) | Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。 | https://github.com/EllanJiang/GameFramework |
+|  2  | [ET](https://github.com/egametang/ET) | Unity3D 客户端和 C# 服务器框架。 | https://github.com/egametang/ET |
+|  1  | [MonoGame](https://github.com/MonoGame/MonoGame) | MonoGame是一个简单而强大的.NET框架，使用C#编程语言可以创建桌面PC、视频游戏机和移动设备游戏。 | https://github.com/MonoGame/MonoGame |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -792,6 +807,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [WatchDog](https://github.com/IzyPro/WatchDog) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。 | https://github.com/IzyPro/WatchDog |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 开源游戏项目
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [SeeSharpSnake](https://github.com/MichalStrehovsky/SeeSharpSnake) | 一款由C#语言编写的仅有8KB大小的简易贪吃蛇开源游戏。 | https://github.com/MichalStrehovsky/SeeSharpSnake |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
