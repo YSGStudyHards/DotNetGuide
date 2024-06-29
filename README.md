@@ -189,6 +189,7 @@
 * [Awesome Abp](https://github.com/EasyAbp/awesome-abp)
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Awesome Unity3D](https://github.com/insthync/awesome-unity3d)
+* [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame)
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia)
 * [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
