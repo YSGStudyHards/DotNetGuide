@@ -181,6 +181,7 @@
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET Fx在线源码查询](https://referencesource.microsoft.com)
 * [.NET API在线目录查询](https://apisof.net/catalog)
+* [.NET在线的包管理器NuGet](https://www.nuget.org)
 * [.NET公开可用模板在线搜索](https://dotnetnew.azurewebsites.net)
 
 ### Awesome Collection
@@ -193,8 +194,8 @@
 * [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf)
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 * [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame)
-* [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms)
 * [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)
+* [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms)
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages)
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
