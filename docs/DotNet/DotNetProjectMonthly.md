@@ -11,6 +11,63 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 6月
+### CsvHelper
+* **项目简介：** CsvHelper是一个.NET开源、快速、灵活、高度可配置、易于使用的用于读取和写入CSV文件的类库。
+* **项目源码地址：** https://github.com/JoshClose/CsvHelper
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA
+
+### ModernWpf
+* **项目简介：** ModernWpf是一个开源项目，它为 WPF 提供了一组现代化的控件和主题，使开发人员能够创建具有现代外观的桌面应用程序。
+* **项目源码地址：** https://github.com/Kinnara/ModernWpf
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/n5FokPPR6Q4Vz8D4Hb0nUw
+
+### HyggeImaotai
+* **项目简介：** 一款.NET开源、基于WPF实现的i茅台APP接口自动化每日自动预约（抢茅台）小助手，该项目通过接口自动化模拟i茅台APP实现每日自动预约茅台酒的功能，软件会在指定时间开始对管理的用户进行批量预约。
+* **项目源码地址：** https://github.com/lisongkun/HyggeImaotai
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/qpuofGpvRNVD2lG3FRwLoA
+
+### WatchDog
+* **项目简介：** WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。
+* **项目源码地址：** https://github.com/IzyPro/WatchDog
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/nJienk0fctXdUX7ZZ779NQ
+
+### Dorisoy.Pan
+* **项目简介：** Dorisoy.Pan是一款基于.NET8开源（MIT License）、免费、跨平台文档管理系统，使用MS SQL 2012 / MySQL8.0（或更高版本）后端数据库，您可以在 Windows、Linux 或 Mac 上运行它，项目中的所有方法都是异步的，支持令牌基身份验证，项目体系结构遵循著名的软件模式和最佳安全实践。源代码是完全可定制的，热插拔且清晰的体系结构，使开发定制功能和遵循任何业务需求变得容易。
+* **项目源码地址：** https://github.com/dorisoy/Dorisoy.Pan
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/_kAZdnJarAexDEA_d_Ldng
+
+### OxyPlot
+* **项目简介：** 一款.NET开源（MIT License）、免费、跨平台、功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。
+* **项目源码地址：** https://github.com/oxyplot/oxyplot
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/miXp0MWG0KokvgovriN6uA
+
+### Jvedio
+* **项目简介：** Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。
+* **项目源码地址：** https://github.com/hitchao/Jvedio
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/JwJFkZxrJVEqgXVxonT-1g
+
+### 胡桃工具箱
+* **项目简介：** 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。
+* **项目源码地址：** https://github.com/DGP-Studio/Snap.Hutao
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/5-Dybat5IagTk6XxaIHZug
+
+### TheAlgorithms/C-Sharp
+* **项目简介：** 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。
+* **项目源码地址：** https://github.com/TheAlgorithms/C-Sharp
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/KRl7Zoe3Co42zbWGJitRbg
+
+### FaceRecognitionDotNet
+* **项目简介：** 一个.NET开源（MIT License）、免费、跨平台（适用于 Windows、MacOS 和 Linux ）、使用简单的面部识别库。
+* **项目源码地址：** https://github.com/takuya-takeuchi/FaceRecognitionDotNet
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/dzRKL8ollgcRF-5bre1htA
+
+### SeeSharpSnake
+* **项目简介：** 一款由C#语言编写的仅有8KB大小的简易贪吃蛇开源游戏，该仓库中的项目文件和脚本可以用多种不同的配置构建相同的游戏，每个配置生成的输出大小也不同。
+* **项目源码地址：** https://github.com/MichalStrehovsky/SeeSharpSnake
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Y1zO7IQwCUyWiKPPdBaCMg
+
+
 ## 5月
 ### 公众号5月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年5月简报：** https://mp.weixin.qq.com/s/Y2nDGcdLIVQkaVfGrduq_w
