@@ -181,6 +181,7 @@
 * [.NET在线源码查询](http://source.dot.net)
 * [.NET Fx在线源码查询](https://referencesource.microsoft.com)
 * [.NET API在线目录查询](https://apisof.net/catalog)
+* [NuGet包下载趋势在线查询](https://nugettrends.com)
 * [.NET在线的包管理器NuGet](https://www.nuget.org)
 * [.NET公开可用模板在线搜索](https://dotnetnew.azurewebsites.net)
 
