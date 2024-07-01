@@ -12,6 +12,9 @@
 
 # 2024年
 ## 6月
+### 公众号6月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年6月简报：** https://mp.weixin.qq.com/s/dCjpYRpMeSW4ZCuq3eq-3A
+
 ### CsvHelper
 * **项目简介：** CsvHelper是一个.NET开源、快速、灵活、高度可配置、易于使用的用于读取和写入CSV文件的类库。
 * **项目源码地址：** https://github.com/JoshClose/CsvHelper
