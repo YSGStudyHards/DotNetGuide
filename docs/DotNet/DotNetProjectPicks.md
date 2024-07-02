@@ -1634,7 +1634,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
 |  6  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
 |  5  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
 |  4  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
