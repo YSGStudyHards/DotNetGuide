@@ -405,6 +405,12 @@
 * [**8、AsyncProgrammingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs)：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 * [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise)：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
 * [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise)：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
+* [**11、SpectreExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SpectreExercise)：[一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
+* [**12、IdGeneratorExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/IdGeneratorExercise)：[.NET集成IdGenerator生成分布式全局唯一ID](https://mp.weixin.qq.com/s/U1qKb4nYkQNtbXmQJkxyPA)
+* [**13、FusionCacheExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FusionCacheExercise)：[.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
+* [**14、AutoMapperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/AutoMapperExercise)：[ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
+* [**15、CsvHelperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/CsvHelperExercise)：[.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
+* [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise)：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
