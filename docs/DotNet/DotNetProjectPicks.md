@@ -457,7 +457,7 @@
 |  28  |  |  |  |
 |  27  |  |  |  |
 |  26  |  |  |  |
-|  25  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统后端 后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
+|  25  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
 |  24  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  23  | [BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin) | 基于Bootstrap Blazor开源的.NET通用后台权限管理系统，后台管理页面兼容所有主流浏览器，完全响应式布局（支持电脑、平板、手机等所有主流设备），可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。 | https://gitee.com/LongbowEnterprise/BootstrapAdmin |
 |  22  | [Yi.Admin](https://gitee.com/ccnetcore/Yi) | YiFramework是一个基于.Net8+Abp.vNext+SqlSugar的DDD领域驱动设计后端开源框架，前端Vue3，框架三层架构\DDD领域驱动设计，内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 架构干净整洁、采用微软风格原生框架封装。 适合小中大型项目上线、.Net8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。 | https://gitee.com/ccnetcore/Yi |
