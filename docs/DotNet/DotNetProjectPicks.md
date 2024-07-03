@@ -1530,8 +1530,16 @@
 #### 其他第三方SDK&类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+| 20  |  |  |  |
+| 19  |  |  |  |
+| 18  |  |  |  |
+| 17  |  |  |  |
+| 16  |  |  |  |
+| 15  |  |  |  |
+| 14  |  |  |  |
+| 13  |  |  |  |
 | 12  |  |  |  |
-| 11  |  |  |  |
+| 11  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
 | 10  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | 一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
 |  9  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
 |  8  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
