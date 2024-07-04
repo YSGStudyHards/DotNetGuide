@@ -1496,7 +1496,7 @@
 |  4  | [EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers) | EfCoreTriggers是使用 EFCore 模型构建器编写本机 SQL 触发器的库。触发器会自动转换为 sql 并添加到迁移中。 | https://github.com/win7user10/Laraue.EfCoreTriggers |
 |  3  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
 |  2  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
-|  1  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | 一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵。 | https://github.com/dotnetcore/sharding-core |
+|  1  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
