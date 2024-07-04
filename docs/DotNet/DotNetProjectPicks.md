@@ -50,7 +50,7 @@
   * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
   * [博客系统（Blog）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9Fblog)
   * [办公系统（OA）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8A%9E%E5%85%AC%E7%B3%BB%E7%BB%9Foa)
-  * [媒体服务器系统（Media）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9Fmedia)
+  * [媒体服务器系统]()
   * [自动化构建系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%E7%B3%BB%E7%BB%9F)
   * [任务管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [进销存管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9B%E9%94%80%E5%AD%98%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
@@ -524,7 +524,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统。项目亮点：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
+|  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统，项目亮点功能包括：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
