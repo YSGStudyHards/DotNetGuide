@@ -115,6 +115,7 @@
   * [EF/EF Core扩展类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#efef-core%E6%89%A9%E5%B1%95%E7%B1%BB%E5%BA%93)
   * [弹性和瞬态故障处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%B9%E6%80%A7%E5%92%8C%E7%9E%AC%E6%80%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET文件压缩处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E5%BA%93)
+  * [.NET HTTP客户端库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1523,6 +1524,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) | SharpZipLib（#ziplib，以前称为 NZipLib）是一个压缩库，它支持使用存储和 deflate 压缩方法、PKZIP 2.0 样式和 AES 加密、带有 GNU 长文件扩展名的 tar、GZip、zlib 和 raw deflate 以及 BZip2 的 Zip 文件。支持 Zip64，而尚不支持 Deflate64。它作为程序集实现（可安装在 GAC 中），因此可以很容易地合并到其他项目中（使用任何 .NET 语言）。 | https://github.com/icsharpcode/SharpZipLib |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET HTTP客户端库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | 一个.NET开源的、在功能、性能和可扩展性均优于 refit 的 REST API 库，集高性能高可扩展性于一体的声明式HTTP客户端库，特别适用于微服务的RestFul资源请求，也适用于各种畸形HTTP接口请求。 | https://github.com/dotnetcore/WebApiClient |
+|  1  | [EasyHttp](https://github.com/EasyHttp/EasyHttp) | 一个.NET开源的、易于使用的 HTTP 客户端。 | https://github.com/EasyHttp/EasyHttp |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
