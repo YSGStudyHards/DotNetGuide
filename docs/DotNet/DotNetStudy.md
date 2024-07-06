@@ -40,6 +40,9 @@
 * [一个开源且全面的C#算法实战教程](https://mp.weixin.qq.com/s/KRl7Zoe3Co42zbWGJitRbg)
 * [使用 C# 集合表达式重构代码](https://mp.weixin.qq.com/s/-79fIn57QMI_1RfagyJJLQ)
 * [C#开源实用的工具类库，集成超过1000多种扩展方法](https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ)
+* [可能是全网最完整的 C# 版微信 SDK](https://mp.weixin.qq.com/s/2OUiod0TRW243o2Zb0ny9w)
+* [C#语言编写的仅有8KB大小的简易贪吃蛇开源游戏](https://mp.weixin.qq.com/s/Y1zO7IQwCUyWiKPPdBaCMg)
+* [3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)
 
 ## .NET/.NET Core相关
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
@@ -48,6 +51,7 @@
 * [一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
 * [.NET异步有多少种实现方式？](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 * [.NET应用如何防止被反编译](https://mp.weixin.qq.com/s/4MpdaPk7dQVogi9wZTIebw)
+* [一个在线的.NET源码查询网站](https://mp.weixin.qq.com/s/c552ShsvTqn8oBoZzDO7ZA)
 * [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
 * [4款免费且实用的.NET反编译工具](https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw)
@@ -56,6 +60,7 @@
 * [.NET开源的处理分布式事务的解决方案](https://mp.weixin.qq.com/s/ONM9bLKidVCS4pAwJbG9tg)
 * [企业应用开发中.NET EF常用哪种模式？](https://mp.weixin.qq.com/s/r4AehSo86hsMTjagD0VxOQ)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
+* [.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
 * [.NET开发中合理使用对象映射库，简化和提高工作效率](https://mp.weixin.qq.com/s/UWe6Z0OF45FpWkLLvQADLw)
 * [ASP.NET Core Web API设置响应输出的Json数据格式的两种方式](https://mp.weixin.qq.com/s/67yDIQizw8zSvRIUPWXhig)
 * [.NET Core使用SkiaSharp快速生成二维码（ 真正跨平台方案）](https://mp.weixin.qq.com/s/y_IbZNESZFFEzk0JWiZnDQ)
@@ -81,13 +86,21 @@
 * [使用Visual Studio分析.NET Dump](https://mp.weixin.qq.com/s/JDCsr-sH1Z7jMEcxNfjbmg)
 * [YiShaAdmin：一款基于.NET Core Web + Bootstrap的企业级快速开发框架](https://mp.weixin.qq.com/s/vt0_qJ6-oSSd31ZfpyTUrA)
 * [.NET MAUI是合适的Xamarin继任者吗？](https://mp.weixin.qq.com/s/-ngue0LxUyTG5fn3DdwQFA)
-* 
+* [4款.NET开源、功能强大的Windows桌面工具箱](https://mp.weixin.qq.com/s/r_oEzpWDBwBkhOe2XEcMVQ)
+* [.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
+* [C#/.NET这些实用的技巧和知识点你都知道吗？](https://mp.weixin.qq.com/s/BM_zRF66bKAqoqZxJgMnow)
+* [2024年全面的.NET体系概览图集](https://mp.weixin.qq.com/s/5-z6CzyTVz7gey5NivXzMA)
+* [使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
+* [一款EF Core下高性能、轻量级针对分表分库读写分离的解决方案](https://mp.weixin.qq.com/s/skI0O03jvhc7hdCwkdZbjw)
+* [基于.NET开源游戏框架MonoGame实现的开源项目合集](https://mp.weixin.qq.com/s/7CdTF_ZVHQjqjyNMGwc-jg)
 
 ## WPF相关
+* [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
 * [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
 * [一套开源、强大且美观的WPF UI控件库 - HandyControl](https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ)
 * [一个适用于定制个性化界面的WPF UI组件库 - Panuon.WPF.UI](https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw)
 * [一个WPF版的Layui前端UI库 - Layui-WPF](https://mp.weixin.qq.com/s/jXCdCa_t_0XVlqLhLmXWWg)
+* [一款开源、免费、现代化风格的WPF UI控件库 - ModernWpf](https://mp.weixin.qq.com/s/n5FokPPR6Q4Vz8D4Hb0nUw)
 * [WPF开源的一款免费、开箱即用的翻译、OCR工具](https://mp.weixin.qq.com/s/WTopCglS2ELPWaa5wAMyTQ)
 * [基于Material Design风格开源、易用、强大的WPF UI控件库](https://mp.weixin.qq.com/s/LpG7T0tZDisSVTvQBxK6Fw)
 * [WPF --- TextBox的输入校验](https://mp.weixin.qq.com/s/r4hhl0jFbO856LnOd78XqA)
@@ -106,9 +119,11 @@
 * [Ant Design Blazor前端框架搭建](https://mp.weixin.qq.com/s/W98huzk2oYtco3xwtm3NEA)
 * [BootstrapBlazor UI组件库引入](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
+* [基于Bootstrap Blazor开源的.NET通用后台权限管理系统](https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA)
 
 ## Avalonia相关
 * [.NET Avalonia开源、免费的桌面UI库 - SukiUI](https://mp.weixin.qq.com/s/yyiTwzeekWnorS8uaJw3jQ)
+* [一款开源免费的现代化风格的Avalonia控件库](https://mp.weixin.qq.com/s/mJtego9nVh7PDNtl_OMgzw)
 * [在Avalonia项目中使用MediatR和MS.DI库实现事件驱动通信](https://mp.weixin.qq.com/s/I_1AQrWZq5fXKEUt3g6WyQ) 
 
 ## MAUI相关
