@@ -503,6 +503,7 @@
 * [MySQL入门到实战详细教程](https://mp.weixin.qq.com/s/XnYFIc4Oq6kQrLIhOXblig)
 * [6本值得推荐的MySQL学习书籍](https://mp.weixin.qq.com/s/bPAKZsXwDxRy5mzEODFljw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/pN6azE6v4y9sk96FJqctBw)
+* [MySQL日志15连问，你能抗住嘛？](https://mp.weixin.qq.com/s/uNvj1azCdQMVljgyox0CTg)
 * [MySQL夺命16问，你能回答出几个？](https://mp.weixin.qq.com/s/eJepG60ll0gaEPVb1IAKVA)
 * [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
