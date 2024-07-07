@@ -1639,7 +1639,7 @@
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
+|  7  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
 |  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
 |  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
 |  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
