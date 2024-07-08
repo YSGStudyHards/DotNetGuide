@@ -1580,7 +1580,7 @@
 |  12 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
 |  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
-|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和 Blazor的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
+|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和Blazor的开源（MIT License）、免费的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
 |  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
 |  7  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
 |  6  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
