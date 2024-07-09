@@ -385,7 +385,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
 |  2  | [CYarp](https://github.com/xljiulang/CYarp) | 基于Yarp的http内网穿透中间件，支持tcp、http/2.0或http/3.0作为http/1.1的传输层。 | https://github.com/xljiulang/CYarp |
 |  1  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel 高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
 
