@@ -151,7 +151,7 @@
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA
 
 ### LiveCharts2
-* **项目简介：** LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。
+* **项目简介：** LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表库，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。
 * **项目源码地址：** https://github.com/beto-rodriguez/LiveCharts2
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/1eaezZAJwN_JD0mErSeRBA
 
