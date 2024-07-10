@@ -931,10 +931,10 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
+|  6  | [Quasar](https://github.com/quasar/Quasar) | Quasar是一个.NET开源、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。 | https://github.com/quasar/Quasar |
+|  5  | [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) | 一款适用于 Windows C# 的开源远程管理工具。 | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp |
 |  4  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
-|  3  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC,WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
+|  3  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
 |  2  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
 |  1  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
 
