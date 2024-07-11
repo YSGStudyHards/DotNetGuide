@@ -263,7 +263,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [Kernel Memory](https://github.com/microsoft/kernel-memory) | RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。 | https://github.com/microsoft/kernel-memory |
 |  7  | [OpenAI .NET](https://github.com/openai/openai-dotnet) | OpenAI API的官方.NET客户端库。  | https://github.com/openai/openai-dotnet |
 |  6  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen 是一个框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
 |  5  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
