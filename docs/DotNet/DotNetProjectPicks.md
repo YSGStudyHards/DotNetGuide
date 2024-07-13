@@ -62,6 +62,7 @@
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
   * [应用监控系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F)
   * [开源游戏项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE)
+  * [Web浏览器项目]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -431,6 +432,19 @@
 |  3  | [GameFramework](https://github.com/EllanJiang/GameFramework) | Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。 | https://github.com/EllanJiang/GameFramework |
 |  2  | [ET](https://github.com/egametang/ET) | Unity3D 客户端和 C# 服务器框架。 | https://github.com/egametang/ET |
 |  1  | [MonoGame](https://github.com/MonoGame/MonoGame) | MonoGame是一个简单而强大的.NET框架，使用C#编程语言可以创建桌面PC、视频游戏机和移动设备游戏。 | https://github.com/MonoGame/MonoGame |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### Web浏览器项目
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [CefSharp](https://github.com/cefsharp/CefSharp) | CefSharp 允许您将 Chromium 嵌入到 .NET 应用程序中。它是 Marshall A. Greenblatt 围绕 Chromium 嵌入式框架 (CEF) 的轻量级 .NET 包装器。大约 30% 的绑定是用 C++/CLI 编写的，其中大部分代码是 C#。它可以在 C# 或 VB 或任何其他 CLR 语言中使用。 CefSharp 提供 WPF 和 WinForms Web 浏览器控件实现。 | https://github.com/cefsharp/CefSharp |
+|  2  | [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) | SharpBrowser是一个基于高性能的CefSharp渲染器的开源C# Web浏览器，采用MIT许可证。相较于Google Chrome，它在渲染网页时略有提升速度。该项目选择了CefSharp作为浏览引擎，这使得其在.NET环境下能够提供快速、稳定的浏览体验。 | https://github.com/sharpbrowser/SharpBrowser |
+|  1  | [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) | 一款.NET开源、免费的Flash浏览器。 | https://github.com/Mzying2001/CefFlashBrowser |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
