@@ -106,8 +106,8 @@
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
   * [.NET的OCR工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%9A%84ocr%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
-  * [敏感词检测组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%8F%E6%84%9F%E8%AF%8D%E6%A3%80%E6%B5%8B%E7%BB%84%E4%BB%B6%E5%BA%93)
-  * [C#拼音字母转化类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#c%E6%8B%BC%E9%9F%B3%E5%AD%97%E6%AF%8D%E8%BD%AC%E5%8C%96%E7%B1%BB%E5%BA%93)
+  * [.NET敏感词检测组件库]()
+  * [.NET汉字拼音转化类库]()
   * [.NET枚举工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%9E%9A%E4%B8%BE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET中文分词类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%B1%BB%E5%BA%93)
@@ -1412,7 +1412,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 敏感词检测组件库
+#### .NET敏感词检测组件库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
@@ -1425,15 +1425,15 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### C#拼音字母转化类库
+#### .NET汉字拼音转化类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
-|  1  | [Pinyin4NET](https://gitee.com/hyjiacan/Pinyin4Net) | .net(core)使用的汉字转拼音库(含姓名拼音独立接口)。提供了简单的调用接口和通过拼音查询汉字的接口。 | https://gitee.com/hyjiacan/Pinyin4Net |
+|  4  | [ToolGood.Words.Pinyin](https://github.com/toolgood/ToolGood.Words.Pinyin) | 一款.NET开源的、高性能的拼音字母转化类库。 | https://github.com/toolgood/ToolGood.Words.Pinyin |
+|  3  | [PinYinConverterCore](https://github.com/netcorepal/PinYinConverterCore) | PinYinConverterCore是一个.NET Core开源的，提供了将简体中文转换为拼音的功能，并封装了汉字的读音、笔画等基本信息。 | https://github.com/netcorepal/PinYinConverterCore |
+|  2  | [ChineseToPinyin](https://github.com/newMoonxx/ChineseToPinyin) | 汉字转拼音，自适应多音字处理、姓名自动切分C++、C#、QT、JS。 | https://github.com/newMoonxx/ChineseToPinyin |
+|  1  | [Pinyin4NET](https://gitee.com/hyjiacan/Pinyin4Net) | .NET开源的汉字转拼音类库(含姓名拼音独立接口)，提供了简单的调用接口和通过拼音查询汉字的接口。 | https://gitee.com/hyjiacan/Pinyin4Net |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
