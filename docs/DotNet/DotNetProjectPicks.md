@@ -73,7 +73,7 @@
   * [桌面管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [文件管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [远程桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7)
-  * [数据管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [数据库管理工具]()
   * [实用桌面工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7)
   * [DNS服务器工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#dns%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B7%A5%E5%85%B7)
   * [截图&录屏工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%B7%A5%E5%85%B7)
@@ -819,8 +819,8 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
+|  3  | [Opserver](https://github.com/Opserver/Opserver) | 一款Stack Overflow基于.NET开源（遵循MIT License开源协议）的轻量级监控系统，它可以独立监控多个系统，支持提取有关 CPU、内存、网络和硬件的统计数据。 并且支持跨平台部署（包括 Windows，macOS，Linux）。 | https://github.com/Opserver/Opserver |
+|  2  | [DotNetify-Pulse](https://github.com/dsuryd/dotNetify-Pulse) | DotNetify-Pulse 是一个基于 .NET 开发的开源、轻量级实时监控项目，通过 Nuget 安装后可以监控服务的日志活动和资源使用情况，DotNetify-Pulse 使用了 SignalR 进行前后端数据交互， 监控页面支持实时刷新。 | https://github.com/dsuryd/dotNetify-Pulse |
 |  1  | [WatchDog](https://github.com/IzyPro/WatchDog) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。 | https://github.com/IzyPro/WatchDog |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -955,15 +955,15 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 数据管理工具
+#### 数据库管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  |  |  |  |
-|  1  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)      | 一款方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
+|  2  | [DBCHM](https://gitee.com/dotnetchina/DBCHM) | 一款.NET开源（MIT License）、免费、简单、实用的数据库文档（字典）生成工具，该工具支持CHM、Word、Excel、PDF、Html、XML、Markdown等多文档格式的导出。 | https://gitee.com/dotnetchina/DBCHM |
+|  1  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)   | 一款.NET开源、方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
