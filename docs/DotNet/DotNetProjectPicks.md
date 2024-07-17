@@ -85,7 +85,7 @@
   * [Office实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#office%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
   * [Git管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [通讯调试工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%80%9A%E8%AE%AF%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
-  * [翻译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7)
+  * [开源翻译工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1110,7 +1110,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 翻译工具
+#### 开源翻译工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
