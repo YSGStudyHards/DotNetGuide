@@ -1544,10 +1544,15 @@
 #### .NET HTTP客户端库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
+|  5  | [Refit](https://github.com/reactiveui/refit) | Refit 是为 .NET Core、Xamarin 和 .NET 设计的自动类型安全的 REST 库。它深受 Square 的 Retrofit 库的启发，将你的 REST API 转换成一个实时接口。 | https://github.com/reactiveui/refit |
+|  4  | [RestSharp](https://github.com/restsharp/RestSharp) | 
+RestSharp 是一个开源的、跨平台的轻量级 .NET 库，它专注于简化与 RESTful Web 服务的交互。RestSharp 提供了一种直观且高效的方式来执行 CRUD（创建、读取、更新和删除）操作，从而轻松与任何 RESTful API 进行通信。作为与 RESTful API 交互的流行选择，RestSharp 允许开发者发出 HTTP 请求并解析响应，无需手动处理底层的 HTTP 细节。 | https://github.com/restsharp/RestSharp |
+|  3  | [Flurl](https://github.com/tmenier/Flurl) | Flurl是一个.NET开源（MIT License）、免费、集现代性、流畅性、异步性、可测试性、可移植性于一身的URL构建器与HTTP客户端库。它提供了简洁的API，使得HTTP请求的发送与URL的构建变得极为简单与直观。无论是构建复杂的URL路径，还是设置查询参数、请求头或认证信息，Flurl都能以几乎零学习成本的方式实现。 | https://github.com/tmenier/Flurl |
 |  2  | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | 一个.NET开源的、在功能、性能和可扩展性均优于 refit 的 REST API 库，集高性能高可扩展性于一体的声明式HTTP客户端库，特别适用于微服务的RestFul资源请求，也适用于各种畸形HTTP接口请求。 | https://github.com/dotnetcore/WebApiClient |
 |  1  | [EasyHttp](https://github.com/EasyHttp/EasyHttp) | 一个.NET开源的、易于使用的 HTTP 客户端。 | https://github.com/EasyHttp/EasyHttp |
 
