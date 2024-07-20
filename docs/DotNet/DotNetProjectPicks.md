@@ -110,7 +110,7 @@
   * [.NET枚举工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%9E%9A%E4%B8%BE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET电子邮件处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET中文分词类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E7%B1%BB%E5%BA%93)
-  * [.NET模拟库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%A8%A1%E6%8B%9F%E5%BA%93)
+  * [.NET开源模拟库]()
   * [.NET分布式ID生成库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%88%86%E5%B8%83%E5%BC%8Fid%E7%94%9F%E6%88%90%E5%BA%93)
   * [EF/EF Core扩展类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#efef-core%E6%89%A9%E5%B1%95%E7%B1%BB%E5%BA%93)
   * [弹性和瞬态故障处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%B9%E6%80%A7%E5%92%8C%E7%9E%AC%E6%80%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%BA%93)
@@ -1476,7 +1476,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### .NET模拟库
+#### .NET开源模拟库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
@@ -1550,8 +1550,7 @@
 |  7  |  |  |  |
 |  6  |  |  |  |
 |  5  | [Refit](https://github.com/reactiveui/refit) | Refit 是为 .NET Core、Xamarin 和 .NET 设计的自动类型安全的 REST 库。它深受 Square 的 Retrofit 库的启发，将你的 REST API 转换成一个实时接口。 | https://github.com/reactiveui/refit |
-|  4  | [RestSharp](https://github.com/restsharp/RestSharp) | 
-RestSharp 是一个开源的、跨平台的轻量级 .NET 库，它专注于简化与 RESTful Web 服务的交互。RestSharp 提供了一种直观且高效的方式来执行 CRUD（创建、读取、更新和删除）操作，从而轻松与任何 RESTful API 进行通信。作为与 RESTful API 交互的流行选择，RestSharp 允许开发者发出 HTTP 请求并解析响应，无需手动处理底层的 HTTP 细节。 | https://github.com/restsharp/RestSharp |
+|  4  | [RestSharp](https://github.com/restsharp/RestSharp) | RestSharp 是一个开源的、跨平台的轻量级 .NET 库，它专注于简化与 RESTful Web 服务的交互。RestSharp 提供了一种直观且高效的方式来执行 CRUD（创建、读取、更新和删除）操作，从而轻松与任何 RESTful API 进行通信。作为与 RESTful API 交互的流行选择，RestSharp 允许开发者发出 HTTP 请求并解析响应，无需手动处理底层的 HTTP 细节。 | https://github.com/restsharp/RestSharp |
 |  3  | [Flurl](https://github.com/tmenier/Flurl) | Flurl是一个.NET开源（MIT License）、免费、集现代性、流畅性、异步性、可测试性、可移植性于一身的URL构建器与HTTP客户端库。它提供了简洁的API，使得HTTP请求的发送与URL的构建变得极为简单与直观。无论是构建复杂的URL路径，还是设置查询参数、请求头或认证信息，Flurl都能以几乎零学习成本的方式实现。 | https://github.com/tmenier/Flurl |
 |  2  | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | 一个.NET开源的、在功能、性能和可扩展性均优于 refit 的 REST API 库，集高性能高可扩展性于一体的声明式HTTP客户端库，特别适用于微服务的RestFul资源请求，也适用于各种畸形HTTP接口请求。 | https://github.com/dotnetcore/WebApiClient |
 |  1  | [EasyHttp](https://github.com/EasyHttp/EasyHttp) | 一个.NET开源的、易于使用的 HTTP 客户端。 | https://github.com/EasyHttp/EasyHttp |
