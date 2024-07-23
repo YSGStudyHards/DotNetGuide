@@ -1595,7 +1595,7 @@
 | 17  |  |  |  |
 | 16  |  |  |  |
 | 15  |  |  |  |
-| 14  |  |  |  |
+| 14  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
 | 13  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
 | 12  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
 | 11  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
@@ -1683,7 +1683,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
 |  7  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
 |  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
 |  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
