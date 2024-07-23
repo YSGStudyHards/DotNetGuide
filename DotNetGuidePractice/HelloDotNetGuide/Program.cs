@@ -11,6 +11,12 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region CSharp12GrammarExercise
+
+            CSharp12GrammarExercise.OutputPrint();
+
+            #endregion
+
             #region GotoExercise
 
             //GotoExercise.GotoRetryUseExample();
