@@ -63,6 +63,7 @@
   * [应用监控系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F)
   * [开源游戏项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE)
   * [Web浏览器项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#web%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A1%B9%E7%9B%AE)
+  * [短链生成系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -113,6 +114,7 @@
   * [.NET开源模拟库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%A8%A1%E6%8B%9F%E5%BA%93)
   * [.NET分布式ID生成库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%88%86%E5%B8%83%E5%BC%8Fid%E7%94%9F%E6%88%90%E5%BA%93)
   * [EF/EF Core扩展类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#efef-core%E6%89%A9%E5%B1%95%E7%B1%BB%E5%BA%93)
+  * [Dapper扩展类库]
   * [弹性和瞬态故障处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%B9%E6%80%A7%E5%92%8C%E7%9E%AC%E6%80%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET文件压缩处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET HTTP客户端库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-http%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93)
@@ -431,19 +433,6 @@
 |  3  | [GameFramework](https://github.com/EllanJiang/GameFramework) | Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。 | https://github.com/EllanJiang/GameFramework |
 |  2  | [ET](https://github.com/egametang/ET) | Unity3D 客户端和 C# 服务器框架。 | https://github.com/egametang/ET |
 |  1  | [MonoGame](https://github.com/MonoGame/MonoGame) | MonoGame是一个简单而强大的.NET框架，使用C#编程语言可以创建桌面PC、视频游戏机和移动设备游戏。 | https://github.com/MonoGame/MonoGame |
-
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
-
-#### Web浏览器项目
-|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
-| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [CefSharp](https://github.com/cefsharp/CefSharp) | CefSharp 允许您将 Chromium 嵌入到 .NET 应用程序中。它是 Marshall A. Greenblatt 围绕 Chromium 嵌入式框架 (CEF) 的轻量级 .NET 包装器。大约 30% 的绑定是用 C++/CLI 编写的，其中大部分代码是 C#。它可以在 C# 或 VB 或任何其他 CLR 语言中使用。 CefSharp 提供 WPF 和 WinForms Web 浏览器控件实现。 | https://github.com/cefsharp/CefSharp |
-|  2  | [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) | SharpBrowser是一个基于高性能的CefSharp渲染器的开源C# Web浏览器，采用MIT许可证。相较于Google Chrome，它在渲染网页时略有提升速度。该项目选择了CefSharp作为浏览引擎，这使得其在.NET环境下能够提供快速、稳定的浏览体验。 | https://github.com/sharpbrowser/SharpBrowser |
-|  1  | [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) | 一款.NET开源、免费的Flash浏览器。 | https://github.com/Mzying2001/CefFlashBrowser |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -834,6 +823,32 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [SeeSharpSnake](https://github.com/MichalStrehovsky/SeeSharpSnake) | 一款由C#语言编写的仅有8KB大小的简易贪吃蛇开源游戏。 | https://github.com/MichalStrehovsky/SeeSharpSnake |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### Web浏览器项目
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [CefSharp](https://github.com/cefsharp/CefSharp) | CefSharp 允许您将 Chromium 嵌入到 .NET 应用程序中。它是 Marshall A. Greenblatt 围绕 Chromium 嵌入式框架 (CEF) 的轻量级 .NET 包装器。大约 30% 的绑定是用 C++/CLI 编写的，其中大部分代码是 C#。它可以在 C# 或 VB 或任何其他 CLR 语言中使用。 CefSharp 提供 WPF 和 WinForms Web 浏览器控件实现。 | https://github.com/cefsharp/CefSharp |
+|  2  | [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) | SharpBrowser是一个基于高性能的CefSharp渲染器的开源C# Web浏览器，采用MIT许可证。相较于Google Chrome，它在渲染网页时略有提升速度。该项目选择了CefSharp作为浏览引擎，这使得其在.NET环境下能够提供快速、稳定的浏览体验。 | https://github.com/sharpbrowser/SharpBrowser |
+|  1  | [CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) | 一款.NET开源、免费的Flash浏览器。 | https://github.com/Mzying2001/CefFlashBrowser |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 短链生成系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink) | SuperShortLink是一个基于.NET开源（MIT License）、免费、强大易用的短链生成及监控系统，包含了短URL的生成、短URL跳转长URL、短URL访问统计以及Web后台监控页面，可以帮助我们更容易地生成短链、监控短链。 | https://github.com/Bryan-Cyf/SuperShortLink |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1511,6 +1526,19 @@
 |  3  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
 |  2  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
 |  1  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### Dapper扩展类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  |  |  |  |
+|  1  | [Dommel](https://github.com/henkmollema/Dommel) | 一个C#开源（MIT License）、免费、简单易用的Dapper扩展类库，帮助.NET开发者使用Dapper的CRUD操作变得更简单。 | https://github.com/henkmollema/Dommel |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
