@@ -1147,7 +1147,7 @@
 |  27  |  |  |  |
 |  26  |  |  |  |
 |  25  |  |  |  |
-|  24  |  |  |  |
+|  24  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
 |  24  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
 |  23  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
 |  22 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
