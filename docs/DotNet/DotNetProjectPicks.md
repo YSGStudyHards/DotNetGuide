@@ -264,10 +264,10 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
-|  9  |  |  |  |
-|  8  | [Kernel Memory](https://github.com/microsoft/kernel-memory) | RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。 | https://github.com/microsoft/kernel-memory |
+|  9  | [LangChain .NET](https://github.com/tryAGI/LangChain) | 一个开源、免费的C#版本的LangChain，尽可能保持与原始版本相似的抽象，同时开放新实体和第三方库的使用。 | https://github.com/tryAGI/LangChain |
+|  8  | [Kernel Memory](https://github.com/microsoft/kernel-memory) | Kernel Memory（KM）是一种多模态AI服务，RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。 | https://github.com/microsoft/kernel-memory |
 |  7  | [OpenAI .NET](https://github.com/openai/openai-dotnet) | OpenAI API的官方.NET客户端库。  | https://github.com/openai/openai-dotnet |
-|  6  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen 是一个框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
+|  6  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen是一个开源编程框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
 |  5  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
 |  4  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
 |  3  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
@@ -280,7 +280,7 @@
 #### 深度学习框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
+|  6  | [Numpy.NET](https://github.com/SciSharp/Numpy.NET) | Numpy.NET是NumPy最完整的.NET绑定，NumPy是Python中科学计算，机器学习和AI的基础库。Numpy.NET通过兼容的强类型API为.NET开发人员提供了广泛的功能，包括多维数组和矩阵，线性代数，FFT等等。其他几个SciSharp项目，如Keras.NET和Torch.NET都依赖于Numpy.NET。 | https://github.com/SciSharp/Numpy.NET |
 |  5  | [TorchSharp](https://github.com/dotnet/TorchSharp) | TorchSharp 是一个.NET库，它提供了访问支持 PyTorch 的库的功能。TorchSharp 的重点是绑定由 libtorch 提供的 API，特别关注张量操作。设计意图是尽可能接近 PyTorch 的使用体验，同时在适当的情况下利用.NET静态类型系统的优势。例如，当PyTorch为特定参数定义了多个有效类型时，会使用方法重载进行处理。 | https://github.com/dotnet/TorchSharp |
 |  4  | [Keras.NET ](https://github.com/SciSharp/Keras.NET)| 是一个基于 .NET 平台的 Keras 框架移植版，Keras 是一个流行的深度学习框架，以易用性和可扩展性而闻名。通过 Keras.NET，您可以在 .NET 应用程序中使用 Keras 的高级 API 构建和训练神经网络模型。 | https://github.com/SciSharp/Keras.NET |
 |  3  | [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET)| 是一个将 TensorFlow 框架移植到 .NET 平台的项目。它提供了用于构建和训练深度学习模型的强大功能和 API，并允许开发者在 .NET 应用程序中直接使用 TensorFlow 的功能。 | https://github.com/SciSharp/TensorFlow.NET |
