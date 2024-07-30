@@ -1290,7 +1290,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | 一个.NET开源、功能强大、易于使用的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
+|  4  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | 一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
 |  3  | [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode) | 使用SkiaSharp生成二维码的QR码生成器（无需使用System.Drawing）。 | https://github.com/guitarrapc/SkiaSharp.QrCode |
 |  2  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
 |  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
@@ -1646,7 +1646,7 @@
 |  14 |  |  |  |
 |  13 | [ModernWpf](https://github.com/Kinnara/ModernWpf) | 一款开源（MIT License）、免费、现代化风格的WPF UI控件库。 | https://github.com/Kinnara/ModernWpf |
 |  12 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
-|  11  | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI 是一个为 WPF 框架提供 Fluent 设计体验的项目。它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
+|  11 | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI是一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
 |  10 | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
 |  9  | [Adonis UI](https://github.com/benruehl/adonis-ui) | 为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  8  | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
