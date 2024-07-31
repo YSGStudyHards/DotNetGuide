@@ -11,6 +11,76 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 7月
+### 公众号7月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年7月简报：** 
+
+### QrCodeGenerator
+* **项目简介：** 一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。
+* **项目源码地址：** https://github.com/manuelbl/QrCodeGenerator
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/9XoyCoKM79lUhilckPle2Q
+
+### WPF UI
+* **项目简介：** 一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。
+* **项目源码地址：** https://github.com/lepoco/wpfui
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Q0cGl0Kp--HM2tgRMQDGVw
+
+### IoTClient
+* **项目简介：** IoTClient是一个.NET开源、免费（采用最宽松MIT协议）、稳定的物联网设备通讯协议实现客户端，将包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。
+* **项目源码地址：** https://github.com/zhaopeiym/IoTClient
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/s3-uz0CsMAg1Rrcgzpz51g
+
+### N_m3u8DL-RE
+* **项目简介：** 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。
+* **项目源码地址：** https://github.com/nilaoda/N_m3u8DL-RE
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/58FH5LXfyYDnMNxHBdX1oA
+
+### SuperShortLink
+* **项目简介：** SuperShortLink是一个基于.NET开源（MIT License）、免费、强大易用的短链生成及监控系统，包含了短URL的生成、短URL跳转长URL、短URL访问统计以及Web后台监控页面，可以帮助我们更容易地生成短链、监控短链。
+* **项目源码地址：** https://github.com/Bryan-Cyf/SuperShortLink
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/v1AxDY5Mv7YTqvhBj9tN9w
+
+### Dommel
+* **项目简介：** 一个C#开源（MIT License）、免费、简单易用的Dapper扩展类库，帮助.NET开发者使用Dapper的CRUD操作变得更简单。
+* **项目源码地址：** https://github.com/henkmollema/Dommel
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/yBWx_HzL4O6e4ITkRis6tQ
+
+### Flurl
+* **项目简介：** Flurl是一个集现代性、流畅性、异步性、可测试性、可移植性于一身的URL构建器与HTTP客户端库。它提供了简洁的API，使得HTTP请求的发送与URL的构建变得极为简单与直观。无论是构建复杂的URL路径，还是设置查询参数、请求头或认证信息，Flurl都能以几乎零学习成本的方式实现。
+* **项目源码地址：** https://github.com/tmenier/Flurl
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/C8dgCdgd5nwLeZvirSqNDw
+
+### DBCHM
+* **项目简介：** 一款.NET开源（MIT License）、免费、简单、实用的数据库文档（字典）生成工具，该工具支持CHM、Word、Excel、PDF、Html、XML、Markdown等多文档格式的导出。
+* **项目源码地址：** https://gitee.com/dotnetchina/DBCHM
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/3d-UzzpSjSJT6jawk7JcYQ
+
+### ML.NET
+* **项目简介：** 一个.NET开源、免费、跨平台（支持Windows、Linux、macOS多个操作系统）的机器学习框架，ML.NET 允许开发人员在其 .NET 应用程序中轻松构建、训练、部署和使用自定义模型，而无需具备开发机器学习模型的专业知识或使用 Python 或 R 等其他编程语言的经验。该框架提供从文件和数据加载的数据。数据库，支持数据转换，并包含许多机器学习算法。
+* **项目源码地址：** https://github.com/dotnet/machinelearning
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA
+
+### Ant Design Blazor
+* **项目简介：** 一套基于Ant Design和Blazor的开源（MIT License）、免费的企业级组件库（喜欢Ant Design风格的同学推荐使用）。
+* **项目源码地址：** https://github.com/ant-design-blazor/ant-design-blazor
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g
+
+### ShardingCore
+* **项目简介：** ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。
+* **项目源码地址：** https://github.com/dotnetcore/sharding-core
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/skI0O03jvhc7hdCwkdZbjw
+
+### Terminal.Gui
+* **项目简介：** Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core 和 Mono 构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。
+* **项目源码地址：** https://github.com/gui-cs/Terminal.Gui
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig
+
+### BootstrapAdmin
+* **项目简介：** 一个基于Bootstrap Blazor开源的.NET通用后台权限管理系统，后台管理页面兼容所有主流浏览器，完全响应式布局（支持电脑、平板、手机等所有主流设备），可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。
+* **项目源码地址：** https://gitee.com/LongbowEnterprise/BootstrapAdmin
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA
+
+
 ## 6月
 ### 公众号6月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年6月简报：** https://mp.weixin.qq.com/s/dCjpYRpMeSW4ZCuq3eq-3A
