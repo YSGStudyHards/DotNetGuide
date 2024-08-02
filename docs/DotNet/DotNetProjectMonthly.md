@@ -13,7 +13,7 @@
 # 2024年
 ## 7月
 ### 公众号7月简报
-* **C#/.NET/.NET Core优秀项目和框架2024年7月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2024年7月简报：** https://mp.weixin.qq.com/s/Rqi0NMnKKfK6i5AVODKiYA
 
 ### QrCodeGenerator
 * **项目简介：** 一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。
