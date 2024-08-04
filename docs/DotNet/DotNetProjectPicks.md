@@ -1473,7 +1473,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
-|  6  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit 是一个跨平台的 .NET 邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件。 | https://github.com/jstedfast/MailKit |
+|  6  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit是一个跨平台、开源（MIT License）、免费的.NET邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件，并且它还提供了对SMTP、POP3和IMAP协议的全面支持。 | https://github.com/jstedfast/MailKit |
 |  5  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
 |  4  | [MimeKit](https://github.com/jstedfast/MimeKit) | 一个简单、高效的.NET电子邮件处理库，该项目针对MIME（多用途邮件扩展）消息创建与解析，简单易用、可用于消息解析、消息创建、消息修改和消息发送，还支持加密与签名功能。 | https://github.com/jstedfast/MimeKit |
 |  3  | [SendGrid-CSharp](https://github.com/sendgrid/sendgrid-csharp) | 一个用于发送电子邮件的 C# 库，特别是用于与 SendGrid 邮件服务进行集成。SendGrid 是一个流行的电子邮件服务提供商，它允许开发人员通过 API 方式发送电子邮件，管理收件箱，跟踪电子邮件的发送和接收情况等。 | https://github.com/sendgrid/sendgrid-csharp |
