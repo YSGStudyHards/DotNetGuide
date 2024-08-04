@@ -1469,12 +1469,16 @@
 #### .NET电子邮件处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
-|  2  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit 是一个跨平台的 .NET 邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件。 | https://github.com/jstedfast/MailKit |
-|  1  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
+|  6  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit 是一个跨平台的 .NET 邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件。 | https://github.com/jstedfast/MailKit |
+|  5  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
+|  4  | [MimeKit](https://github.com/jstedfast/MimeKit) | 一个简单、高效的.NET电子邮件处理库，该项目针对MIME（多用途邮件扩展）消息创建与解析，简单易用、可用于消息解析、消息创建、消息修改和消息发送，还支持加密与签名功能。 | https://github.com/jstedfast/MimeKit |
+|  3  | [SendGrid-CSharp](https://github.com/sendgrid/sendgrid-csharp) | 一个用于发送电子邮件的 C# 库，特别是用于与 SendGrid 邮件服务进行集成。SendGrid 是一个流行的电子邮件服务提供商，它允许开发人员通过 API 方式发送电子邮件，管理收件箱，跟踪电子邮件的发送和接收情况等。 | https://github.com/sendgrid/sendgrid-csharp |
+|  2  | [StrongGrid](https://github.com/Jericho/StrongGrid) | StrongGrid项目通过提供强类型API访问、全面的资源管理、webhook解析和IP地址预热功能，为SendGrid用户提供了一个功能强大且易于使用的C#库。 | https://github.com/Jericho/StrongGrid |
+|  1  | [MailKitSimplified](https://github.com/danzuep/MailKitSimplified) | MailKitSimplified项目为.NET开发者提供了一个简化的电子邮件发送和接收解决方案，通过封装MailKit的复杂性，使得常见的电子邮件操作变得更加直观和易于使用。 | https://github.com/danzuep/MailKitSimplified |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
