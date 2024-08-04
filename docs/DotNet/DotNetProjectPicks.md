@@ -118,6 +118,7 @@
   * [弹性和瞬态故障处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%B9%E6%80%A7%E5%92%8C%E7%9E%AC%E6%80%81%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET文件压缩处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET HTTP客户端库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-http%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93)
+  * [控制台应用帮助库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -744,7 +745,7 @@
 |  4  | [My-FyiReporting](https://github.com/majorsilence/My-FyiReporting) | FYIReporting Designer是一个基于Microsoft的报表定义语言（RDL）的报表和图表系统。它完全支持表格、自由形式、矩阵和图表。支持HTML、PDF、XML、.Net控件和打印功能。可视化设计工具允许您无需了解RDL即可创建报表。还提供了向现有报表中插入新表格、矩阵和图表的向导。 | https://github.com/majorsilence/My-FyiReporting |
 |  3  | [Seal-Report](https://github.com/ariacom/Seal-Report) | Seal Report & ETL是一个开源的、基于Microsoft .Net平台的工具，用于从任何数据库或No SQL数据源生成日报表并执行复杂ETL操作，注重简单安装和报表设计。 | https://github.com/ariacom/Seal-Report |
 |  2  | [FastReport](https://github.com/FastReports/FastReport)| 适用于 .NET6/.NET Core/.NET Framework 的免费开源报告工具，可帮助您的应用程序生成类似文档的报告。 | https://github.com/FastReports/FastReport |
-|  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport是一个.NET开源（Apache License 2.0 开源协议）、强大的Web报表统计系统。CellReport是一个为复杂统计报表为核心目标的制作、运行工具。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
+|  1  | [CellReport](https://gitee.com/NoneDay/CellReport) | CellReport是一个.NET开源（Apache License 2.0 开源协议）、强大的Web报表统计系统。它是一个为复杂统计报表为核心目标的制作、运行工具。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。 | https://gitee.com/NoneDay/CellReport |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1586,6 +1587,23 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 控制台应用帮助库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  |  |  |  |
+|  5  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
+|  4  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | Spectre.Console是一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
+|  3  | [Colorful.Console](https://github.com/tomakita/Colorful.Console) | Colorful.Console是一个为C#开发者设计的、用于增强控制台应用程序样式和颜色功能的实用库。它简化了样式和颜色的应用过程，使得控制台应用程序的界面更加美观和用户友好。 | https://github.com/tomakita/Colorful.Console |
+|  2  | [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) | ConsoleTables是一个.NET开源的类库，能够将对象数据以表格形式输出到控制台，提高数据的可读性和展示效果。 | https://github.com/khalidabuhakmeh/ConsoleTables |
+|  1  | [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) | 一个功能强大、易于使用的.NET库，它允许开发者在控制台应用程序中轻松地可视化长时间运行的任务进度，支持样式定制、并发任务可视化等高级功能。 | https://github.com/Mpdreamz/shellprogressbar |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他第三方SDK&类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1595,11 +1613,11 @@
 | 17  |  |  |  |
 | 16  |  |  |  |
 | 15  |  |  |  |
-| 14  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
-| 13  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
-| 12  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
-| 11  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
-| 10  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | 一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
+| 14  |  |  |  |
+| 13  |  |  |  |
+| 12  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
+| 11  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
+| 10  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
 |  9  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
 |  8  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
 |  7  | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | 一个 C# 架构测试库，用于在 C# 中指定和断言架构规则，以进行自动测试。 | https://github.com/TNG/ArchUnitNET |
