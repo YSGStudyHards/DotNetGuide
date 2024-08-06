@@ -43,6 +43,8 @@
 * [可能是全网最完整的 C# 版微信 SDK](https://mp.weixin.qq.com/s/2OUiod0TRW243o2Zb0ny9w)
 * [C#语言编写的仅有8KB大小的简易贪吃蛇开源游戏](https://mp.weixin.qq.com/s/Y1zO7IQwCUyWiKPPdBaCMg)
 * [3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)
+* [C#开源、简单易用的Dapper扩展类库 - Dommel](https://mp.weixin.qq.com/s/yBWx_HzL4O6e4ITkRis6tQ)
+* [提高 C# 的生产力：C# 13 更新完全指南](https://mp.weixin.qq.com/s/xAuo_WHi2fi6e1SNOLgE5w)
 
 ## .NET/.NET Core相关
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
@@ -93,6 +95,17 @@
 * [使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
 * [一款EF Core下高性能、轻量级针对分表分库读写分离的解决方案](https://mp.weixin.qq.com/s/skI0O03jvhc7hdCwkdZbjw)
 * [基于.NET开源游戏框架MonoGame实现的开源项目合集](https://mp.weixin.qq.com/s/7CdTF_ZVHQjqjyNMGwc-jg)
+* [.NET 使用 WorkFlow Core 创建工作审批流](https://mp.weixin.qq.com/s/PDZs9qoPz-0UaLZYffaNKQ)
+* [ASP.NET Core中创建中间件的几种方式](https://mp.weixin.qq.com/s/DJLE9m3LhYFI8WQUKVygjA)
+* [2024年.NET开发怎么选就业方向？](https://mp.weixin.qq.com/s/JajxhEghnaM9oNeyvaUb_w)
+* [使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
+* [.NET开源、简单、实用的数据库文档生成工具](https://mp.weixin.qq.com/s/3d-UzzpSjSJT6jawk7JcYQ)
+* [适用于 .NET 的现代化、流畅、可测试的HTTP客户端库](https://mp.weixin.qq.com/s/C8dgCdgd5nwLeZvirSqNDw)
+* [基于.NET开源、强大易用的短链生成及监控系统](https://mp.weixin.qq.com/s/v1AxDY5Mv7YTqvhBj9tN9w)
+* [推荐一款.NET开源、功能强大的二维码生成类库](https://mp.weixin.qq.com/s/9XoyCoKM79lUhilckPle2Q)
+* [.NET 中有多少种定时器？](https://mp.weixin.qq.com/s/qiZC5osyRis8Mclpt5ZxCA)
+* [.NET电子邮件高效处理解决方案](https://mp.weixin.qq.com/s/6Uvr-6mOpaQJJKwV5doPZA)
+* [增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s/DjA8DZA_q97a05S1o1DWKQ)
 
 ## WPF相关
 * [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
@@ -103,6 +116,7 @@
 * [一款开源、免费、现代化风格的WPF UI控件库 - ModernWpf](https://mp.weixin.qq.com/s/n5FokPPR6Q4Vz8D4Hb0nUw)
 * [WPF开源的一款免费、开箱即用的翻译、OCR工具](https://mp.weixin.qq.com/s/WTopCglS2ELPWaa5wAMyTQ)
 * [基于Material Design风格开源、易用、强大的WPF UI控件库](https://mp.weixin.qq.com/s/LpG7T0tZDisSVTvQBxK6Fw)
+* [一款基于Fluent设计风格、现代化的WPF UI控件库](https://mp.weixin.qq.com/s/Q0cGl0Kp--HM2tgRMQDGVw)
 * [WPF --- TextBox的输入校验](https://mp.weixin.qq.com/s/r4hhl0jFbO856LnOd78XqA)
 * [基于WPF开发动态可交互混淆矩阵](https://mp.weixin.qq.com/s/zABcHOh1lIuKYw9heLc4fg)
 
@@ -121,6 +135,7 @@
 * [BootstrapBlazor UI组件库引入](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
 * [基于Bootstrap Blazor开源的.NET通用后台权限管理系统](https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA)
+* [一套基于 Ant Design 和 Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g)
 
 ## Avalonia相关
 * [.NET Avalonia开源、免费的桌面UI库 - SukiUI](https://mp.weixin.qq.com/s/yyiTwzeekWnorS8uaJw3jQ)
