@@ -1722,7 +1722,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  10  |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls) | 一个开源、免费的UI工具包，适用于.NET MAUI，它提供了一组控件和实用程序来构建现代移动的应用程序。 | https://github.com/FreakyAli/Maui.FreakyControls |
 |  7  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
 |  6  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
 |  5  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
