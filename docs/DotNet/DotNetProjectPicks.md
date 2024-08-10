@@ -1305,8 +1305,8 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
 |  5  |  |  |  |
-|  4  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | 一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
-|  3  | [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode) | 使用SkiaSharp生成二维码的QR码生成器（无需使用System.Drawing）。 | https://github.com/guitarrapc/SkiaSharp.QrCode |
+|  4  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | QrCodeGenerator是一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
+|  3  | [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode) | SkiaSharp.QrCode是一款基于SkiaSharp开发的.NET开源（MIT License）、免费的二维码生成类库（无需使用System.Drawing）。 | https://github.com/guitarrapc/SkiaSharp.QrCode |
 |  2  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
 |  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
 
