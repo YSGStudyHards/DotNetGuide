@@ -1632,7 +1632,7 @@
 | 16  |  |  |  |
 | 15  |  |  |  |
 | 14  |  |  |  |
-| 13  |  |  |  |
+| 13  | [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) | 该项目是一个适用于 .NET 的开源多租户中间件库。它支持租户解析、每租户应用程序行为和每租户数据隔离。 | https://github.com/Finbuckle/Finbuckle.MultiTenant |
 | 12  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
 | 11  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
 | 10  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
