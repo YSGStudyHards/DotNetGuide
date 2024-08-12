@@ -1769,9 +1769,9 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
-|  1  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
+|  3  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
+|  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
+|  1  | [SolutionsDesign/Algorithmia](https://github.com/SolutionsDesign/Algorithmia) | Algorithmia是一个针对.NET 4.5.2+及更高版本和.NET Standard 2.0+的算法和数据结构库。它包含了多种复杂的算法和数据结构，如图论、优先队列、命令模式、撤销重做等。 | https://github.com/SolutionsDesign/Algorithmia |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
