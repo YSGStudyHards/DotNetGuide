@@ -663,25 +663,23 @@
 
 ## 🧰DevOps、CI&CD自动化工具
 ### DevOps
-> DevOps（英文Development和Operations的组合）是一组过程、方法与系统的统称，用于促进开发（应用程序/软件工程）、技术运营和质量保障（QA）部门之间的沟通、协作与整合。它的出现是由于软件行业日益清晰地认识到：为了按时交付软件产品和服务，开发和运营工作必须紧密合作。
+> DevOps 是软件开发（Development）和运营（Operations）的结合。代表着重视软件开发人员（Dev）和 IT 运维技术人员（Ops）之间沟通合作的文化；旨在透过自动化软件交付和架构变更的流程，使得构建、 测试、发布软件的过程能够更加地快捷、频繁和可靠。Gartner 咨询公司认为 DevOps 代表了 IT 文化的变化趋势。DevOps 可以很好地解释为人们一起工作以快速构思、构建和交付安全软件。DevOps 实践使软件开发（dev）和运营（ops）团队能够通过自动化、协作、快速反馈和迭代改进来加速交付。
 
-* [DevOps到底是什么意思？](https://zhuanlan.zhihu.com/p/91371659)
 * [DevOps，CI，CD，自动化简单介绍](https://mp.weixin.qq.com/s/7gZawUuKHSVe7e3ik_wEew)
 
-### CI&CD构建、部署、自动化工具
-* [21个自动化部署工具](https://zhuanlan.zhihu.com/p/248508683)
-* [7个CI / CD(持续集成和持续部署)工具](https://cloud.tencent.com/developer/article/1346876)
-* 常用持续集成与部署工具
-  - [Jenkins](https://www.jenkins.io/)
-  - [Zadig](https://gitee.com/koderover/zadig)
-  - [GitLab](https://about.gitlab.com/topics/ci-cd/)
-  - [Travis CI](https://travis-ci.org/)
-  - [Circle CI](https://circleci.com/)
-  - [TeamCity](https://www.jetbrains.com/teamcity)
-  - [Github Actions](https://github.com/features/actions)
-  - [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
+### 持续集成与部署（CI&CD）自动化工具
+> 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致持续集成和持续部署/交付工具的兴起。持续集成（CI）和持续交付/部署（CD）自动化工具是用于实现软件开发和发布流程自动化的工具。这些工具能够帮助开发团队更高效地集成代码、运行测试、进行构建和部署，从而提高软件开发的效率和质量。
 
-> 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致[持续集成](https://cloud.tencent.com/product/coding-ci?from=10680)和[持续部署](https://cloud.tencent.com/product/coding-cd?from=10680)/交付工具的兴起。
+* [Jenkins](https://www.jenkins.io/)
+* [Zadig](https://gitee.com/koderover/zadig)
+* [GitLab](https://about.gitlab.com/topics/ci-cd/)
+* [Travis CI](https://travis-ci.org/)
+* [Circle CI](https://circleci.com/)
+* [TeamCity](https://www.jetbrains.com/teamcity)
+* [Bamboo](https://www.atlassian.com/zh/software/bamboo)
+* [Github Actions](https://github.com/features/actions)
+* [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
+* [CODING DevOps](https://cloud.tencent.com/product/coding)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
