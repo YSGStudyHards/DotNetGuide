@@ -64,6 +64,7 @@
   * [开源游戏项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE)
   * [Web浏览器项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#web%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A1%B9%E7%9B%AE)
   * [短链生成系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%9F%AD%E9%93%BE%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F)
+  * [学校管理系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -851,6 +852,19 @@
 |  3  |  |  |  |
 |  2  |  |  |  |
 |  1  | [SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink) | SuperShortLink是一个基于.NET开源（MIT License）、免费、强大易用的短链生成及监控系统，包含了短URL的生成、短URL跳转长URL、短URL访问统计以及Web后台监控页面，可以帮助我们更容易地生成短链、监控短链。 | https://github.com/Bryan-Cyf/SuperShortLink |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 学校管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [EasySQLite](https://github.com/YSGStudyHards/EasySQLite) | EasySQLite是一个七天.NET 8操作SQLite入门到实战详细教程，主要是对学校班级，学生信息进行管理维护（包含选型、开发、发布、部署）！ | https://github.com/YSGStudyHards/EasySQLite |
+|  1  | [Dorisoy.SMS](https://github.com/dorisoy/Dorisoy.SMS) | 基于.NET6的跨平台WPF学校信息管理系统，现代化UI界面、简单易用的功能让您完全控制管理学生、员工、用户、家长、班级、费用，收入信息、生物识别职工打卡，学生上学/离校信息推送等等，项目使用MVVM 和Mediator设计模式。 | https://github.com/dorisoy/Dorisoy.SMS |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
