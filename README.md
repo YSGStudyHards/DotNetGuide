@@ -472,8 +472,10 @@
   * [C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
   * [C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
 * C#经典查找算法
+  * C#树查找算法
   * C#二分查找算法
   * C#线性查找算法
+  * C#哈希查找算法
 * [C#面试常见递归算法](https://mp.weixin.qq.com/s/1YouL0smeUszjcrbRRpQ9g)
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
