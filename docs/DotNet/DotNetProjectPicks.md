@@ -139,6 +139,8 @@
 #### Web应用框架
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
+|  12  |  |  |  |
+|  11  |  |  |  |
 |  10 |  |  |  |
 |  9  |  |  |  |
 |  8  | [ServiceStack](https://github.com/ServiceStack/ServiceStack) | 一个简单、快速、通用且高效的全功能 Web 和 Web 服务框架，其架构经过精心设计，可减少人工复杂性并通过基于消息的设计促进远程服务最佳实践，从而实现最大程度的重用利用集成服务网关创建松散耦合的模块化服务架构。 | https://github.com/ServiceStack/ServiceStack |
@@ -266,6 +268,11 @@
 #### AI和LLM框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11  |  |  |  |
 |  10  |  |  |  |
 |  9  | [LangChain .NET](https://github.com/tryAGI/LangChain) | 一个开源、免费的C#版本的LangChain，尽可能保持与原始版本相似的抽象，同时开放新实体和第三方库的使用。 | https://github.com/tryAGI/LangChain |
 |  8  | [Kernel Memory](https://github.com/microsoft/kernel-memory) | Kernel Memory（KM）是一种多模态AI服务，RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。 | https://github.com/microsoft/kernel-memory |
@@ -283,6 +290,10 @@
 #### 深度学习框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
 |  6  | [Numpy.NET](https://github.com/SciSharp/Numpy.NET) | Numpy.NET是NumPy最完整的.NET绑定，NumPy是Python中科学计算，机器学习和AI的基础库。Numpy.NET通过兼容的强类型API为.NET开发人员提供了广泛的功能，包括多维数组和矩阵，线性代数，FFT等等。其他几个SciSharp项目，如Keras.NET和Torch.NET都依赖于Numpy.NET。 | https://github.com/SciSharp/Numpy.NET |
 |  5  | [TorchSharp](https://github.com/dotnet/TorchSharp) | TorchSharp 是一个.NET库，它提供了访问支持 PyTorch 的库的功能。TorchSharp 的重点是绑定由 libtorch 提供的 API，特别关注张量操作。设计意图是尽可能接近 PyTorch 的使用体验，同时在适当的情况下利用.NET静态类型系统的优势。例如，当PyTorch为特定参数定义了多个有效类型时，会使用方法重载进行处理。 | https://github.com/dotnet/TorchSharp |
 |  4  | [Keras.NET ](https://github.com/SciSharp/Keras.NET)| 是一个基于 .NET 平台的 Keras 框架移植版，Keras 是一个流行的深度学习框架，以易用性和可扩展性而闻名。通过 Keras.NET，您可以在 .NET 应用程序中使用 Keras 的高级 API 构建和训练神经网络模型。 | https://github.com/SciSharp/Keras.NET |
@@ -1300,6 +1311,11 @@
 #### .NET图形&图表&表格库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11  |  |  |  |
 |  10  |  |  |  |
 |  9  |  |  |  |
 |  8  | [OxyPlot](https://github.com/oxyplot/oxyplot) | 一款.NET开源（MIT License）、免费、跨平台、功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。 | https://github.com/oxyplot/oxyplot |
@@ -1731,8 +1747,13 @@
 #### Avalonia UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  15  |  |  |  |
+|  14  |  |  |  |
+|  13  |  |  |  |
+|  12  |  |  |  |
+|  11  |  |  |  |
 |  10  |  |  |  |
-|  9  |  |  |  |
+|  9  | [AtomUI](https://github.com/chinware/AtomUI) | 一个基于Ant Design 5.0和Avalonia技术的跨平台UI控件库。 | https://github.com/chinware/AtomUI |
 |  8  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
 |  7  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
 |  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
