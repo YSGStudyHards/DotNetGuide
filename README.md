@@ -5,7 +5,7 @@
 
 
 ## 📚DotNetGuide简介
-现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信技术群、知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、项目框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了记录、收集和总结优质的.NET相关学习资料（学习路线、视频、文章、书籍、项目、框架...等）、开发实战教程、编程技巧练习、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者正在使用.NET的同学。一个人的力量是十分有限的，由衷的欢迎大家可以在Issues中投稿或者直接提交PR一起完善我们的C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
+现如今网上关于Java、前端、Android、Golang...等相关技术的学习资料、工作心得、面试指南一搜都是一大把，但是咱们C#/.NET的相关学习资料、工作心得、面试指南都是寥寥无几。**我在微信技术群、知乎里面经常会看到这样的提问：有没有好的C#/.NET相关的学习书籍、视频教程、项目框架和常见面试题推荐的？**。并不是没有人写，而是因为网上的资料和文章太零散了，缺少一个这方面汇总的知识库。作为一名.NET开发者而言当然是不想让这种现象普遍存在的，建立DotNetGuide知识库的初衷就是为了记录、收集和总结优质的.NET相关学习资料（学习路线、视频、文章、书籍、项目、框架...等）、开发实战教程、编程技巧练习、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解，希望可以帮助到那些想要入门学习.NET或者正在使用.NET的同学。一个人的力量是十分有限的，由衷的欢迎大家可以在Issues中投稿或者直接提交PR一起完善我们的C#/.NET/.NET Core学习、工作、面试指南知识库🤞。
 
 
 ## 👨‍👩‍👦DotNetGuide技术社区
@@ -681,6 +681,7 @@
 
 * [DevOps，CI，CD，自动化简单介绍](https://mp.weixin.qq.com/s/7gZawUuKHSVe7e3ik_wEew)
 * DevOps研发效能平台
+  * [Zadig](https://gitee.com/koderover/zadig)
   * [PingCode](https://pingcode.com/)
   * [CODING DevOps](https://cloud.tencent.com/product/coding)
   * [Azure DevOps](https://azure.microsoft.com/zh-cn/products/devops/)
@@ -689,8 +690,7 @@
 > 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致持续集成和持续部署/交付工具的兴起。持续集成（CI）和持续交付/部署（CD）自动化工具是用于实现软件开发和发布流程自动化的工具。这些工具能够帮助开发团队更高效地集成代码、运行测试、进行构建和部署，从而提高软件开发的效率和质量。
 
 * [Jenkins](https://www.jenkins.io/)
-* [Zadig](https://gitee.com/koderover/zadig)
-* [GitLab](https://about.gitlab.com/topics/ci-cd/)
+* [GitLab CI](https://about.gitlab.com/topics/ci-cd/)
 * [Travis CI](https://travis-ci.org/)
 * [Circle CI](https://circleci.com/)
 * [TeamCity](https://www.jetbrains.com/teamcity)
