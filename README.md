@@ -681,6 +681,7 @@
 
 * [DevOps，CI，CD，自动化简单介绍](https://mp.weixin.qq.com/s/7gZawUuKHSVe7e3ik_wEew)
 * DevOps研发效能平台
+  * [Zadig](https://gitee.com/koderover/zadig)
   * [PingCode](https://pingcode.com/)
   * [CODING DevOps](https://cloud.tencent.com/product/coding)
   * [Azure DevOps](https://azure.microsoft.com/zh-cn/products/devops/)
@@ -689,8 +690,7 @@
 > 越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致持续集成和持续部署/交付工具的兴起。持续集成（CI）和持续交付/部署（CD）自动化工具是用于实现软件开发和发布流程自动化的工具。这些工具能够帮助开发团队更高效地集成代码、运行测试、进行构建和部署，从而提高软件开发的效率和质量。
 
 * [Jenkins](https://www.jenkins.io/)
-* [Zadig](https://gitee.com/koderover/zadig)
-* [GitLab](https://about.gitlab.com/topics/ci-cd/)
+* [GitLab CI](https://about.gitlab.com/topics/ci-cd/)
 * [Travis CI](https://travis-ci.org/)
 * [Circle CI](https://circleci.com/)
 * [TeamCity](https://www.jetbrains.com/teamcity)
