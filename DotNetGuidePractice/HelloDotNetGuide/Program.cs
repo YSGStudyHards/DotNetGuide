@@ -13,7 +13,7 @@ namespace HelloDotNetGuide
 
             #region CSharp12GrammarExercise
 
-            CSharp12GrammarExercise.OutputPrint();
+            //CSharp12GrammarExercise.OutputPrint();
 
             #endregion
 
@@ -30,12 +30,13 @@ namespace HelloDotNetGuide
 
             //MultithreadingExample.ParallelMethod();
 
-            AsyncProgrammingExample.TestEAPAsync();
+            //AsyncProgrammingExample.TestEAPAsync();
 
             #endregion
 
             #region 常见算法
 
+            二叉搜索树算法.BinarySearchTreeRun();
             //递归算法.RecursiveFactorial();
             //递归算法.RecursiveArraySum();
             //递归算法.FibonacciSum();
