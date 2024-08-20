@@ -46,6 +46,7 @@
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
 * [📺C#/.NET/.NET Core学习视频汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB)
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
+* [🏆C#/.NET/.NET Core技术前沿周刊]()
 * [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
@@ -401,8 +402,19 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
+## 🏆C#/.NET/.NET Core技术前沿周刊
+C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追踪C#/.NET/.NET Core领域、生态的每周最新、最实用、最有价值的技术文章、社区动态、优质项目和学习资源等。让你时刻站在技术前沿，助力技术成长与视野拓宽。
+
+> 欢迎投稿，推荐或自荐优质文章/项目/学习资源等。**每周一定期发布！！！**
+
+- [📰C#/.NET/.NET Core技术前沿周刊汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
+- [🏆C#/.NET/.NET Core技术前沿周刊Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/44)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
 ## ⚔C#/.NET/.NET Core编程技巧练习集
->C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、算法、技巧、中间件、类库等等。
+C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、算法、技巧、中间件、类库等等。
 
 * DotNetExercises仓库地址：https://github.com/YSGStudyHards/DotNetExercises
 * 想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
