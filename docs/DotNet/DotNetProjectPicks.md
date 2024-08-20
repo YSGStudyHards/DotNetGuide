@@ -375,7 +375,7 @@
 |  6  |  |  |  |
 |  5  | [FastGateway](https://github.com/239573049/FastGateway/)  | 基于 .NET8+FreeSql超轻量级网关，为了代替Nginx而生，基于使用Yarp打造更快更轻量级的网关，并且提供了完整的UI界面提供了地区请求数据统计，提供了免费的HTTPS证书申请，并且支持HTTP内网穿透，还提供了黑白名单，并且提供动态更新，支持限流等。  | https://github.com/239573049/FastGateway/ |
 |  4  | [IoTGateway](https://gitee.com/iioter/iotgateway) | 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。 | https://gitee.com/iioter/iotgateway |
-|  3  | [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)  | ThingsGateway是一款基于.NET8的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等。 | https://gitee.com/dotnetchina/ThingsGateway |
+|  3  | [ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)  | ThingsGateway是一款基于.NET8开源的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等，单机采集数据点位可达百万。 | https://gitee.com/dotnetchina/ThingsGateway |
 |  2  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot是一个基于.NET Core的开源网关库，它提供了一种简单而灵活的方式来构建和管理微服务架构中的API网关。通过使用Ocelot，您可以轻松地实现反向代理、路由、请求转发、负载均衡、身份验证、授权等功能。 | https://github.com/ThreeMammals/Ocelot |
 |  1  | [Apiumc Gateway](https://gitee.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关，它从底层Socket原始通信层开始，采用多线程、多任务模式从新构建Web服务，充分发挥当下多核的CPU的多任务并行性能，达到不输nginx的性能表现，而多线程、多任务天生比多进程模式更有编程可控性，基于这此原理，为Apiumc带来丰富多的基于网关深度应用，是网关功能集大成者；它一个工具等于Nginx + 网关登录 + 图片处理 + 内网穿透 + 免费Ssl证书，且配置全程界面化，让你告别难懂、难记易出错的指令配置。 | https://gitee.com/apiumc/Gateway |
 
@@ -553,7 +553,7 @@
 |  14  |  |  |  |
 |  13  |  |  |  |
 |  12  |  |  |  |
-|  11  |  |  |  |
+|  11  | [ShenNiusModularity](https://gitee.com/shenniu_code_group/shen-nius.-modularity) | ShenNiusModularity是一款基于 .NET Core 框架研发的、开源、免费的自媒体内容管理系统。项目秉承大道至简的原则开发，坚持业务模块最低复杂度复用，代码方面追求简单、高效、实用。适合小白入门进阶，同样适用老手上路干活。 | https://gitee.com/shenniu_code_group/shen-nius.-modularity |
 |  10  | [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS是一个针对 .NET 8 和 Entity Framework Core 构建的解耦式、跨平台 CMS。它具有模块化和可扩展的架构，支持多种托管和部署方案。 | https://github.com/PiranhaCMS/piranha.core |
 |  9  | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统。 | https://github.com/SeriaWei/ZKEACMS |
 |  8  | [Oqtane Framework](https://github.com/oqtane/oqtane.framework) | Blazor 和 .NET MAUI 的 CMS & 应用程序框架。 | https://github.com/oqtane/oqtane.framework |
