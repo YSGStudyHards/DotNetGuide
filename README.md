@@ -414,9 +414,9 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 
 ## ⚔C#/.NET/.NET Core编程技巧练习集
-C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、算法、技巧、中间件、类库等等。
+C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
 
-* DotNetExercises仓库地址：https://github.com/YSGStudyHards/DotNetExercises
+* DotNetExercises源码仓库地址：https://github.com/YSGStudyHards/DotNetExercises
 * 想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
 
 ### 文章详细教程
@@ -439,6 +439,8 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库练习
 * [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise)：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
 * [**17、TerminalGuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TerminalGuiExercise)：[使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
 * [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise)：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
+* [**19、CSharp12GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp12GrammarExercise.cs)：[C# 12 新增功能实操](https://mp.weixin.qq.com/s/P-f-cP9bpUD99RsB3lQOzA)
+* [**20、FFmpegAudioAndVideoMerge**](https://github.com/YSGStudyHards/FFmpegAudioAndVideoMerge)：[C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
