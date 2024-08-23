@@ -1752,7 +1752,7 @@
 |  13  |  |  |  |
 |  12  |  |  |  |
 |  11  |  |  |  |
-|  10  |  |  |  |
+|  10  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
 |  9  | [AtomUI](https://github.com/chinware/AtomUI) | 一个基于Ant Design 5.0和Avalonia技术的跨平台UI控件库。 | https://github.com/chinware/AtomUI |
 |  8  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
 |  7  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
