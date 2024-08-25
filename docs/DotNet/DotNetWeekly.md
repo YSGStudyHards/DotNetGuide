@@ -10,11 +10,79 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [📰C#/.NET/.NET Core技术前沿周刊汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
 - [🏆C#/.NET/.NET Core技术前沿周刊Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/44)
 
+# 推广平台
+- [知乎](https://www.zhihu.com/column/c_1809214011323060225)
+- [CSDN](https://blog.csdn.net/qq_37237487/category_12762708.html)
+- [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=3598502850881585160&scene=126&sessionid=-1990606076#wechat_redirect)
+- [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
+
 # 2024年
+## 9月
+### 第 4 期（2024年9.1-9.8）
+
 ## 8月
-### 第 2 期（2024年8.26-8.31）
+### 第 3 期（2024年8.26-8.31）
 
 ### 第 2 期（2024年8.19-8.25）
+#### 使用 MSTest.Analyzers 增强您的测试体验
+- 文章简介： MSTest 附带了一组分析器，可以检查您的测试代码并指出常见错误和陷阱。这些错误可能很微妙，并导致您的测试被测试框架完全忽略。
+- 文章地址：https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/
+
+#### Visual Studio 2022 v17.11新的调试和诊断功能
+- 文章简介： 调试和诊断对于任何开发人员来说都是至关重要的技能，但要精通它们也可能很困难且耗时。因此，我们在 Visual Studio 2022 v17.11 中添加了一些出色的新功能和增强功能，以帮助您比以往更快、更轻松地查找和解决错误。以下
+- 文章地址：https://devblogs.microsoft.com/visualstudio/new-debugging-and-diagnostic-features/
+
+#### .NET 智能组件简介 – AI 支持的 UI 控件
+- 文章简介： 人工智能的新进展有望彻底改变我们与软件交互和使用软件的方式。但将人工智能功能添加到现有软件中可能具有挑战性。这就是我们构建新的 .NET 智能组件的原因，这是一组真正有用的人工智能驱动的 UI 组件，您可以快速轻松地添加到 .NET 应用程序中。您不必花费数周的开发时间来重新设计用户体验或研究机器学习和提示工程。 .NET 智能组件是预构建的端到端 AI 功能，您可以将其放入现有的应用程序 UI 中，以提高用户的工作效率。
+- 文章地址： https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/
+
+#### 从网友探秘 《黑神话：悟空》 的脚本说说C#
+- 文章简介： 从网友探秘 《黑神话：悟空》 的脚本说说C#。
+- 文章地址：https://www.cnblogs.com/shanyou/p/18377461
+
+#### 一款基于 .NET Core 框架研发的自媒体内容管理系统
+- 文章简介： ShenNiusModularity是一款基于 .NET Core 框架研发的、开源、免费的自媒体内容管理系统。项目秉承大道至简的原则开发，坚持业务模块最低复杂度复用，代码方面追求简单、高效、实用。适合小白入门进阶，同样适用老手上路干活。
+- 文章地址：https://mp.weixin.qq.com/s/12wzkzbn7r2cwsfxQgN70A
+
+#### 一款基于.NET8开源的跨平台高性能边缘采集网关
+- 文章简介： 分享一款基于.NET8开源的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等，单机采集数据点位可达百万：ThingsGateway。
+- 文章地址： https://mp.weixin.qq.com/s/iyNdDrKE972C2HXCN3OKUg
+
+#### ASP.NET MVC+LayUI视频上传
+- 文章简介： 提供了一个完整的ASP.NET MVC+LayUI上传视频的文章教程。
+- 文章地址： https://mp.weixin.qq.com/s/7fCEMbHpvkP07FwxqSzCbQ
+
+#### C#/.NET这些实用的编程技巧你都会了吗？
+- 文章简介： C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+- 文章地址： https://mp.weixin.qq.com/s/a9A7w2EhZIoh1AKW8bJzEQ
+
+#### 推荐7款美观且功能强大的WPF UI库
+- 文章简介： 给大家分享7款开源、美观、功能强大、简单易用的WPF UI组件库。
+- 文章地址： https://mp.weixin.qq.com/s/ZKp6qFNDLTuJVse40-h5sQ
+
+#### 使用dnSpyEx对.NET Core程序集进行反编译、编辑和调试
+- 文章简介： 说到.NET相关的反编译工具大家脑海里第一个想到的工具是什么？ILSpy、dnSpy、还是dotPeek？咱们今天的主要内容是讲讲dnSpyEx（dnSpyEx是dnSpy项目的非官方Fork维护版本）这个开源的.NET程序集反编译、编辑和调试工具该如何使用。
+- 文章地址： https://mp.weixin.qq.com/s/KhF6e9yI1ew2A-b0ZZ5Ofw
+
+#### SimpleRAG：基于WPF与Semantic Kernel实现的一个简单的RAG应用
+- 文章简介： SimpleRAG是基于WPF与Semantic Kernel实现的一个简单的RAG应用，可用于学习与理解如何使用Semantic Kernel构建RAG应用。
+- 文章地址： https://www.cnblogs.com/mingupupu/p/18367726
+
+#### Semantic Kernel/C#：接入智谱AI的两种方式
+- 文章简介： Semantic Kernel/C#：接入智谱AI的两种方式
+- 文章地址： https://www.cnblogs.com/mingupupu/p/18370917
+
+#### 除了按值和引用，方法参数的第三种传递方式
+- 文章简介： 参数在方法种具有按“值（by value）”和“引用（by ref）”两种传递方式，这是每个.NET程序员深入骨髓得基本概念。但是我若告诉你，.NET规定的参数传递形式其实是三种，会不会颠覆你的认知。
+- 文章地址： https://www.cnblogs.com/artech/p/18374284/typed_reference
+
+#### 方法的三种调用形式
+- 文章简介： 介绍了.NET方法的三种调用形式。
+- 文章地址： https://www.cnblogs.com/artech/p/18363117/method-invocation-dotnet
+
+#### 可以调用Null的实例方法吗？
+- 文章简介： 前几天有个网友问我一个问题：调用实例方法的时候为什么目标对象不能为Null。看似一个简单的问题，还真不是一句话就能说清楚的。而且这个结论也不对，当我们调用定义在某个类型的实例方法时，目标对象其实可以为Null。
+- 文章地址：https://www.cnblogs.com/artech/p/18362421/call_callvirt
 
 ### 第 1 期（2024年8.12-8.18）
 #### .NET 9 Preview 7现已推出！
@@ -73,4 +141,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - 文章简介： 这是一个Nuget效率工具，用于提升项目与组件间开发过程中的一些重复、流程性问题。如：Nuget包替换为源码引用、修复解决方案下引用Nuget不同版本的问题。
 - 文章地址： https://www.cnblogs.com/kybs0/p/18363275
 
+#### 由浅入深理解C#中的事件
+- 文章简介：由浅入深理解C#中的事件
+- 文章地址：https://mp.weixin.qq.com/s/CeYBNuSmjZjBXUBkqQApZQ
 
