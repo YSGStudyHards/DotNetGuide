@@ -508,7 +508,7 @@
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 |  10 |  |  |  |
 |  9  |  |  |  |
-|  8  |  |  |  |
+|  8  | [QShop](https://gitee.com/qiushuochina/QShop) | QShop商城是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。 | https://gitee.com/qiushuochina/QShop |
 |  7  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  5  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
@@ -679,7 +679,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [MicroOA](https://github.com/HalngYao/MicroOA) | MicroOA是一款基于C# asp.net 编写的OA系统，她不需要您具备专业的开发知识或开发经验，通过页面交互式即可实现动态搭建表单、动态搭建审批流的微型办公自动化系统，画面简洁清爽，功能强大。 | https://github.com/HalngYao/MicroOA |
+|  2  | [MicroOA](https://github.com/HalngYao/MicroOA) | MicroOA是一款基于.NET开源的OA系统，她不需要您具备专业的开发知识或开发经验，通过页面交互式即可实现动态搭建表单、动态搭建审批流的微型办公自动化系统，画面简洁清爽，功能强大。 | https://gitee.com/shueer/MicroOA |
 |  1  | [OneLotus](https://gitee.com/qikj/QJ_Single) | OneLotus信息化平台基于.NET 架构，能够很大程度上节约企业软件开发成本，用户可以直接使用平台已有功能进行信息化建设，框架提供了完整的用户管理，权限管理，表单引擎，流程引擎，报表引擎和信息管理体系，可以大大减化企业信息化建设成本和业务应用开发难度。 | https://www.yuque.com/yibulianhua/lotus/xx0iqe |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
