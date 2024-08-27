@@ -403,7 +403,7 @@
 |  4  |  |  |  |
 |  3  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
 |  2  | [CYarp](https://github.com/xljiulang/CYarp) | 基于Yarp的http内网穿透中间件，支持tcp、http/2.0或http/3.0作为http/1.1的传输层。 | https://github.com/xljiulang/CYarp |
-|  1  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel 高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+|  1  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel是一个.NET开源、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -626,7 +626,7 @@
 |  15 |  |  |  |
 |  14 |  |  |  |
 |  13 |  |  |  |
-|  12 |  |  |  |
+|  12 | [OpenTask](https://github.com/SpringHgui/OpenTask) | 一个.NET开源去中心设计的分布式任务调度平台。 | https://github.com/SpringHgui/OpenTask |
 |  11 | [TaskScheduler](https://github.com/dahall/TaskScheduler) | 这个原始的.NET封装器用于Windows任务计划程序，它整合了多个版本，并提供了本地化的控件用于编辑。 | https://github.com/dahall/TaskScheduler |
 |  10 | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
 |  9  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
