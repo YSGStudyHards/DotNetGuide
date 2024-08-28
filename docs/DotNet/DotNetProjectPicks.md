@@ -473,7 +473,7 @@
 |  29  |  |  |  |
 |  28  |  |  |  |
 |  27  |  |  |  |
-|  26  |  |  |  |
+|  26  | [Known](https://gitee.com/known/Known) | Known是基于Blazor的企业级快速开发框架，低代码，跨平台，开箱即用，一处代码，多处运行。 | https://gitee.com/known/Known |
 |  25  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
 |  24  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  23  | [BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin) | 基于Bootstrap Blazor开源的.NET通用后台权限管理系统，后台管理页面兼容所有主流浏览器，完全响应式布局（支持电脑、平板、手机等所有主流设备），可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。 | https://gitee.com/LongbowEnterprise/BootstrapAdmin |
@@ -730,7 +730,7 @@
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
+|  3  | [Dorisoy.POS](https://github.com/dorisoy/Dorisoy.POS) | 使用.Net7 + Angular4开发的一套新零售快消进销存管理系统，带库存管理的高级轻量级POS，具有闪电般的性能和开箱即用的页面加载速度。 | https://github.com/dorisoy/Dorisoy.POS |
 |  2  | [Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | 这是一个示例项目，采用Asp.Net Core Mvc实现了库存订单管理系统。该系统包括仓库、产品、供应商、客户、采购订单、销售订单、出货、收货等功能。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
 |  1  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | 使用.NET 6，基于 Furion +viewui开发的一套极简的进销存管理系统。 | https://gitee.com/a106_admin/tuling-member |
 
