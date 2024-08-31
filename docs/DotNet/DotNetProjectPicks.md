@@ -89,6 +89,7 @@
   * [通讯调试工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%80%9A%E8%AE%AF%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
   * [开源翻译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7)
   * [实用AI工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8ai%E5%B7%A5%E5%85%B7)
+  * [开源编辑器]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1178,6 +1179,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 开源编辑器
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  |  |  |  |
+|  2  | [Notepads](https://github.com/0x7c13/Notepads) | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
+|  1  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1200,7 +1214,7 @@
 |  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
 |  14  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
 |  13  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
-|  12  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF技术的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
+|  12  | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
 |  11  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
 |  10  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
 |  9  | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
@@ -1570,7 +1584,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  6  |  |  |  |
-|  5  |  |  |  |
+|  5  | [MongoDB EF Core Provider](https://github.com/mongodb/mongo-efcore-provider) | 该项目是MongoDB数据库的Entity Framework Core提供程序，旨在将Entity Framework Core的功能与MongoDB数据库集成。需要.NET 8或更高版本上的Entity Framework Core 8以及MongoDB数据库服务器5.0或更高版本，最好是启用事务的配置。 | https://github.com/mongodb/mongo-efcore-provider |
 |  4  | [EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers) | EfCoreTriggers是使用 EFCore 模型构建器编写本机 SQL 触发器的库。触发器会自动转换为 sql 并添加到迁移中。 | https://github.com/win7user10/Laraue.EfCoreTriggers |
 |  3  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
 |  2  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
@@ -1642,7 +1656,7 @@
 |  9  |  |  |  |
 |  8  |  |  |  |
 |  7  |  |  |  |
-|  6  |  |  |  |
+|  6  | [ConsoleControl](https://github.com/dwmkerr/consolecontrol) | ConsoleControl是一个C#类库，允许您在WinForms或WPF应用程序中嵌入控制台。此控制台可用于流程的输入和输出。它非常适合制作工具和实用程序。 | https://github.com/dwmkerr/consolecontrol |
 |  5  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
 |  4  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | Spectre.Console是一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
 |  3  | [Colorful.Console](https://github.com/tomakita/Colorful.Console) | Colorful.Console是一个为C#开发者设计的、用于增强控制台应用程序样式和颜色功能的实用库。它简化了样式和颜色的应用过程，使得控制台应用程序的界面更加美观和用户友好。 | https://github.com/tomakita/Colorful.Console |
