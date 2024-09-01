@@ -1700,7 +1700,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  16 |  |  |  |
 |  15 |  |  |  |
-|  14 |  |  |  |
+|  14 | [DevExpress UI for Blazor](https://github.com/DevExpress/Blazor) | DevExpress UI for Blazor附带了原生和高性能的UI组件，包括Grid、Pivot Grid、Excel、Charts和Data Editor。这些组件可以帮助您为Blazor Server和Blazor WebAssembly托管模型创建直观和精致的用户体验。 | https://github.com/DevExpress/Blazor |
 |  13 | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。 | https://github.com/erossini/BlazorChartjs |
 |  12 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
