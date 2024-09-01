@@ -23,7 +23,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 ## 8月
 ### 第 3 期（2024年8.26-8.31）
 #### 发布.NET Aspire 8.2 – 告别组件，迎接集成！
-- 文章简介： 在 .NET Aspire 8.2 中，你会注意到的一个重大变化是 .NET Aspire 组件现在被称为“集成”！.NET Aspire 集成是一个包，你可以将其添加到应用程序中，以简化设置、启动和与主要云服务和平台通信的过程。
+- 文章简介：在 .NET Aspire 8.2 中，你会注意到的一个重大变化是 .NET Aspire 组件现在被称为“集成”！.NET Aspire 集成是一个包，你可以将其添加到应用程序中，以简化设置、启动和与主要云服务和平台通信的过程。
 - 文章地址：https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-8-2/
 
 #### BinaryFormatter从.NET 9中移除
