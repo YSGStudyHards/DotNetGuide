@@ -69,6 +69,7 @@
 ## 🏷️优质学习资料收录栈
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
+* [🏹C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [🏄‍♂️一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
 * [🎯Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
