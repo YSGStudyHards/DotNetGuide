@@ -73,7 +73,7 @@
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [🏄‍♂️一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
 * [🎯Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
-* [🀄C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s/XPRmwWmoZa4zq29Kx-u4HAv)
+* [🀄C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s/XPRmwWmoZa4zq29Kx-u4HA)
 * [🧭C#/.NET/.NET Core自学入门指南](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
 * [📚2024年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
