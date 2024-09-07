@@ -460,7 +460,7 @@
 |  4  |  |  |  |
 |  3  |  |  |  |
 |  2  |  |  |  |
-|  1  |  |  |  |
+|  1  | [PluginCore](https://github.com/yiyungent/PluginCore) | 一个ASP.NET Core开源的、轻量级插件框架，一分钟集成Vue.js frontend、JavaScript SDK。 | https://github.com/yiyungent/PluginCore |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
