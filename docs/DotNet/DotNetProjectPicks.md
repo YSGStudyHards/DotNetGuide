@@ -1134,7 +1134,7 @@
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立 UI 工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019) 集成。 | https://github.com/gitextensions/gitextensions |
+|  2  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://github.com/gitextensions/gitextensions |
 |  1  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) |  一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
