@@ -11,6 +11,61 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 8月
+### 公众号8月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年8月简报：** 
+
+### EasySQLite
+* **项目简介：** EasySQLite是一个七天.NET 8操作SQLite入门到实战详细教程，主要是对学校班级，学生信息进行管理维护（包含选型、开发、发布、部署）！
+* **项目源码地址：** https://github.com/YSGStudyHards/EasySQLite
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/6aKoDIle7nMr2aflMvhdmw
+
+### YuebonCore
+* **项目简介：** 一款基于.NET8开源、免费（MIT License）功能强大的权限管理及快速开发框架，支持前后端分离，项目架构易于扩展，是中小企业的首选。核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展，让 Web 开发更快速、简单，解决 70%重复工作。
+* **项目源码地址：** https://gitee.com/yuebon/YuebonNetCore
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/vmEirM6oZvGtphtrYlML0w
+
+### MailKit
+* **项目简介：** MailKit是一个跨平台、开源（MIT License）、免费的.NET邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件，并且它还提供了对SMTP、POP3和IMAP协议的全面支持。
+* **项目源码地址：** https://github.com/jstedfast/MailKit
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/6Uvr-6mOpaQJJKwV5doPZA
+
+### FluentEmail
+* **项目简介：** FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。
+* **项目源码地址：** https://github.com/lukencode/FluentEmail
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/6Uvr-6mOpaQJJKwV5doPZA
+
+### AI-Lossless-Zoomer
+* **项目简介：** 一款由.NET开源（GPL-3.0 license）、基于腾讯ARC Lab提供的Real-ESRGAN模型开发的AI无损放大工具。
+* **项目源码地址：** https://github.com/X-Lucifer/AI-Lossless-Zoomer
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/AWnnPU25YsoON3As27rbUw
+
+### ThingsGateway
+* **项目简介：** 一款基于.NET8开源的跨平台高性能边缘采集网关，提供底层PLC通讯库，通讯调试软件等，单机采集数据点位可达百万。
+* **项目源码地址：** https://gitee.com/dotnetchina/ThingsGateway
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/iyNdDrKE972C2HXCN3OKUg
+
+### IoTGateway
+* **项目简介：** IoTGateway是一个基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。
+* **项目源码地址：** https://gitee.com/iioter/iotgateway
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/mcVMp1fs3rF716rlotMjaw
+
+### NSmartProxy
+* **项目简介：** 一款.NET开源、免费（MIT License）、跨平台的内网穿透工具，采用.NET Core的全异步模式打造。
+* **项目源码地址：** https://github.com/tmoonlight/NSmartProxy
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/e7iTYKEK2a6s8hAmE22-XA
+
+### Notepads
+* **项目简介：** 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。
+* **项目源码地址：** https://github.com/0x7c13/Notepads
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/QImXbg7taYqmOoEY1VeAjg
+
+### Material Design
+* **项目简介：** 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。
+* **项目源码地址：** https://github.com/AvaloniaCommunity/Material.Avalonia
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/3HJdy1HXGkuVQWsR-t3rMQ
+
+
 ## 7月
 ### 公众号7月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年7月简报：** https://mp.weixin.qq.com/s/Rqi0NMnKKfK6i5AVODKiYA
