@@ -18,7 +18,73 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 9月
+### 第 6 期（2024年9.16-9.22）
+
+
+### 第 5 期（2024年9.9-9.15）
+
+
 ### 第 4 期（2024年9.1-9.8）
+#### 在“Azure Developers - .NET Aspire Day 2024”上提高您的云开发技能
+- 文章简介：Azure Developers - .NET Aspire Day 2024是为您量身定制的，旨在为您提供使用.NET和Azure构建可扩展、安全和高性能云应用程序所需的技能和知识。
+- 文章地址：https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024
+
+#### 从 .NET 9 中移除 BinaryFormatter
+- 文章简介：从 .NET 9 开始，我们不再在运行时中包含 BinaryFormatter 的实现（.NET Framework 保持不变）。API 仍然存在，但无论项目类型是什么，它们的实现始终会抛出异常。因此，设置现有的向下兼容性标志已不足以使用 BinaryFormatter。
+- 文章地址：https://mp.weixin.qq.com/s/DzXNwbt4JbxLwJXgHyePtw
+
+#### 利用分布式锁在ASP.NET Core中实现防抖
+- 文章简介：在 Web 应用开发过程中，防抖（Debounce） 是确保同一操作在短时间内不会被重复触发的一种有效手段。常见的场景包括防止用户在短时间内重复提交表单，或者避免多次点击按钮导致后台服务执行多次相同的操作。无论在单机环境中，还是在分布式系统中都有一些场景需要使用它。本文将介绍如何在ASP.NET Core中通过使用锁的方式来实现防抖，从而保证无论在单个或多实例部署的情况下都能有效避免重复操作。
+- 文章地址：https://www.cnblogs.com/wucy/p/18394437/aspnetcore-distributed-lock-debounce
+
+#### C#用户控件之流动管道
+- 文章简介：C#用户控件之流动管道，带你绘制一个动态的流动管道（FlowPipe）。
+- 文章地址：https://www.cnblogs.com/guoenshuo/p/18391637
+
+#### C#用户控件之指示灯
+- 文章简介：C#用户控件之指示灯，在体现通讯状态、运行状态等用一个靓眼的指示灯如何做？
+- 文章地址：https://www.cnblogs.com/guoenshuo/p/18397557
+
+#### 使用 Dependify 工具探索 .NET 应用程序依赖项
+- 文章简介：本文介绍了Dependify工具在.NET项目中管理复杂依赖关系的挑战、功能、优势及应用场景，助力开发者有效管理项目依赖并提升效率。
+- 文章地址：https://www.cnblogs.com/shanyou/p/18397601
+
+#### 一个.NET开源的 Git 图形用户界面（GUI）工具
+- 文章简介：分享一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成：Git Extensions。
+- 文章地址：https://mp.weixin.qq.com/s/M-Hhi6axkOuyDQKu-abq3w
+
+#### C#/.NET/.NET Core推荐学习路线&文档&文章
+- 文章简介：专门为C#/.NET/.NET Core推荐学习路线&文档&文章提供的一个Issues，各位小伙伴可以把自己觉得不错的学习路线、文档、文章相关地址分享出来🤞。
+- 文章地址：https://mp.weixin.qq.com/s/jgl_CNVIAfEYhhH9hS7erw
+
+#### 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI
+- 文章简介：项目 Quartz.NetUI 是一个基于 Quartz.NET 的任务调度系统，它使用 .NET Core 3.1 开发，提供了一套可视化的界面来管理和操作任务调度。
+- 文章地址：https://mp.weixin.qq.com/s/K0PiXf4oDM7HoTv74TRIVA
+
+#### C#设计模式入门实战教程
+- 文章简介：设计模式是对面向对象设计中反复出现的问题的解决方案。它们提供了被反复使用、多数人知晓的、经过分类编目的代码设计经验总结。
+- 文章地址：https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw
+
+#### 一个开源、跨平台的.NET UI框架 - Avalonia UI
+- 文章简介：分享一个开源、免费（MIT License）、跨平台的.NET UI框架：Avalonia UI。
+- 文章地址：https://mp.weixin.qq.com/s/_JE8G68qdSuxv-dKRRymyQ
+
+#### 提升.NET性能：深入理解.NET中的Span与Substring
+- 文章简介：在任何应用程序中高效地处理字符串都是至关重要的，尤其是在处理大数据集或需要性能敏感操作时。尽管传统的 Substring 方法多年来一直是 .NET 的常用方法，但 Span提供了一种更高效的方式来管理字符串，避免了不必要的内存分配。本文将探讨如何利用 Span和 Substring 来优化 .NET 中的字符串操作任务。
+- 文章地址：https://mp.weixin.qq.com/s/zufKoMoo-Z41W6wAR9nklw
+
+#### 事务发件箱模式在 .NET 云原生开发中的应用（基于Aspire）
+- 文章简介：这篇文章提供了使用 Aspire、DotNetCore.CAP、Azure Service Bus、Azure SQL、Bicep 和 azd 实现 Outbox 模式的示例。
+- 文章地址：https://www.cnblogs.com/savorboard/p/18401708/aspire-cap
+
+#### musl libc 与 glibc 在 .NET 应用程序中的兼容性
+- 文章简介：musl Linux 和 glibc 是两种不同的 C 标准库实现，它们在多个方面存在显著差异。
+- 文章地址：https://www.cnblogs.com/shanyou/p/18401284
+
+#### .NET 压缩/解压文件
+- 文章简介：本文为大家介绍下.NET解压/压缩zip文件。虽然解压缩不是啥核心技术，但压缩性能以及进度处理还是需要关注下，针对使用较多的zip开源组件验证。
+- 文章地址：https://www.cnblogs.com/kybs0/p/18398891
+
 
 ## 8月
 ### 第 3 期（2024年8.26-8.31）
@@ -73,6 +139,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 #### 一个开源的C#/.NET宝藏级编程技巧练习库
 - 文章简介：DotNetExercises是一个开源，免费的针对C#/.NET/.NET Core编程技巧的综合性练习库。 
 - 文章地址：https://mp.weixin.qq.com/s/V24Q074iD6fZwyOzuu5mlg
+
 
 ### 第 2 期（2024年8.19-8.25）
 #### 使用 MSTest.Analyzers 增强您的测试体验
@@ -135,6 +202,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - 文章简介：前几天有个网友问我一个问题：调用实例方法的时候为什么目标对象不能为Null。看似一个简单的问题，还真不是一句话就能说清楚的。而且这个结论也不对，当我们调用定义在某个类型的实例方法时，目标对象其实可以为Null。
 - 文章地址：https://www.cnblogs.com/artech/p/18362421/call_callvirt
 
+
 ### 第 1 期（2024年8.12-8.18）
 #### .NET 9 Preview 7现已推出！
 - 文章简介：现在是查看最新的.NET 9预览版的好时机！我们刚刚发布了我们的第七个预览版，增加了.NET SDK，库，C#，ASP.NET Core，Blazor和.NET MAUI的一些主要增强功能。查看下面链接的完整发行说明，并立即开始。
@@ -195,4 +263,3 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 #### 由浅入深理解C#中的事件
 - 文章简介：由浅入深理解C#中的事件
 - 文章地址：https://mp.weixin.qq.com/s/CeYBNuSmjZjBXUBkqQApZQ
-
