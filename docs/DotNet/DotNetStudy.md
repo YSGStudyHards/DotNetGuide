@@ -106,6 +106,7 @@
 * [.NET 中有多少种定时器？](https://mp.weixin.qq.com/s/qiZC5osyRis8Mclpt5ZxCA)
 * [.NET电子邮件高效处理解决方案](https://mp.weixin.qq.com/s/6Uvr-6mOpaQJJKwV5doPZA)
 * [增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s/DjA8DZA_q97a05S1o1DWKQ)
+* [.NET 9 中 LINQ 新增的功能](https://mp.weixin.qq.com/s/2G8rFEsa7pPu8yj-3P_Kew)
 
 ## WPF相关
 * [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
