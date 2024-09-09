@@ -122,6 +122,7 @@
   * [.NET文件压缩处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%96%87%E4%BB%B6%E5%8E%8B%E7%BC%A9%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET HTTP客户端库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-http%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93)
   * [控制台应用帮助库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B8%AE%E5%8A%A9%E5%BA%93)
+  * [.NET开源搜索组件库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1662,6 +1663,19 @@
 |  3  | [Colorful.Console](https://github.com/tomakita/Colorful.Console) | Colorful.Console是一个为C#开发者设计的、用于增强控制台应用程序样式和颜色功能的实用库。它简化了样式和颜色的应用过程，使得控制台应用程序的界面更加美观和用户友好。 | https://github.com/tomakita/Colorful.Console |
 |  2  | [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) | ConsoleTables是一个.NET开源的类库，能够将对象数据以表格形式输出到控制台，提高数据的可读性和展示效果。 | https://github.com/khalidabuhakmeh/ConsoleTables |
 |  1  | [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) | 一个功能强大、易于使用的.NET库，它允许开发者在控制台应用程序中轻松地可视化长时间运行的任务进度，支持样式定制、并发任务可视化等高级功能。 | https://github.com/Mpdreamz/shellprogressbar |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET开源搜索组件库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  6  |  |  |  |
+|  5  |  |  |  |
+|  4  |  |  |  |
+|  3  | [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) | Elasticsearch 的 .NET 客户端为 Elasticsearch API 提供强类型请求和响应。它将协议处理委托给 Elastic.Transport库，该库负责处理所有传输级别问题（HTTP 连接建立和池化、重试等）。 | https://github.com/elastic/elasticsearch-net |
+|  2  | [Lucene.NET](https://github.com/apache/lucenenet) | Lucene.NET 是一个用 C# 编写的开源全文搜索库，它是流行的 Java Apache Lucene 项目的移植版本。该库为 .NET 平台提供了强大的索引和搜索功能，以及拼写检查、命中高亮和高级分析/分词能力。 | https://github.com/apache/lucenenet |
+|  1  | [SolrNet](https://github.com/SolrNet/SolrNet) | SolrNet 是一个针对 .NET 平台的 Apache Solr 和 SolrCloud 客户端库。SolrNet 并没有尝试对 Solr 进行太多的抽象，而是假设您知道什么是 Solr 以及如何使用它，就像您在使用 ORM 之前需要了解关系数据库一样。 | https://github.com/SolrNet/SolrNet |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
