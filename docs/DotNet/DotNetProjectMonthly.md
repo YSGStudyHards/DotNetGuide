@@ -13,7 +13,7 @@
 # 2024年
 ## 8月
 ### 公众号8月简报
-* **C#/.NET/.NET Core优秀项目和框架2024年8月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2024年8月简报：** https://mp.weixin.qq.com/s/liUjhkTtHe060ayRCXlapQ
 
 ### EasySQLite
 * **项目简介：** EasySQLite是一个七天.NET 8操作SQLite入门到实战详细教程，主要是对学校班级，学生信息进行管理维护（包含选型、开发、发布、部署）！
