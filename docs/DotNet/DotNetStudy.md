@@ -9,6 +9,7 @@
 
 ## C#相关
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
+* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
 * [推荐几本C#/.NET进阶书籍](https://mp.weixin.qq.com/s/eQNTWICiuu1mWIUqVVe1Sg)
 * [C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
@@ -45,6 +46,7 @@
 * [3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)
 * [C#开源、简单易用的Dapper扩展类库 - Dommel](https://mp.weixin.qq.com/s/yBWx_HzL4O6e4ITkRis6tQ)
 * [提高 C# 的生产力：C# 13 更新完全指南](https://mp.weixin.qq.com/s/xAuo_WHi2fi6e1SNOLgE5w)
+* [C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
 
 ## .NET/.NET Core相关
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
@@ -107,6 +109,10 @@
 * [.NET电子邮件高效处理解决方案](https://mp.weixin.qq.com/s/6Uvr-6mOpaQJJKwV5doPZA)
 * [增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s/DjA8DZA_q97a05S1o1DWKQ)
 * [.NET 9 中 LINQ 新增的功能](https://mp.weixin.qq.com/s/2G8rFEsa7pPu8yj-3P_Kew)
+* [从 .NET 9 中移除 BinaryFormatter](https://mp.weixin.qq.com/s/DzXNwbt4JbxLwJXgHyePtw)
+* [.NET 中的表达式树（Expression Trees）](https://mp.weixin.qq.com/s/nZAqGDY-DUWEDy5YPtQxmw)
+* [ASP.NET MVC+LayUI视频上传](https://mp.weixin.qq.com/s/7fCEMbHpvkP07FwxqSzCbQ)
+* [一款.NET开发的AI无损放大工具](https://mp.weixin.qq.com/s/AWnnPU25YsoON3As27rbUw)
 
 ## WPF相关
 * [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
@@ -137,8 +143,10 @@
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
 * [基于Bootstrap Blazor开源的.NET通用后台权限管理系统](https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA)
 * [一套基于 Ant Design 和 Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g)
+* [在IIS上部署ASP.NET Core Web API和Blazor Wasm](https://mp.weixin.qq.com/s/MfScgBu0QMRT3D5aIT5A3w)
 
 ## Avalonia相关
+* [一个开源、跨平台的.NET UI框架 - Avalonia UI](https://mp.weixin.qq.com/s/_JE8G68qdSuxv-dKRRymyQ)
 * [.NET Avalonia开源、免费的桌面UI库 - SukiUI](https://mp.weixin.qq.com/s/yyiTwzeekWnorS8uaJw3jQ)
 * [一款开源免费的现代化风格的Avalonia控件库](https://mp.weixin.qq.com/s/mJtego9nVh7PDNtl_OMgzw)
 * [在Avalonia项目中使用MediatR和MS.DI库实现事件驱动通信](https://mp.weixin.qq.com/s/I_1AQrWZq5fXKEUt3g6WyQ) 
