@@ -47,6 +47,7 @@
 * [C#开源、简单易用的Dapper扩展类库 - Dommel](https://mp.weixin.qq.com/s/yBWx_HzL4O6e4ITkRis6tQ)
 * [提高 C# 的生产力：C# 13 更新完全指南](https://mp.weixin.qq.com/s/xAuo_WHi2fi6e1SNOLgE5w)
 * [C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
+* [浅谈 C# 中的顶级语句](https://mp.weixin.qq.com/s/TDKCtVc2CnieApRpkua7pw)
 
 ## .NET/.NET Core相关
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
