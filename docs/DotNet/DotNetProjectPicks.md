@@ -220,7 +220,7 @@
 |  18 |  |  |  |
 |  17 |  |  |  |
 |  16 | [nhibernate-core](https://github.com/nhibernate/nhibernate-core) | NHibernate是.NET框架的成熟、开源的对象关系映射工具。它在积极开发中，功能齐全，并已成功应用于数千个项目中。 | https://github.com/nhibernate/nhibernate-core |
-|  15 |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用。(微软官方出品)。 | https://learn.microsoft.com/zh-cn/ef/ |
+|  15 |  [EF/EF Core](https://github.com/dotnet/efcore)  | Entity Framework (EF) Core 是轻量化、可扩展、开源和跨平台版的常用 Entity Framework 数据访问技术，EF Core 是适用于 .NET 的现代对象数据库映射器。它支持 LINQ 查询、更改跟踪、更新和架构迁移。EF Core 通过提供程序插件 API 与 SQL Server、Azure SQL 数据库、SQLite、Azure Cosmos DB、MySQL、PostgreSQL 和其他数据库一起使用（微软官方出品）。 | https://learn.microsoft.com/zh-cn/ef/ |
 |  14 | [querybuilder](https://github.com/sqlkata/querybuilder) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。 |https://github.com/sqlkata/querybuilder |
 |  13 | [TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | TinyORM是一个简单、快速且安全的微型.NET ORM。 | https://github.com/sdrapkin/SecurityDriven.TinyORM |
 |  12 | [cyqdata](https://github.com/cyq1162/cyqdata) | cyq.data是一个高性能且功能最强大的orm（支持.NET Core），支持Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。 | https://github.com/cyq1162/cyqdata |
@@ -1584,7 +1584,11 @@
 #### EF/EF Core扩展类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
+|  10  |  |  |  |
+|  9  |  |  |  |
+|  8  |  |  |  |
+|  7  |  |  |  |
+|  6  | [Entity Framework Plus](https://github.com/zzzprojects/EntityFramework-Plus) | Entity Framework Plus是一个开源、免费（MIT License）、功能强大的 Entity Framework（EF）和 Entity Framework Core（EF Core） 扩展库，旨在提升 Entity Framework 的性能和克服其局限性。通过提供一系列实用的功能，如批量操作、查询缓存、查询延迟、LINQ动态、审计跟踪等，使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。 | https://github.com/zzzprojects/EntityFramework-Plus |
 |  5  | [MongoDB EF Core Provider](https://github.com/mongodb/mongo-efcore-provider) | 该项目是MongoDB数据库的Entity Framework Core提供程序，旨在将Entity Framework Core的功能与MongoDB数据库集成。需要.NET 8或更高版本上的Entity Framework Core 8以及MongoDB数据库服务器5.0或更高版本，最好是启用事务的配置。 | https://github.com/mongodb/mongo-efcore-provider |
 |  4  | [EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers) | EfCoreTriggers是使用 EFCore 模型构建器编写本机 SQL 触发器的库。触发器会自动转换为 sql 并添加到迁移中。 | https://github.com/win7user10/Laraue.EfCoreTriggers |
 |  3  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
