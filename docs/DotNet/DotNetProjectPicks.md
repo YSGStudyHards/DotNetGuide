@@ -911,16 +911,16 @@
 #### 桌面工具箱
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  8  |  |  |  |
+|  1  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
+|  2  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
+|  3  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
+|  4  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools)  |一个.NET开源、跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
+|  5  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
+|  6 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
 |  7  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  6  | [DevToys](https://github.com/veler/DevToys) | C#开源（MIT License开源协议）、免费、离线、功能齐全的Windows开发者工具箱，号称开发人员的瑞士军刀，可以帮助开发者完成日常工作开发中常用功能。 | https://github.com/veler/DevToys |
-|  5  | [PowerToys](https://github.com/microsoft/PowerToys) | 微软官方发布的C#开源、免费、实用的Windows工具箱，帮助用户调整和简化Windows系统的体验，从而提高工作效率。 | https://github.com/microsoft/PowerToys |
-|  4  | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) | 胡桃工具箱是一款.NET开源（MIT License）、免费、实用的多功能原神工具箱，专为现代化 Windows 平台设计，旨在改善桌面端玩家的游戏体验。通过将既有的官方资源与开发团队设计的全新功能相结合，它提供了一套完整且实用的工具集，且无需依赖任何移动设备。它不对游戏客户端进行任何破坏性修改以确保工具箱的安全性。 | https://github.com/DGP-Studio/Snap.Hutao |
-|  3  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools)  |一个.NET开源、跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
-|  2  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
-|  1 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -928,12 +928,12 @@
 #### 桌面启动器
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
+|  2  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 |  3  |  |  |  |
-|  2 | [CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) | 一款WPF开源、简单、轻便、快速的桌面启动器（支持多主题、多语言：简体中文、繁体中文、英文等）。 | https://github.com/OrgEleCho/CurvaLauncher |
-|  1  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -941,14 +941,14 @@
 #### 反编译工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
+|  1  | [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | dnSpyEx是dnSpy（该代码库已于2020年12月21日被所有者归档为只读状态）项目的非官方Fork维护版本，一款开源、功能强大的.NET反编译工具和调试器，可用于在没有源代码的情况下编辑和调试程序集。 | https://github.com/dnSpyEx/dnSpy |
+|  2  | [ILSpy](https://github.com/icsharpcode/ILSpy) | ILSpy是一款免费、开源的 .NET 反编译工具，能够将已编译的 .NET 程序集转换为易于阅读和理解的源代码。 | https://github.com/icsharpcode/ILSpy |
+|  3  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（虽然dnSpy该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响你继续使用dnSpy工具本身。） | https://github.com/dnSpy/dnSpy |
+|  4  | [JustDecompile](https://github.com/dotNetTreasury/JustDecompileEngine)  | JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。 | https://github.com/dotNetTreasury/JustDecompileEngine |
 |  5  |  |  |  |
-|  4  | [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | dnSpyEx是dnSpy（该代码库已于2020年12月21日被所有者归档为只读状态）项目的非官方Fork维护版本，一款开源、功能强大的.NET反编译工具和调试器，可用于在没有源代码的情况下编辑和调试程序集。 | https://github.com/dnSpyEx/dnSpy |
-|  3  | [ILSpy](https://github.com/icsharpcode/ILSpy) | ILSpy是一款免费、开源的 .NET 反编译工具，能够将已编译的 .NET 程序集转换为易于阅读和理解的源代码。 | https://github.com/icsharpcode/ILSpy |
-|  2  | [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy是一个功能强大的调试器和.NET程序集编辑器，可用于在没有源代码的情况下编辑和调试程序集。（虽然dnSpy该代码库已于2020年12月21日被所有者归档为只读状态，但这并不影响你继续使用dnSpy工具本身。） | https://github.com/dnSpy/dnSpy |
-|  1  | [JustDecompile](https://github.com/dotNetTreasury/JustDecompileEngine)  | JustDecompile是一款功能强大的.NET反编译工具，可帮助您恢复丢失的源代码或查看程序集的内部结构。 | https://github.com/dotNetTreasury/JustDecompileEngine |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -956,14 +956,14 @@
 #### 代码混淆工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [IEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | JIEJIE.NET是一个开源的.NET程序集混淆工具，旨在帮助保护.NET应用程序的版权和知识产权。它被描述为轻量级、快速且强大。该项目的主要目标是通过对程序集进行混淆，使其难以逆向工程和分析，从而增加代码的保护程度。 | https://github.com/dcsoft-yyf/JIEJIE.NET |
-|  2  | [Obfuscar](https://github.com/obfuscar/obfuscar) | Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。 | https://github.com/obfuscar/obfuscar |
 |  1  | [ConfuserEx](https://github.com/mkaring/ConfuserEx) | ConfuserEx是一个功能强大且广泛使用的.NET代码混淆工具。它支持多种混淆技术，包括控制流混淆、字符串加密、资源加密等。它具有灵活的配置选项，可以根据不同的需求进行定制（不足的是目前只支持.NET Framework 2.0/3.0/3.5/4.0/4.5/4.6/4.7/4.8，不支持.NET Core代码混淆）。 | https://github.com/mkaring/ConfuserEx |
+|  2  | [IEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | JIEJIE.NET是一个开源的.NET程序集混淆工具，旨在帮助保护.NET应用程序的版权和知识产权。它被描述为轻量级、快速且强大。该项目的主要目标是通过对程序集进行混淆，使其难以逆向工程和分析，从而增加代码的保护程度。 | https://github.com/dcsoft-yyf/JIEJIE.NET |
+|  3  | [Obfuscar](https://github.com/obfuscar/obfuscar) | Obfuscar是一个开源的.NET程序集混淆工具，可以通过控制流和名称混淆、字符串加密、资源保护等功能来保护.NET应用程序的知识产权和防止逆向工程。 | https://github.com/obfuscar/obfuscar |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -971,12 +971,12 @@
 #### 桌面管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [DreamScene2](https://github.com/he55/DreamScene2) | .NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放，支持 Windows10/11 系统。 | https://github.com/he55/DreamScene2 |
+|  2  | [GeekDesk](https://github.com/BookerLiu/GeekDesk)  | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。 | https://github.com/BookerLiu/GeekDesk |
 |  3  |  |  |  |
-|  2  | [DreamScene2](https://github.com/he55/DreamScene2) | .NET开源、免费（MIT license）的一个小而快并且功能强大的 Windows 动态桌面软件，支持视频和网页动画播放，支持 Windows10/11 系统。 | https://github.com/he55/DreamScene2 |
-|  1  | [GeekDesk](https://github.com/BookerLiu/GeekDesk)  | 一款.NET开源的小巧、美观的桌面快速启动工具（GeekDesk 极客桌面）。 | https://github.com/BookerLiu/GeekDesk |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -984,12 +984,12 @@
 #### 文件管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) | 一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 | https://github.com/zhuxb711/RX-Explorer |
+|  1  | [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) | 一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 | https://github.com/zhuxb711/RX-Explorer |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
-|  1  |  [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
+|  3  | [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -997,14 +997,16 @@
 #### 远程桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  8  |  |  |  |
+|  1  | [Quasar](https://github.com/quasar/Quasar) | Quasar是一个.NET开源、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。 | https://github.com/quasar/Quasar |
+|  2  | [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) | 一款适用于 Windows C# 的开源远程管理工具。 | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp |
+|  3  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
+|  4  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
+|  5  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
+|  6  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
 |  7  |  |  |  |
-|  6  | [Quasar](https://github.com/quasar/Quasar) | Quasar是一个.NET开源、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。 | https://github.com/quasar/Quasar |
-|  5  | [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) | 一款适用于 Windows C# 的开源远程管理工具。 | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp |
-|  4  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
-|  3  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
-|  2  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
-|  1  | [1Remote](https://github.com/1Remote/1Remote) |            一款由.NET开源且免费的远程桌面管理软件。            | https://github.com/1Remote/1Remote |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1012,12 +1014,12 @@
 #### 数据库管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [DBCHM](https://gitee.com/dotnetchina/DBCHM) | 一款.NET开源（MIT License）、免费、简单、实用的数据库文档（字典）生成工具，该工具支持CHM、Word、Excel、PDF、Html、XML、Markdown等多文档格式的导出。 | https://gitee.com/dotnetchina/DBCHM |
+|  2  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)   | 一款.NET开源、方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
 |  3  |  |  |  |
-|  2  | [DBCHM](https://gitee.com/dotnetchina/DBCHM) | 一款.NET开源（MIT License）、免费、简单、实用的数据库文档（字典）生成工具，该工具支持CHM、Word、Excel、PDF、Html、XML、Markdown等多文档格式的导出。 | https://gitee.com/dotnetchina/DBCHM |
-|  1  | [SmartSQL](https://gitee.com/dotnetchina/SmartSQL)   | 一款.NET开源、方便、快捷的数据库文档查询、生成工具，致力于成为帮助企业快速实现数字化转型的元数据管理工具。 | https://gitee.com/dotnetchina/SmartSQL |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1025,12 +1027,12 @@
 #### DNS服务器工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) | 一款.NET开源跨平台的开箱即用的DNS服务器软件（用于提供 DNS 解析服务）。 | https://github.com/TechnitiumSoftware/DnsServer |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1038,12 +1040,12 @@
 #### 截图&录屏工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [ShareX](https://github.com/ShareX/ShareX) | 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
+|  2  | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
 |  3  |  |  |  |
-|  2  | [ShareX](https://github.com/ShareX/ShareX) | 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
-|  1  | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1051,12 +1053,12 @@
 #### GitHub加速工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 一款C#开源的、跨平台的GitHub加速神器。 | https://github.com/BeyondDimension/SteamTools |
+|  2  | [FastGithub](https://github.com/dotNetTreasury/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotNetTreasury/FastGithub |
 |  3  |  |  |  |
-|  2  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 一款C#开源的、跨平台的GitHub加速神器。 | https://github.com/BeyondDimension/SteamTools |
-|  1  | [FastGithub](https://github.com/dotNetTreasury/FastGithub) | GitHub加速神器，解决GitHub打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。 | https://github.com/dotNetTreasury/FastGithub |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1064,12 +1066,12 @@
 #### 系统优化工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的Windows内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
+|  2  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
 |  3  |  |  |  |
-|  2  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的Windows内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
-|  1  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1077,12 +1079,12 @@
 #### 性能压测工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  |  [Crank](https://github.com/dotnet/crank)  | Crank是一个用于测量Web应用性能和稳定性的工具。它提供了一种简单的方法，用于构建针对Web应用的基准测试和负载测试，并提供了一个可视化仪表板，用于监控测试结果和Web应用的状态。 | https://github.com/dotnet/crank |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1090,12 +1092,12 @@
 #### 性能分析工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [PerfView](https://github.com/microsoft/perfview) | PerfView 是一款免费的性能分析工具，可帮助隔离与 CPU 和内存相关的性能问题。它是一个 Windows 工具，但它也支持分析在 Linux 机器上收集的数据。它适用于各种方案，但具有许多特殊功能，用于调查为 .NET 运行时编写的代码中的性能问题。 | https://github.com/microsoft/perfview |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1103,12 +1105,12 @@
 #### Excel转JSON工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  2  | [neil3d/excel2json](https://github.com/neil3d/excel2json) | .NET开源的把Excel表转换成json对象，并保存到一个文本文件中。 | https://github.com/neil3d/excel2json |
+|  1  | [brianlagunas/Excel2Json](https://github.com/brianlagunas/Excel2Json) | Excel转JSON - 将Excel和CSV转换为JSON。 | https://github.com/brianlagunas/Excel2Json |
 |  6  |  |  |  |
 |  5  |  |  |  |
 |  4  |  |  |  |
 |  3  |  |  |  |
-|  2  | [excel2json](https://github.com/neil3d/excel2json) | .NET开源的把Excel表转换成json对象，并保存到一个文本文件中。 | https://github.com/neil3d/excel2json |
-|  1  | [Excel2Json](https://github.com/brianlagunas/Excel2Json) | Excel转JSON - 将Excel和CSV转换为JSON。 | https://github.com/brianlagunas/Excel2Json |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1116,12 +1118,12 @@
 #### 免费的抢票软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [HyggeImaotai](https://github.com/lisongkun/HyggeImaotai) | 一款.NET开源、基于WPF实现的i茅台APP接口自动化每日自动预约（抢茅台）小助手。 | https://github.com/lisongkun/HyggeImaotai |
+|  2  | [Bypass](https://www.bypass.cn/) | Bypass是一款基于.NET开发的、完全免费的火车票分流抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
 |  3  |  |  |  |
-|  2  | [HyggeImaotai](https://github.com/lisongkun/HyggeImaotai) | 一款.NET开源、基于WPF实现的i茅台APP接口自动化每日自动预约（抢茅台）小助手。 | https://github.com/lisongkun/HyggeImaotai |
-|  1  | [Bypass](https://www.bypass.cn/) | Bypass是一款基于.NET开发的、完全免费的火车票分流抢票软件，全程自动抢票、自动抢候补、自动识别验证码、多线程秒单、稳定捡漏。支持多天、多车次、多席别、多乘客等功能。 | https://www.bypass.cn/ |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1129,12 +1131,16 @@
 #### Office实用工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
-|  4  | [Mocreak](https://github.com/OdysseusYuan/Mocreak) | 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、部署 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。 | https://github.com/OdysseusYuan/Mocreak |
+|  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
+|  2  | [Mocreak](https://github.com/OdysseusYuan/Mocreak) | 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、部署 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。 | https://github.com/OdysseusYuan/Mocreak |
 |  3  | [kms-activate](https://github.com/jm33-m0/kms-activate) | Microsoft Windows/Office 一键激活工具。 | https://github.com/jm33-m0/kms-activate |
-|  2  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
-|  1  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一款.NET开源、绿色、安全、无毒的支持一键自动化下载、安装、激活Microsoft Office的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
+|  4  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
+|  5  | [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一款.NET开源、绿色、安全、无毒的支持一键自动化下载、安装、激活Microsoft Office的利器。 | https://github.com/OdysseusYuan/LKY_OfficeTools |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1142,12 +1148,12 @@
 #### Git管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://github.com/gitextensions/gitextensions |
+|  2  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) |  一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
 |  3  |  |  |  |
-|  2  | [Git Extensions](https://github.com/gitextensions/gitextensions) | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。 | https://github.com/gitextensions/gitextensions |
-|  1  | [SourceGit](https://github.com/sourcegit-scm/sourcegit) |  一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。 | https://github.com/sourcegit-scm/sourcegit |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1155,12 +1161,12 @@
 #### 通讯调试工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
+|  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus RTU、MQTT调试，界面色彩丰富。 | https://github.com/Monika1313/Wu.CommTool |
 |  3  |  |  |  |
-|  2  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
-|  1  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus RTU、MQTT调试，界面色彩丰富。 | https://github.com/Monika1313/Wu.CommTool |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1168,12 +1174,12 @@
 #### 开源翻译工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1181,12 +1187,12 @@
 #### 实用AI工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) | 一款由.NET开源（GPL-3.0 license）、基于腾讯ARC Lab提供的Real-ESRGAN模型开发的AI无损放大工具。 | https://github.com/X-Lucifer/AI-Lossless-Zoomer |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1194,12 +1200,12 @@
 #### 开源编辑器
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [Notepads](https://github.com/0x7c13/Notepads) | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
+|  2  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  3  |  |  |  |
-|  2  | [Notepads](https://github.com/0x7c13/Notepads) | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
-|  1  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1207,37 +1213,36 @@
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  30  |  |  |  |
-|  29  |  |  |  |
-|  28  |  |  |  |
+|  1  | [Kiota](https://github.com/microsoft/kiota) | Kiota是一个由微软开发的命令行工具，主要用于生成调用任何OpenAPI描述的API的客户端。Kiota API客户端提供了一种强类型的体验，具有您期望从高质量API SDK获得的所有功能，但无需为每个HTTP API学习新的库。 | https://github.com/microsoft/kiota |
+|  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
+|  3  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
+|  4  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
+|  5 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
+|  6 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
+|  7 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
+|  8  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
+|  9  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
+|  10  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
+|  11  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
+|  12  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
+|  13  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
+|  14  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
+|  15  | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
+|  16  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
+|  17  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
+|  18  | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
+|  19 | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
+|  20  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
+|  21 | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
+|  22 |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
+|  23 | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
+|  24  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
+|  25 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
+|  26 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
 |  27  |  |  |  |
-|  26  |  |  |  |
-|  25  | [Kiota](https://github.com/microsoft/kiota) | Kiota是一个由微软开发的命令行工具，主要用于生成调用任何OpenAPI描述的API的客户端。Kiota API客户端提供了一种强类型的体验，具有您期望从高质量API SDK获得的所有功能，但无需为每个HTTP API学习新的库。 | https://github.com/microsoft/kiota |
-|  24  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
-|  24  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
-|  23  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
-|  22 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
-|  21 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
-|  20 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
-|  19  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
-|  18  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
-|  17  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
-|  16  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
-|  15  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
-|  14  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
-|  13  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
-|  12  | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
-|  11  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
-|  10  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
-|  9  | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
-|  8  | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
-|  7  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
-|  6  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
-|  5  |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
-|  4  | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
-|  3  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
-|  2  | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
-|  1  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
+|  28  |  |  |  |
+|  29  |  |  |  |
+|  30  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1247,12 +1252,12 @@
 #### C#版微信SDK
 |  ✍   |                        项目名称和地址                        |                           项目简介                           |                         项目详细介绍（文档、文章、源码地址）                         |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  | [Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk) | 最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。 | https://github.com/xin-lai/Magicodes.Wx.Sdk |
-|  3  | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)    | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 |           https://github.com/JeffreySu/WeiXinMPSDK           |
+|  1  | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)    | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 |           https://github.com/JeffreySu/WeiXinMPSDK           |
 |  2  | [FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) | 全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。 | [FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)  |
-|  1  | [Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat) | Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。 | https://github.com/EasyAbp/Abp.WeChat |
+|  3  | [Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk) | 最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。 | https://github.com/xin-lai/Magicodes.Wx.Sdk |
+|  4  | [Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat) | Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。 | https://github.com/EasyAbp/Abp.WeChat |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1260,12 +1265,12 @@
 #### C#实用工具类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C#开源实用的工具类库，集成超过1000多种扩展方法增强 .NET Framework 和 .NET Core的使用效率。 | https://github.com/zzzprojects/Z.ExtensionMethods |
+|  1  | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C#开源实用的工具类库，集成超过1000多种扩展方法增强 .NET Framework 和 .NET Core的使用效率。 | https://github.com/zzzprojects/Z.ExtensionMethods |
 |  2  | [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。 | https://github.com/ldqk/Masuit.Tools |
-|  1  | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) | 一个比较全面的C#帮助类库，主要是日常工作收集，各式各样的几乎都能找到，所有功能性代码都是独立的类，类与类之间没有联系，可以单独引用至项目。 | https://github.com/Jimmey-Jiang/Common.Utility |
+|  3  | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) | 一个比较全面的C#帮助类库，主要是日常工作收集，各式各样的几乎都能找到，所有功能性代码都是独立的类，类与类之间没有联系，可以单独引用至项目。 | https://github.com/Jimmey-Jiang/Common.Utility |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1273,12 +1278,12 @@
 #### .NET人脸识别库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) | 一个.NET开源（MIT License）、免费、跨平台（适用于 Windows、MacOS 和 Linux ）、使用简单的面部识别库（是 face_recognition 的 C# 移植版本）。 | https://github.com/takuya-takeuchi/FaceRecognitionDotNet |
+|  1  | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) | 一个.NET开源（MIT License）、免费、跨平台（适用于 Windows、MacOS 和 Linux ）、使用简单的面部识别库（是 face_recognition 的 C# 移植版本）。 | https://github.com/takuya-takeuchi/FaceRecognitionDotNet |
 |  2  | [ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) |  一个.NET开源的（MIT License）、免费的、跨平台的、使用简单的离线人脸识别库（一个基于 SeetaFace6 的 .NET 人脸识别解决方案）。   | https://github.com/ViewFaceCore/ViewFaceCore |
-|  1  | [FaceRecognition](https://github.com/iarray/FaceRecognition) | 一个基于C#的离线人脸识别演示项目。该演示包括人脸检测、人脸对齐和人脸识别功能，基于seetaface库实现。 | https://github.com/iarray/FaceRecognition |
+|  3  | [FaceRecognition](https://github.com/iarray/FaceRecognition) | 一个基于C#的离线人脸识别演示项目。该演示包括人脸检测、人脸对齐和人脸识别功能，基于seetaface库实现。 | https://github.com/iarray/FaceRecognition |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1286,12 +1291,16 @@
 #### C#FFmpeg封装库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  | [FFmpeg.NET](https://github.com/cmxl/FFmpeg.NET) | 常见 FFmpeg 任务的 .NET 封装程序 | https://github.com/cmxl/FFmpeg.NET |
-|  4  | [FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen) | FFmpeg AutoGen是一个为C#/.NET和Core（Linux、MacOS和Mono）自动生成的不安全绑定库。它提供了与FFmpeg的接口对应的C#代码，使开发者能够在C#/.NET和Core平台上使用FFmpeg的功能。 | https://github.com/Ruslan-B/FFmpeg.AutoGen |
+|  1  | [FFmpeg.NET](https://github.com/cmxl/FFmpeg.NET) | 常见 FFmpeg 任务的 .NET 封装程序 | https://github.com/cmxl/FFmpeg.NET |
+|  2  | [FFmpeg.AutoGen](https://github.com/Ruslan-B/FFmpeg.AutoGen) | FFmpeg AutoGen是一个为C#/.NET和Core（Linux、MacOS和Mono）自动生成的不安全绑定库。它提供了与FFmpeg的接口对应的C#代码，使开发者能够在C#/.NET和Core平台上使用FFmpeg的功能。 | https://github.com/Ruslan-B/FFmpeg.AutoGen |
 |  3  | [FFMpegCore ](https://github.com/rosenbjerg/FFMpegCore)| 是一个基于 .NET Standard 的 FFmpeg 处理库。它提供了一个简单而直观的 API，使开发者能够在 .NET 应用程序中轻松使用 FFmpeg 进行媒体处理任务，如转码、剪辑、合并等。FFMpegCore 具有跨平台支持，可以在 Windows、Linux 和 macOS 等操作系统上运行。 | https://github.com/rosenbjerg/FFMpegCore |
-|  2  | [Xabe.FFmpeg ](https://github.com/tomaszzmuda/Xabe.FFmpeg)| FFmpeg 的.NET 标准包装器。它允许在不了解 FFmpeg 工作原理的情况下处理媒体，并可用于从 dotnet 核心应用程序向 FFmpeg 传递自定义参数。 | https://github.com/tomaszzmuda/Xabe.FFmpeg |
-|  1  | [Sdcb.FFmpeg ](https://github.com/sdcb/Sdcb.FFmpeg)| FFmpeg开源C#封装库。 | https://www.cnblogs.com/sdflysha/p/dotnet-conf-china-2022-ffmpeg.html |
+|  4  | [Xabe.FFmpeg ](https://github.com/tomaszzmuda/Xabe.FFmpeg)| FFmpeg 的.NET 标准包装器。它允许在不了解 FFmpeg 工作原理的情况下处理媒体，并可用于从 dotnet 核心应用程序向 FFmpeg 传递自定义参数。 | https://github.com/tomaszzmuda/Xabe.FFmpeg |
+|  5  | [Sdcb.FFmpeg ](https://github.com/sdcb/Sdcb.FFmpeg)| FFmpeg开源C#封装库。 | https://www.cnblogs.com/sdflysha/p/dotnet-conf-china-2022-ffmpeg.html |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1299,12 +1308,12 @@
 #### .NET高精度数值计算库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) | .NET高精度数值计算库。 | https://www.cnblogs.com/sdflysha/p/20230725-sdcb-arithmetic-intro.html |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1312,12 +1321,12 @@
 #### .NET第三方登录整合库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | .netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台。 | https://github.com/mrhuo/MrHuo.OAuth |
+|  2  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
 |  3  |  |  |  |
-|  2  | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | .netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台。 | https://github.com/mrhuo/MrHuo.OAuth |
-|  1  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1325,11 +1334,12 @@
 #### .NET UI自动化库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [FlaUI](https://github.com/FlaUI/FlaUI) | FlaUI是一个.Net的UI自动化库，用于自动化测试Windows应用程序（包括Win32、WinForms、WPF、Store Apps等）。它基于Microsoft的原生UI自动化库，并在其周围提供了一层封装。FlaUI几乎包含了UI自动化库中的所有功能，并在有特殊需求（目前尚未覆盖）的情况下提供了原生对象。 | https://github.com/FlaUI/FlaUI |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1337,21 +1347,21 @@
 #### .NET图形&图表&表格库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  15  |  |  |  |
-|  14  |  |  |  |
-|  13  |  |  |  |
-|  12  |  |  |  |
-|  11  |  |  |  |
-|  10  |  |  |  |
+|  1  | [OxyPlot](https://github.com/oxyplot/oxyplot) | 一款.NET开源（MIT License）、免费、跨平台、功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。 | https://github.com/oxyplot/oxyplot |
+|  2  | [Mapsui](https://github.com/Mapsui/Mapsui) | 一个.NET开源（MIT License）、免费、同时支持多平台框架（MAUI、WPF、Avalonia、Uno、Blazor、WinUI、Eto、.NET Android 和 .NET iOS）地图组件库。 | https://github.com/Mapsui/Mapsui |
+|  3  | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) | LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表库，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。 | https://github.com/beto-rodriguez/LiveCharts2 |
+|  4  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
+|  5  | [ReoGrid](https://github.com/unvell/ReoGrid) | 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。 | https://github.com/unvell/ReoGrid |
+|  6  | [ScottPlot](https://github.com/ScottPlot/ScottPlot) | ScottPlot是一个免费、开源（采用MIT许可证）的强大.NET交互式绘图库，能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。 | https://github.com/ScottPlot/ScottPlot |
+|  7  | [ImageSharp](https://github.com/SixLabors/ImageSharp) | ImageSharp是一款全新的、功能齐全的、完全管理的、跨平台的2D图形API。ImageSharp旨在简化图像处理，提供了一个极其强大但简洁易用的API。 | https://github.com/SixLabors/ImageSharp |
+|  8  | [SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp是由Mono团队维护的开源项目，它是基于Google的Skia图形库的.NET跨平台绑定，提供了强大的2D图形绘制和处理功能，适用于多个平台，包括Windows、macOS、Linux、iOS和Android，可用于创建高性能的、可移植的2D图形应用程序。 | https://github.com/mono/SkiaSharp |
 |  9  |  |  |  |
-|  8  | [OxyPlot](https://github.com/oxyplot/oxyplot) | 一款.NET开源（MIT License）、免费、跨平台、功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。 | https://github.com/oxyplot/oxyplot |
-|  7  | [Mapsui](https://github.com/Mapsui/Mapsui) | 一个.NET开源（MIT License）、免费、同时支持多平台框架（MAUI、WPF、Avalonia、Uno、Blazor、WinUI、Eto、.NET Android 和 .NET iOS）地图组件库。 | https://github.com/Mapsui/Mapsui |
-|  6  | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) | LiveCharts2是一个.NET开源、简单、灵活、交互式且功能强大的.NET图表、地图和仪表库，现在几乎可以在任何地方运行如：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。 | https://github.com/beto-rodriguez/LiveCharts2 |
-|  5  | [Magick.NET](https://github.com/dlemstra/Magick.NET) | ImageMagick 是一个功能强大的图像处理库，支持 100 多种主要文件格式（不包括子格式）。借助 Magick.NET，您可以在 C#/VB.NET/.NET Core 应用程序中使用 ImageMagick，而无需在服务器或桌面上安装 ImageMagick。 | https://github.com/dlemstra/Magick.NET |
-|  4  | [ReoGrid](https://github.com/unvell/ReoGrid) | 一个.NET开源（MIT License）、快速、强大、免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。 | https://github.com/unvell/ReoGrid |
-|  3  | [ScottPlot](https://github.com/ScottPlot/ScottPlot) | ScottPlot是一个免费、开源（采用MIT许可证）的强大.NET交互式绘图库，能够轻松地实现大型数据集的交互式显示。使用几行代码即可快速创建折线图、柱状图、饼图、散点图等不同类型的图表。 | https://github.com/ScottPlot/ScottPlot |
-|  2  | [ImageSharp](https://github.com/SixLabors/ImageSharp) | ImageSharp是一款全新的、功能齐全的、完全管理的、跨平台的2D图形API。ImageSharp旨在简化图像处理，提供了一个极其强大但简洁易用的API。 | https://github.com/SixLabors/ImageSharp |
-|  1  | [SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp是由Mono团队维护的开源项目，它是基于Google的Skia图形库的.NET跨平台绑定，提供了强大的2D图形绘制和处理功能，适用于多个平台，包括Windows、macOS、Linux、iOS和Android，可用于创建高性能的、可移植的2D图形应用程序。 | https://github.com/mono/SkiaSharp |
+|  10 |  |  |  |
+|  11 |  |  |  |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1359,12 +1369,14 @@
 #### .NET二维码类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
+|  1  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | QrCodeGenerator是一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
+|  2  | [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode) | SkiaSharp.QrCode是一款基于SkiaSharp开发的.NET开源（MIT License）、免费的二维码生成类库（无需使用System.Drawing）。 | https://github.com/guitarrapc/SkiaSharp.QrCode |
+|  3  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
+|  4  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
 |  5  |  |  |  |
-|  4  | [QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator) | QrCodeGenerator是一款.NET开源（MIT License）、免费、简单易用、功能强大的二维码生成类库。 | https://github.com/manuelbl/QrCodeGenerator |
-|  3  | [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode) | SkiaSharp.QrCode是一款基于SkiaSharp开发的.NET开源（MIT License）、免费的二维码生成类库（无需使用System.Drawing）。 | https://github.com/guitarrapc/SkiaSharp.QrCode |
-|  2  | [QRCoder](https://github.com/codebude/QRCoder) | QRCoder是一个功能强大且易于使用的.NET类库，专门用于生成二维码，并支持多种输出格式。它提供了简单的API，方便您在.NET应用程序中集成二维码生成功能。 | https://github.com/codebude/QRCoder |
-|  1  | [ZXing.Net](https://github.com/micjahn/ZXing.Net)  | ZXing.NET是ZXing原始基于Java的条码阅读器和生成器库的.NET端口。它提供了在.NET平台上使用ZXing功能的便捷方式，并为开发人员提供了丰富的条码和二维码处理功能。 | https://github.com/micjahn/ZXing.Net |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1372,12 +1384,12 @@
 #### .NET加密解密库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [BouncyCastle](https://github.com/bcgit/bc-csharp) | BouncyCastle是一款C#版开源、免费的Bouncy Castle密码库，开发人员可以通过该项目在他们的 C# 应用程序中使用 Bouncy Castle 提供的各种密码学功能，从而加强数据的安全性和保护隐私信息。 | https://github.com/bcgit/bc-csharp |
+|  2  | [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) | .NET Core加密解密类库，包括AES、DES、RSA、MD5、SHA1、SHA256、SHA384、SHA512等算法。 | https://github.com/myloveCc/NETCore.Encrypt |
 |  3  |  |  |  |
-|  2  | [BouncyCastle](https://github.com/bcgit/bc-csharp) | BouncyCastle是一款C#版开源、免费的Bouncy Castle密码库，开发人员可以通过该项目在他们的 C# 应用程序中使用 Bouncy Castle 提供的各种密码学功能，从而加强数据的安全性和保护隐私信息。 | https://github.com/bcgit/bc-csharp |
-|  1  | [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) | .NET Core加密解密类库，包括AES、DES、RSA、MD5、SHA1、SHA256、SHA384、SHA512等算法。 | https://github.com/myloveCc/NETCore.Encrypt |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1385,17 +1397,16 @@
 #### .NET支付SDK
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay) | Magicodes.Pay，是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。 | https://github.com/xin-lai/Magicodes.Pay |
+|  1  | [Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay) | Magicodes.Pay，是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。 | https://github.com/xin-lai/Magicodes.Pay |
 |  2  | [paylink](https://github.com/essensoft/paylink) | 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。 | https://github.com/essensoft/paylink |
-|  1  | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | https://github.com/Varorbc/PaySharp |
+|  3  | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | https://github.com/Varorbc/PaySharp |
+|  4 |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1403,26 +1414,26 @@
 #### .NET Office文件操作库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  20 |  |  |  |
-|  19 |  |  |  |
-|  18 |  |  |  |
-|  17 |  |  |  |
-|  16 |  |  |  |
+|  1 | [Sep](https://github.com/nietras/Sep) | Sep是一个.NET开源（MIT License）、现代、极简、快速、零分配、读取和写入分离值（如 csv、tsv 等），跨平台、可裁剪且兼容 AOT/NativeAOT的CSV解析器。 | https://github.com/nietras/Sep |
+|  2 | [CsvHelper](https://github.com/JoshClose/CsvHelper) | CsvHelper是一个.NET开源、快速、灵活、高度可配置、易于使用的用于读取和写入CSV文件的类库。 | https://github.com/JoshClose/CsvHelper |
+|  3 | [ExcelMapper](https://github.com/mganss/ExcelMapper) | 用于将 POCO 对象映射到 Excel 文件的库。 | https://github.com/mganss/ExcelMapper |
+|  4 | [RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms) | 一个适用于.NET WinForms的 Office 功能区控件类库。 | https://github.com/RibbonWinForms/RibbonWinForms |
+|  5 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
+|  6  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
+|  7  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
+|  8  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
+|  9  | [SharpDocx](https://github.com/egonl/SharpDocx) | 用于创建 Word 文档的轻量级模板引擎。 | https://github.com/egonl/SharpDocx |
+|  10  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
+|  11 | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
+|  12 | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
+|  13 | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
+|  14 | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
 |  15 |  |  |  |
-|  14 | [Sep](https://github.com/nietras/Sep) | Sep是一个.NET开源（MIT License）、现代、极简、快速、零分配、读取和写入分离值（如 csv、tsv 等），跨平台、可裁剪且兼容 AOT/NativeAOT的CSV解析器。 | https://github.com/nietras/Sep |
-|  13 | [CsvHelper](https://github.com/JoshClose/CsvHelper) | CsvHelper是一个.NET开源、快速、灵活、高度可配置、易于使用的用于读取和写入CSV文件的类库。 | https://github.com/JoshClose/CsvHelper |
-|  12 | [ExcelMapper](https://github.com/mganss/ExcelMapper) | 用于将 POCO 对象映射到 Excel 文件的库。 | https://github.com/mganss/ExcelMapper |
-|  11 | [RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms) | 一个适用于.NET WinForms的 Office 功能区控件类库。 | https://github.com/RibbonWinForms/RibbonWinForms |
-|  10 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
-|  9  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
-|  8  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
-|  7  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
-|  6  | [SharpDocx](https://github.com/egonl/SharpDocx) | 用于创建 Word 文档的轻量级模板引擎。 | https://github.com/egonl/SharpDocx |
-|  5  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
-|  4  | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
-|  3  | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
-|  2  | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
-|  1  | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
+|  16 |  |  |  |
+|  17 |  |  |  |
+|  18 |  |  |  |
+|  19 |  |  |  |
+|  20 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1430,16 +1441,16 @@
 #### .NET JSON处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  5  | [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | System.Text.Json是 .NET Core 3.0 及以上版本中内置的 JSON 序列化和反序列化库。 | https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json |
-|  4  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
+|  1  | [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) | System.Text.Json是 .NET Core 3.0 及以上版本中内置的 JSON 序列化和反序列化库。 | https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json |
+|  2  | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Newtonsoft.Json是一个功能强大且灵活的.NET JSON序列化和反序列化库，用于在.NET应用程序中处理JSON数据。 | https://github.com/JamesNK/Newtonsoft.Json |
 |  3  | [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) | .NET中最快的JSON、JSV和CSV文本序列化器。 | https://github.com/ServiceStack/ServiceStack.Text |
-|  2  | [Jil](https://github.com/kevin-montrose/Jil) | 一个快速的JSON（反）序列化器，基于Sigil构建，采用了一些有点疯狂的优化技巧。 | https://github.com/kevin-montrose/Jil |
-|  1  | [Utf8Json](https://github.com/neuecc/Utf8Json) | 适用于 C#（NET、.NET Core、Unity、Xamarin）的绝对最快且零分配的 JSON 序列化器。 | https://github.com/neuecc/Utf8Json |
+|  4  | [Jil](https://github.com/kevin-montrose/Jil) | 一个快速的JSON（反）序列化器，基于Sigil构建，采用了一些有点疯狂的优化技巧。 | https://github.com/kevin-montrose/Jil |
+|  5  | [Utf8Json](https://github.com/neuecc/Utf8Json) | 适用于 C#（NET、.NET Core、Unity、Xamarin）的绝对最快且零分配的 JSON 序列化器。 | https://github.com/neuecc/Utf8Json |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1447,17 +1458,16 @@
 #### .NET对象映射库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  6  |  |  |  |
-|  5  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，极大的简化了开发人员在处理对象映射时的工作量。 | https://github.com/AutoMapper/AutoMapper |
-|  4  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、高性能、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
+|  1  | [AutoMapper](https://github.com/AutoMapper/AutoMapper) | AutoMapper是一个简单易用的.NET对象映射库，用于快速、方便地进行对象之间的转换和映射，极大的简化了开发人员在处理对象映射时的工作量。 | https://github.com/AutoMapper/AutoMapper |
+|  2  | [Mapster](https://github.com/MapsterMapper/Mapster) | Mapster是一个快速、高性能、灵活且易于使用的对象映射库，用于在.NET应用程序中进行对象之间的转换和映射操作。 | https://github.com/MapsterMapper/Mapster |
 |  3  | [Mapperly](https://github.com/riok/mapperly) | 一个.NET开源的对象映射器，无运行时反射，由于 Mapperly 在构建时创建映射代码，因此运行时的开销最小。更好的是，生成的代码完全可读，使您可以轻松验证生成的映射代码。 | https://github.com/riok/mapperly |
-|  2  | [EmitMapper](https://github.com/MetSystem/EmitMapper) | 一个.NET开源、强大的可定制工具，用于将实体相互映射。实体可以是普通对象、DataReaders、SQL命令或其他任何你需要的内容。该工具通过Emit库进行运行时代码生成。它非常适用于处理DTO对象、数据访问层等。 | https://github.com/MetSystem/EmitMapper |
-|  1  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
+|  4  | [EmitMapper](https://github.com/MetSystem/EmitMapper) | 一个.NET开源、强大的可定制工具，用于将实体相互映射。实体可以是普通对象、DataReaders、SQL命令或其他任何你需要的内容。该工具通过Emit库进行运行时代码生成。它非常适用于处理DTO对象、数据访问层等。 | https://github.com/MetSystem/EmitMapper |
+|  5  | [TinyMapper](https://github.com/TinyMapper/TinyMapper) | 一个快速的 .NET 对象映射器。 | https://github.com/TinyMapper/TinyMapper |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1465,16 +1475,16 @@
 #### .NET Redis客户端驱动库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
+|  1  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis是一个Redis客户端组件，以高性能处理大数据实时计算为目标。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。 | https://github.com/NewLifeX/NewLife.Redis |
+|  2  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
+|  3  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+、Xamarin以及 AOT。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
+|  4  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
+|  5  | [BeetleX.Redis](https://github.com/beetlex-io/BeetleX.Redis) | 一个用于.NET Core的高性能异步/非阻塞Redis客户端组件，默认数据格式化器Json、Protobuf和MessagePack，支持SSL。 | https://github.com/beetlex-io/BeetleX.Redis |
+|  6  | [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) | ServiceStack.Redis是一个.NET开发的简单、高性能且功能丰富的Redis客户端，它提供了对POCOs和复杂类型的原生支持，并提供了高级抽象，同时支持原生的同步和异步API。 | https://docs.servicestack.net/redis/ |
+|  7 |  |  |  |
 |  8  |  |  |  |
-|  7  |  |  |  |
-|  6  | [NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis) | NewLife.Redis是一个Redis客户端组件，以高性能处理大数据实时计算为目标。支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量。 | https://github.com/NewLifeX/NewLife.Redis |
-|  5  | [csredis](https://github.com/2881099/csredis) | .NET Core或.NET Framework 4.0+ Redis客户端，用于Redis、Redis Sentinel（2.8）和Cluster。包括同步和异步客户端。 | https://github.com/2881099/csredis |
-|  4  | [FreeRedis](https://github.com/2881099/FreeRedis) | 基于.NET的Redis客户端，支持 .NET Core 2.1+、.NET Framework 4.0+、Xamarin以及 AOT。它支持集群、哨兵、主从、发布订阅、Lua脚本、管道、事务、流、客户端缓存以及连接池等功能。 | https://github.com/2881099/FreeRedis |
-|  3  | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) | StackExchange.Redis是一个基于.NET的高性能Redis客户端，提供了完整的Redis数据库功能支持，并且具有多节点支持、异步编程模型、Redis集群支持等特性，使得与Redis数据库的交互更加灵活、高效。 | https://github.com/StackExchange/StackExchange.Redis |
-|  2  | [BeetleX.Redis](https://github.com/beetlex-io/BeetleX.Redis) | 一个用于.NET Core的高性能异步/非阻塞Redis客户端组件，默认数据格式化器Json、Protobuf和MessagePack，支持SSL。 | https://github.com/beetlex-io/BeetleX.Redis |
-|  1  | [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) | ServiceStack.Redis是一个.NET开发的简单、高性能且功能丰富的Redis客户端，它提供了对POCOs和复杂类型的原生支持，并提供了高级抽象，同时支持原生的同步和异步API。 | https://docs.servicestack.net/redis/ |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1482,17 +1492,12 @@
 #### .NET的OCR工具类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  6  |  |  |  |
-|  5  |  |  |  |
+|  1  | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | 百度飞桨PaddleOCR .NET调用库，PaddleInference C API 提供的 .NET 包装，支持 Windows(x64) ，基于NVIDIA Cuda 10.2+ 的 GPU  和 Linux(Ubuntu-22.04 x64)。 | https://github.com/sdcb/PaddleSharp |
+|  2  | [PaddleOCRSharp](https://gitee.com/raoyutian/paddle-ocrsharp) | PaddleOCRSharp 是一个基于百度飞桨PaddleOCR的.NET版本OCR工具类库。项目核心组件PaddleOCR.dll,由C++编写，根据百度飞桨PaddleOCR的C++代码修改并优化而成。目前已经支持C++、.NET、Python、Golang、Rust等开发语言的直接API接口调用。项目包含文本识别、文本检测、表格识别功能。本项目针对小图识别不准的情况下做了优化，比飞桨原代码识别准确率有所提高。包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持中英文、纯英文以及多种语言文本检测识别。 | https://gitee.com/raoyutian/paddle-ocrsharp |
+|  3 |  |  |  |
 |  4  |  |  |  |
-|  3  |  |  |  |
-|  2  | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | 百度飞桨PaddleOCR .NET调用库，PaddleInference C API 提供的 .NET 包装，支持 Windows(x64) ，基于NVIDIA Cuda 10.2+ 的 GPU  和 Linux(Ubuntu-22.04 x64)。 | https://github.com/sdcb/PaddleSharp |
-|  1  | [PaddleOCRSharp](https://gitee.com/raoyutian/paddle-ocrsharp) | PaddleOCRSharp 是一个基于百度飞桨PaddleOCR的.NET版本OCR工具类库。项目核心组件PaddleOCR.dll,由C++编写，根据百度飞桨PaddleOCR的C++代码修改并优化而成。目前已经支持C++、.NET、Python、Golang、Rust等开发语言的直接API接口调用。项目包含文本识别、文本检测、表格识别功能。本项目针对小图识别不准的情况下做了优化，比飞桨原代码识别准确率有所提高。包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持中英文、纯英文以及多种语言文本检测识别。 | https://gitee.com/raoyutian/paddle-ocrsharp |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1500,12 +1505,12 @@
 #### .NET敏感词检测组件库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。 | https://github.com/toolgood/ToolGood.Words |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1513,12 +1518,14 @@
 #### .NET汉字拼音转化类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
+|  1  | [ToolGood.Words.Pinyin](https://github.com/toolgood/ToolGood.Words.Pinyin) | 一款.NET开源的、高性能的拼音字母转化类库。 | https://github.com/toolgood/ToolGood.Words.Pinyin |
+|  2  | [PinYinConverterCore](https://github.com/netcorepal/PinYinConverterCore) | PinYinConverterCore是一个.NET Core开源的，提供了将简体中文转换为拼音的功能，并封装了汉字的读音、笔画等基本信息。 | https://github.com/netcorepal/PinYinConverterCore |
+|  3  | [ChineseToPinyin](https://github.com/newMoonxx/ChineseToPinyin) | 汉字转拼音，自适应多音字处理、姓名自动切分C++、C#、QT、JS。 | https://github.com/newMoonxx/ChineseToPinyin |
+|  4  | [Pinyin4NET](https://gitee.com/hyjiacan/Pinyin4Net) | .NET开源的汉字转拼音类库(含姓名拼音独立接口)，提供了简单的调用接口和通过拼音查询汉字的接口。 | https://gitee.com/hyjiacan/Pinyin4Net |
 |  5  |  |  |  |
-|  4  | [ToolGood.Words.Pinyin](https://github.com/toolgood/ToolGood.Words.Pinyin) | 一款.NET开源的、高性能的拼音字母转化类库。 | https://github.com/toolgood/ToolGood.Words.Pinyin |
-|  3  | [PinYinConverterCore](https://github.com/netcorepal/PinYinConverterCore) | PinYinConverterCore是一个.NET Core开源的，提供了将简体中文转换为拼音的功能，并封装了汉字的读音、笔画等基本信息。 | https://github.com/netcorepal/PinYinConverterCore |
-|  2  | [ChineseToPinyin](https://github.com/newMoonxx/ChineseToPinyin) | 汉字转拼音，自适应多音字处理、姓名自动切分C++、C#、QT、JS。 | https://github.com/newMoonxx/ChineseToPinyin |
-|  1  | [Pinyin4NET](https://gitee.com/hyjiacan/Pinyin4Net) | .NET开源的汉字转拼音类库(含姓名拼音独立接口)，提供了简单的调用接口和通过拼音查询汉字的接口。 | https://gitee.com/hyjiacan/Pinyin4Net |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1526,12 +1533,12 @@
 #### .NET枚举工具类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) | Enums.NET 是一个高性能、类型安全的 .NET 枚举工具库。 | https://github.com/TylerBrinkley/Enums.NET |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1539,16 +1546,16 @@
 #### .NET电子邮件处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
-|  6  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit是一个跨平台、开源（MIT License）、免费的.NET邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件，并且它还提供了对SMTP、POP3和IMAP协议的全面支持。 | https://github.com/jstedfast/MailKit |
-|  5  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
+|  1  | [PreMailer.Net ](https://github.com/milkshakesoftware/PreMailer.Net)| PreMailer.Net 是一个用于电子邮件的C#库，它将样式表转换为内联样式属性，以增强与各种电子邮件客户端的兼容性。 | https://github.com/milkshakesoftware/PreMailer.Net |
+|  2  | [MailKit](https://github.com/jstedfast/MailKit) | MailKit是一个跨平台、开源（MIT License）、免费的.NET邮件处理库，提供强大的 API，用于发送、接收和处理电子邮件，并且它还提供了对SMTP、POP3和IMAP协议的全面支持。 | https://github.com/jstedfast/MailKit |
+|  3  | [FluentEmail](https://github.com/lukencode/FluentEmail) | FluentEmail 是一个用于 .NET 和 .NET Core 的电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。该项目支持使用 Razor 模板来创建电子邮件内容，并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 | https://github.com/lukencode/FluentEmail |
 |  4  | [MimeKit](https://github.com/jstedfast/MimeKit) | 一个简单、高效的.NET电子邮件处理库，该项目针对MIME（多用途邮件扩展）消息创建与解析，简单易用、可用于消息解析、消息创建、消息修改和消息发送，还支持加密与签名功能。 | https://github.com/jstedfast/MimeKit |
-|  3  | [SendGrid-CSharp](https://github.com/sendgrid/sendgrid-csharp) | 一个用于发送电子邮件的 C# 库，特别是用于与 SendGrid 邮件服务进行集成。SendGrid 是一个流行的电子邮件服务提供商，它允许开发人员通过 API 方式发送电子邮件，管理收件箱，跟踪电子邮件的发送和接收情况等。 | https://github.com/sendgrid/sendgrid-csharp |
-|  2  | [StrongGrid](https://github.com/Jericho/StrongGrid) | StrongGrid项目通过提供强类型API访问、全面的资源管理、webhook解析和IP地址预热功能，为SendGrid用户提供了一个功能强大且易于使用的C#库。 | https://github.com/Jericho/StrongGrid |
-|  1  | [MailKitSimplified](https://github.com/danzuep/MailKitSimplified) | MailKitSimplified项目为.NET开发者提供了一个简化的电子邮件发送和接收解决方案，通过封装MailKit的复杂性，使得常见的电子邮件操作变得更加直观和易于使用。 | https://github.com/danzuep/MailKitSimplified |
+|  5  | [SendGrid-CSharp](https://github.com/sendgrid/sendgrid-csharp) | 一个用于发送电子邮件的 C# 库，特别是用于与 SendGrid 邮件服务进行集成。SendGrid 是一个流行的电子邮件服务提供商，它允许开发人员通过 API 方式发送电子邮件，管理收件箱，跟踪电子邮件的发送和接收情况等。 | https://github.com/sendgrid/sendgrid-csharp |
+|  6  | [StrongGrid](https://github.com/Jericho/StrongGrid) | StrongGrid项目通过提供强类型API访问、全面的资源管理、webhook解析和IP地址预热功能，为SendGrid用户提供了一个功能强大且易于使用的C#库。 | https://github.com/Jericho/StrongGrid |
+|  7  | [MailKitSimplified](https://github.com/danzuep/MailKitSimplified) | MailKitSimplified项目为.NET开发者提供了一个简化的电子邮件发送和接收解决方案，通过封装MailKit的复杂性，使得常见的电子邮件操作变得更加直观和易于使用。 | https://github.com/danzuep/MailKitSimplified |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1556,12 +1563,12 @@
 #### .NET中文分词类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [jieba.NET](https://github.com/anderscui/jieba.NET) | jieba中文分词的.NET版本类库（支持.NET Framework与.NET Core）。 | https://github.com/anderscui/jieba.NET |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1569,12 +1576,12 @@
 #### .NET开源模拟库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [moq](https://github.com/devlooped/moq) | Moq（读作 "Mock-you "或 "Mock"）是唯一一个从零开始开发的.NET模拟库，它充分利用了.NET Linq表达式树和lambda表达式的优势，使其成为目前最高效、类型安全和重构友好的模拟库。它还支持模拟接口和类。它的 API 非常简单直接，不需要任何有关模拟概念的知识或经验。 | https://github.com/devlooped/moq |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1582,12 +1589,12 @@
 #### .NET分布式ID生成库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [IdGenerator](https://github.com/yitter/idgenerator) | IdGenerator是一个全面的分布式主键ID生成器，使用的是优化的雪花算法（SnowFlake）雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 | https://github.com/yitter/idgenerator |
+|  2  | [snowflake-net](https://github.com/stulzq/snowflake-net) | Twitter的分布式全局唯一ID算法，雪花（snowflake）算法。支持.NET Core 2.0。 | https://github.com/stulzq/snowflake-net |
 |  3  |  |  |  |
-|  2  | [IdGenerator](https://github.com/yitter/idgenerator) | IdGenerator是一个全面的分布式主键ID生成器，使用的是优化的雪花算法（SnowFlake）雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 | https://github.com/yitter/idgenerator |
-|  1  | [snowflake-net](https://github.com/stulzq/snowflake-net) | Twitter的分布式全局唯一ID算法，雪花（snowflake）算法。支持.NET Core 2.0。 | https://github.com/stulzq/snowflake-net |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1595,16 +1602,16 @@
 #### EF/EF Core扩展类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
+|  1  | [Entity Framework Plus](https://github.com/zzzprojects/EntityFramework-Plus) | Entity Framework Plus是一个开源、免费（MIT License）、功能强大的 Entity Framework（EF）和 Entity Framework Core（EF Core） 扩展库，旨在提升 Entity Framework 的性能和克服其局限性。通过提供一系列实用的功能，如批量操作、查询缓存、查询延迟、LINQ动态、审计跟踪等，使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。 | https://github.com/zzzprojects/EntityFramework-Plus |
+|  2  | [MongoDB EF Core Provider](https://github.com/mongodb/mongo-efcore-provider) | 该项目是MongoDB数据库的Entity Framework Core提供程序，旨在将Entity Framework Core的功能与MongoDB数据库集成。需要.NET 8或更高版本上的Entity Framework Core 8以及MongoDB数据库服务器5.0或更高版本，最好是启用事务的配置。 | https://github.com/mongodb/mongo-efcore-provider |
+|  3  | [EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers) | EfCoreTriggers是使用 EFCore 模型构建器编写本机 SQL 触发器的库。触发器会自动转换为 sql 并添加到迁移中。 | https://github.com/win7user10/Laraue.EfCoreTriggers |
+|  4  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
+|  5  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
+|  6  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
 |  7  |  |  |  |
-|  6  | [Entity Framework Plus](https://github.com/zzzprojects/EntityFramework-Plus) | Entity Framework Plus是一个开源、免费（MIT License）、功能强大的 Entity Framework（EF）和 Entity Framework Core（EF Core） 扩展库，旨在提升 Entity Framework 的性能和克服其局限性。通过提供一系列实用的功能，如批量操作、查询缓存、查询延迟、LINQ动态、审计跟踪等，使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。 | https://github.com/zzzprojects/EntityFramework-Plus |
-|  5  | [MongoDB EF Core Provider](https://github.com/mongodb/mongo-efcore-provider) | 该项目是MongoDB数据库的Entity Framework Core提供程序，旨在将Entity Framework Core的功能与MongoDB数据库集成。需要.NET 8或更高版本上的Entity Framework Core 8以及MongoDB数据库服务器5.0或更高版本，最好是启用事务的配置。 | https://github.com/mongodb/mongo-efcore-provider |
-|  4  | [EfCoreTriggers](https://github.com/win7user10/Laraue.EfCoreTriggers) | EfCoreTriggers是使用 EFCore 模型构建器编写本机 SQL 触发器的库。触发器会自动转换为 sql 并添加到迁移中。 | https://github.com/win7user10/Laraue.EfCoreTriggers |
-|  3  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
-|  2  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
-|  1  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1612,12 +1619,12 @@
 #### Dapper扩展类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [Dommel](https://github.com/henkmollema/Dommel) | 一个C#开源（MIT License）、免费、简单易用的Dapper扩展类库，帮助.NET开发者使用Dapper的CRUD操作变得更简单。 | https://github.com/henkmollema/Dommel |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1625,12 +1632,12 @@
 #### 弹性和瞬态故障处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [Polly](https://github.com/App-vNext/Polly) | Polly 是一个 .NET 开源库，提供了弹性和瞬态故障处理功能。它允许开发人员以流畅且线程安全的方式表达诸如重试、断路器、超时和回退等策略。 Polly 可以用于通过实现重试和回退机制，使应用程序更加弹性地处理外部依赖项（如数据库和 Web 服务）的故障，它还可以用于通过实现断路器模式来防止级联故障。 | https://github.com/App-vNext/Polly |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1638,12 +1645,12 @@
 #### .NET文件压缩处理库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  |  |  |  |
-|  2  |  |  |  |
 |  1  | [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) | SharpZipLib（#ziplib，以前称为 NZipLib）是一个压缩库，它支持使用存储和 deflate 压缩方法、PKZIP 2.0 样式和 AES 加密、带有 GNU 长文件扩展名的 tar、GZip、zlib 和 raw deflate 以及 BZip2 的 Zip 文件。支持 Zip64，而尚不支持 Deflate64。它作为程序集实现（可安装在 GAC 中），因此可以很容易地合并到其他项目中（使用任何 .NET 语言）。 | https://github.com/icsharpcode/SharpZipLib |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1651,16 +1658,16 @@
 #### .NET HTTP客户端库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  |  |  |  |
-|  6  |  |  |  |
-|  5  | [Refit](https://github.com/reactiveui/refit) | Refit 是为 .NET Core、Xamarin 和 .NET 设计的自动类型安全的 REST 库。它深受 Square 的 Retrofit 库的启发，将你的 REST API 转换成一个实时接口。 | https://github.com/reactiveui/refit |
-|  4  | [RestSharp](https://github.com/restsharp/RestSharp) | RestSharp 是一个开源的、跨平台的轻量级 .NET 库，它专注于简化与 RESTful Web 服务的交互。RestSharp 提供了一种直观且高效的方式来执行 CRUD（创建、读取、更新和删除）操作，从而轻松与任何 RESTful API 进行通信。作为与 RESTful API 交互的流行选择，RestSharp 允许开发者发出 HTTP 请求并解析响应，无需手动处理底层的 HTTP 细节。 | https://github.com/restsharp/RestSharp |
+|  1  | [Refit](https://github.com/reactiveui/refit) | Refit 是为 .NET Core、Xamarin 和 .NET 设计的自动类型安全的 REST 库。它深受 Square 的 Retrofit 库的启发，将你的 REST API 转换成一个实时接口。 | https://github.com/reactiveui/refit |
+|  2  | [RestSharp](https://github.com/restsharp/RestSharp) | RestSharp 是一个开源的、跨平台的轻量级 .NET 库，它专注于简化与 RESTful Web 服务的交互。RestSharp 提供了一种直观且高效的方式来执行 CRUD（创建、读取、更新和删除）操作，从而轻松与任何 RESTful API 进行通信。作为与 RESTful API 交互的流行选择，RestSharp 允许开发者发出 HTTP 请求并解析响应，无需手动处理底层的 HTTP 细节。 | https://github.com/restsharp/RestSharp |
 |  3  | [Flurl](https://github.com/tmenier/Flurl) | Flurl是一个.NET开源（MIT License）、免费、集现代性、流畅性、异步性、可测试性、可移植性于一身的URL构建器与HTTP客户端库。它提供了简洁的API，使得HTTP请求的发送与URL的构建变得极为简单与直观。无论是构建复杂的URL路径，还是设置查询参数、请求头或认证信息，Flurl都能以几乎零学习成本的方式实现。 | https://github.com/tmenier/Flurl |
-|  2  | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | 一个.NET开源的、在功能、性能和可扩展性均优于 refit 的 REST API 库，集高性能高可扩展性于一体的声明式HTTP客户端库，特别适用于微服务的RestFul资源请求，也适用于各种畸形HTTP接口请求。 | https://github.com/dotnetcore/WebApiClient |
-|  1  | [EasyHttp](https://github.com/EasyHttp/EasyHttp) | 一个.NET开源的、易于使用的 HTTP 客户端。 | https://github.com/EasyHttp/EasyHttp |
+|  4  | [WebApiClient](https://github.com/dotnetcore/WebApiClient) | 一个.NET开源的、在功能、性能和可扩展性均优于 refit 的 REST API 库，集高性能高可扩展性于一体的声明式HTTP客户端库，特别适用于微服务的RestFul资源请求，也适用于各种畸形HTTP接口请求。 | https://github.com/dotnetcore/WebApiClient |
+|  5  | [EasyHttp](https://github.com/EasyHttp/EasyHttp) | 一个.NET开源的、易于使用的 HTTP 客户端。 | https://github.com/EasyHttp/EasyHttp |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1668,16 +1675,16 @@
 #### 控制台应用帮助库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
+|  1  | [ConsoleControl](https://github.com/dwmkerr/consolecontrol) | ConsoleControl是一个C#类库，允许您在WinForms或WPF应用程序中嵌入控制台。此控制台可用于流程的输入和输出。它非常适合制作工具和实用程序。 | https://github.com/dwmkerr/consolecontrol |
+|  2  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
+|  3  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | Spectre.Console是一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
+|  4  | [Colorful.Console](https://github.com/tomakita/Colorful.Console) | Colorful.Console是一个为C#开发者设计的、用于增强控制台应用程序样式和颜色功能的实用库。它简化了样式和颜色的应用过程，使得控制台应用程序的界面更加美观和用户友好。 | https://github.com/tomakita/Colorful.Console |
+|  5  | [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) | ConsoleTables是一个.NET开源的类库，能够将对象数据以表格形式输出到控制台，提高数据的可读性和展示效果。 | https://github.com/khalidabuhakmeh/ConsoleTables |
+|  6  | [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) | 一个功能强大、易于使用的.NET库，它允许开发者在控制台应用程序中轻松地可视化长时间运行的任务进度，支持样式定制、并发任务可视化等高级功能。 | https://github.com/Mpdreamz/shellprogressbar |
 |  7  |  |  |  |
-|  6  | [ConsoleControl](https://github.com/dwmkerr/consolecontrol) | ConsoleControl是一个C#类库，允许您在WinForms或WPF应用程序中嵌入控制台。此控制台可用于流程的输入和输出。它非常适合制作工具和实用程序。 | https://github.com/dwmkerr/consolecontrol |
-|  5  | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) | Terminal.Gui是一个跨平台（Windows、Mac 和 Linux/Unix ）、开源（遵循 MIT License）、免费的用于为.NET、.NET Core和Mono构建丰富功能的控制台应用程序的工具包，并且该工具包适用于需要强交互性的场景。 | https://github.com/gui-cs/Terminal.Gui |
-|  4  | [Spectre.Console](https://github.com/spectreconsole/spectre.console) | Spectre.Console是一个.NET开源且免费的类库帮你轻松的创建漂亮、美观的.NET控制台应用程序。 | https://github.com/spectreconsole/spectre.console |
-|  3  | [Colorful.Console](https://github.com/tomakita/Colorful.Console) | Colorful.Console是一个为C#开发者设计的、用于增强控制台应用程序样式和颜色功能的实用库。它简化了样式和颜色的应用过程，使得控制台应用程序的界面更加美观和用户友好。 | https://github.com/tomakita/Colorful.Console |
-|  2  | [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) | ConsoleTables是一个.NET开源的类库，能够将对象数据以表格形式输出到控制台，提高数据的可读性和展示效果。 | https://github.com/khalidabuhakmeh/ConsoleTables |
-|  1  | [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) | 一个功能强大、易于使用的.NET库，它允许开发者在控制台应用程序中轻松地可视化长时间运行的任务进度，支持样式定制、并发任务可视化等高级功能。 | https://github.com/Mpdreamz/shellprogressbar |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1685,12 +1692,12 @@
 #### .NET开源搜索组件库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) | Elasticsearch 的 .NET 客户端为 Elasticsearch API 提供强类型请求和响应。它将协议处理委托给 Elastic.Transport 库，该库负责处理所有传输级别问题（HTTP 连接建立和池化、重试等）。 | https://github.com/elastic/elasticsearch-net |
+|  1  | [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) | Elasticsearch 的 .NET 客户端为 Elasticsearch API 提供强类型请求和响应。它将协议处理委托给 Elastic.Transport 库，该库负责处理所有传输级别问题（HTTP 连接建立和池化、重试等）。 | https://github.com/elastic/elasticsearch-net |
 |  2  | [Lucene.NET](https://github.com/apache/lucenenet) | Lucene.NET 是一个用 C# 编写的开源全文搜索库，它是流行的 Java Apache Lucene 项目的移植版本。该库为 .NET 平台提供了强大的索引和搜索功能，以及拼写检查、命中高亮和高级分析/分词能力。 | https://github.com/apache/lucenenet |
-|  1  | [SolrNet](https://github.com/SolrNet/SolrNet) | SolrNet 是一个针对 .NET 平台的 Apache Solr 和 SolrCloud 客户端库。SolrNet 并没有尝试对 Solr 进行太多的抽象，而是假设您知道什么是 Solr 以及如何使用它，就像您在使用 ORM 之前需要了解关系数据库一样。 | https://github.com/SolrNet/SolrNet |
+|  3  | [SolrNet](https://github.com/SolrNet/SolrNet) | SolrNet 是一个针对 .NET 平台的 Apache Solr 和 SolrCloud 客户端库。SolrNet 并没有尝试对 Solr 进行太多的抽象，而是假设您知道什么是 Solr 以及如何使用它，就像您在使用 ORM 之前需要了解关系数据库一样。 | https://github.com/SolrNet/SolrNet |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1698,26 +1705,26 @@
 #### 其他第三方SDK&类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-| 20  |  |  |  |
-| 19  |  |  |  |
-| 18  |  |  |  |
-| 17  |  |  |  |
-| 16  |  |  |  |
-| 15  |  |  |  |
-| 14  |  |  |  |
-| 13  | [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) | 该项目是一个适用于 .NET 的开源多租户中间件库。它支持租户解析、每租户应用程序行为和每租户数据隔离。 | https://github.com/Finbuckle/Finbuckle.MultiTenant |
-| 12  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
-| 11  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
-| 10  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
-|  9  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
-|  8  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
+|  1  | [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) | 该项目是一个适用于 .NET 的开源多租户中间件库。它支持租户解析、每租户应用程序行为和每租户数据隔离。 | https://github.com/Finbuckle/Finbuckle.MultiTenant |
+|  2  | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging) | 该项目是一个开源的.NET Core CLI命令行扩展库，可以轻松为 .NET Core 应用程序创建部署包（例如 .zip 文件、tarball 或安装程序）。 | https://github.com/quamotion/dotnet-packaging |
+|  3  | [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) | 一个Blazor状态管理库，利用 MediatR 管道来实现 Flux 模式。 | https://github.com/TimeWarpEngineering/blazor-state |
+|  4  | [prometheus-net](https://github.com/prometheus-net/prometheus-net) | 一个.NET开源类库用于将Prometheus监控指标集成到.NET应用程序中。 | https://github.com/prometheus-net/prometheus-net |
+|  5  | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | Docker API 的 .NET (C#) 客户端库。 | https://github.com/dotnet/Docker.DotNet |
+|  6  | [TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab) | 一个 .NET 全能 Cron 表达式解析类库，支持 Cron 所有特性。 | https://gitee.com/dotnetchina/TimeCrontab |
 |  7  | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | 一个 C# 架构测试库，用于在 C# 中指定和断言架构规则，以进行自动测试。 | https://github.com/TNG/ArchUnitNET |
-|  6  | [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) | Alipay SDK for .NET，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。 | https://github.com/alipay/alipay-sdk-net-all |
-|  5  | [sentry-dotnet](https://github.com/dotNetTreasury/sentry-dotnet) | Sentry SDK for .NET。 | https://github.com/dotNetTreasury/sentry-dotnet |
-|  4  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
-|  3  | [FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | [FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) |
-|  2  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
-|  1  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
+|  8  | [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) | Alipay SDK for .NET，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。 | https://github.com/alipay/alipay-sdk-net-all |
+|  9  | [sentry-dotnet](https://github.com/dotNetTreasury/sentry-dotnet) | Sentry SDK for .NET。 | https://github.com/dotNetTreasury/sentry-dotnet |
+|  10  | [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) | Azure SDK for .NET是一组用于.NET开发人员的库和工具，可帮助他们轻松地在Azure云中构建、部署和管理应用程序。该项目为开发人员提供了访问Azure服务所需的一切功能、API和工具，包括对云中常见任务的支持，如虚拟机、存储、网络、应用程序服务、容器等。此项目的主要目的是简化.NET开发人员与Azure云交互的过程，并提高其效率。通过使用Azure SDK for .NET，开发人员可以更快速、更轻松地将应用程序部署到Azure云中，从而实现更快的上线时间和更高的生产力。 | https://github.com/Azure/azure-sdk-for-net |
+|  11  | [FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) | 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。 | [FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) |
+|  12  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
+|  13  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
+|  14  |  |  |  |
+|  15  |  |  |  |
+|  16  |  |  |  |
+|  17  |  |  |  |
+|  18  |  |  |  |
+|  19  |  |  |  |
+|  20  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1727,22 +1734,26 @@
 #### Blazor UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  16 |  |  |  |
+|  1 | [DevExpress UI for Blazor](https://github.com/DevExpress/Blazor) | DevExpress UI for Blazor附带了原生和高性能的UI组件，包括Grid、Pivot Grid、Excel、Charts和Data Editor。这些组件可以帮助您为Blazor Server和Blazor WebAssembly托管模型创建直观和精致的用户体验。 | https://github.com/DevExpress/Blazor |
+|  2 | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。 | https://github.com/erossini/BlazorChartjs |
+|  3 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
+|  4 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
+|  5 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
+|  6  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和Blazor的开源（MIT License）、免费的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
+|  7  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
+|  8  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
+|  9  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
+|  10  | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise 是用于Blazor的 UI 组件库，支持使用Bootstrap、Tailwind、Bulma、Ant Design 和 Material 等 CSS 框架，可用于构建响应式的单页 Web 应用程序。 | https://blazorise.com/docs |
+|  11 | [Microsoft Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor是一个基于Blazor的组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。 | https://www.fluentui-blazor.net/ |
+|  12 | [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) | Radzen Blazor 是一个包含70多个免费的原生 Blazor UI 组件的集合，其中包括 DataGrid、Scheduler、Charts 等功能强大的组件，并提供了丰富的主题样式，包括 Material Design 和 FluentUI。可以将 Radzen Blazor 视为一个用于构建 Blazor 应用程序的 UI 框架，它提供了一系列预构建的组件和工具，帮助开发人员快速搭建和定制自己的应用程序界面。 | https://github.com/radzenhq/radzen-blazor |
+|  13 | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
+|  14 | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
 |  15 |  |  |  |
-|  14 | [DevExpress UI for Blazor](https://github.com/DevExpress/Blazor) | DevExpress UI for Blazor附带了原生和高性能的UI组件，包括Grid、Pivot Grid、Excel、Charts和Data Editor。这些组件可以帮助您为Blazor Server和Blazor WebAssembly托管模型创建直观和精致的用户体验。 | https://github.com/DevExpress/Blazor |
-|  13 | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。 | https://github.com/erossini/BlazorChartjs |
-|  12 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
-|  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
-|  10 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
-|  9  | [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) | Ant Design Blazor是一套基于Ant Design和Blazor的开源（MIT License）、免费的企业级组件库（喜欢Ant Design风格的同学推荐使用）。 | https://antblazor.com/zh-CN/docs/introduce |
-|  8  | [MatBlazor](https://github.com/SamProf/MatBlazor) | MatBlazor是一套基于Material Design规范实现的Blazor和Razor通用组件库。 | https://github.com/SamProf/MatBlazor |
-|  7  | [BootstrapBlazor](https://gitee.com/LongbowEnterprise/BootstrapBlazor) | BootstrapBlazor是一套基于 Bootstrap 和 Blazor 的企业级组件库，可以认为是 Bootstrap 项目的 Blazor 版实现。基于 Bootstrap 样式库精心打造，并且额外增加了 100 多种常用的组件，为您快速开发项目带来非一般的感觉（喜欢Bootstrap风格的同学推荐使用）。 | https://gitee.com/LongbowEnterprise/BootstrapBlazor |
-|  6  | [MudBlazor](https://github.com/MudBlazor/MudBlazor) | MudBlazor是一个基于Material Design的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于 MudBlazor 完全使用C#编写，因此您可以自由地调整、修复或扩展该框架。文档中有大量示例代码，使理解和学习 MudBlazor 非常容易。 | https://mudblazor.com/docs/overview |
-|  5  | [Blazorise](https://github.com/Megabit/Blazorise) | Blazorise 是用于Blazor的 UI 组件库，支持使用Bootstrap、Tailwind、Bulma、Ant Design 和 Material 等 CSS 框架，可用于构建响应式的单页 Web 应用程序。 | https://blazorise.com/docs |
-|  4  | [Microsoft Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor是一个基于Blazor的组件库，提供了一系列的UI组件以及Fluent UI的设计系统。该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，可以实现高效而灵活的单页应用程序开发。 | https://www.fluentui-blazor.net/ |
-|  3  | [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) | Radzen Blazor 是一个包含70多个免费的原生 Blazor UI 组件的集合，其中包括 DataGrid、Scheduler、Charts 等功能强大的组件，并提供了丰富的主题样式，包括 Material Design 和 FluentUI。可以将 Radzen Blazor 视为一个用于构建 Blazor 应用程序的 UI 框架，它提供了一系列预构建的组件和工具，帮助开发人员快速搭建和定制自己的应用程序界面。 | https://github.com/radzenhq/radzen-blazor |
-|  2  | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)| 基于Material设计规范和BlazorComponent的交互能力提供标准的基础组件库。提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件。从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。 | https://docs.masastack.com/blazor/getting-started/installation |
-|  1  | [BlazorStrap](https://github.com/chanan/BlazorStrap) | BlazorStrap是一个基于 Bootstrap 的 Blazor 的 UI 组件库，BlazorStrap的组件也支持响应式布局、主题定制以及多语言支持等功能，可以帮助开发者快速搭建出美观、易用的 Web 应用程序。 | https://getbootstrap.com/docs/5.1/getting-started/introduction/ |
+|  16 |  |  |  |
+|  17 |  |  |  |
+|  18 |  |  |  |
+|  19 |  |  |  |
+|  20 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1750,22 +1761,26 @@
 #### WPF UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  16 |  |  |  |
-|  15 |  |  |  |
-|  14 |  |  |  |
-|  13 | [ModernWpf](https://github.com/Kinnara/ModernWpf) | 一款开源（MIT License）、免费、现代化风格的WPF UI控件库。 | https://github.com/Kinnara/ModernWpf |
-|  12 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
-|  11 | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI是一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
-|  10 | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
-|  9  | [Adonis UI](https://github.com/benruehl/adonis-ui) | 为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
-|  8  | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
+|  1 | [ModernWpf](https://github.com/Kinnara/ModernWpf) | 一款开源（MIT License）、免费、现代化风格的WPF UI控件库。 | https://github.com/Kinnara/ModernWpf |
+|  2 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
+|  3 | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI是一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
+|  4 | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
+|  5  | [Adonis UI](https://github.com/benruehl/adonis-ui) | 为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
+|  6  | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  7  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 一个开源、易于使用、强大的 WPF UI 控件库，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | http://materialdesigninxaml.net |
-|  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
-|  5  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
-|  4  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
-|  3  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
-|  2  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
-|  1  | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
+|  8  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
+|  9  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
+|  10  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
+|  11  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
+|  12  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
+|  13  | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
+|  14 |  |  |  |
+|  15 |  |  |  |
+|  16 |  |  |  |
+|  17 |  |  |  |
+|  18 |  |  |  |
+|  19 |  |  |  |
+|  20 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1773,16 +1788,21 @@
 #### WinForm UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10 |  |  |  |
-|  9  |  |  |  |
-|  8  |  |  |  |
-|  7  | [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) | 一个基于Google 的 Material Design 风格开源、免费的.NET WinForms UI控件库。 | https://github.com/IgnaceMaes/MaterialSkin |
-|  6  | [DarkUI](https://github.com/RobinPerris/DarkUI) | 这是一个为.NET WinForms开发的深色主题控件和停靠功能库，旨在帮助开发者创建具有现代和专业外观的应用程序界面。 | https://github.com/RobinPerris/DarkUI |
-|  5  | [AntdUI](https://gitee.com/antdui/AntdUI) | 一款基于Ant Design设计语言、开源（Apache License）的WinForm UI界面库。 | https://gitee.com/antdui/AntdUI |
+|  1  | [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) | 一个基于Google 的 Material Design 风格开源、免费的.NET WinForms UI控件库。 | https://github.com/IgnaceMaes/MaterialSkin |
+|  2  | [DarkUI](https://github.com/RobinPerris/DarkUI) | 这是一个为.NET WinForms开发的深色主题控件和停靠功能库，旨在帮助开发者创建具有现代和专业外观的应用程序界面。 | https://github.com/RobinPerris/DarkUI |
+|  3  | [AntdUI](https://gitee.com/antdui/AntdUI) | 一款基于Ant Design设计语言、开源（Apache License）的WinForm UI界面库。 | https://gitee.com/antdui/AntdUI |
 |  4  | [ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) | ReaLTaiizor是一个开源免费的.NET WinForms控件库，它提供了广泛的组件和丰富的主题选项（用户友好、注重设计），让用户可以轻松创建美观、专业的桌面应用程序。 | https://github.com/Taiizor/ReaLTaiizor |
-|  3  | [HZHControls](https://github.com/kwwwvagaa/NetWinformControl) | .NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
-|  2  | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 | https://github.com/yhuse/SunnyUI |
-|  1  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI是一个开源、免费（MIT License）的 .NET 项目，它适用于希望使用HTML5、CSS3和JavaScript等前端技术来构建Windows窗体应用用户界面的.NET/.NET Core开发人员。 | https://github.com/XuanchenLin/NanUI |
+|  5  | [HZHControls](https://github.com/kwwwvagaa/NetWinformControl) | .NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中。 | https://github.com/kwwwvagaa/NetWinformControl |
+|  6  | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 | https://github.com/yhuse/SunnyUI |
+|  7  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI是一个开源、免费（MIT License）的 .NET 项目，它适用于希望使用HTML5、CSS3和JavaScript等前端技术来构建Windows窗体应用用户界面的.NET/.NET Core开发人员。 | https://github.com/XuanchenLin/NanUI |
+|  8 |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1790,21 +1810,21 @@
 #### Avalonia UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  15  |  |  |  |
-|  14  |  |  |  |
-|  13  |  |  |  |
-|  12  |  |  |  |
+|  1  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
+|  2  | [AtomUI](https://github.com/chinware/AtomUI) | 一个基于Ant Design 5.0和Avalonia技术的跨平台UI控件库。 | https://github.com/chinware/AtomUI |
+|  3  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
+|  4  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
+|  5  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
+|  6  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
+|  7  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
+|  8  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
+|  9  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
+|  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
 |  11  |  |  |  |
-|  10  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
-|  9  | [AtomUI](https://github.com/chinware/AtomUI) | 一个基于Ant Design 5.0和Avalonia技术的跨平台UI控件库。 | https://github.com/chinware/AtomUI |
-|  8  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
-|  7  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
-|  6  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
-|  5  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
-|  4  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
-|  3  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
-|  2  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
-|  1  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1812,16 +1832,21 @@
 #### MAUI UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  10  |  |  |  |
+|  1  | [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls) | 一个开源、免费的UI工具包，适用于.NET MAUI，它提供了一组控件和实用程序来构建现代移动的应用程序。 | https://github.com/FreakyAli/Maui.FreakyControls |
+|  2  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
+|  3  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
+|  4  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
+|  5  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
+|  6  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
+|  7  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
+|  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
 |  9  |  |  |  |
-|  8  | [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls) | 一个开源、免费的UI工具包，适用于.NET MAUI，它提供了一组控件和实用程序来构建现代移动的应用程序。 | https://github.com/FreakyAli/Maui.FreakyControls |
-|  7  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
-|  6  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
-|  5  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
-|  4  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
-|  3  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
-|  2  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
-|  1  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
+|  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1831,12 +1856,12 @@
 #### 设计模式
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
+|  1  | [DesignPattern.Samples.CSharp](https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp) | 23种面向对象设计模式示例代码（C#实现）。 | https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp |
+|  2  | [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) | 设计模式 C# 版（ .NET 6）。 | https://github.com/sheng-jie/Design-Pattern |
 |  3  |  |  |  |
-|  2  | [DesignPattern.Samples.CSharp](https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp) | 23种面向对象设计模式示例代码（C#实现）。 | https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp |
-|  1  | [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) | 设计模式 C# 版（ .NET 6）。 | https://github.com/sheng-jie/Design-Pattern |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1844,13 +1869,12 @@
 #### 数据结构与算法
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  6  |  |  |  |
-|  5  |  |  |  |
-|  4  |  |  |  |
-|  3  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
+|  1  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
 |  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
-|  1  | [SolutionsDesign/Algorithmia](https://github.com/SolutionsDesign/Algorithmia) | Algorithmia是一个针对.NET 4.5.2+及更高版本和.NET Standard 2.0+的算法和数据结构库。它包含了多种复杂的算法和数据结构，如图论、优先队列、命令模式、撤销重做等。 | https://github.com/SolutionsDesign/Algorithmia |
+|  3  | [SolutionsDesign/Algorithmia](https://github.com/SolutionsDesign/Algorithmia) | Algorithmia是一个针对.NET 4.5.2+及更高版本和.NET Standard 2.0+的算法和数据结构库。它包含了多种复杂的算法和数据结构，如图论、优先队列、命令模式、撤销重做等。 | https://github.com/SolutionsDesign/Algorithmia |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
 
