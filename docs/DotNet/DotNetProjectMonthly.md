@@ -481,7 +481,7 @@
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/Xi2ch4t71lBaVWfau4iZwg
 
 ### LiteDB
-* **项目简介：** LiteDB 是一个小巧、快速和轻量级的 .NET NoSQL 嵌入式数据库。
+* **项目简介：** LiteDB 是一个小巧、快速和轻量级的 .NET 开源且免费（MIT License）的 NoSQL 嵌入式数据库。
 * **项目源码地址：** https://github.com/mbdavid/LiteDB
 * **公众号详细介绍：** https://mp.weixin.qq.com/s/7enInefmI7KCUVxT_4OcoA
 
