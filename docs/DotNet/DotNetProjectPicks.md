@@ -324,7 +324,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) | AspNetCoreRateLimit是一个基于ASP.NET Core的限流框架，提供了灵活的限流功能，帮助开发人员控制和保护应用程序中的HTTP请求频率和数量。 | https://github.com/stefanprodan/AspNetCoreRateLimit |
-|  2  |  |  |  |
+|  2  | [Microsoft.AspNetCore.RateLimiting](https://github.com/dotnet/aspnetcore/tree/b12b77b241f0a093d53508c3cb2084860bd5339d/src/Middleware/RateLimiting) | Microsoft.AspNetCore.RateLimiting 中间件提供速率限制中间件。 应用可配置速率限制策略，然后将策略附加到终结点。 对于采用速率限制的应用，在部署前应仔细进行负载测试和评审。  | https://learn.microsoft.com/zh-cn/aspnet/core/performance/rate-limit?view=aspnetcore-8.0 |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -482,25 +482,25 @@
 |  4  | [BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin) | 基于Bootstrap Blazor开源的.NET通用后台权限管理系统，后台管理页面兼容所有主流浏览器，完全响应式布局（支持电脑、平板、手机等所有主流设备），可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）。 | https://gitee.com/LongbowEnterprise/BootstrapAdmin |
 |  5  | [DncZeus](https://github.com/lampo1024/DncZeus) | DncZeus是一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架。后端使用.NET 7 + Entity Framework Core 构建，UI 则是目前流行的基于 Vue.js 的 iView。项目实现了前后端的动态权限管理和控制以及基于 JWT 的用户令牌认证机制，让前后端的交互更流畅。 | https://github.com/lampo1024/DncZeus |
 |  6  | [Blog.Core](https://github.com/anjoy8/Blog.Core) | Blog.Core一个开箱即用的企业级前后端分离【ASP.NET Core 8.0 Api + Vue 2.x + RBAC】权限框架。 | http://apk.neters.club/.doc/ |
-|  7  | [Yi.Admin](https://gitee.com/ccnetcore/Yi) | YiFramework是一个基于.Net8+Abp.vNext+SqlSugar的DDD领域驱动设计后端开源框架，前端Vue3，框架三层架构\DDD领域驱动设计，内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 架构干净整洁、采用微软风格原生框架封装。 适合小中大型项目上线、.Net8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。 | https://gitee.com/ccnetcore/Yi |
-|  8  | [NetAdmin](https://github.com/nsnail/NetAdmin) | 通用后台权限管理系统、快速开发框架（基于C#12/.NET8、Vue3/Vite、Element Plus等现代技术构建，具有十分整洁、优雅的编码规范）。 | https://github.com/nsnail/NetAdmin |
-|  9  | [FytSoa Admin](https://gitee.com/feiyit/fytsoa) | FytSoa Admin 是一个快速搭建中后台解决方案，后台基于 NetCore 6 和前端 VUE3+Element+Plus 实现。使用最新的前沿技术栈，提供各类使用组件方便在业务开发时调用，并且持续性的提供丰富的业务模块，帮助你快速搭建企业级中后台任务。 | https://gitee.com/feiyit/fytsoa |
-|  10  | [Meiam.System](https://github.com/91270/Meiam.System) | .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架。 | https://github.com/91270/Meiam.System |
-|  11  | [WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud) | .NET和Layui集成的最佳实践；敏捷开发优选框架，自带权限包含字段、数据权限，自带流程表单设计，基于多数据库的多租户等。 | https://gitee.com/qian_wei_hong/WaterCloud |
-|  12  | [ZR.Admin.NET](https://gitee.com/izory/ZrAdminNetCore) | 一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多种数据库、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。 | https://gitee.com/izory/ZrAdminNetCore |
-|  13  | [OSharp](https://github.com/dotnetcore/osharp) | OSharp是一个基于.Net6.0的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net 框架更易于应用到实际项目开发中。 | https://github.com/dotnetcore/osharp |
-|  14  | [Serenity](https://github.com/serenity-is/Serenity) | Serenity 是一个 ASP.NET Core / TypeScript 应用程序平台，旨在通过基于服务的架构简化和缩短以数据为中心的业务应用程序的开发过程。它旨在通过避免模板代码、减少重复性任务所花费的时间以及应用最佳软件设计实践，使开发更轻松，同时降低维护成本。 | https://github.com/serenity-is/Serenity |
-|  15  | [AIBPM](https://github.com/leooneone/aibpm.plus) | 采用开源.NET框架中台Admin（前后端分离权限管理系统）开发的工作流/工单系统，自己实现的顺序流引擎。 | https://github.com/leooneone/aibpm.plus |
-|  16  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
-|  17 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
-|  18 | [Admin.Core](https://github.com/zhontai/Admin.Core) | Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 | https://github.com/zhontai/Admin.Core |
+|  7 | [Admin.Core](https://github.com/zhontai/Admin.Core) | Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 | https://github.com/zhontai/Admin.Core |
+|  8 | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) | YiShaAdmin基于.NET Core Web + Bootstrap开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单。 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api（基于MIT License开源，免费可商用）。 | https://github.com/liukuo362573/YiShaAdmin |
+|  9  | [Yi.Admin](https://gitee.com/ccnetcore/Yi) | YiFramework是一个基于.Net8+Abp.vNext+SqlSugar的DDD领域驱动设计后端开源框架，前端Vue3，框架三层架构\DDD领域驱动设计，内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 架构干净整洁、采用微软风格原生框架封装。 适合小中大型项目上线、.Net8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。 | https://gitee.com/ccnetcore/Yi |
+|  10  | [NetAdmin](https://github.com/nsnail/NetAdmin) | 通用后台权限管理系统、快速开发框架（基于C#12/.NET8、Vue3/Vite、Element Plus等现代技术构建，具有十分整洁、优雅的编码规范）。 | https://github.com/nsnail/NetAdmin |
+|  11  | [ZR.Admin.NET](https://gitee.com/izory/ZrAdminNetCore) | 一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多种数据库、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。 | https://gitee.com/izory/ZrAdminNetCore |
+|  12  | [FytSoa Admin](https://gitee.com/feiyit/fytsoa) | FytSoa Admin 是一个快速搭建中后台解决方案，后台基于 NetCore 6 和前端 VUE3+Element+Plus 实现。使用最新的前沿技术栈，提供各类使用组件方便在业务开发时调用，并且持续性的提供丰富的业务模块，帮助你快速搭建企业级中后台任务。 | https://gitee.com/feiyit/fytsoa |
+|  13  | [Meiam.System](https://github.com/91270/Meiam.System) | .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架。 | https://github.com/91270/Meiam.System |
+|  14  | [WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud) | .NET和Layui集成的最佳实践；敏捷开发优选框架，自带权限包含字段、数据权限，自带流程表单设计，基于多数据库的多租户等。 | https://gitee.com/qian_wei_hong/WaterCloud |
+|  15  | [OSharp](https://github.com/dotnetcore/osharp) | OSharp是一个基于.Net6.0的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net 框架更易于应用到实际项目开发中。 | https://github.com/dotnetcore/osharp |
+|  16  | [Serenity](https://github.com/serenity-is/Serenity) | Serenity 是一个 ASP.NET Core / TypeScript 应用程序平台，旨在通过基于服务的架构简化和缩短以数据为中心的业务应用程序的开发过程。它旨在通过避免模板代码、减少重复性任务所花费的时间以及应用最佳软件设计实践，使开发更轻松，同时降低维护成本。 | https://github.com/serenity-is/Serenity |
+|  17  | [AIBPM](https://github.com/leooneone/aibpm.plus) | 采用开源.NET框架中台Admin（前后端分离权限管理系统）开发的工作流/工单系统，自己实现的顺序流引擎。 | https://github.com/leooneone/aibpm.plus |
+|  18  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
 |  19 | [ApeVolo](https://github.com/xianhc/apevolo-api) | .Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台管理系统。 | https://github.com/xianhc/apevolo-api |
 |  20 | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
 |  21 | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
-|  22 | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) | YiShaAdmin基于.NET Core Web + Bootstrap开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单。 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api（基于MIT License开源，免费可商用）。 | https://github.com/liukuo362573/YiShaAdmin |
-|  23  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
-|  24  | [Known](https://gitee.com/known/Known) | Known是基于Blazor的企业级快速开发框架，低代码，跨平台，开箱即用，一处代码，多处运行。 | https://gitee.com/known/Known |
-|  25  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
+|  22  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
+|  23  | [Known](https://gitee.com/known/Known) | Known是基于Blazor的企业级快速开发框架，低代码，跨平台，开箱即用，一处代码，多处运行。 | https://gitee.com/known/Known |
+|  24  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
+|  25 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
 |  26  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  27  |  |  |  |
 |  28  |  |  |  |
@@ -1220,27 +1220,27 @@
 |  5 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
 |  6 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
 |  7 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
-|  8  | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
-|  9  | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
-|  10  | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
-|  11  | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
-|  12  | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
-|  13  | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
-|  14  | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
-|  15  | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
-|  16  | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
-|  17  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
-|  18  | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
+|  8 | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
+|  9 | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
+|  10 | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
+|  11 | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
+|  12 | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
+|  13 | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
+|  14 | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
+|  15 | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
+|  16 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
+|  17 | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
+|  18 | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
 |  19 | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
 |  20  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
 |  21 | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
 |  22 |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
 |  23 | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
-|  24  | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
+|  24 | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
 |  25 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
-|  26 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
-|  27  |  |  |  |
-|  28  |  |  |  |
+|  26 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
+|  27  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
+|  28  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
 |  29  |  |  |  |
 |  30  |  |  |  |
 
@@ -1840,7 +1840,7 @@
 |  6  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
 |  7  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
-|  9  |  |  |  |
+|  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | 一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
 |  10  |  |  |  |
 |  11  |  |  |  |
 |  12  |  |  |  |
