@@ -819,7 +819,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Garnet](https://github.com/microsoft/garnet) | Garnet是一款由微软研究院基于.NET开源的高性能、跨平台的分布式缓存存储数据库，该项目提供强大的性能（吞吐量和延迟）、可扩展性、存储、恢复、集群分片、密钥迁移和复制功能。并且无需做任何修改可以与现有的 Redis 客户端配合使用。 | https://microsoft.github.io/garnet/docs |
-|  2  | [LiteDB](https://github.com/mbdavid/LiteDB) | LiteDB 一个小巧、快速、轻量级的 NoSQL 嵌入式数据库。 | https://github.com/mbdavid/LiteDB |
+|  2  | [LiteDB](https://github.com/mbdavid/LiteDB) | LiteDB 是一个小巧、快速和轻量级的 .NET 开源且免费（MIT License）的 NoSQL 嵌入式数据库。 | https://github.com/mbdavid/LiteDB |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
