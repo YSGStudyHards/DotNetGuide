@@ -545,11 +545,11 @@
 #### 仓库管理系统（WMS）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  1  | [WMS（智能仓储配送平台）](https://github.com/qq283335746/Wms) | WMS（智能仓储配送平台），一个具有后端+前端+移动/PDA端的项目。 | https://github.com/qq283335746/Wms |
-|  2  | [SmoWMS](https://github.com/comsmobiler/SmoWMS) | SmoWMS仓库管理系统，移动端APP开源项目，支持Android、iOS，基于.NET（C#、VB）。SmoWMS仓库管理系统包含了仓库管理、订单、主数据维护、图表分析、个人信息等几大功能。 | https://github.com/comsmobiler/SmoWMS |
-|  3  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
-|  4   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
-|  5   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
+|  1   | [KopSoftWms](https://github.com/lysilver/KopSoftWms) |   KopSoftWms是.NET开源免费的WMS仓库管理系统。    | https://github.com/lysilver/KopSoftWms |
+|  2   |  [ModernWMS](https://github.com/fjykTec/ModernWMS)   | ModernWMS库存管理系统是我们从多年ERP系统研发中总结出来的一套针对小型物流仓储供应链流程。在工作过程中我们很多的中小企业，由于IT预算有限，所以无法用上适合他们的系统，却又实实在在存在仓储管理方面的需求，以此我们开始了这个项目。为了帮助一些有需要的用户。 |https://github.com/fjykTec/ModernWMS|
+|  3  | [WMS（智能仓储配送平台）](https://github.com/qq283335746/Wms) | WMS（智能仓储配送平台），一个具有后端+前端+移动/PDA端的项目。 | https://github.com/qq283335746/Wms |
+|  4  | [SmoWMS](https://github.com/comsmobiler/SmoWMS) | SmoWMS仓库管理系统，移动端APP开源项目，支持Android、iOS，基于.NET（C#、VB）。SmoWMS仓库管理系统包含了仓库管理、订单、主数据维护、图表分析、个人信息等几大功能。 | https://github.com/comsmobiler/SmoWMS |
+|  5  | [ZEQP.WMS](https://github.com/awesomedotnetcore/WMS/) | ZEQP是一个.NET Core开源、跨平台的仓储管理系统，数据库支持MSSQL/MySQL。 | https://github.com/awesomedotnetcore/WMS/ |
 |  6  |  |  |  |
 |  7  |  |  |  |
 |  8  |  |  |  |
@@ -924,7 +924,7 @@
 #### 其他开源项目
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  |  |  |  |
+|  1  | [xamarin-macios](https://github.com/xamarin/xamarin-macios) | xamarin-macios 是 Xamarin 项目中用于开发 .NET for iOS、Mac Catalyst、macOS 和 tvOS 应用程序的主要仓库。这些 SDK 允许开发者使用 C# 语言和 .NET Base Class Library (BCL) 的功能，结合 Visual Studio 或 Visual Studio Code 等现代 IDE，来创建原生的跨平台应用程序。这些 SDK 提供了与 Objective-C 和 Xcode 相似的 UI 控件，但提供了更灵活和现代的编程体验。 | https://github.com/xamarin/xamarin-macios |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
