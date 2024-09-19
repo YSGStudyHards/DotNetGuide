@@ -1848,7 +1848,7 @@
 |  8  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
 |  9  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
 |  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
-|  11  |  |  |  |
+|  11  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
