@@ -77,6 +77,7 @@
 * [🧭C#/.NET/.NET Core自学入门指南](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
 * [📚2024年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
+* [🧱.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
 * [🐮C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 * [⛵C#/.NET/.NET Core推荐学习路线&文档&文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
 * [📚C#指南(微软提供的最权威，最全面的C#学习资料)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
