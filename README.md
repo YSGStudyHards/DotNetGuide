@@ -28,7 +28,7 @@
 
 > 点击下面的图片，前往[Issues](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)留下您压箱底的大宝藏👇：
 
-[![DotNetGuide宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_240626195235_DotNetGuide-Issues.png "宝藏收集地")](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
+[![DotNetGuide宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_7116bc4a.png "宝藏存库")](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
 
 
 ## 🔍目录导航(善用Ctrl+F)
@@ -77,9 +77,9 @@
 * [🧭C#/.NET/.NET Core自学入门指南](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
 * [📚2024年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
-* [🧱.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
 * [🐮C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 * [⛵C#/.NET/.NET Core推荐学习路线&文档&文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10)
+* [🧱.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
 * [📚C#指南(微软提供的最权威，最全面的C#学习资料)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 * [📚.NET文档(微软提供的最权威，最全面的.NET学习资料)](https://docs.microsoft.com/zh-cn/dotnet/)
 * [💥微软官方.NET免费教程(面向从初学者到高级开发人员)](https://dotnet.microsoft.com/zh-cn/learn)
