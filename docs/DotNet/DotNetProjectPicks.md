@@ -260,7 +260,7 @@
 |  2  | [TouchSocket](https://github.com/RRQM/TouchSocket) | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的、超轻量级的网络通信框架。包含了 tcp、udp、ssl、http、websocket、rpc、jsonrpc、webapi、xmlrpc等一系列的通信模块。一键式解决 TCP 黏分包问题，udp大数据包分片组合问题等。使用协议模板，可快速实现「固定包头」、「固定长度」、「区间字符」等一系列的数据报文解析。 | https://rrqm_home.gitee.io/touchsocket/ |
 |  3  | [SignalR](https://github.com/SignalR/SignalR) | SignalR 是一个实时网络通信框架，可以进行服务器到客户端和客户端到客户端的双向通信。它支持 WebSocket、Server-Sent Events 和 Long Polling 等传输协议，适用于实时聊天、实时推送等场景。 | https://learn.microsoft.com/zh-cn/aspnet/core/signalr/introduction?view=aspnetcore-7.0 |
 |  4  | [BeetleX](https://github.com/beetlex-io/BeetleX) | BeetleX是一个开源的高性能 .NET Core网络库，提供了TCP、UDP、HTTP和WebSocket协议的支持。它的设计目标是简单易用、高性能、可扩展性强，并支持大规模并发连接。BeetleX基于.NET Core实现，支持跨平台运行，可以运行在Windows、Linux和macOS等系统上。 | https://github.com/beetlex-io/BeetleX |
-|  5  |  |  |  |
+|  5  | [NetCoreServer](https://github.com/chronoxor/NetCoreServer) | NetCoreServer是一个.NET开源、免费（MIT License）、快速、低延迟的异步套接字服务器和客户端库。它支持多种协议，包括 TCP、SSL、UDP、Unix Domain Socket、HTTP、HTTPS 和 WebSocket，并且能够处理高达10K并发连接。通过提供对多种协议的支持和优化的网络 I/O 操作，它使开发人员能够轻松创建响应迅速且可扩展的网络应用程序。 | https://github.com/chronoxor/NetCoreServer |
 |  6  |  |  |  |
 |  7  |  |  |  |
 |  8  |  |  |  |
@@ -1636,7 +1636,7 @@
 |  4  | [EF Core Generic Repository](https://github.com/TanvirArjel/EFCore.GenericRepository) | 该库是EF Core ORM的通用仓储库实现，旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。 | https://github.com/TanvirArjel/EFCore.GenericRepository |
 |  5  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
 |  6  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
-|  7  |  |  |  |
+|  7  | [arch/UnitOfWork](https://github.com/arch/UnitOfWork) | 一个针对 Microsoft.EntityFrameworkCore 的插件，旨在支持仓库模式（Repository Pattern）、工作单元模式（Unit of Work Pattern），以及支持分布式事务的多个数据库操作。该项目特别适用于需要处理多个数据库或表分片的场景，特别是在使用 MySQL 时。 | https://github.com/arch/UnitOfWork |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
