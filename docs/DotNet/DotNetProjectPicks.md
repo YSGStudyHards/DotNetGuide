@@ -295,7 +295,7 @@
 |  7  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
 |  8  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问（非官方）。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
 |  9  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
-|  10  | [AntSK](https://github.com/AIDotNet/AntSK)  | 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据  | https://github.com/AIDotNet/AntSK |
+|  10  | [AntSK](https://github.com/AIDotNet/AntSK)  | 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据。  | https://github.com/AIDotNet/AntSK |
 |  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
@@ -612,7 +612,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [WebVella-ERP](https://github.com/WebVella/WebVella-ERP) | WebVella ERP是一款免费的开源Web软件，旨在满足任何业务数据管理需求的极端定制和可插拔性。基于 ASP.NET Core、RazorPages 和 PostgreSQL 的免费开源可插拔 ERP 和 CRM 软件。以 Linux 或 Windows 为主机操作系统。这款系统的最大亮点在于其可插拔的设计。无需担心系统的耦合问题，可以轻松地将各个模块进行组合和扩展。系统的各个组件都遵循开放标准，在构建企业级应用时更加得心应手。无论是ERP还是CRM，都可以根据自身需求进行定制开发，实现最佳的业务流程。 | https://github.com/WebVella/WebVella-ERP |
 |  2  | [Merp](https://github.com/mastreeno/Merp) | 使用了ASP.NET Core 3.1进行开发的，基于事件的Micro ERP。 | https://github.com/mastreeno/Merp |
-|  3  |  |  |  |
+|  3  | [maERP](https://github.com/maERP/maERP) | maERP是一个客户端-服务器，跨平台，开源的ERP系统，采用.NET 8，MAUI和Entity Framework。 | https://github.com/maERP/maERP |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
