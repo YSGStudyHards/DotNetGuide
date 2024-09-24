@@ -92,6 +92,7 @@
   * [开源翻译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7)
   * [实用AI工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8ai%E5%B7%A5%E5%85%B7)
   * [开源编辑器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%96%E8%BE%91%E5%99%A8)
+  * [代码格式化工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1238,6 +1239,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 代码格式化工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [CodeMaid](https://github.com/codecadwallader/codemaid) | CodeMaid是一款由.NET开源、免费、强大的Visual Studio实用插件，旨在帮助开发者简化、清理和格式化他们的C#、C++、VB.NET、F#、XAML、CSS、LESS、SCSS、JavaScript和TypeScript代码。它提供了多种功能，如清理代码、格式化注释、连接多行、移除全部 #region、排序多行等，以提高代码的可读性和一致性，从而提高你的开发效率。 | https://github.com/codecadwallader/codemaid |
+|  2 | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1248,7 +1262,7 @@
 |  5 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
 |  6 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
 |  7 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
-|  8 | [CSharpier](https://github.com/belav/csharpier) | 一款由.NET开源、免费（MIT License）、轻量级的C#语言代码格式化工具，它使用Roslyn来解析你的代码，并根据其自身的规则重新格式化代码。 | https://github.com/belav/csharpier |
+|  8 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter是一款基于.NET开发的免费、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
 |  9 | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
 |  10 | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
 |  11 | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
