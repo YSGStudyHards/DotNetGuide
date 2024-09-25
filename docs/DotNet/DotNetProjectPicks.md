@@ -93,6 +93,7 @@
   * [实用AI工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8ai%E5%B7%A5%E5%85%B7)
   * [开源编辑器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%96%E8%BE%91%E5%99%A8)
   * [代码格式化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7)
+  * [开源下载工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1016,7 +1017,7 @@
 |  1  | [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) | 一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 | https://github.com/zhuxb711/RX-Explorer |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  3  | [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
-|  4  |  |  |  |
+|  4 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter是一款基于.NET开发的免费、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -1252,37 +1253,50 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 开源下载工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [Downloader](https://github.com/bezzad/Downloader) | Downloader是一个快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 也是一个现代、流畅、异步、可测试和便携的 .NET 库，专门用于文件下载。它支持跨平台操作，可以在 Windows、Linux 和 macOS 上运行。Downloader 特别适合用于需要下载大文件或需要实时下载进度的应用程序。 | https://github.com/bezzad/Downloader |
+|  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
+|  3  | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | 蓝猫KoKo下载器（BlueCatKoKo）是一个基于C#语言编写的、免登录、简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。 | https://github.com/K12f/BlueCatKoKo |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他工具&软件
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Kiota](https://github.com/microsoft/kiota) | Kiota是一个由微软开发的命令行工具，主要用于生成调用任何OpenAPI描述的API的客户端。Kiota API客户端提供了一种强类型的体验，具有您期望从高质量API SDK获得的所有功能，但无需为每个HTTP API学习新的库。 | https://github.com/microsoft/kiota |
-|  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
-|  3  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
-|  4  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
-|  5 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
-|  6 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
-|  7 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
-|  8 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter是一款基于.NET开发的免费、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
-|  9 | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
-|  10 | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
-|  11 | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
-|  12 | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
-|  13 | [Downloader](https://github.com/bezzad/Downloader) | 快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 | https://github.com/bezzad/Downloader |
-|  14 | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
-|  15 | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
-|  16 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
-|  17 | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
-|  18 | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
-|  19 | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
-|  20  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
-|  21 | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
-|  22 |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
-|  23 | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
-|  24 | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
-|  25 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
-|  26 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
-|  27  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
-|  28  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
+|  2  | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | C#开源免费的一个纯粹的Windows右键菜单管理工具。 | https://github.com/BluePointLilac/ContextMenuManager |
+|  3  | [Jvedio](https://github.com/hitchao/Jvedio) | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 | https://github.com/hitchao/Jvedio |
+|  4 | [FluentHub](https://github.com/0x5bfa/FluentHub) | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 | https://github.com/0x5bfa/FluentHub |
+|  5 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
+|  6 | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 | https://github.com/AlexanderPro/SmartSystemMenu |
+|  7 | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 | https://github.com/yswenli/WebRedisManager |
+|  8 | [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 | https://github.com/Coolapk-UWP/Coolapk-UWP |
+|  9 | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) | C#开源的一款EF Core查询计划调试器可视化工具。 | https://github.com/Giorgi/EFCore.Visualizer |
+|  10 | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
+|  11 | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
+|  12 | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
+|  13 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
+|  14 | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
+|  15 | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
+|  16 | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
+|  17  | [KTV](https://github.com/E9C50/KTV) | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 | https://github.com/E9C50/KTV |
+|  18 | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 | https://github.com/Yu-Core/SwashbucklerDiary |
+|  19 |[ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) | 网易云音乐-用WPF来做网易云音乐客户端。 | https://github.com/944095635/DMSkin-CloudMusic |
+|  20 | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
+|  21 | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
+|  22 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
+|  23 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
+|  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
+|  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
+|  26  |  |  |  |
+|  27  |  |  |  |
+|  28  |  |  |  |
 |  29  |  |  |  |
 |  30  |  |  |  |
 
