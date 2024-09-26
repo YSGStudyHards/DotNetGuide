@@ -19,6 +19,65 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 # 2024年
 ## 9月
 ### 第 7 期（2024年9.23-9.30）
+#### 一款基于.NET开发的Visual Studio代码简化和整理实用插件
+- 文章简介：CodeMaid是一款由.NET开源、免费、强大的Visual Studio实用插件，旨在帮助开发者简化、清理和格式化他们的C#、C++、VB.NET、F#、XAML、CSS、LESS、SCSS、JavaScript和TypeScript代码。它提供了多种功能，如清理代码、格式化注释、连接多行、移除全部 #region、排序多行等，以提高代码的可读性和一致性，从而提高你的开发效率。
+- 文章地址：https://mp.weixin.qq.com/s/foh0--EagFGIP3molUnktQ
+
+#### EF Core性能优化技巧
+- 文章简介：EF Core性能优化技巧。
+- 文章地址：https://mp.weixin.qq.com/s/n96rH5HZbSEKKeop_bxRHQ
+
+#### 用C#写个PDF批量合并工具简化日常工作
+- 文章简介：用C#写个PDF批量合并工具简化日常工作。
+- 文章地址：https://mp.weixin.qq.com/s/MW5HFdu3jJTJ6TMpa36tXw
+
+#### 推荐7款.NET开源且功能强大图表库，效率提升利器！
+- 文章简介：今天大姚给大家推荐7款.NET开源、免费、高效、功能强大图表库，这些库旨在助力你迅速实现图表开发需求，提升项目效率与质量。
+- 文章地址：https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ
+
+#### .Net Core Excel导入导出神器Npoi.Mapper
+- 文章简介：我们在日常开发中对Excel的操作可能会比较频繁，好多功能都会涉及到Excel的操作。在.Net Core中大家可能使用Npoi比较多，这款软件功能也十分强大，而且接近原始编程。但是直接使用Npoi大部分时候我们可能都会自己封装一下，毕竟根据二八原则，我们百分之八十的场景可能都是进行简单的导入导出操作，这里就引出我们的主角Npoi.Mapper了。
+- 文章地址：https://mp.weixin.qq.com/s/_x8bZPxv_Hkm0Qsc40XvZQ
+
+#### 一套基于.NET 8.0 + LayUI的快速开发框架，完全开源免费！
+- 文章简介：WaterCloud是一套基于ASP.NET 8.0 MVC + API + SqlSugar + LayUI的快速开发框架，源代码完全开源、免费（MIT License），可以帮助你解决C#.NET项目的重复工作（内置代码生成器），采用主流架构思想，容易上手，简单易学，学习成本低。
+- 文章地址：https://mp.weixin.qq.com/s/R77i5TozWzBkvUrH4KwyTw
+
+#### 测试和 .NET Aspire 入门
+- 文章简介：自动化测试是软件开发的重要组成部分，有助于确保及早发现错误并防止回归问题。在这篇博文中，我们将探讨如何开始在 .NET Aspire 中进行测试，从而使我们能够跨分布式应用程序测试方案。
+- 文章地址：https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire/
+
+#### 使用.NET并行任务库(TPL)与并行Linq(PLINQ)充分利用多核性能
+- 文章简介：使用.NET并行任务库(TPL)与并行Linq(PLINQ)充分利用多核性能。
+- 文章地址：https://www.cnblogs.com/GuZhenYin/p/18429430
+
+#### .net 到底行不行！2000 人在线的客服系统真实屏录演示（附技术详解）
+- 文章简介：.net 到底行不行！2000 人在线的客服系统真实屏录演示（附技术详解）。
+- 文章地址：https://www.cnblogs.com/sheng_chao/p/18431157
+
+#### SimpleAIAgent：使用免费的glm-4-flash即可开始构建简单的AI Agent应用
+- 文章简介：SimpleAIAgent：使用免费的glm-4-flash即可开始构建简单的AI Agent应用。
+- 文章地址：https://www.cnblogs.com/mingupupu/p/18431071
+
+#### C#实现信创国产Linux桌面录制成MP4（源码，银河麒麟、统信UOS）
+- 文章简介：C#实现信创国产Linux桌面录制成MP4（源码，银河麒麟、统信UOS）。
+- 文章地址：https://www.cnblogs.com/shawshank/p/18427307
+
+#### C#上位机与PLC通信心跳的实现方法
+- 文章简介：C#上位机与PLC通信心跳的实现方法。
+- 文章地址：https://www.cnblogs.com/xiketangedu/p/18427184
+
+#### 从0到1搭建权限管理系统系列三 .net8 JWT创建Token并使用
+- 文章简介：从0到1搭建权限管理系统系列三 .net8 JWT创建Token并使用。
+- 文章地址：https://www.cnblogs.com/cyzf/p/18422784
+
+#### GZY.Quartz.MUI(基于Quartz的UI可视化操作组件) 2.7.0发布 新增各项优化与BUG修复
+- 文章简介：GZY.Quartz.MUI(基于Quartz的UI可视化操作组件) 2.7.0发布 新增各项优化与BUG修复。
+- 文章地址：https://www.cnblogs.com/GuZhenYin/p/18426388
+
+#### Microsoft 推出适用于 .NET 的 Azure AI 推理 SDK
+- 文章简介：Microsoft 推出了适用于 .NET 的 Azure AI 推理 SDK，简化了对 Azure AI Studio 模型目录中生成式 AI 模型的访问。此目录包括来自 Azure OpenAI 服务、Mistral、Meta、Cohere、NVIDIA 和 Hugging Face 等提供商的模型，分为三个集合：由 Azure AI 策划、Azure OpenAI 模型和来自 Hugging Face Hub 的开放模型。用户可以通过托管计算解决方案请求新模型并部署现有模型。
+- 文章地址：https://www.infoq.com/news/2024/09/azure-ai-sdk-dotnet/?topicPageSponsorship=36e7c036-2a16-4700-a29f-f7aa3f0de209
 
 
 ### 第 6 期（2024年9.16-9.22）
