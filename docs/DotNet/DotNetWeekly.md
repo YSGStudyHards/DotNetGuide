@@ -17,6 +17,53 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2024年
+## 10月
+### 第 8 期（2024年10.01-10.06）
+#### 宣布正式发布适用于 .NET 的官方 OpenAI 库
+- 文章简介：早在 6 月，我们就推出了适用于 .NET 的 OpenAI 库的第一个测试版，使开发人员能够将高级 AI 模型集成到他们的应用程序中。今天，我们很高兴地宣布，适用于 .NET 的官方 OpenAI 库的稳定版本现已上线。此版本可确保开发人员在其 .NET 应用程序中使用 OpenAI 和 Azure OpenAI 服务时获得流畅可靠的集成体验。
+- 文章地址：https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet
+
+#### C#/.NET/.NET Core开发实战教程集合
+- 文章简介：总结归纳了一些实用的C#/.NET/.NET Core开发实战教程。
+- 文章地址：https://mp.weixin.qq.com/s/cTQ-LCfa1-cl9tLGnguxuw
+
+#### .NET NoSQL 嵌入式数据库 LiteDB 使用教程
+- 文章简介：分享一个小巧、快速、轻量级的.NET 开源且免费（MIT License）的 NoSQL 嵌入式数据库：LiteDB。本篇文章我们主要来讲讲LiteDB在.NET中如何使用。
+- 文章地址：https://mp.weixin.qq.com/s/Rq8z17ZmP_Cx_yGfcgeN_A
+
+#### 在Visual Studio中查看EF Core查询计划
+- 文章简介：EF Core是我们.NET开发中比较常用的一款ORM框架，今天我们分享一款可以直接在Visual Studio中查看EF Core查询计划调试器可视化工具（帮助开发者分析和优化数据库查询性能）：EFCore.Visualizer。
+- 文章地址：https://mp.weixin.qq.com/s/SwAgFg8FbPsBnYsWKEqgRg
+
+#### .NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms
+- 文章简介：Eto.Forms是一个.NET开源、跨平台的桌面和移动应用的统一框架，该框架允许开发者使用单一的UI代码库构建在多个平台上运行的应用程序，并利用各自平台的原生工具包，从而使应用程序在所有平台上看起来和工作都像原生应用一样。
+- 文章地址：https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA
+
+#### ScottPlot：一个开源且免费的 .NET 绘图库
+- 文章简介：ScottPlot 是一个专门为 .NET 开发者设计的绘图库，它的主要目标是简化大数据集的交互式展示过程。通过使用 ScottPlot，开发者可以轻松地在他们的应用程序中嵌入丰富的可视化图表，提升用户体验和数据展示效果。
+- 文章地址：https://mp.weixin.qq.com/s/03Mkhb8k-sF7h48c5Qhycw
+
+#### 一款基于.NET开发的简易高效的文件转换器
+- 文章简介：一款基于.NET开发的免费（GPL-3.0 license）、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件：FileConverter。
+- 文章地址：https://mp.weixin.qq.com/s/4_DLJ-KzI413uDO4k4FLtw
+
+#### 分享几个实用且高效的EF Core扩展类库，提高开发效率！
+- 文章简介：分享3款开源且实用的EF Core扩展类库，希望能帮助你在使用 EF Core 进行数据库开发变得更加高效和灵活，提高开发效率。
+- 文章地址：https://mp.weixin.qq.com/s/ld_eQYPa7kitTak93QOjKA
+
+#### 使用ValueConverters扩展实现枚举控制页面的显示 
+- 文章简介：使用ValueConverters扩展实现枚举控制页面的显示。
+- 文章地址：https://www.cnblogs.com/sesametech-dotnet/p/18447676
+
+#### 基于DPAPI+RDP技术实现本地打开远程程序，并映射到本地机器桌面上
+- 文章简介：基于DPAPI+RDP技术实现本地打开远程程序，并映射到本地机器桌面上。
+- 文章地址：https://www.cnblogs.com/weskynet/p/18445584
+
+#### Microsoft 发布 Dev Proxy v0.21：新功能增强了 API 测试和开发效率
+- 文章简介：Microsoft 发布 Dev Proxy v0.21：新功能增强了 API 测试和开发效率。
+- 文章地址：https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/?topicPageSponsorship=0a213375-7fa2-4510-9fec-133160adcf9d
+
+
 ## 9月
 ### 第 7 期（2024年9.23-9.30）
 #### 一款基于.NET开发的Visual Studio代码简化和整理实用插件
