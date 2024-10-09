@@ -11,6 +11,61 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2024年
+## 9月
+### 公众号9月简报
+* **C#/.NET/.NET Core优秀项目和框架2024年9月简报：**
+
+### Avalonia UI
+* **项目简介：** Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。
+* **项目源码地址：** https://github.com/AvaloniaUI/Avalonia
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/_JE8G68qdSuxv-dKRRymyQ
+
+### WaterCloud
+* **项目简介：** WaterCloud是一套基于ASP.NET 8.0 MVC + API + SqlSugar + LayUI的快速开发框架，源代码完全开源、免费（MIT License），可以帮助你解决C#.NET项目的重复工作（内置代码生成器），采用主流架构思想，容易上手，简单易学，学习成本低。
+* **项目源码地址：** https://gitee.com/qian_wei_hong/WaterCloud
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/R77i5TozWzBkvUrH4KwyTw
+
+### CodeMaid
+* **项目简介：** CodeMaid是一款由.NET开源、免费、强大的Visual Studio实用插件，旨在帮助开发者简化、清理和格式化他们的C#、C++、VB.NET、F#、XAML、CSS、LESS、SCSS、JavaScript和TypeScript代码。它提供了多种功能，如清理代码、格式化注释、连接多行、移除全部 #region、排序多行等，以提高代码的可读性和一致性，从而提高你的开发效率。
+* **项目源码地址：** https://github.com/codecadwallader/codemaid
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/foh0--EagFGIP3molUnktQ
+
+### NetCoreServer
+* **项目简介：** NetCoreServer是一个.NET开源、免费（MIT License）、快速、低延迟的异步套接字服务器和客户端库。它支持多种协议，包括 TCP、SSL、UDP、Unix Domain Socket、HTTP、HTTPS 和 WebSocket，并且能够处理高达10K并发连接。通过提供对多种协议的支持和优化的网络 I/O 操作，它使开发人员能够轻松创建响应迅速且可扩展的网络应用程序。
+* **项目源码地址：** https://github.com/chronoxor/NetCoreServer
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/lhe6WXJvTbqJ02FsS6zRgw
+
+### AlohaKit
+* **项目简介：** 一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。
+* **项目源码地址：** https://github.com/jsuarezruiz/AlohaKit.Controls
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/Joq8xb8rqzHH9ag1hDXIQQ
+
+### Entity Framework Plus
+* **项目简介：** Entity Framework Plus是一个开源、免费（MIT License）、功能强大的 Entity Framework（EF）和 Entity Framework Core（EF Core） 扩展库，旨在提升 Entity Framework 的性能和克服其局限性。通过提供一系列实用的功能，如批量操作、查询缓存、查询延迟、LINQ动态、审计跟踪等，使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。
+* **项目源码地址：** https://github.com/zzzprojects/EntityFramework-Plus
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/fvItRFoRMHJfqEnulZNXgw
+
+### Elasticsearch .NET
+* **项目简介：** Elasticsearch 的 .NET 客户端为 Elasticsearch API 提供强类型请求和响应。它将协议处理委托给 Elastic.Transport 库，该库负责处理所有传输级别问题（HTTP 连接建立和池化、重试等）。
+* **项目源码地址：** https://github.com/elastic/elasticsearch-net
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/V5gGWjDuA8ePYAPU5KWGvw
+
+### Lucene.NET
+* **项目简介：** Lucene.NET 是一个用 C# 编写的开源全文搜索库，它是流行的 Java Apache Lucene 项目的移植版本。该库为 .NET 平台提供了强大的索引和搜索功能，以及拼写检查、命中高亮和高级分析/分词能力。
+* **项目源码地址：** https://github.com/apache/lucenenet
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/V5gGWjDuA8ePYAPU5KWGvw
+
+### SolrNet
+* **项目简介：** SolrNet 是一个针对 .NET 平台的 Apache Solr 和 SolrCloud 客户端库。SolrNet 并没有尝试对 Solr 进行太多的抽象，而是假设您知道什么是 Solr 以及如何使用它，就像您在使用 ORM 之前需要了解关系数据库一样。
+* **项目源码地址：** https://github.com/SolrNet/SolrNet
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/V5gGWjDuA8ePYAPU5KWGvw
+
+### Git Extensions
+* **项目简介：** 一个.NET开源、免费的用于管理 Git 存储库的独立图形用户界面（GUI）工具，它还与 Windows 资源管理器和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。
+* **项目源码地址：** https://github.com/gitextensions/gitextensions
+* **公众号详细介绍：** https://mp.weixin.qq.com/s/M-Hhi6axkOuyDQKu-abq3w
+
+
 ## 8月
 ### 公众号8月简报
 * **C#/.NET/.NET Core优秀项目和框架2024年8月简报：** https://mp.weixin.qq.com/s/liUjhkTtHe060ayRCXlapQ
