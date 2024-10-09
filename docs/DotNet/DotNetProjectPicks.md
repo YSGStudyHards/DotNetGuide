@@ -1677,7 +1677,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Dommel](https://github.com/henkmollema/Dommel) | 一个C#开源（MIT License）、免费、简单易用的Dapper扩展类库，帮助.NET开发者使用Dapper的CRUD操作变得更简单。 | https://github.com/henkmollema/Dommel |
-|  2  |  |  |  |
+|  2  | [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) | Dapper Query Builder旨在通过使用字符串插值和Fluent API来简化动态SQL查询的构建。它使得开发者可以更安全、更便捷地编写和管理数据库查询。 | https://github.com/Drizin/DapperQueryBuilder |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
