@@ -67,6 +67,7 @@
   * [短链生成系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%9F%AD%E9%93%BE%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F)
   * [学校管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AD%A6%E6%A0%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [开源协作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+  * [酒店管理系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -479,7 +480,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [PluginCore](https://github.com/yiyungent/PluginCore) | 一个ASP.NET Core开源的、轻量级插件框架，一分钟集成Vue.js frontend、JavaScript SDK。 | https://github.com/yiyungent/PluginCore |
-|  2  |  |  |  |
+|  2  | [xamarin-macios](https://github.com/xamarin/xamarin-macios) | xamarin-macios 是 Xamarin 项目中用于开发 .NET for iOS、Mac Catalyst、macOS 和 tvOS 应用程序的主要仓库。这些 SDK 允许开发者使用 C# 语言和 .NET Base Class Library (BCL) 的功能，结合 Visual Studio 或 Visual Studio Code 等现代 IDE，来创建原生的跨平台应用程序。这些 SDK 提供了与 Objective-C 和 Xcode 相似的 UI 控件，但提供了更灵活和现代的编程体验。 | https://github.com/xamarin/xamarin-macios |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -519,7 +520,7 @@
 |  24  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
 |  25 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
 |  26  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
-|  27  |  |  |  |
+|  27  | [AIStudio.Wpf.AClient](https://gitee.com/akwkevin/aistudio.-wpf.-aclient) | AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) 构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。 | https://gitee.com/akwkevin/aistudio.-wpf.-aclient |
 |  28  |  |  |  |
 |  29  |  |  |  |
 |  30  |  |  |  |
@@ -913,7 +914,20 @@
 #### 开源协作系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) | 一个集文档管理、CRM、项目管理等功能于一体的免费开源协作系统，支持跨平台部署和多种集成服务。 | https://github.com/ONLYOFFICE/CommunityServer |
+|  1  | [CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) | 一个集文档管理、CRM、项目管理等功能于一体的免费开源协作系统，支持跨平台部署和多种集成服务。基于MIT协议开源，可以免费使用。 | https://github.com/ONLYOFFICE/CommunityServer |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 酒店管理系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [TopskyHotelManagerSystem](https://gitee.com/java-and-net/TopskyHotelManagerSystem) | 一款基于.NET8开源、免费（MIT License）的中小型酒店管理系统，为中小型酒店提供全面的酒店管理系统解决方案，帮助酒店提高运营效率，优化客户体验。 | https://gitee.com/java-and-net/TopskyHotelManagerSystem |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
@@ -926,7 +940,7 @@
 #### 其他开源项目
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [xamarin-macios](https://github.com/xamarin/xamarin-macios) | xamarin-macios 是 Xamarin 项目中用于开发 .NET for iOS、Mac Catalyst、macOS 和 tvOS 应用程序的主要仓库。这些 SDK 允许开发者使用 C# 语言和 .NET Base Class Library (BCL) 的功能，结合 Visual Studio 或 Visual Studio Code 等现代 IDE，来创建原生的跨平台应用程序。这些 SDK 提供了与 Objective-C 和 Xcode 相似的 UI 控件，但提供了更灵活和现代的编程体验。 | https://github.com/xamarin/xamarin-macios |
+|  1  | [AKStream](https://gitee.com/chatop2020/AKStream) | AKStream是一个基于C#开发的一套全功能的流媒体管理控制接口平台，集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能。 | https://gitee.com/chatop2020/AKStream |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
