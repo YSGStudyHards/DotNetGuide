@@ -36,7 +36,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            二叉搜索树算法.BinarySearchTreeRun();
+            二分查找算法.BinarySearchRun();
+            //二叉搜索树算法.BinarySearchTreeRun();
             //递归算法.RecursiveFactorial();
             //递归算法.RecursiveArraySum();
             //递归算法.FibonacciSum();
