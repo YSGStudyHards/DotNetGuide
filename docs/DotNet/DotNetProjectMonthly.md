@@ -13,7 +13,7 @@
 # 2024年
 ## 9月
 ### 公众号9月简报
-* **C#/.NET/.NET Core优秀项目和框架2024年9月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2024年9月简报：** https://mp.weixin.qq.com/s/JIDHz56kmST7rqPHGaLQFQ
 
 ### Avalonia UI
 * **项目简介：** Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。
