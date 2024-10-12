@@ -5,7 +5,7 @@ using HelloDotNetGuide.数组相关;
 
 namespace HelloDotNetGuide
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -36,7 +36,8 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            二分查找算法.BinarySearchRun();
+            //哈希查找算法.HashSearchFunctionRun(2);
+            //二分查找算法.BinarySearchRun();
             //二叉搜索树算法.BinarySearchTreeRun();
             //递归算法.RecursiveFactorial();
             //递归算法.RecursiveArraySum();
