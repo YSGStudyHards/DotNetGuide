@@ -18,6 +18,92 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 10月
+### 第 11 期（2024年10.21-10.31）
+
+### 第 10 期（2024年10.14-10.20）
+
+### 第 9 期（2024年10.07-10.13）
+#### .NET 9 Release Candidate 2 现已推出！
+- 文章简介：在我们准备 11 月的 .NET 9 正式发布 （GA） 版本时，我们将对性能、稳定性和任何其他优化进行最后的润色，使其成为 .NET 9 的最佳版本。今天，我们很高兴地宣布发布 .NET 9 Release Candidate 2。与候选版本 1 一样，此版本也包含在上线许可证中，因此您在生产应用程序中使用它时可以获得支持。我们鼓励开发人员立即试用此最新版本，并就您在开发中找到的任何内容向团队提供反馈，以便我们可以将任何其他增强功能合并到最终版本中。
+- 文章地址：https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2/
+
+#### Microsoft.Extensions.AI 预览版简介 – 适用于 .NET 的统一 AI 构建块
+- 文章简介：我们很高兴地推出 Microsoft.Extensions.AI.Abstractions 和 Microsoft.Extensions.AI 库，现已推出预览版。这些软件包为 .NET 生态系统提供了用于将 AI 服务集成到 .NET 应用程序和库中的基本抽象，以及用于添加关键功能的中间件。为了支持 .NET 生态系统，.NET 团队通过这些抽象或“交换类型”增强了 .NET 生成式 AI 应用程序和库的核心 Microsoft.Extensions 库。
+- 文章地址：https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/
+
+#### .NET 和 .NET Framework 2024 年 10 月服务版本更新
+- 文章简介：欢迎使用 2024 年 10 月新的组合 .NET 服务更新。为了帮助简化并帮助您跟上最新的服务发布，我们决定将我们的更新帖子合并在.NET和.NET Framework上，以便您可以在博客的一个方便位置找到所有信息。不要忘记，您可以在 GitHub 上找到有关 .NET 预览版的更新，特别是针对 .NET 9 的更新。
+- 文章地址：https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates/
+
+#### 时隔半年 DotNetGuide 已突破了 6.6K + Star，持续更新，欢迎更多小伙伴PR投稿！
+- 文章简介：记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+- 文章地址：https://mp.weixin.qq.com/s/dHq3IdHz1ZXBRAZZqglcNA
+
+#### C#二分查找算法
+- 文章简介：二分查找算法是一种在有序数组中查找特定元素的搜索算法。
+- 文章地址：https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ
+
+#### 2款.NET开源且高效的代码格式化工具
+- 文章简介：代码格式化工具能够自动调整代码的缩进、空格、换行等样式，使得代码更加整洁、一致。这不仅有助于开发者快速理解他人的代码，也便于自己在未来的项目中回顾和修改自己的代码。今天大姚给大家分享2款.NET开源且高效的代码格式化工具，希望可以帮助到有需要的小伙伴。
+- 文章地址：https://mp.weixin.qq.com/s/jU3cEWc-hODhXCHMKD1g7A
+
+#### 一个适用于 ASP.NET Core 的轻量级插件框架
+- 文章简介：PluginCore 是一个基于 ASP.NET Core 的轻量级插件框架，旨在简化插件的集成与管理。通过最少的配置，开发者可以快速集成并专注于业务逻辑的开发。它支持动态 WebAPI、插件隔离与共享、前后端分离、热插拔等特性，非常适合需要高度模块化与可扩展性的应用场景。
+- 文章地址：https://mp.weixin.qq.com/s/yOiBrFNLiZMwEUE5pzW5_Q
+
+#### YoloDotNet v2.1：实时物体检测的利器
+- 文章简介：YoloDotNet v2.1 是一个基于 C# 和 .NET 8 的实时物体检测框架，专为图像和视频中的物体检测而设计。它集成了 Yolov8 ~ Yolov11 模型，通过 ML.NET 和 ONNX 运行时实现高效的物体检测，并支持 GPU 加速（使用 CUDA）。YoloDotNet 不仅支持传统的物体检测，还涵盖了分类、OBB 检测、分割和姿态估计等多种功能，适用于各种复杂的视觉任务。
+- 文章地址：https://www.cnblogs.com/shanyou/p/18457208
+
+#### 一张图带你了解.NET终结(Finalize)流程
+- 文章简介：一张图带你了解.NET终结(Finalize)流程。
+- 文章地址：https://www.cnblogs.com/lmy5215006/p/18456380
+
+#### C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式
+- 文章简介：C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式。
+- 文章地址：https://www.cnblogs.com/hugogoos/p/18453906
+
+#### 6款支持C#语言的AI辅助编程工具，开发效率提升利器！
+- 文章简介：在这个AI迅速发展的阶段，涌现出了一大批好用的AI辅助编程工具。AI辅助编程工具能够提高开发效率、改善代码质量、降低bug率，是现代软件开发过程中的重要助手。今天大姚给大家分享6款AI辅助编程工具（并且都支持C#语言），希望对大家有所帮助。
+- 文章地址：https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg
+
+#### 在C#中使用适配器Adapter模式和扩展方法解决面向对象设计问题
+- 文章简介：在C#中使用适配器Adapter模式和扩展方法解决面向对象设计问题。
+- 文章地址：https://www.cnblogs.com/daxnet/p/18346121
+
+#### C#轻松实现Modbus通信
+- 文章简介：C#轻松实现Modbus通信。
+- 文章地址：https://www.cnblogs.com/xiketangedu/p/18461727
+
+#### .NET 白板书写加速-曲线拟合预测
+- 文章简介：.NET 白板书写加速-曲线拟合预测。
+- 文章地址：https://www.cnblogs.com/kybs0/p/18442316
+
+#### .NET 白板书写延迟-触摸屏报点率
+- 文章简介：触摸书写延迟，是触摸屏很核心的参数。从用户在触摸屏上进行触控操作到设备作出响应之间的时间差，这个延迟高低会影响快速反应的应用场景使用如白板书写、玩游戏。
+- 文章地址：https://www.cnblogs.com/kybs0/p/18453947
+
+#### PC软件开发新体验！用 Blazor Hybrid 打造简洁高效的视频处理工具
+- 文章简介：PC软件开发新体验！用 Blazor Hybrid 打造简洁高效的视频处理工具。
+- 文章地址：https://www.cnblogs.com/deali/p/18455870
+
+#### .NET云原生应用实践（一）：从搭建项目框架结构开始
+- 文章简介：很早之前就想做一套案例，介绍.NET下如何从零开始搭建一个云原生的应用程序。不过这个话题有点大，会要包含很多内容。我本打算从新建一个ASP.NET Core Web API应用程序开始介绍，但又觉得即便是从零开始，也无法完全涵盖每一个步骤细节，而且很多基础性的东西其实并没有太大的介绍价值，倒不如就先略过服务端RESTful API和Blazor WebAssembly的开发部分，直接研究讨论与云原生相关的内容。
+- 文章地址：https://www.cnblogs.com/daxnet/p/18172088
+
+#### 基于C#开发的一套全功能的流媒体管理控制接口平台
+- 文章简介：AKStream是一个基于C#开发的一套全功能的流媒体管理控制接口平台，集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能。
+- 文章地址：https://mp.weixin.qq.com/s/WC9G0CxqQhUI53YbKiSwmQ
+
+#### 一款基于.NET开源的报表神器
+- 文章简介：Seal Report是一个基于.NET开源的报表神器，该项目提供了一个完整的框架，用于从任何数据库或NoSQL源生成日常报告，并执行复杂的任务。
+- 文章地址：https://mp.weixin.qq.com/s/gpLnGpWErG1inxZspyQZMQ
+
+#### 一个基于.NET8+WPF开源的简单的工作流系统
+- 文章简介：AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) 构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。
+- 文章地址：https://mp.weixin.qq.com/s/MblSjkt8l_X_GqIad2x1Sg
+
+
 ### 第 8 期（2024年10.01-10.06）
 #### 宣布正式发布适用于 .NET 的官方 OpenAI 库
 - 文章简介：早在 6 月，我们就推出了适用于 .NET 的 OpenAI 库的第一个测试版，使开发人员能够将高级 AI 模型集成到他们的应用程序中。今天，我们很高兴地宣布，适用于 .NET 的官方 OpenAI 库的稳定版本现已上线。此版本可确保开发人员在其 .NET 应用程序中使用 OpenAI 和 Azure OpenAI 服务时获得流畅可靠的集成体验。
