@@ -1680,7 +1680,7 @@
 |  5  | [StoredProcedureEFCore](https://github.com/verdie-g/StoredProcedureEFCore) | 使用Entity Framework Core执行存储过程。 | https://github.com/verdie-g/StoredProcedureEFCore |
 |  6  | [ShardingCore](https://github.com/dotnetcore/sharding-core) | ShardingCore是一款开源、简单易用、高性能、普适性，针对EF Core生态下的分表分库的扩展解决方案，支持EF Core2+的所有版本，支持EF Core2+的所有数据库、支持自定义路由、动态路由、高性能分页、读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 | https://github.com/dotnetcore/sharding-core |
 |  7  | [arch/UnitOfWork](https://github.com/arch/UnitOfWork) | 一个针对 Microsoft.EntityFrameworkCore 的插件，旨在支持仓库模式（Repository Pattern）、工作单元模式（Unit of Work Pattern），以及支持分布式事务的多个数据库操作。该项目特别适用于需要处理多个数据库或表分片的场景，特别是在使用 MySQL 时。 | https://github.com/arch/UnitOfWork |
-|  8  |  |  |  |
+|  8  | [EntityFrameworkCore.Jet](https://github.com/CirrusRedOrg/EntityFrameworkCore.Jet) | Access 数据库的 Entity Framework Core 提供程序。 | https://github.com/CirrusRedOrg/EntityFrameworkCore.Jet |
 |  9  |  |  |  |
 |  10  |  |  |  |
 
