@@ -48,6 +48,9 @@
 * [提高 C# 的生产力：C# 13 更新完全指南](https://mp.weixin.qq.com/s/xAuo_WHi2fi6e1SNOLgE5w)
 * [C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
 * [浅谈 C# 中的顶级语句](https://mp.weixin.qq.com/s/TDKCtVc2CnieApRpkua7pw)
+* [C#整合Ollama实现本地LLMs调用](https://mp.weixin.qq.com/s/EqS1ruvLivBM0JlX6BpBcw)
+* [你可能不知道的C#几种对象初始化方式](https://mp.weixin.qq.com/s/oBYbcRRevZdiVEhkd5i6Uw)
+* [基于C#开发的工控网关，轻量级组态软件](https://mp.weixin.qq.com/s/69wGzJkNq8yHVX7YepYEsw)
 
 ## .NET/.NET Core相关
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
@@ -61,11 +64,13 @@
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
 * [4款免费且实用的.NET反编译工具](https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw)
 * [.NET之Hangfire快速入门和使用](https://mp.weixin.qq.com/s/fokjKhfFZyhD8XOW21Etug)
+* [开源且实用的C#/.NET编程技巧练习宝库](https://mp.weixin.qq.com/s/8m6cHJOwdQU2c75zPxFhWw)
 * [【干货】Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
 * [.NET开源的处理分布式事务的解决方案](https://mp.weixin.qq.com/s/ONM9bLKidVCS4pAwJbG9tg)
 * [企业应用开发中.NET EF常用哪种模式？](https://mp.weixin.qq.com/s/r4AehSo86hsMTjagD0VxOQ)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
 * [.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
+* [.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
 * [.NET开发中合理使用对象映射库，简化和提高工作效率](https://mp.weixin.qq.com/s/UWe6Z0OF45FpWkLLvQADLw)
 * [ASP.NET Core Web API设置响应输出的Json数据格式的两种方式](https://mp.weixin.qq.com/s/67yDIQizw8zSvRIUPWXhig)
 * [.NET Core使用SkiaSharp快速生成二维码（ 真正跨平台方案）](https://mp.weixin.qq.com/s/y_IbZNESZFFEzk0JWiZnDQ)
@@ -114,6 +119,14 @@
 * [.NET 中的表达式树（Expression Trees）](https://mp.weixin.qq.com/s/nZAqGDY-DUWEDy5YPtQxmw)
 * [ASP.NET MVC+LayUI视频上传](https://mp.weixin.qq.com/s/7fCEMbHpvkP07FwxqSzCbQ)
 * [一款.NET开发的AI无损放大工具](https://mp.weixin.qq.com/s/AWnnPU25YsoON3As27rbUw)
+* [.NET使用EF批量插入数据，一行代码性能飙升！](https://mp.weixin.qq.com/s/rHKz6DEzMT4Z1qVQP3HL8A)
+* [Entity Framework Plus: 让 EF Core 开发如虎添翼](https://mp.weixin.qq.com/s/fvItRFoRMHJfqEnulZNXgw)
+* [推荐3款卓越的 .NET 开源搜索组件库](https://mp.weixin.qq.com/s/V5gGWjDuA8ePYAPU5KWGvw)
+* [一个.NET开源、快速、低延迟的异步套接字服务器和客户端库](https://mp.weixin.qq.com/s/lhe6WXJvTbqJ02FsS6zRgw)
+* [WaterCloud：一套基于.NET 8.0 + LayUI的快速开发框架，完全开源免费！](https://mp.weixin.qq.com/s/R77i5TozWzBkvUrH4KwyTw)
+* [.NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
+* [.NET NoSQL 嵌入式数据库 LiteDB 使用教程](https://mp.weixin.qq.com/s/Rq8z17ZmP_Cx_yGfcgeN_A)
+* [.NET 性能技巧：为什么你应该避免使用终结器 Finalizer？](https://mp.weixin.qq.com/s/Yny65s3VxK05O2CWlLNSPQ)
 
 ## WPF相关
 * [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
@@ -127,6 +140,7 @@
 * [一款基于Fluent设计风格、现代化的WPF UI控件库](https://mp.weixin.qq.com/s/Q0cGl0Kp--HM2tgRMQDGVw)
 * [WPF --- TextBox的输入校验](https://mp.weixin.qq.com/s/r4hhl0jFbO856LnOd78XqA)
 * [基于WPF开发动态可交互混淆矩阵](https://mp.weixin.qq.com/s/zABcHOh1lIuKYw9heLc4fg)
+* [C# WPF IoTClient与三菱PLC通讯详解](https://mp.weixin.qq.com/s/8zH_K-8rEfQw4z6rYDc5Eg)
 
 ## WinForm相关
 * [一个超经典 WinForm 卡死的最后一次反思](https://mp.weixin.qq.com/s/9bSINvK9Ioh0BsYkfIlPkg)
@@ -156,5 +170,6 @@
 * [.NET开源免费的跨平台框架 - MAUI（附学习资料）](https://mp.weixin.qq.com/s/Srita3XuYRUQ3tEzcSB4Og)
 * [.NET MAUI开源免费的UI工具包 - Uranium](https://mp.weixin.qq.com/s/UNhXBQePRmiBBG31jEt2Kg)
 * [MAUI Blazor 项目实战 - 从0到1轻松构建多平台应用UI](https://mp.weixin.qq.com/s/TKfQPHaWy7400dbmpzOexA)
+* [一组.NET MAUI绘制的开源控件 - AlohaKit](https://mp.weixin.qq.com/s/Joq8xb8rqzHH9ag1hDXIQQ)
 
 𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼𓆡𓆜𓆉𓃹𓃡𓃟𓃵𓆏𓅦𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓆈𓃻𓄿𓅜𓆌𓆉𓆈𓃻𓄿𓅜𓃹𓆉𓃲𓃟𓃠𓃗𓃵𓆉𓇼
