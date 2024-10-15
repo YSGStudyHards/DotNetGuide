@@ -503,7 +503,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * C#经典查找算法
   * [C#二分查找算法](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)
   * C#线性查找算法
-  * C#哈希查找算法
+  * [C#哈希查找算法](https://mp.weixin.qq.com/s/WaXCFshzuqVQD6YX2Kcw5g)
   * [C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
 * [C#面试常见递归算法](https://mp.weixin.qq.com/s/1YouL0smeUszjcrbRRpQ9g)
 * [C#经典算法面试题汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/%E7%AE%97%E6%B3%95/C%23%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
