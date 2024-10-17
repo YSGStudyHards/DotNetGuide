@@ -1338,7 +1338,7 @@
 |  1  | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) | C#开源实用的工具类库，集成超过1000多种扩展方法增强 .NET Framework 和 .NET Core的使用效率。 | https://github.com/zzzprojects/Z.ExtensionMethods |
 |  2  | [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) | 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。 | https://github.com/ldqk/Masuit.Tools |
 |  3  | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) | 一个比较全面的C#帮助类库，主要是日常工作收集，各式各样的几乎都能找到，所有功能性代码都是独立的类，类与类之间没有联系，可以单独引用至项目。 | https://github.com/Jimmey-Jiang/Common.Utility |
-|  4  |  |  |  |
+|  4  | [Bing.Utils](https://github.com/bing-framework/Bing.Utils) | Bing.Utils 是一个基于.net core平台下的工具库，旨在提升小型团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。 | https://github.com/bing-framework/Bing.Utils |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
