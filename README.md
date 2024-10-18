@@ -40,7 +40,7 @@
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 * [🚀C#/.NET/.NET Core拾遗补漏](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8B%BE%E9%81%97%E8%A1%A5%E6%BC%8F)
 * [📰C#/.NET/.NET Core最新资讯](https://github.com/YSGStudyHards/DotNetGuide/issues/16)
-* [🕹C#/.NET/.NET Core学习路线集合](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%E9%9B%86)
+* [🕹C#/.NET/.NET Core学习路线集合](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E9%9B%86%E5%90%88)
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
