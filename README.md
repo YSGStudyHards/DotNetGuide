@@ -34,7 +34,7 @@
 ## 🔍目录导航(善用Ctrl+F)
 * [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E4%BC%98%E8%B4%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
-* [⚒️程序员常用的工具软件]()
+* [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 * [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [👨‍🎓C#/.NET/.NET Core人才招聘](https://github.com/YSGStudyHards/DotNetGuide/issues/43)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
