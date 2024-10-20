@@ -34,7 +34,7 @@
 ## 🔍目录导航(善用Ctrl+F)
 * [🏷️优质学习资料收录栈](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E4%BC%98%E8%B4%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%94%B6%E5%BD%95%E6%A0%88)
 * [🏹编程效率提升技巧集](https://github.com/YSGStudyHards/DotNetGuide#%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7%E9%9B%86)
-* [⚒️程序员常用的工具软件](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
+* [⚒️程序员常用的工具软件]()
 * [🔋C#/.NET/.NET Core充电站](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E5%85%85%E7%94%B5%E7%AB%99)
 * [👨‍🎓C#/.NET/.NET Core人才招聘](https://github.com/YSGStudyHards/DotNetGuide/issues/43)
 * [🎁C#/.NET/.NET Core面试宝典](https://github.com/YSGStudyHards/DotNetGuide#cnetnet-core%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
@@ -165,6 +165,16 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
+## ⚒️程序员常用的工具软件
+在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器。
+
+* **实用效率工具公众号详细介绍专栏：** [前往订阅👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=-1550706823#wechat_redirect)
+* **欢迎PR或Issues投稿：** https://github.com/YSGStudyHards/Awesome-Tools/issues
+* **Awesome Tools，程序员常用高效实用工具、软件资源精选：** https://github.com/YSGStudyHards/Awesome-Tools
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
 ## 🔋C#/.NET/.NET Core充电站
 ### 在线学习站
 * [.NET官网](https://dotnet.microsoft.com/zh-cn/)
@@ -206,10 +216,11 @@
 
 
 ## 🎁C#/.NET/.NET Core面试宝典
-面试宝典地址：[https://www.yuque.com/ysgstudyhard/da6e0c👉](https://www.yuque.com/ysgstudyhard/da6e0c)
 > 因为个人的能力和精力有限没法把涉及的所有知识点都总结归纳（现在主要是对一些常见的知识点进行了总结和归纳），希望有更多的小伙伴能加入和我一起完善这方面的相关知识点。对知识库有贡献者可获得更多学习资源。
 
 **🐱‍🚀C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习进步。**
+
+* **面试宝典地址（点赞收藏不迷路）：** [https://www.yuque.com/ysgstudyhard/da6e0c👉](https://www.yuque.com/ysgstudyhard/da6e0c)
 
 ![C#.NET.NET Core面试宝典（基础版）](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2145479/o_240328134732_%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.png)
 
@@ -227,7 +238,8 @@
 
 ## 🕹C#/.NET/.NET Core学习路线集合
 > **C#、.NET、.NET Core、WPF、WinForm、Unity等相关技术的学习、工作路线集合（持续更新）！！！**
-- C#/.NET/.NET Core学习路线集合地址：[https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr👉](https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr)
+
+* **C#/.NET/.NET Core学习路线集合地址：** [https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr👉](https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr)
 
 ![C#/.NET/.NET Core学习路线集合](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2426875/o_241017162256_%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.png "C#/.NET/.NET Core学习路线集合")
 
@@ -421,8 +433,8 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 ## ⚔C#/.NET/.NET Core编程技巧练习集
 C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
 
-* DotNetExercises源码仓库地址：https://github.com/YSGStudyHards/DotNetExercises
-* 想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
+* **DotNetExercises源码仓库地址：** https://github.com/YSGStudyHards/DotNetExercises
+* **想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：** https://github.com/YSGStudyHards/DotNetGuide/issues/42
 
 ### 文章详细教程
 * [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise)：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
