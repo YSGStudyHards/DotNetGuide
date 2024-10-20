@@ -36,6 +36,7 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
+            线性查找算法.LinearSearchRun();
             //哈希查找算法.HashSearchFunctionRun(2);
             //二分查找算法.BinarySearchRun();
             //二叉搜索树算法.BinarySearchTreeRun();
