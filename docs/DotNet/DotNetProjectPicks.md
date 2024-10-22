@@ -88,6 +88,7 @@
   * [Excel转JSON工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#excel%E8%BD%ACjson%E5%B7%A5%E5%85%B7)
   * [实用抢票软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6)
   * [Office实用工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#office%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7)
+  * [PDF管理工具]()
   * [Git管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#git%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [通讯调试工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%80%9A%E8%AE%AF%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
   * [开源翻译工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7)
@@ -110,6 +111,7 @@
   * [.NET加密解密库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%BA%93)
   * [.NET支付SDK](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E6%94%AF%E4%BB%98sdk)
   * [.NET Office文件操作库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-office%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E5%BA%93)
+  * [.NET PDF文件操作库]()
   * [.NET JSON处理库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-json%E5%A4%84%E7%90%86%E5%BA%93)
   * [.NET对象映射库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%AF%B9%E8%B1%A1%E6%98%A0%E5%B0%84%E5%BA%93)
   * [.NET Redis客户端驱动库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-redis%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%A9%B1%E5%8A%A8%E5%BA%93)
@@ -128,6 +130,7 @@
   * [.NET HTTP客户端库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-http%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93)
   * [控制台应用帮助库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B8%AE%E5%8A%A9%E5%BA%93)
   * [.NET开源搜索组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%90%9C%E7%B4%A2%E7%BB%84%E4%BB%B6%E5%BA%93)
+  * [开源计算机视觉库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1175,7 +1178,7 @@
 #### Office实用工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
+|  1  | [OfficeToPDF](https://github.com/cognidox/OfficeToPDF) | 用于将 Microsoft Office 文档转换为 PDF 的命令行工具。 | https://github.com/cognidox/OfficeToPDF |
 |  2  | [Mocreak](https://github.com/OdysseusYuan/Mocreak) | 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、部署 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。 | https://github.com/OdysseusYuan/Mocreak |
 |  3  | [kms-activate](https://github.com/jm33-m0/kms-activate) | Microsoft Windows/Office 一键激活工具。 | https://github.com/jm33-m0/kms-activate |
 |  4  | [Office Tool Plus](https://github.com/YerongAI/Office-Tool) | Office Tool Plus是一个强大且实用的Office部署工具，你也可以使用其他功能、小工具快捷、可以方便地激活和管理Office。 | https://github.com/YerongAI/Office-Tool |
@@ -1185,6 +1188,19 @@
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### PDF管理工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1432,7 +1448,6 @@
 |  13 |  |  |  |
 |  14 |  |  |  |
 |  15 |  |  |  |
-|  16 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1489,22 +1504,39 @@
 |  2 | [CsvHelper](https://github.com/JoshClose/CsvHelper) | CsvHelper是一个.NET开源、快速、灵活、高度可配置、易于使用的用于读取和写入CSV文件的类库。 | https://github.com/JoshClose/CsvHelper |
 |  3 | [ExcelMapper](https://github.com/mganss/ExcelMapper) | 用于将 POCO 对象映射到 Excel 文件的库。 | https://github.com/mganss/ExcelMapper |
 |  4 | [RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms) | 一个适用于.NET WinForms的 Office 功能区控件类库。 | https://github.com/RibbonWinForms/RibbonWinForms |
-|  5 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
-|  6  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
-|  7  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
-|  8  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
-|  9  | [SharpDocx](https://github.com/egonl/SharpDocx) | 用于创建 Word 文档的轻量级模板引擎。 | https://github.com/egonl/SharpDocx |
-|  10  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
-|  11 | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
-|  12 | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
-|  13 | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
-|  14 | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
-|  15 | [Sylvan.Data.Excel](https://github.com/MarkPflug/Sylvan.Data.Excel) | 用于读取和写入 Excel 数据文件的跨平台 .NET 库。最常用的格式：.xlsx、.xlsb 和 .xls 支持读取，而 .xlsx 和 .xlsb 格式支持写入。 | https://github.com/MarkPflug/Sylvan.Data.Excel |
+|  5  | [SharpDocx](https://github.com/egonl/SharpDocx) | 用于创建 Word 文档的轻量级模板引擎。 | https://github.com/egonl/SharpDocx |
+|  6  | [ClosedXML](https://github.com/ClosedXML/ClosedXML) | osedXML是一个用于读取、操作和写入Excel 2007+（.xlsx，.xlsm）文件的.NET库。它旨在提供一个直观和用户友好的界面来处理底层的OpenXML API。 | https://github.com/ClosedXML/ClosedXML |
+|  7 | [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) | 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。 | https://github.com/dotnetcore/Magicodes.IE |
+|  8 | [MiniWord](https://github.com/mini-software/MiniWord) |  .NET Word模板引擎，藉由Word模板和数据简单、快速生成文件。 | https://github.com/mini-software/MiniWord |
+|  9 | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
+|  10 | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
+|  11 | [Sylvan.Data.Excel](https://github.com/MarkPflug/Sylvan.Data.Excel) | 用于读取和写入 Excel 数据文件的跨平台 .NET 库。最常用的格式：.xlsx、.xlsb 和 .xls 支持读取，而 .xlsx 和 .xlsb 格式支持写入。 | https://github.com/MarkPflug/Sylvan.Data.Excel |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 |  16 |  |  |  |
 |  17 |  |  |  |
 |  18 |  |  |  |
 |  19 |  |  |  |
 |  20 |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET PDF文件操作库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
+|  2  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
+|  3  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
+|  4  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
+|  5  |  |  |  |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1773,6 +1805,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 开源计算机视觉库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [OpenCvSharp](https://github.com/shimat/opencvsharp) | OpenCvSharp是一个.NET环境下的OpenCV（Open Source Computer Vision Library，开源计算机视觉库）的封装库，它使得.NET开发者能够更方便地在.NET应用程序中使用OpenCV的强大功能。 | https://github.com/shimat/opencvsharp |
+|  2  | [SharpCV](https://github.com/SciSharp/SharpCV) | 适用于 C# 和 F# 的计算机视觉库，它将 OpenCV 和 NDArray 组合在 .NET Standard 中。 | https://github.com/SciSharp/SharpCV |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他第三方SDK&类库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1845,7 +1890,7 @@
 |  11  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  12  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
 |  13  | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
-|  14 |  |  |  |
+|  14 | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | Fluent.Ribbon 是一个库，用于为 Windows Presentation Foundation （WPF） 实现类似 Office 的用户界面。它提供了 RibbonTabControl、Backstage、Gallery、QuickAccessToolbar、ScreenTip 等控件。 | https://github.com/fluentribbon/Fluent.Ribbon |
 |  15 |  |  |  |
 |  16 |  |  |  |
 |  17 |  |  |  |
