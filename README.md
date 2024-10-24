@@ -513,7 +513,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
   * [C#计数排序算法](https://mp.weixin.qq.com/s/PA5NNqcy3CM9PSncWCsmEg)
   * [C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
   * [C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
-* C#经典查找算法
+* [C#经典查找算法](https://mp.weixin.qq.com/s/zj9oZBajcewU6yP4y8e_ow)
   * [C#二分查找算法](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)
   * [C#线性查找算法](https://mp.weixin.qq.com/s/VKC5lEYCL7SHieNMaPOE3A)
   * [C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
