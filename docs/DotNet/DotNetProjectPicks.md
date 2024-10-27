@@ -1679,8 +1679,8 @@
 #### .NET开源模拟库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [moq](https://github.com/devlooped/moq) | Moq（读作 "Mock-you "或 "Mock"）是唯一一个从零开始开发的.NET模拟库，它充分利用了.NET Linq表达式树和lambda表达式的优势，使其成为目前最高效、类型安全和重构友好的模拟库。它还支持模拟接口和类。它的 API 非常简单直接，不需要任何有关模拟概念的知识或经验。 | https://github.com/devlooped/moq |
-|  2  |  |  |  |
+|  1  | [Moq](https://github.com/devlooped/moq) | Moq是一个.NET开源、流行、使用简单的 .NET 模拟库，充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，提高代码的可测试性和可维护性。| https://github.com/devlooped/moq |
+|  2  | [JustMockLite](https://github.com/telerik/JustMockLite) | JustMock Lite是一个专为.NET开发者设计的免费且功能强大的模拟框架，它通过提供丰富的特性和便捷的开发体验，帮助开发者提高单元测试的质量和效率。 | https://github.com/telerik/JustMockLite |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
