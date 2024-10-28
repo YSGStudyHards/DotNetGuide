@@ -1749,8 +1749,8 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) | SharpZipLib（#ziplib，以前称为 NZipLib）是一个压缩库，它支持使用存储和 deflate 压缩方法、PKZIP 2.0 样式和 AES 加密、带有 GNU 长文件扩展名的 tar、GZip、zlib 和 raw deflate 以及 BZip2 的 Zip 文件。支持 Zip64，而尚不支持 Deflate64。它作为程序集实现（可安装在 GAC 中），因此可以很容易地合并到其他项目中（使用任何 .NET 语言）。 | https://github.com/icsharpcode/SharpZipLib |
-|  2  |  |  |  |
-|  3  |  |  |  |
+|  2  | [SharpCompress](https://github.com/adamhathcock/sharpcompress) | SharpCompress是一个用纯C#编写的压缩库，支持多种压缩格式的解压与部分格式的写入，专为.NET多版本设计，适合处理大文件和流式压缩。适用于 .NET Framework 4.62、.NET Standard 2.1、.NET 6.0 和 NET 8.0 的纯 C# 压缩库，可以 unrar、un7zip、unzip、untar unbzip2、ungzip、unlzip 与仅进读取和文件随机访问 API。实现了对 zip/tar/bzip2/gzip/lzip 的写入支持。 | https://github.com/adamhathcock/sharpcompress |
+|  3  | [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) | K4os.Compression.LZ4 是一个为 .NET 平台设计的基于 LZ4 算法的高效压缩库，提供极快的压缩和解压缩速度，支持多种压缩级别和流/块压缩模式。 | https://github.com/MiloszKrajewski/K4os.Compression.LZ4 |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
