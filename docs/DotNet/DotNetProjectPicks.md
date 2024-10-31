@@ -1835,7 +1835,7 @@
 |  12  | [open-pdd-net-sdk](https://github.com/niltor/open-pdd-net-sdk) | C#拼多多开放平台SDK。 | https://github.com/niltor/open-pdd-net-sdk |
 |  13  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
 |  14  | [SmartFormat](https://github.com/axuno/SmartFormat) | SmartFormat是一个用 C# 编写的轻量级文本模板库，可以直接替代string.Format 。不仅如此， SmartFormat还可以使用命名占位符、列表、本地化、复数和其他智能扩展来格式化数据。 | https://github.com/axuno/SmartFormat |
-|  15  |  |  |  |
+|  15  | [MethodTimer](https://github.com/Fody/MethodTimer) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 | https://github.com/Fody/MethodTimer |
 |  16  |  |  |  |
 |  17  |  |  |  |
 |  18  |  |  |  |
