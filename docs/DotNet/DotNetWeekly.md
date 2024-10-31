@@ -35,69 +35,69 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章简介：** Microsoft.Extensions.AI 库为使用 AI 服务提供了统一的层一样，该包为 .NET 生态系统提供了抽象，有助于将向量存储集成到 .NET 应用程序和库中。
 - **文章地址：** https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 一个 WPF 开发的简约，功能强大的终端模拟器
+- **文章简介：** ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。
+- **文章地址：** https://mp.weixin.qq.com/s/pYP8yV-sxLYjJsRuSNunlA
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 在.NET中使用QuestPDF高效地生成PDF文档
+- **文章简介：** 在.NET平台中操作生成PDF的类库有很多如常见的有iTextSharp、PDFsharp、Aspose.PDF等，今天我们分享一个用于生成PDF文档的现代开源.NET库：QuestPDF，本文将介绍QuestPDF并使用它快速实现发票PDF文档生成功能。
+- **文章地址：** https://mp.weixin.qq.com/s/Xa9illjyi_aofgRCjeFK8A
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### C#常见的四种经典查找算法
+- **文章简介：** 在编程领域，数据结构与算法是构建高效、可靠和可扩展软件系统的基石。它们对于提升程序性能、优化资源利用以及解决复杂问题具有至关重要的作用。今天大姚给大家分享四种C#中常见的经典查找算法。
+- **文章地址：** https://mp.weixin.qq.com/s/zj9oZBajcewU6yP4y8e_ow
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 全面的C#/.NET自学入门指南
+- **文章简介：** 全面的C#/.NET自学入门指南。
+- **文章地址：** https://mp.weixin.qq.com/s/2ujPrjEUh5Q5Ti_qPdH1aA
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 再也不用为找.NET相关的项目和框架发愁了
+- **文章简介：** 大家平时都是怎么找C#/.NET/.NET Core相关项目和框架的？本文将告诉你找.NET相关的项目和框架可以优先看DotNetGuide的C#/.NET/.NET Core优秀项目和框架精选专栏，里面收录了大量的.NET相关的优秀项目和框架，当然假如你有更好的项目和框架推荐的欢迎PR投稿（让优秀的项目和框架不被埋没）。
+- **文章地址：** https://mp.weixin.qq.com/s/gUO4Z83NZb9ZgmoVS_eRJg
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET使用Moq开源模拟库简化单元测试
+- **文章简介：** Moq是一个.NET开源、流行、使用简单的 .NET 模拟库，充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，提高代码的可测试性和可维护性。
+- **文章地址：** https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 一款基于.NET开源且免费的在线考试系统
+- **文章简介：** 考试君是一款基于.NET开源、免费、功能丰富、易于部署和扩展的在线考试系统。
+- **文章地址：** https://mp.weixin.qq.com/s/e7OloXKk2N_fv8-91SlZag
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 一份阅读量30万+免费且全面的C#/.NET面试宝典
+- **文章简介：** C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习进步。该知识库主要由自己平时学习实践总结、网上优秀文章资料收集（这一部分会标注来源）和社区小伙伴提供三部分组成。该份基础面试宝典完全免费，发布三年多时间来收获了广大.NET小伙伴的好评，我会持续更新和改进，欢迎关注我的公众号【追逐时光者】第一时间获取最新更新的面试题内容。
+- **文章地址：** https://mp.weixin.qq.com/s/odm4jLQu38qVn_zNENf-xQ
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### C# 13(.Net 9) 中的新特性 - 半自动属性
+- **文章简介：** C# 13 即 .Net 9 按照计划会在2024年11月发布，目前一些新特性已经定型，今天让我们来预览其中的一个新特性 - 半自动属性。
+- **文章地址：** https://www.cnblogs.com/Rwing/p/18510363/Csharp_13_dot_net_9_preview_Semi-auto_properties
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 一个.NET开源、轻量级的运行耗时统计库 - MethodTimer
+- **文章简介：** MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。
+- **文章地址：** https://mp.weixin.qq.com/s/YRNodWl8pxEk_OnAkY92Gw
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET云原生应用实践（四）：基于Keycloak的认证与授权
+- **文章简介：** .NET云原生应用实践（四）：基于Keycloak的认证与授权。
+- **文章地址：** https://www.cnblogs.com/daxnet/p/18500344
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET Core到.NET 8 托管堆的变迁
+- **文章简介：** .NET Core到.NET 8 托管堆的变迁。
+- **文章地址：** https://www.cnblogs.com/lmy5215006/p/18515971
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### C#使用Socket实现分布式事件总线，不依赖第三方MQ
+- **文章简介：** C#使用Socket实现分布式事件总线，不依赖第三方MQ。
+- **文章地址：** https://www.cnblogs.com/lsq6/p/18512082
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### AvaloniaUI项目离线开发全攻略：IDE安装、模板应用与NuGet私有化部署一站式解决
+- **文章简介：** AvaloniaUI项目离线开发全攻略：IDE安装、模板应用与NuGet私有化部署一站式解决。
+- **文章地址：** https://www.cnblogs.com/Dotnet9-com/p/18511697
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### dotnet core微服务框架Jimu介绍
+- **文章简介：** dotnet core微服务框架Jimu介绍。
+- **文章地址：** https://www.cnblogs.com/flamesky/p/18503218
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET使用OllamaSharp实现大模型推理对话的简单演示
+- **文章简介：** .NET使用OllamaSharp实现大模型推理对话的简单演示。
+- **文章地址：** https://www.cnblogs.com/weskynet/p/18497936
 
 
 ### 第 10 期（2024年10.14-10.20）
