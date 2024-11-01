@@ -13,7 +13,7 @@
 # 2024年
 ## 10月
 ### 公众号9月简报
-* **C#/.NET/.NET Core优秀项目和框架2024年10月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2024年10月简报：** https://mp.weixin.qq.com/s/UtWah6jsZmeKjMRLETl-CQ
 
 ### MethodTimer
 * **项目简介：** MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。
