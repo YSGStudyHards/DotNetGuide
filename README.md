@@ -130,7 +130,8 @@
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
 * [VS Code安装CodeGeeX AI编程助手提高.NET开发工作效率](https://mp.weixin.qq.com/s/xGFgBh_OsQ0hwOtUFQzxdg)
 
-### .NET在线代码编辑工具
+### .NET开发效率工具
+* [JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s/9lGdDchHgHCQMlfgqpaXQg)
 * [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
 
 ### AI辅助编程工具
