@@ -1679,12 +1679,14 @@
 #### .NET开源模拟库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Moq](https://github.com/devlooped/moq) | Moq是一个.NET开源、流行、使用简单的 .NET 模拟库，充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，提高代码的可测试性和可维护性。| https://github.com/devlooped/moq |
-|  2  | [JustMockLite](https://github.com/telerik/JustMockLite) | JustMock Lite是一个专为.NET开发者设计的免费且功能强大的模拟框架，它通过提供丰富的特性和便捷的开发体验，帮助开发者提高单元测试的质量和效率。 | https://github.com/telerik/JustMockLite |
-|  3  |  |  |  |
-|  4  |  |  |  |
-|  5  |  |  |  |
+|  1  | [Moq](https://github.com/devlooped/moq) | Moq是一个开源、流行、使用简单的 .NET 模拟库，充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，提高代码的可测试性和可维护性。| https://github.com/devlooped/moq |
+|  2  | [NSubstitute](https://github.com/nsubstitute/NSubstitute) | 一个友好的 .NET 模拟库，旨在使测试代码更易于阅读和编写。 | https://github.com/nsubstitute/NSubstitute |
+|  3  | [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) | 一个简单易用的 .NET 模拟库，提供了简洁的 API。为.NET动态创建各种类型的假对象、模拟对象（mocks）、存根（stubs）等的库。 | https://github.com/FakeItEasy/FakeItEasy |
+|  4  | [Rhino Mocks](https://github.com/ayende/rhino-mocks) | 一个适用于 .NET 的动态模拟框架。 | https://github.com/ayende/rhino-mocks |
+|  5  | [JustMockLite](https://github.com/telerik/JustMockLite) | JustMock Lite是一个专为.NET开发者设计的免费且功能强大的模拟框架，它通过提供丰富的特性和便捷的开发体验，帮助开发者提高单元测试的质量和效率。 | https://github.com/telerik/JustMockLite |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
