@@ -2,6 +2,7 @@
 using HelloDotNetGuide.常见算法;
 using HelloDotNetGuide.异步多线程编程;
 using HelloDotNetGuide.数组相关;
+using static HelloDotNetGuide.设计模式.单例模式;
 
 namespace HelloDotNetGuide
 {
@@ -10,6 +11,16 @@ namespace HelloDotNetGuide
         static void Main(string[] args)
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
+
+            #region 设计模式
+
+            SingletonEager.Instance.DoSomething();
+
+            SingletonLazy.Instance.DoSomething();
+
+            SingletonByLazy.Instance.DoSomething();
+
+            #endregion
 
             #region CSharp12GrammarExercise
 
@@ -36,7 +47,7 @@ namespace HelloDotNetGuide
 
             #region 常见算法
 
-            线性查找算法.LinearSearchRun();
+            //线性查找算法.LinearSearchRun();
             //哈希查找算法.HashSearchFunctionRun(2);
             //二分查找算法.BinarySearchRun();
             //二叉搜索树算法.BinarySearchTreeRun();
