@@ -1235,7 +1235,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [STranslate](https://github.com/ZGGSONG/STranslate) | 一款由WPF开源的、免费的（MIT License）、即开即用、即用即走的翻译、OCR工具。 | https://github.com/ZGGSONG/STranslate |
-|  2  |  |  |  |
+|  2  | [Translumo](https://github.com/Danily07/Translumo) | Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。 | https://github.com/Danily07/Translumo |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
