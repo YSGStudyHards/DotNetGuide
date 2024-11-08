@@ -29,7 +29,7 @@
   * [工作流引擎框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E%E6%A1%86%E6%9E%B6)
   * [身份认证授权框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83%E6%A1%86%E6%9E%B6)
   * [反向代理框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%A1%86%E6%9E%B6)
-  * [API 网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
+  * [开源网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#api-%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
   * [网络爬虫框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)
   * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
@@ -393,7 +393,7 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### API 网关框架
+#### 开源网关框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1 | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot是一个基于.NET Core的开源网关库，它提供了一种简单而灵活的方式来构建和管理微服务架构中的API网关。通过使用Ocelot，您可以轻松地实现反向代理、路由、请求转发、负载均衡、身份验证、授权等功能。 | https://github.com/ThreeMammals/Ocelot |
@@ -401,7 +401,7 @@
 |  3 | [IoTGateway](https://gitee.com/iioter/iotgateway) | 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。 | https://gitee.com/iioter/iotgateway |
 |  4 | [FastGateway](https://github.com/239573049/FastGateway/)  | 基于 .NET8+FreeSql超轻量级网关，为了代替Nginx而生，基于使用Yarp打造更快更轻量级的网关，并且提供了完整的UI界面提供了地区请求数据统计，提供了免费的HTTPS证书申请，并且支持HTTP内网穿透，还提供了黑白名单，并且提供动态更新，支持限流等。  | https://github.com/239573049/FastGateway/ |
 |  5  | [Apiumc Gateway](https://gitee.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关，它从底层Socket原始通信层开始，采用多线程、多任务模式从新构建Web服务，充分发挥当下多核的CPU的多任务并行性能，达到不输nginx的性能表现，而多线程、多任务天生比多进程模式更有编程可控性，基于这此原理，为Apiumc带来丰富多的基于网关深度应用，是网关功能集大成者；它一个工具等于Nginx + 网关登录 + 图片处理 + 内网穿透 + 免费Ssl证书，且配置全程界面化，让你告别难懂、难记易出错的指令配置。 | https://gitee.com/apiumc/Gateway |
-|  6  |  |  |  |
+|  6  | [SharpSCADA](https://gitee.com/LaoHuaiMiao/SharpSCADA) | SharpSCADA 是一个开源的轻量级工业控制网关和组态软件，旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNet/IP、施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。 | https://gitee.com/LaoHuaiMiao/SharpSCADA |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
@@ -1324,7 +1324,7 @@
 |  23 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
 |  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
 |  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
-|  26  |  |  |  |
+|  26  | [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal) | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
 |  27  |  |  |  |
 |  28  |  |  |  |
 |  29  |  |  |  |
