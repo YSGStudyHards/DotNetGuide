@@ -18,6 +18,85 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 10月
+### 第 12 期（2024年11.01-11.10）
+#### 为 .NET Conf 2024 做好准备之本地社区活动 .NET Conf China 2024 启动
+- **文章简介：** .NET Conf 2024 是一个面向.NET生态系统社区的大型活动，将于2024年11月12日至14日举行。该活动将通过YouTube和Twitch进行现场直播，并在dotnetconf.net网站上提供直播流。这是一个免费的虚拟事件，旨在为初学者和学习者提供关于AI、Web开发、移动开发和游戏开发等方面的教育内容。.NET Conf 以 .NET 团队成员和领导者的主题演讲开始，他们向您展示了 .NET 9 版本最酷的新功能。然后，您将享受一整天的现场演示，其中包括一些构建 .NET 9 的人，他们将深入探讨 .NET Aspire、AI 构建基块、C#、ASP.NET Core、Blazor、.NET MAUI 等的功能。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18534346
+
+#### 精选2款C#/.NET开源且功能强大的网络通信框架
+- **文章简介：** 今天大姚给分享2个C#/.NET开源且功能强大的网络通信框架，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/Yh63qhNaTVn7K8ySgyso0Q
+
+#### 2024年全面且功能强大的.NET快速开发框架推荐，效率提升利器！
+- **文章简介：** 选择一款全面且功能强大的快速开发框架能够帮助我们解决C#、.NET项目中的很多重复工作，从而提高开发生产效率、避免工作996。今天大姚给大家分享10个.NET开源、免费、功能强大的快速开发框架，同学们可以按需选择适合自己的框架进行开发（注意，以下排名不分先后）。
+- **文章地址：** https://mp.weixin.qq.com/s/F4V7SgRJpgMA8NY8oF4yVg
+
+#### 将 .NET Aspire 添加到您现有的 .NET 应用程序中
+- **文章简介：** .NET Aspire 是一个针对 .NET 的新型云就绪堆栈，可帮助开发人员快速轻松地开发分布式应用程序。您可能已经看过一些演示，展示了大型 .NET 解决方案，其中充满了复杂的云依赖项，比如 Redis、Kafka 和 Postgres，也许您会想：这些技术也许有一天会用到，但对于我当前的项目来说，并没有太多的实际用途。
+- **文章地址：** https://mp.weixin.qq.com/s/lE6lotrosHwrUYcS6rJFog
+
+#### 基于Material Design风格开源且强大的Blazor组件库
+- **文章简介：** MudBlazor是一个基于Material Design风格开源、免费（MIT License）、功能强大的Blazor组件框架，注重易用性和清晰的结构。它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。由于MudBlazor完全使用C#编写，因此你可以自由地调整、修复或扩展该框架。文档中有大量示例代码，能够帮助开发者快速理解和学习MudBlazor框架。
+- **文章地址：** https://mp.weixin.qq.com/s/BYIRIIZvp6waLudFlevoxg
+
+#### 一款.NET开源的屏幕实时翻译工具
+- **文章简介：** Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。
+- **文章地址：** https://mp.weixin.qq.com/s/Q_1aSNSjJPGA_7fS4E2eBA
+
+#### C# 单例模式的多种实现
+- **文章简介：** 单例模式是一种创建型设计模式，它主要确保在一个类只有一个实例，并提供一个全局访问点来获取该实例。在C#中，有多种方式实现单例模式，每种方式都有其特定的使用场景和注意事项。
+- **文章地址：** https://mp.weixin.qq.com/s/Ub3OAThfay4_EasKnYCGUw
+
+#### .NET 9 中 System.Text.Json 的新增功能
+- **文章简介：** .NET 9 中 System.Text.Json 的新增功能。
+- **文章地址：** https://mp.weixin.qq.com/s/GdoLeBSI0wmT4jptmTGWxA
+
+#### 2款使用.NET开发的数据库系统
+- **文章简介：** 2款使用.NET开发的数据库系统。
+- **文章地址：** https://mp.weixin.qq.com/s/Hu3CTfUtxydQZwS-DhU48Q
+
+#### 制作一个龙芯旧世界的 dotnet sdk docker 镜像
+- **文章简介：** 制作一个龙芯旧世界的 dotnet sdk docker 镜像。
+- **文章地址：** https://mp.weixin.qq.com/s/QDoU13w1WKE_xQXLijQ2xw
+
+#### JetBrains官方宣布 Rider 非商用免费开放！
+- **文章简介：** JetBrains官方前段时间宣布重磅消息，其两款知名IDE应用WebStorm和Rider现已面向社区开放，允许用户免费用于非商业用途。此举旨在支持学习、开源项目开发、内容创作及业余开发等活动。
+- **文章地址：** https://mp.weixin.qq.com/s/9lGdDchHgHCQMlfgqpaXQg
+
+#### 一款支持C#语言，免费且功能强大的智能AI编程助手，开发效率提升利器！
+- **文章简介：** AI编程助手在软件开发和编程过程中发挥着重要的作用，它们通过提供智能的代码补全、代码审查、知识共享和学习等功能，显著提升了开发者的生产力和代码质量。随着技术的不断发展，AI编程助手的功能和性能将进一步提升，为开发者提供更加高效、智能和便捷的编程体验。今天给大家分享一款免费、功能强大、易于使用的智能AI编程助手：豆包MarsCode。
+- **文章地址：** https://mp.weixin.qq.com/s/FP87NemFgnBkN7m10C7GaA
+
+#### 使用Roslyn的源生成器生成DTO
+- **文章简介：** 源生成器的好处很多, 通过在编译时生成代码，可以减少运行时的反射和动态代码生成，从而提高应用程序的性能, 有时候需要对程序AOT以及裁剪编译的dll也是需要用SG来处理的。
+- **文章地址：** https://www.cnblogs.com/vipwan/p/18535459
+
+#### .NET Core 泛型底层原理浅谈
+- **文章简介：** .NET Core 泛型底层原理浅谈。
+- **文章地址：** https://www.cnblogs.com/lmy5215006/p/18529501
+
+#### AOT使用经验总结
+- **文章简介：** AOT使用经验总结。
+- **文章地址：** https://www.cnblogs.com/Dotnet9-com/p/18529239
+
+#### ASP.Net Core使用Jenkins配合pm2自动化部署项目
+- **文章简介：** ASP.Net Core使用Jenkins配合pm2自动化部署项目。
+- **文章地址：** https://www.cnblogs.com/w821759016/p/18525620
+
+#### .NET云原生应用实践（五）：使用Blazor WebAssembly实现前端页面
+- **文章简介：** .NET云原生应用实践（五）：使用Blazor WebAssembly实现前端页面。
+- **文章地址：** https://www.cnblogs.com/daxnet/p/18518807
+
+#### Avalonia跨平台上位机控件开发之水泵
+- **文章简介：** Avalonia跨平台上位机控件开发之水泵。
+- **文章地址：** https://www.cnblogs.com/Cookies-Tang/p/18522958
+
+#### .NET 9 中没有 wasi 实验性支持
+- **文章简介：** .NET 9 中没有 wasi 实验性支持。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18522918
+
+
+## 10月
 ### 第 11 期（2024年10.21-10.31）
 #### MongoDB EF Core Provider在2024年5月正式发布后的新特性
 - **文章简介：** 本文详细介绍了MongoDB EF Core Provider在2024年5月正式发布后的新特性，包括添加属性和更改跟踪、索引管理、复杂查询能力以及事务和并发控制等关键功能。
