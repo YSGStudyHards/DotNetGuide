@@ -589,7 +589,7 @@
 |  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco是最友好、最灵活、增长最快的ASP.NET开源的内容管理系统。 | https://github.com/umbraco/Umbraco-CMS |
 |  7  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
 |  8  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
-|  9  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | 一款基于NetCore2.2/3.1（Razor Page）功能强大的Cms建站系统，支持前后端分离。 | https://gitee.com/feiyit/FytSoaCms |
+|  9  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 | https://gitee.com/feiyit/FytSoaCms |
 |  10  | [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
 |  11 | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 |  12  |  |  |  |
@@ -1838,7 +1838,7 @@
 |  13  | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk) | C# 阿里云 OSS SDK。 | https://github.com/aliyun/aliyun-oss-csharp-sdk |
 |  14  | [SmartFormat](https://github.com/axuno/SmartFormat) | SmartFormat是一个用 C# 编写的轻量级文本模板库，可以直接替代string.Format 。不仅如此， SmartFormat还可以使用命名占位符、列表、本地化、复数和其他智能扩展来格式化数据。 | https://github.com/axuno/SmartFormat |
 |  15  | [MethodTimer](https://github.com/Fody/MethodTimer) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 | https://github.com/Fody/MethodTimer |
-|  16  |  |  |  |
+|  16  | [aws-sdk-net](https://github.com/aws/aws-sdk-net) | 适用于 .NET 的 AWS 开发工具包使 .NET 开发人员能够轻松使用 Amazon Web Services，并使用 Amazon S3、Amazon DynamoDB、Amazon Glacier 等构建可扩展的解决方案。 | https://github.com/aws/aws-sdk-net |
 |  17  |  |  |  |
 |  18  |  |  |  |
 |  19  |  |  |  |
