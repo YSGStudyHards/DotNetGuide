@@ -131,7 +131,7 @@
   * [控制台应用帮助库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B8%AE%E5%8A%A9%E5%BA%93)
   * [.NET开源搜索组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%90%9C%E7%B4%A2%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
-  * [.NET开源深度克隆]()
+  * [.NET开源深度克隆](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
