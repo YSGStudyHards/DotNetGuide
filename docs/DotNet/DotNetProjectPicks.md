@@ -131,6 +131,7 @@
   * [控制台应用帮助库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B8%AE%E5%8A%A9%E5%BA%93)
   * [.NET开源搜索组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%90%9C%E7%B4%A2%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
+  * [.NET开源深度克隆]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1812,6 +1813,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [OpenCvSharp](https://github.com/shimat/opencvsharp) | OpenCvSharp是一个.NET环境下的OpenCV（Open Source Computer Vision Library，开源计算机视觉库）的封装库，它使得.NET开发者能够更方便地在.NET应用程序中使用OpenCV的强大功能。 | https://github.com/shimat/opencvsharp |
 |  2  | [SharpCV](https://github.com/SciSharp/SharpCV) | 适用于 C# 和 F# 的计算机视觉库，它将 OpenCV 和 NDArray 组合在 .NET Standard 中。 | https://github.com/SciSharp/SharpCV |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET开源深度克隆
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [DeepCloner](https://github.com/force-net/DeepCloner) | DeepCloner是一个功能强大、使用灵活的对象克隆库，适用于.NET平台。它支持深拷贝和浅拷贝，无需对对象进行特殊标记或指定类型，即可进行快速克隆。库还包含了许多性能优化技巧，以提高克隆速度。此外，项目还提供了详细的使用场景和示例代码，帮助开发者更好地理解和使用库。 | https://github.com/force-net/DeepCloner |
+|  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
