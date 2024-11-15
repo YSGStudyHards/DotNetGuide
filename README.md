@@ -14,7 +14,7 @@
 - 我们致力于构建一个积极向上、和谐友善的.NET技术交流平台。无论您是初学者还是有丰富经验的开发者，我们都希望能为您提供更多的价值和成长机会。
 
 > 欢迎关注作者（DotNetGuide官方公众号：**追逐时光者**），与大姚一起沟通、交流学习、共同进步。
-* [🐱‍🚀强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
+* [🤖强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
 * [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 * [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 
