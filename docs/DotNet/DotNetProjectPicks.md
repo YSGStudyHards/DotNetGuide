@@ -1907,7 +1907,7 @@
 |  12  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
 |  13  | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
 |  14 | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | Fluent.Ribbon 是一个库，用于为 Windows Presentation Foundation （WPF） 实现类似 Office 的用户界面。它提供了 RibbonTabControl、Backstage、Gallery、QuickAccessToolbar、ScreenTip 等控件。 | https://github.com/fluentribbon/Fluent.Ribbon |
-|  15 |  |  |  |
+|  15 | [CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI) | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，以简化WPF应用程序的开发过程。 | https://gitee.com/CookCSharp/CookPopularUI |
 |  16 |  |  |  |
 |  17 |  |  |  |
 |  18 |  |  |  |
