@@ -14,7 +14,9 @@ namespace HelloDotNetGuide
 
             #region LinqExercise
 
-            LinqExercise.IndexExample();
+            //LinqExercise.CountByExample();
+            //LinqExercise.AggregateByExample();
+            //LinqExercise.IndexExample();
 
             #endregion
 
