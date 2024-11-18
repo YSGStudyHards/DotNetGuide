@@ -763,7 +763,7 @@
 |  1  | [Dorisoy.POS](https://github.com/dorisoy/Dorisoy.POS) | 使用.Net7 + Angular4开发的一套新零售快消进销存管理系统，带库存管理的高级轻量级POS，具有闪电般的性能和开箱即用的页面加载速度。 | https://github.com/dorisoy/Dorisoy.POS |
 |  2  | [Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | 这是一个示例项目，采用Asp.Net Core Mvc实现了库存订单管理系统。该系统包括仓库、产品、供应商、客户、采购订单、销售订单、出货、收货等功能。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
 |  3  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | 使用.NET 6，基于 Furion +viewui开发的一套极简的进销存管理系统。 | https://gitee.com/a106_admin/tuling-member |
-|  4  |  |  |  |
+|  4  | [jxc](https://gitee.com/wkjerry_admin/jxc) | 基础数据,入库管理，出库管理，库存管理，统计报表，往来帐款，系统设置。使用CS架构客户端使用winform开发并使用UI框架Devexpress。服务端使用.net6.0 webapi开发。客户端和服务端通过http接口交互。使用Mysql数据库，ORM框架sqlsugar使用ioc容器对对象管理使用.net内置过滤器对异常和权限进行统一处理。 | https://gitee.com/wkjerry_admin/jxc |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
