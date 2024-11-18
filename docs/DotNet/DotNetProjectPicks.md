@@ -542,7 +542,7 @@
 |  5  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
-|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于.NET Core构建的简单、跨平台、模块化、完全开源免费（MIT License）的商城系统。 | https://github.com/trueai-org/module-shop |
+|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
 |  9  |  |  |  |
 |  10 |  |  |  |
 
@@ -773,8 +773,8 @@
 #### 在线考试系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君 - 基于 .NET 6 语言的 Furion 框架在线考试系统。 | https://gitee.com/pig0224/ExamKing |
-|  2  |  |  |  |
+|  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君是一款基于.NET开源、免费、功能丰富、易于部署和扩展的在线考试系统。 | https://gitee.com/pig0224/ExamKing |
+|  2  | [XBLMES](https://gitee.com/xblms/xblmes) | 一款基于 .NET8 免费开源跨平台在线考试系统，支持人大金仓、达梦、OceanBase数据库 及 MySql、SqlServer、PostgreSql、SQLite 等数据库。 | https://gitee.com/xblms/xblmes |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -1908,7 +1908,7 @@
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  14 | [Adonis UI](https://github.com/benruehl/adonis-ui) | 一款为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
-|  16 |  |  |  |
+|  16 | [CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI) | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，以简化WPF应用程序的开发过程。 | https://gitee.com/CookCSharp/CookPopularUI |
 |  17 |  |  |  |
 |  18 |  |  |  |
 |  19 |  |  |  |
