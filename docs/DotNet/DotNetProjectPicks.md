@@ -1326,7 +1326,7 @@
 |  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
 |  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
 |  26  | [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal) | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
-|  27  |  |  |  |
+|  27  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
 |  28  |  |  |  |
 |  29  |  |  |  |
 |  30  |  |  |  |
