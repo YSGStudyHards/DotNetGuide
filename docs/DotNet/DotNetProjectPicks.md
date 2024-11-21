@@ -1897,8 +1897,8 @@
 |  2  | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI是一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
 |  3  | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
 |  4  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 一个开源、易于使用、强大的 WPF UI 控件库，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | http://materialdesigninxaml.net |
-|  5  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
-|  6  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
+|  5  | [MaterialDesignExtensions](https://github.com/spiegelp/MaterialDesignExtensions) | MaterialDesignExtensions是在Material Design in XAML Toolkit的基础上进行的扩展，为 WPF 应用提供其他控件和功能。 | https://github.com/spiegelp/MaterialDesignExtensions |
+|  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
 |  7  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
 |  8  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  9  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
@@ -1908,7 +1908,7 @@
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  14 | [Adonis UI](https://github.com/benruehl/adonis-ui) | 一款为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
-|  16 |  |  |  |
+|  16  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
 |  17 |  |  |  |
 |  18 |  |  |  |
 |  19 |  |  |  |
