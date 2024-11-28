@@ -18,6 +18,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 11月
+### 第 14 期（2024年11.18-11.24）
+#### PasteEx：一款.NET开源的Windows快捷粘贴神器
+- **文章简介：** PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。
+- **文章地址：** https://mp.weixin.qq.com/s/0wh6M2ko22Sh2gR5b3kgyg
+
+#### .NET使用Umbraco CMS快速构建一个属于自己的内容管理系统
+- **文章简介：** Umbraco CMS是一个基于.NET开源、免费（MIT License）、功能强大、灵活易用的内容管理系统。它能够帮助你创建美观现代的网站，并与最新的.NET技术和各种服务集成。无论你是个人开发者还是企业客户，Umbraco CMS都是一个值得考虑的选择。
+- **文章地址：** https://mp.weixin.qq.com/s/xaTtknSY98Nsuxrvyfwe5w
+
+#### 精选2款.NET开源且功能强大的报表制作神器
+- **文章简介：** 精选2款.NET开源且功能强大的报表制作神器。
+- **文章地址：** https://mp.weixin.qq.com/s/WoidOVLTK7wZhj42sfjJFQ
+
+#### .NET 9新特性：Task.WhenEach
+- **文章简介：** 在 .NET 9 中引入了一个新的方法：Task.WhenEach，用于简化异步编程。这种方法允许你在任务完成时立即处理它们，而无需等待所有任务结束。这在任务完成时间不一致、需要尽早对每个完成的任务采取行动的场景中特别有用。
+- **文章地址：** https://mp.weixin.qq.com/s/tdKv-bklrsE1eGL-r2TFkg
+
+#### 在 .NET 8中使用 Polly 处理瞬态故障
+- **文章简介：** 在 .NET 8中使用 Polly 处理瞬态故障。
+- **文章地址：** https://mp.weixin.qq.com/s/YD_wenHKxR-LKXzGizb8Qg
+
+#### 使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！
+- **文章简介：** 内存泄漏和高CPU使用率是在日常开发中经常遇到的问题，它们可能会导致应用程序性能下降甚至崩溃。今天我们来讲讲如何使用Visual Studio 2022分析.NET Dump，快速找到程序内存泄漏问题。
+- **文章地址：** https://mp.weixin.qq.com/s/tpEfmOR-wjYkZsWey7-Nmg
+
+#### 一个.NET开源、快速、功能丰富的跨平台阅读服务器
+- **文章简介：** 一个.NET开源、快速、功能丰富的跨平台阅读服务器。
+- **文章地址：** https://mp.weixin.qq.com/s/bi4cYeOmAOodlkTUt_ORnA
+
+#### 一个基于 .NET 8.0 构建的简单、跨平台、模块化商城系统
+- **文章简介：** 今天给大家分享一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统：Module Shop。
+- **文章地址：** https://mp.weixin.qq.com/s/Ga6HUZMNVD117IErVSEgfw
+
+#### .NET 9 中 LINQ 新增功能实操
+- **文章简介：** 语言集成查询 (LINQ) 是一系列直接将查询功能集成到 C# 语言的技术统称。 数据查询历来都表示为简单的字符串，没有编译时类型检查或 IntelliSense 支持。 此外，需要针对每种类型的数据源了解不同的查询语言：SQL 数据库、XML 文档、各种 Web 服务等。 借助 LINQ，查询成为了最高级的语言构造，就像类、方法和事件一样。
+- **文章地址：** https://mp.weixin.qq.com/s/lF1O-0FpKLDSYowZ2DjX3g
+
+#### 社区发布非官方龙架构 .NET 9 SDK 发行版
+- **文章简介：** 社区发布非官方龙架构 .NET 9 SDK 发行版。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18565125
+
+#### .NET Core 特性(Attribute)底层原理浅谈
+- **文章简介：** .NET Core 特性(Attribute)底层原理浅谈。
+- **文章地址：** https://www.cnblogs.com/lmy5215006/p/18551715
+
+#### C# 入门深度学习
+- **文章简介：** C# 入门深度学习：万字长文讲解微积分和梯度下降。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/18551532
+
+
 ### 第 13 期（2024年11.11-11.17）
 #### 利用腾讯元器，将公众号变身为强大的.NET AI智能体
 - **文章简介：** 经常有粉丝朋友在公众号后台私信提问，因为个人平时比较少看公众号后台的私信所以没法及时回复。最近发现腾讯推出了一个可以创建和使用各种智能体的平台（帮助小白也能快速使用AI）：腾讯元器，正好自己每天也在公众号更新.NET相关的文章（到目前为止.NET相关的文章应该有400多篇了）有着较为丰富.NET相关的知识库，因此今天我将利用腾讯元器，将我的公众号变身为一个强大的.NET AI智能体，造福我的.NET粉丝朋友们。

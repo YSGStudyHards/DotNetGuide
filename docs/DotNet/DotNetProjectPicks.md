@@ -35,6 +35,7 @@
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
   * [开源缓存框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%93%E5%AD%98%E6%A1%86%E6%9E%B6)
   * [开源游戏框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
+  * [性能基准测试框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)
   * [其他开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
@@ -480,6 +481,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 性能基准测试框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | BenchmarkDotNet是一个基于.NET开源、功能全面、易于使用的性能基准测试框架，它为.NET开发者提供了强大的性能评估和优化能力。通过自动化测试、多平台支持、高级统计分析和自定义配置等特性，BenchmarkDotNet帮助开发者更好地理解和优化软件系统的性能表现。 | https://github.com/dotnet/BenchmarkDotNet |
+|  2  | [NBench](https://github.com/petabridge/NBench) | NBench是一个适用于 .NET 应用程序的跨平台性能基准测试和测试框架。NBench 专为需要关心性能并希望能够像 XUnit 或 NUnit 测试应用程序代码一样“单元测试”其应用程序性能的 .NET 开发人员而设计。 | https://github.com/petabridge/NBench |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他开源框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -535,14 +549,14 @@
 #### 商城项目系统（Shop）
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | 一个功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) | https://github.com/nopSolutions/nopCommerce |
+|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | nopCommerce是一个.NET开源功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) ，具备商城该有的各种功能和特性。| https://github.com/nopSolutions/nopCommerce |
 |  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall是一个.NET ABP框架开发、开源、免费（MIT License）的多租户多商户多应用社交电商商城平台。 | https://github.com/jerrytang67/SoMall |
 |  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 | https://github.com/CoreUnion/CoreShop |
 |  4  | [QShop](https://gitee.com/qiushuochina/QShop) | QShop商城是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。 | https://gitee.com/qiushuochina/QShop |
 |  5  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
-|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于.NET Core构建的简单、跨平台、模块化、完全开源免费（MIT License）的商城系统。 | https://github.com/trueai-org/module-shop |
+|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
 |  9  |  |  |  |
 |  10 |  |  |  |
 
@@ -570,7 +584,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统，项目亮点功能包括：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
-|  2  |  |  |  |
+|  2  | [EasyMES](https://gitee.com/qian_wei_hong/EasyMES) | EasyMES是一个基于.NET 6 MVC框架的开源产品，专注于离散型零部件制造管理系统（MES）和仓储管理系统（WMS）的集成。 | https://gitee.com/qian_wei_hong/EasyMES |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -587,7 +601,7 @@
 |  3  | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统。 | https://github.com/SeriaWei/ZKEACMS |
 |  4  | [Oqtane Framework](https://github.com/oqtane/oqtane.framework) | Blazor 和 .NET MAUI 的 CMS & 应用程序框架。 | https://github.com/oqtane/oqtane.framework |
 |  5  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于Asp.net Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
-|  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco是最友好、最灵活、增长最快的ASP.NET开源的内容管理系统。 | https://github.com/umbraco/Umbraco-CMS |
+|  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco CMS是一个基于.NET开源、免费（MIT License）、功能强大、灵活易用的内容管理系统。它能够帮助你创建美观现代的网站，并与最新的.NET技术和各种服务集成。无论你是个人开发者还是企业客户，Umbraco CMS都是一个值得考虑的选择。 | https://github.com/umbraco/Umbraco-CMS |
 |  7  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
 |  8  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  9  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 | https://gitee.com/feiyit/FytSoaCms |
@@ -763,7 +777,7 @@
 |  1  | [Dorisoy.POS](https://github.com/dorisoy/Dorisoy.POS) | 使用.Net7 + Angular4开发的一套新零售快消进销存管理系统，带库存管理的高级轻量级POS，具有闪电般的性能和开箱即用的页面加载速度。 | https://github.com/dorisoy/Dorisoy.POS |
 |  2  | [Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | 这是一个示例项目，采用Asp.Net Core Mvc实现了库存订单管理系统。该系统包括仓库、产品、供应商、客户、采购订单、销售订单、出货、收货等功能。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
 |  3  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | 使用.NET 6，基于 Furion +viewui开发的一套极简的进销存管理系统。 | https://gitee.com/a106_admin/tuling-member |
-|  4  |  |  |  |
+|  4  | [jxc](https://gitee.com/wkjerry_admin/jxc) | 基础数据,入库管理，出库管理，库存管理，统计报表，往来帐款，系统设置。使用CS架构客户端使用winform开发并使用UI框架Devexpress。服务端使用.net6.0 webapi开发。客户端和服务端通过http接口交互。使用Mysql数据库，ORM框架sqlsugar使用ioc容器对对象管理使用.net内置过滤器对异常和权限进行统一处理。 | https://gitee.com/wkjerry_admin/jxc |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -773,8 +787,8 @@
 #### 在线考试系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君 - 基于 .NET 6 语言的 Furion 框架在线考试系统。 | https://gitee.com/pig0224/ExamKing |
-|  2  |  |  |  |
+|  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君是一款基于.NET开源、免费、功能丰富、易于部署和扩展的在线考试系统。 | https://gitee.com/pig0224/ExamKing |
+|  2  | [XBLMES](https://gitee.com/xblms/xblmes) | 一款基于 .NET8 免费开源跨平台在线考试系统，支持人大金仓、达梦、OceanBase数据库 及 MySql、SqlServer、PostgreSql、SQLite 等数据库。 | https://gitee.com/xblms/xblmes |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -814,7 +828,7 @@
 #### 访客管理系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  |  [visitormanagement](https://github.com/neozhu/visitormanagement) | 智能访客管理系统及门卫登记设备，可以安全可靠地进行来访人员管理，主要提供上传健康码，行程码，核酸报告和多级审批功能，不仅可以保障各个单位的安全，更可以提高企事业单位的电子化访客登记水平和形象。 | https://github.com/neozhu/visitormanagement |
+|  1  |  [visitormanagement](https://github.com/neozhu/visitormanagement) | 一款.NET开源的智能访客管理系统及门卫登记设备，可以安全可靠地进行来访人员管理，主要提供上传健康码，行程码，核酸报告和多级审批功能，不仅可以保障各个单位的安全，更可以提高企事业单位的电子化访客登记水平和形象。 | https://github.com/neozhu/visitormanagement |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
@@ -1323,10 +1337,10 @@
 |  21 | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
 |  22 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
 |  23 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
-|  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | .NET开源的一款能把剪贴板的内容直接粘贴为文件的实用工具。 | https://github.com/huiyadanli/PasteEx |
+|  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。 | https://github.com/huiyadanli/PasteEx |
 |  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
 |  26  | [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal) | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
-|  27  |  |  |  |
+|  27  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
 |  28  |  |  |  |
 |  29  |  |  |  |
 |  30  |  |  |  |
@@ -1897,8 +1911,8 @@
 |  2  | [WPF UI](https://github.com/lepoco/wpfui) | WPF UI是一款基于Fluent设计风格、开源（MIT License）、现代化的WPF UI控件库，它提供直观的设计、主题、导航和全新的沉浸式控件，全部都是原生且无缝地集成在一起。 | https://github.com/lepoco/wpfui |
 |  3  | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
 |  4  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 一个开源、易于使用、强大的 WPF UI 控件库，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | http://materialdesigninxaml.net |
-|  5  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
-|  6  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
+|  5  | [MaterialDesignExtensions](https://github.com/spiegelp/MaterialDesignExtensions) | MaterialDesignExtensions是在Material Design in XAML Toolkit的基础上进行的扩展，为 WPF 应用提供其他控件和功能。 | https://github.com/spiegelp/MaterialDesignExtensions |
+|  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
 |  7  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
 |  8  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  9  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
@@ -1908,7 +1922,7 @@
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  14 | [Adonis UI](https://github.com/benruehl/adonis-ui) | 一款为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
-|  16 |  |  |  |
+|  16  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本。一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
 |  17 |  |  |  |
 |  18 |  |  |  |
 |  19 |  |  |  |
@@ -1953,7 +1967,7 @@
 |  9  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
 |  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
 |  11  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
-|  12  |  |  |  |
+|  12  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
