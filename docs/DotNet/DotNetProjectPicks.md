@@ -35,7 +35,7 @@
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
   * [开源缓存框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%93%E5%AD%98%E6%A1%86%E6%9E%B6)
   * [开源游戏框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
-  * [性能基准测试框架]()
+  * [性能基准测试框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)
   * [其他开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
@@ -1967,7 +1967,7 @@
 |  9  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
 |  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
 |  11  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
-|  12  |  |  |  |
+|  12  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
