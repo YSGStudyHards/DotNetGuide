@@ -23,7 +23,7 @@
         public static void DistinctDuplicate()
         {
             var dataSource = new List<int>() { 1, 2, 3, 2, 5, 88, 99, 99, 100, 88, 30, 50, 15, 100, 99, 99, 2, 3 };
-            var uniqueData = dataSource.Distinct();
+            var uniqueData = dataSource.Distinct().ToList();
 
             Console.WriteLine(string.Join(", ", uniqueData));
         }
