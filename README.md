@@ -557,6 +557,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s/j657b2Ihe7PXarCxawZemQ)
 * [6本值得推荐的MySQL学习书籍](https://mp.weixin.qq.com/s/bPAKZsXwDxRy5mzEODFljw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/pN6azE6v4y9sk96FJqctBw)
+* [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s/BRn6zBkBhA_3a5NHkqpj4Q)
 * [MySQL日志15连问，你能抗住嘛？](https://mp.weixin.qq.com/s/uNvj1azCdQMVljgyox0CTg)
 * [MySQL夺命16问，你能回答出几个？](https://mp.weixin.qq.com/s/eJepG60ll0gaEPVb1IAKVA)
 * [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial)
