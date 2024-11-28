@@ -35,6 +35,7 @@
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
   * [开源缓存框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%93%E5%AD%98%E6%A1%86%E6%9E%B6)
   * [开源游戏框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
+  * [性能基准测试框架]()
   * [其他开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
@@ -473,6 +474,19 @@
 |  1  | [GameFramework](https://github.com/EllanJiang/GameFramework) | Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。 | https://github.com/EllanJiang/GameFramework |
 |  2  | [ET](https://github.com/egametang/ET) | Unity3D 客户端和 C# 服务器框架。 | https://github.com/egametang/ET |
 |  3  | [MonoGame](https://github.com/MonoGame/MonoGame) | MonoGame是一个简单而强大的.NET框架，使用C#编程语言可以创建桌面PC、视频游戏机和移动设备游戏。 | https://github.com/MonoGame/MonoGame |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 性能基准测试框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | BenchmarkDotNet是一个基于.NET开源、功能全面、易于使用的性能基准测试框架，它为.NET开发者提供了强大的性能评估和优化能力。通过自动化测试、多平台支持、高级统计分析和自定义配置等特性，BenchmarkDotNet帮助开发者更好地理解和优化软件系统的性能表现。 | https://github.com/dotnet/BenchmarkDotNet |
+|  2  | [NBench](https://github.com/petabridge/NBench) | NBench是一个适用于 .NET 应用程序的跨平台性能基准测试和测试框架。NBench 专为需要关心性能并希望能够像 XUnit 或 NUnit 测试应用程序代码一样“单元测试”其应用程序性能的 .NET 开发人员而设计。 | https://github.com/petabridge/NBench |
+|  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
