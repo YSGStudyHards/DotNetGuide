@@ -1050,7 +1050,7 @@
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook是一款在Windows操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  3  | [Files](https://github.com/files-community/Files)  |  一款.NET开源的、简洁、易用的Windows文件管理器。        | https://github.com/files-community/Files |
 |  4 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter是一款基于.NET开发的免费、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
-|  5  |  |  |  |
+|  5  | [QTTabBar](https://github.com/indiff/qttabbar) | QTTabBar是一款基于.NET开发的可以让你在Windows资源管理器中使用Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、Opera那样的。QTTabBar还提供了一些功能插件，如：文件操作工具、树型目录、显示状态栏等等。 | https://github.com/indiff/qttabbar |
 |  6  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
