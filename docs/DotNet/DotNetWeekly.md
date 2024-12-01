@@ -18,6 +18,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 11月
+### 第 15 期（2024年11.25-11.30）
+#### 2024年各编程语言运行100万个并发任务需要多少内存？
+- **文章简介：** 2024年各编程语言运行100万个并发任务需要多少内存？
+- **文章地址：** https://www.cnblogs.com/InCerry/p/-/async-runtimes-benchmarks-2024
+
+#### C#集合数据去重的5种方式及其性能对比测试分析
+- **文章简介：** 今天我们一起来讨论一下关于C#集合数据去重的5种方式并且使用BenchmarkDotNet对这5种方式进行性能基准对比测试分析，每种方法都有其特点和适用场景，我们可以根据具体需求和执行效率选择一种进行使用。
+- **文章地址：** https://mp.weixin.qq.com/s/cjtq-y16OoM5DxcQ_t2YKw
+
+#### 使用 BenchmarkDotNet 对 .NET 代码进行性能基准测试
+- **文章简介：** 使用 BenchmarkDotNet 对 .NET 代码进行性能基准测试。
+- **文章地址：** https://mp.weixin.qq.com/s/6mpHS1OVuIlBgdU71OIIOw
+
+#### 一个包含了 50+ C#/.NET编程技巧实战练习教程
+- **文章简介：** DotNetGuide专栏C#/.NET/.NET Core编程技巧练习集：C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+- **文章地址：** https://mp.weixin.qq.com/s/iqNH6W26J0i1962XaaBqRA
+
+#### .NET使用MiniWord高效生成Word文件
+- **文章简介：** MiniWord是一个基于.NET开源、易于使用的.NET Word模板导出引擎，无需安装Office COM+，适用于Windows、Linux和Mac。
+- **文章地址：** https://mp.weixin.qq.com/s/2A02aXxvMxIhQV2WJE7pkg
+
+#### 在 .NET 9 中生成 OpenAPI 文档
+- **文章简介：** .NET 9 中的 ASP.NET Core 通过对 OpenAPI 文档生成的新内置支持，简化了为 API 端点创建 OpenAPI 文档的过程。这项新功能旨在简化开发工作流程并改进 OpenAPI 定义在 ASP.NET 应用程序中的集成。OpenAPI 的广泛采用培养了一个丰富的工具和服务生态系统，可以帮助您更有效地构建、测试和记录 API。一些示例包括 Swagger UI、Kiota 客户端库生成器和 Redoc，但还有更多。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet9-openapi/
+
+#### 使用 .NET 9 的新 NuGet 解析程序显著加快包还原速度
+- **文章简介：** 使用 .NET 9 的新 NuGet 解析程序显著加快包还原速度。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/
+
+#### .NET Core 线程池(ThreadPool)底层原理浅谈
+- **文章简介：** .NET Core 线程池(ThreadPool)底层原理浅谈。
+- **文章地址：** https://www.cnblogs.com/lmy5215006/p/18566995
+
+#### c# is 和 as 浅看重制版
+- **文章简介：** c# is 和 as 浅看重制版。
+- **文章地址：** https://www.cnblogs.com/aoximin/p/18572890
+
+#### 什么是.NET的强类型字符串(Strongly typed string)？
+- **文章简介：** 在.NET中，强类型字符串（Strongly typed string）并不是一个官方的概念，是指使用特定的结构来表示某种类型字符串数据的编码实践。类似于枚举，可以提供编译时检查类型，减少运行时错误，以及更好的可读性和维护性。相比于枚举，具有更好的扩展性以及更强的约束性。
+- **文章地址：** https://www.cnblogs.com/czwy/p/18576931
+
+#### .NET9 - Swagger平替Scalar详解
+- **文章简介：** .NET9 - Swagger平替Scalar详解。
+- **文章地址：** https://www.cnblogs.com/hugogoos/p/18571088
+
+#### .NET9 EFCore支持早期MSSQL数据库 ROW_NUMBER()分页
+- **文章简介：** .NET9 EFCore支持早期MSSQL数据库 ROW_NUMBER()分页。
+- **文章地址：** https://www.cnblogs.com/vipwan/p/18570225
+
+
 ### 第 14 期（2024年11.18-11.24）
 #### PasteEx：一款.NET开源的Windows快捷粘贴神器
 - **文章简介：** PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。
