@@ -13,7 +13,7 @@
 # 2024年
 ## 11月
 ### 公众号11月简报
-* **C#/.NET/.NET Core优秀项目和框架2024年11月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2024年11月简报：** https://mp.weixin.qq.com/s/6dezFAKDYNDpiazpcO_M1g
 
 ### DotNetExercises
 * **项目简介：** DotNetGuide专栏C#/.NET/.NET Core编程技巧练习集：C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
