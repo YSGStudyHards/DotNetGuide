@@ -112,6 +112,7 @@
 * [Visual Studio中的四款代码格式化工具](https://mp.weixin.qq.com/s/AhQq4IJLEUiTuRqsjTGG_w)
 * [在Visual Studio中查看EF Core查询计划](https://mp.weixin.qq.com/s/m0UKt78brvZVx5-GODlIKA)
 * [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
+* [Visual Studio文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg)
 * [Visual Studio实用的搜索、查找、替换技巧](https://mp.weixin.qq.com/s/Cijr_e1qOjNXOS1TtZjxgA)
 * [Visual Studio中使用CodeGeeX AI编程助手](https://mp.weixin.qq.com/s/1r4QK1bYDH7MdOTNLZli-g)
 * [合理使用Visual Studio 2022内置任务列表-TODO](https://mp.weixin.qq.com/s/Cc2kgPBjj-mjVigxceKtRw)
