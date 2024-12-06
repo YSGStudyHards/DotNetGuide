@@ -1210,7 +1210,7 @@
 #### PDF管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | C#开源的一个 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等。 | https://github.com/wmjordan/PDFPatcher |
+|  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。 | https://github.com/wmjordan/PDFPatcher |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
@@ -1341,7 +1341,7 @@
 |  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
 |  26  | [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal) | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
 |  27  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
-|  28  |  |  |  |
+|  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://github.com/genrwoody/vs_file_encoding |
 |  29  |  |  |  |
 |  30  |  |  |  |
 
