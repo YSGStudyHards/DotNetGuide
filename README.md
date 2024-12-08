@@ -64,7 +64,7 @@
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
-* [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
+* [⚖社区组织]()
 
 
 ## 🏷️优质学习资料收录栈
@@ -863,7 +863,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## ✈️社区组织
+## ⚖社区组织
 * [ASP.NET](https://github.com/aspnet)
 * [Microsoft](https://github.com/microsoft)
 * [.NET Platform](https://github.com/dotnet)
