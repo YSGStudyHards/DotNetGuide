@@ -63,7 +63,7 @@
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
-* [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
+* [](https://github.com/YSGStudyHards/DotNetGuide#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
 * [✈️社区组织](https://github.com/YSGStudyHards/DotNetGuide#%EF%B8%8F%E7%A4%BE%E5%8C%BA%E7%BB%84%E7%BB%87)
 
 
@@ -853,6 +853,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Awesome-Design-Tools](https://github.com/MyBigKnowledgeBase/Awesome-Design-Tools)
 * [3款程序员常用的画图工具](https://mp.weixin.qq.com/s/t92aadaH1Os9vDPBI-rv8Q)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
+* [10款程序员常用的API管理工具](https://mp.weixin.qq.com/s/i9WwbP8r2BJ3-fPGYbM_fg)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
