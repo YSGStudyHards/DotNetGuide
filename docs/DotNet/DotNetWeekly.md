@@ -17,6 +17,57 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2024年
+## 12月
+### 第 16 期（2024年12.01-12.08）
+#### 使用 Dependabot 管理 .NET SDK 更新
+- **文章简介：** 使 .NET SDK 版本保持最新对于维护安全高效的应用程序至关重要。现在 Dependabot 可以在 global.json 中更新 .NET SDK 版本，确保您始终运行最新的安全补丁和改进比以往任何时候都更容易。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates
+
+#### 基于 .NET 开发的多功能流媒体管理控制平台
+- **文章简介：** AKStream是一个基于.NET开发且开源（MIT License）的、功能全面的流媒体管理控制平台，集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能。
+- **文章地址：** https://mp.weixin.qq.com/s/n3QKHbhrlI-idwloWvV_EQ
+
+#### 精选10款C#/.NET开发必备类库（含使用教程），工作效率提升利器！
+- **文章简介：** 在.NET开发领域中随着技术的不断进步和项目的日益复杂，选择和使用一款合适的类库成为提升开发效率、保证代码质量和缩短项目周期的关键因素。今天大姚给大家分享10款C#/.NET开发必备类库，并且都包含详细介绍和使用教程。
+- **文章地址：** https://mp.weixin.qq.com/s/8-o0Yqs-KIO56BbOvEzmoA
+
+#### .NET9 Linux AOT Json序列化
+- **文章简介：** 记录一下流水账在Linux（Ubuntu）操作系统发布AOT程序，然后发现System.Text.Json组件对于Json序列化抛出异常的处理步骤。
+- **文章地址：** https://mp.weixin.qq.com/s/U4S4r7mDnryY84lfCtvqfA
+
+#### 一款基于 .NET + Blazor 开发的智能访客管理系统
+- **文章简介：** 一款基于 .NET + Blazor 开发的智能访客管理系统，访客系统的主要作用是简化并优化访客管理流程，提升安全性和效率。它通过数字化手段替代传统纸质登记，实现快速、准确的访客信息录入与追踪。该系统能够记录访客进出时间、地点及活动轨迹，有助于机构加强安全管理，同时提供便捷的访客体验。总之，访客系统是现代机构管理中不可或缺的一部分，它确保了访客管理的规范性和高效性。
+- **文章地址：** https://mp.weixin.qq.com/s/k3DnbdXHqO-iUHKNnE9S9w
+
+#### 基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件
+- **文章简介：** FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。
+- **文章地址：** https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg
+
+#### 一个.NET开源、免费、功能强大的 PDF 处理工具
+- **文章简介：** PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。
+- **文章地址：** https://mp.weixin.qq.com/s/MX8np6yN-x-D4FAdEf4dcA
+
+#### Natasha v9.0 为 .NET 开发者提供 [热执行] 方案.
+- **文章简介：** 自 Natasha v9.0 发布起，我将基于 Natasha 的推出热执行方案，这项技术允许基于 控制台(Console) 和新版 Asp.net Core 架构的项目在运行中动态重编译，在不停止工程的情况下获取最新结果，以帮助技术初学者、项目初期开发人员等，进行快速实验以及试错。
+- **文章地址：** https://www.cnblogs.com/NMSLanX/p/18261797
+
+#### 构建你的.NET Aspire解决方案
+- **文章简介：** .NET Aspire 是一组功能强大的工具、模板和包，用于构建可观察的生产就绪应用程序。.NET Aspire 通过处理特定云原生问题的 NuGet 包集合提供。云原生应用程序通常由小型互连部分或微服务组成，而不是单个整体式代码库。云原生应用程序通常会消耗大量的服务，例如数据库、消息收发和缓存。
+- **文章地址：** https://www.cnblogs.com/huangmingji/p/18588251
+
+#### 基于WPF/C#构建TesseractOCR简单易用的用户界面
+- **文章简介：** 如何安装TesseractOCR与TesseractOCR的命令行使用。但在日常使用过程中，命令行使用还是不太方便的，因此今天介绍一下如何使用WPF/C#构建TesseractOCR简单易用的用户界面。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18592170
+
+#### ASP.NET Core 9.0 中新增的MapStaticAssets() 中间件
+- **文章简介：** ASP.NET Core 9.0 中新增的MapStaticAssets() 中间件。
+- **文章地址：** https://www.cnblogs.com/vipwan/p/18582297
+
+#### Asp.net MVC中的Http管道事件为什么要以Application_开头？
+- **文章简介：** Asp.net MVC中的Http管道事件为什么要以Application_开头？
+- **文章地址：** https://www.cnblogs.com/jikhww/p/18582958
+
+
 ## 11月
 ### 第 15 期（2024年11.25-11.30）
 #### 2024年各编程语言运行100万个并发任务需要多少内存？
