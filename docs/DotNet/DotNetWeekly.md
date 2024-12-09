@@ -13,6 +13,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 # 推广平台
 - [知乎](https://www.zhihu.com/column/c_1809214011323060225)
 - [CSDN](https://blog.csdn.net/qq_37237487/category_12762708.html)
+- [Gitee](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=3598502850881585160&scene=126&sessionid=-1990606076#wechat_redirect)
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
