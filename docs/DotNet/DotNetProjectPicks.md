@@ -540,7 +540,7 @@
 |  25 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
 |  26  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  27  | [AIStudio.Wpf.AClient](https://gitee.com/akwkevin/aistudio.-wpf.-aclient) | AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) 构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。 | https://gitee.com/akwkevin/aistudio.-wpf.-aclient |
-|  28  |  |  |  |
+|  28  | [WPFManager](https://github.com/straw-git/WPFManager) | 一个使用 WPF 开发的管理系统，该项目包含了用户登录、人员管理、角色授权、插件管理、职位管理、主页功能（邮件、皮肤、设置）等功能，对于一个 WPF 初学者而言是一个值得参考和学习的项目。 | https://github.com/straw-git/WPFManager |
 |  29  |  |  |  |
 |  30  |  |  |  |
 
