@@ -8,7 +8,7 @@
 * [📈C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [🎁C#/.NET/.NET Core项目宝库组织](https://github.com/dotNetTreasury)
 * [🏗️C#/.NET/.NET Core优秀项目和框架Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
-* [💡C#/.NET/.NET Core优秀项目和框架Gitee精选](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
+* [💡C#/.NET/.NET Core优秀项目和框架Gitee精选](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)
 * [🔔C#/.NET/.NET Core优秀项目和框架GitHub精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
