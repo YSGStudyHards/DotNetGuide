@@ -706,16 +706,21 @@
 #### 博客系统（Blog）
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [CoreHome](https://github.com/lixinyang123/CoreHome) | 基于.NET8开源的个人博客项目，采用前后端分离、高并发、高可用的微服务架构，支持 MySQL、SqlServer、Redis 等多种数据库。 | https://github.com/lixinyang123/CoreHome |
+|  1  | [Meowv/Blog](https://github.com/Meowv/Blog) | 一个使用 abp vNext + Blazor 搭建的、前后端分离的个人博客系统，使用 MongoDB 存储数据，Redis 缓存数据。 | https://github.com/Meowv/Blog |
 |  2  | [LinkDotNet.Blog](https://github.com/linkdotnet/Blog) | 基于C#和Blazor编写的博客引擎，旨在成为一个简单易用且易于扩展的博客平台。博客文章以Markdown格式编写，并渲染为HTML。 | https://github.com/linkdotnet/Blog |
 |  3  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | 基于C#/.NET8的 masuit.org个人博客站项目源码，高性能高安全性低占用的博客系统，仅3MB的代码量！ 目前日均处理请求数80-600w次，同时在线活跃用户数60-600人。 | https://github.com/ldqk/Masuit.MyBlogs |
 |  4  | [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) | 一个基于ASP.NET Core 7（3.1及以上版本）构建的功能齐全但简单易用的博客引擎。 | https://github.com/madskristensen/Miniblog.Core |
-|  5  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier 是一个使用 ASP.NET 和 Blazor WebAssembly 编写的开源发布平台。使用 Blogifier 可以创建个人博客或网站。 | https://github.com/blogifierdotnet/Blogifier |
+|  5  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier是一个使用.NET和Blazor WebAssembly编写的开源、快速、轻量级的个人博客系统。 | https://github.com/blogifierdotnet/Blogifier |
 |  6  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
 |  7  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
-|  8  |  |  |  |
-|  9  |  |  |  |
+|  8  | [CoreHome](https://github.com/lixinyang123/CoreHome) | CoreHome是一个基于.NET开源、免费的博客系统，提供了从构建、配置到部署的完整解决方案。 | https://github.com/lixinyang123/CoreHome |
+|  9  | [BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) | 一个ASP.NET开源的多用户博客系统。 | https://github.com/BlogEngine/BlogEngine.NET |
 |  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
