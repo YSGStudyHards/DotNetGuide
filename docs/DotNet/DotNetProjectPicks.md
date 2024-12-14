@@ -541,7 +541,7 @@
 |  26  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
 |  27  | [AIStudio.Wpf.AClient](https://gitee.com/akwkevin/aistudio.-wpf.-aclient) | AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) 构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。 | https://gitee.com/akwkevin/aistudio.-wpf.-aclient |
 |  28  | [WPFManager](https://github.com/straw-git/WPFManager) | 一个使用 WPF 开发的管理系统，该项目包含了用户登录、人员管理、角色授权、插件管理、职位管理、主页功能（邮件、皮肤、设置）等功能，对于一个 WPF 初学者而言是一个值得参考和学习的项目。 | https://github.com/straw-git/WPFManager |
-|  29  |  |  |  |
+|  29  | [Easy.Admin](https://gitee.com/miss_you/easy-admin) | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 | https://gitee.com/miss_you/easy-admin |
 |  30  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -585,7 +585,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统，项目亮点功能包括：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
-|  2  | [EasyMES](https://gitee.com/qian_wei_hong/EasyMES) | EasyMES是一个基于.NET 6 MVC框架的开源产品，专注于离散型零部件制造管理系统（MES）和仓储管理系统（WMS）的集成。 | https://gitee.com/qian_wei_hong/EasyMES |
+|  2  | [EasyMES](https://gitee.com/qian_wei_hong/EasyMES) | EasyMES一款基于 .NET 6 MVC 框架开发、开源免费（MIT License）、功能全面的离散型零部件制造管理系统（MES）和仓储管理系统（WMS）。 | https://gitee.com/qian_wei_hong/EasyMES |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -715,7 +715,7 @@
 |  7  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
 |  8  | [CoreHome](https://github.com/lixinyang123/CoreHome) | CoreHome是一个基于.NET开源、免费的博客系统，提供了从构建、配置到部署的完整解决方案。 | https://github.com/lixinyang123/CoreHome |
 |  9  | [BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) | 一个ASP.NET开源的多用户博客系统。 | https://github.com/BlogEngine/BlogEngine.NET |
-|  10  |  |  |  |
+|  10  | [Easy.Admin](https://gitee.com/miss_you/easy-admin) | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 | https://gitee.com/miss_you/easy-admin |
 |  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
