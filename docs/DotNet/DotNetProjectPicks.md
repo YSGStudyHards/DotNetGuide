@@ -711,7 +711,7 @@
 |  3  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | 基于C#/.NET8的 masuit.org个人博客站项目源码，高性能高安全性低占用的博客系统，仅3MB的代码量！ 目前日均处理请求数80-600w次，同时在线活跃用户数60-600人。 | https://github.com/ldqk/Masuit.MyBlogs |
 |  4  | [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) | 一个基于ASP.NET Core 7（3.1及以上版本）构建的功能齐全但简单易用的博客引擎。 | https://github.com/madskristensen/Miniblog.Core |
 |  5  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier是一个使用.NET和Blazor WebAssembly编写的开源、快速、轻量级的个人博客系统。 | https://github.com/blogifierdotnet/Blogifier |
-|  6  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是对Markdown支持友好的博客系统。基于.Net6 + Vue开发，遵循RESTFul接口规范，同时提供了一套从零开始开发的教程文章，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
+|  6  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是一个支持Markdown导入的开源博客系统，后端基于最新的.Net6和Asp.Net Core框架，遵循RESTFul接口规范，前端基于Vue+ElementUI开发，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
 |  7  | [Moonglade](https://github.com/EdiWang/Moonglade) | Moonglade是一个专为开发人员优化的基于Microsoft Azure的.NET博客系统，提供了包括文章、评论、分类、归档、标签和页面等常见博客功能。 | https://github.com/EdiWang/Moonglade |
 |  8  | [CoreHome](https://github.com/lixinyang123/CoreHome) | CoreHome是一个基于.NET开源、免费的博客系统，提供了从构建、配置到部署的完整解决方案。 | https://github.com/lixinyang123/CoreHome |
 |  9  | [BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) | 一个ASP.NET开源的多用户博客系统。 | https://github.com/BlogEngine/BlogEngine.NET |
