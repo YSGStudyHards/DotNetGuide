@@ -2,6 +2,7 @@
 using HelloDotNetGuide.常见算法;
 using HelloDotNetGuide.异步多线程编程;
 using HelloDotNetGuide.数组相关;
+using HelloDotNetGuide.正则表达式;
 using static HelloDotNetGuide.设计模式.单例模式;
 
 namespace HelloDotNetGuide
@@ -11,6 +12,12 @@ namespace HelloDotNetGuide
         static void Main(string[] args)
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
+
+            #region 正则表达式
+
+            RegularExpressions.SplitString();
+
+            #endregion
 
             #region LinqExercise
 
