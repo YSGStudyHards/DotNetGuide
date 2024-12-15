@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 12月
+### 第 17 期（2024年12.09-12.15）
+#### 将本地 AI 模型与 .NET Aspire 结合使用
+- **文章简介：** 使用本地 AI 模型是在您自己的计算机上进行实验的好方法，而无需将资源部署到云中。在本文中，我们将了解如何将 .NET Aspire 与 Ollama 结合使用在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire
+
+#### 调用异步功能：在 .NET 9 中等待 WinForms 的内容
+- **文章简介：** 随着 .NET 的不断发展，WinForms 开发人员可用的工具也在不断发展，从而实现更高效、响应更迅速的应用程序。在 .NET 9 中，我们很高兴地引入了一系列新的异步 API，这些 API 可显著简化 UI 管理任务。从更新控件到显示表单和对话框，这些新增功能以新的方式为 WinForms 带来了异步编程的强大功能。在这篇文章中，我们将深入探讨四个关键 API，解释它们的工作原理、它们的亮点以及如何开始使用它们。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis
+
+#### 将ASP.NET Core Web API和Blazor Wasm发布到 IIS
+- **文章简介：** 将ASP.NET Core Web API和Blazor Wasm发布到 IIS。
+- **文章地址：** https://mp.weixin.qq.com/s/6Q-qZsdjjbwCGukrFrvAXQ
+
+#### 一个使用 WPF 开发的管理系统
+- **文章简介：** 最近发现有不少小伙伴在学习 WPF，今天大姚给大家分享一个使用 WPF 开发的管理系统，该项目包含了用户登录、人员管理、角色授权、插件管理、职位管理、主页功能（邮件、皮肤、设置）等功能，对于一个 WPF 初学者而言是一个值得参考和学习的项目。
+- **文章地址：** https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA
+
+#### 一套以用户体验出发的.NET8 Web开源框架
+- **文章简介：** YiFramework是一个基于.NET8 + Abp.vNext + SqlSugar 的DDD领域驱动设计后端开源框架，前端使用Vue3，项目架构模式三层架构\DDD领域驱动设计，内置RBAC权限管理、BBS论坛社区系统 以用户体验出发。架构干净整洁、采用微软风格原生框架封装。适合小中大型项目上线、.NET8学习、Abp.vNext学习、Sqlsugar学习 、项目二次开发。
+- **文章地址：** https://mp.weixin.qq.com/s/IdkatdfUsnGtf-GeILmQkw
+
+#### .NET MongoDB数据仓储和工作单元模式封装
+- **文章简介：** 仓储模式（Repository ）带来的好处是一套代码可以适用于多个类，把常用的CRUD通用方法抽象出来通过接口形式集中管理，从而解除业务逻辑层与数据访问层之间的耦合，使业务逻辑层在存储、访问数据库时无须关心数据的来源及存储方式。工作单元模式（UnitOfWork）它是用来维护一个由已经被业务修改(如增加、删除和更新等)的业务对象组成的列表，跨多个请求的业务，统一管理事务，统一提交从而保障事物一致性的作用。
+- **文章地址：** https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw
+
+#### 基于.NET8+Vue3开发的权限管理&个人博客系统
+- **文章简介：** Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。
+- **文章地址：** https://mp.weixin.qq.com/s/CdHbePejyzXMoHXG03kocQ
+
+#### 一款基于 .NET MVC 框架开发、功能全面的MES系统
+- **文章简介：** EasyMES一款基于 .NET 6 MVC 框架开发、开源免费（MIT License）、功能全面的离散型零部件制造管理系统（MES）和仓储管理系统（WMS）。
+- **文章地址：** https://mp.weixin.qq.com/s/7xtSDdaf-vL3Smezz6fJcA
+
+#### 基于 .NET 的 Nuget 发版工具
+- **文章简介：** 由于 Natasha 及周边项目发版任务多，文件结构也不简单，之前一直使用基于 Github 管道脚本和 XUnit 来发版。这个方案对于发版环境与条件依赖性较强，且不够灵活，因此萌生出做一个本地管理 Nuget 发版工具的想法，取名为 Jester.
+- **文章地址：** https://www.cnblogs.com/NMSLanX/p/18596061
+
+#### C#调用Python脚本的方式（一），以PaddleOCR-GUI为例
+- **文章简介：** C#调用Python脚本的方式（一），以PaddleOCR-GUI为例。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18605737
+
+#### C#委托的前世今生
+- **文章简介：** C#委托的前世今生。
+- **文章地址：** https://www.cnblogs.com/xiketangedu/p/18594690
+
+#### 重磅推出 Sdcb Chats：一个全新的开源大语言模型前端
+- **文章简介：** 重磅推出 Sdcb Chats：一个全新的开源大语言模型前端。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/18597030/sdcb-chats-intro
+
+
 ### 第 16 期（2024年12.01-12.08）
 #### 使用 Dependabot 管理 .NET SDK 更新
 - **文章简介：** 使 .NET SDK 版本保持最新对于维护安全高效的应用程序至关重要。现在 Dependabot 可以在 global.json 中更新 .NET SDK 版本，确保您始终运行最新的安全补丁和改进比以往任何时候都更容易。
