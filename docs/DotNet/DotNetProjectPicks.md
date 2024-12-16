@@ -1243,8 +1243,8 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
-|  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus RTU、MQTT调试，界面色彩丰富。 | https://github.com/Monika1313/Wu.CommTool |
-|  3  |  |  |  |
+|  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | Wu.CommTool是一款基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具（支持Modbus RTU、MQTT调试，界面色彩丰富） | https://github.com/Monika1313/Wu.CommTool |
+|  3  | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。 | https://github.com/SmallRob/PLC-CommunTools |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
