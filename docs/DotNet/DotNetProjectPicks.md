@@ -985,7 +985,7 @@
 |  4  | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools)  |一个.NET开源、跨平台的多功能 Steam 工具箱（是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用）。|   https://github.com/BeyondDimension/SteamTools   |
 |  5  | [LuYao.Toolkit](https://github.com/landv/LuYao.Toolkit) | 路遥工具箱是笔者在学习 WPF 时练手所作的一个小工具，主要用于解决一些开发过程中常见的功能性需求，并将其自动化。截至目前，本工具已拥有十数项功能。 | https://github.com/landv/LuYao.Toolkit |
 |  6 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
-|  7  |  |  |  |
+|  7  | [WindowsToolbox](https://github.com/Gaoyifei1011/WindowsToolbox) | 一款由C#编写的 Windows 工具箱，集成了多个小功能。 | https://github.com/Gaoyifei1011/WindowsToolbox |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
