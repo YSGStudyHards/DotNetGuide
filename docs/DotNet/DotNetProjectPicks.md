@@ -285,9 +285,9 @@
 #### 系统日志框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [NLog](https://github.com/NLog/NLog) | 是一个功能强大且易于配置的日志记录库，它提供了多种输出目标和过滤器，可以满足各种日志记录需求。NLog 支持异步日志记录、日志级别、事件跟踪等功能。 | https://github.com/NLog/NLog |
-|  2  | [Serilog](https://github.com/serilog/serilog) | 是一个简单而灵活的日志记录库，它支持结构化日志记录，并提供了丰富的日志输出和处理方式。通过使用 Serilog，可以轻松地将日志记录到不同的目标，如控制台、文件、数据库等。 | https://github.com/serilog/serilog |
-|  3  | [Log4net](https://github.com/apache/logging-log4net) | 是一个成熟稳定的日志记录框架，它被广泛用于.NET 应用程序开发。log4net 提供了高度可配置的日志记录功能，支持多种日志输出目标和日志级别。 | https://github.com/apache/logging-log4net |
+|  1  | [NLog](https://github.com/NLog/NLog) | NLog是一个功能强大且易于配置的日志记录库，它提供了多种输出目标和过滤器，可以满足各种日志记录需求。NLog 支持异步日志记录、日志级别、事件跟踪等功能。 | https://github.com/NLog/NLog |
+|  2  | [Serilog](https://github.com/serilog/serilog) | Serilog是一个简单而灵活的日志记录库，它支持结构化日志记录，并提供了丰富的日志输出和处理方式。通过使用 Serilog，可以轻松地将日志记录到不同的目标，如控制台、文件、数据库等。 | https://github.com/serilog/serilog |
+|  3  | [Log4net](https://github.com/apache/logging-log4net) | Log4net是一个成熟稳定的日志记录框架，它被广泛用于.NET 应用程序开发。log4net 提供了高度可配置的日志记录功能，支持多种日志输出目标和日志级别。 | https://github.com/apache/logging-log4net |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
