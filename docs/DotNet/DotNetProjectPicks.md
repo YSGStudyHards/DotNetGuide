@@ -158,10 +158,15 @@
 |  4  | [Util](https://github.com/dotnetcore/Util) | Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。 | https://github.com/dotnetcore/Util |
 |  5  | [Furion](https://github.com/MonkSoul/Furion) | Furion框架是一个基于ASP.NET Core的快速开发框架。 | https://github.com/MonkSoul/Furion |
 |  6  | [ServiceStack](https://github.com/ServiceStack/ServiceStack) | 一个简单、快速、通用且高效的全功能 Web 和 Web 服务框架，其架构经过精心设计，可减少人工复杂性并通过基于消息的设计促进远程服务最佳实践，从而实现最大程度的重用利用集成服务网关创建松散耦合的模块化服务架构。 | https://github.com/ServiceStack/ServiceStack |
-|  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | 用于使用 ASP.NET 和 Entity Framework Core 构建符合 JSON:API 的 REST API 的框架。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
-|  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | 适用于 ASP.NET 6 及更高版本的轻量级 REST API 开发框架。 | https://github.com/FastEndpoints/FastEndpoints |
+|  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | JsonApiDotNetCore是一个用于构建符合JSON:API标准的RESTful API的框架，基于ASP.NET和Entity Framework Core，旨在通过提供排序、过滤、分页等现成功能来最大限度地减少样板代码，使开发者只需关注资源定义和业务逻辑实现，且其基于依赖注入的设计使扩展变得非常容易。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
+|  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
 |  9  |  |  |  |
 |  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
