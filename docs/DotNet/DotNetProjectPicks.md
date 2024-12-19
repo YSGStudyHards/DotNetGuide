@@ -175,8 +175,8 @@
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |             项目详细介绍（文档、文章、源码地址）            |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
 |  1  | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | WinForm是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
-|  2  | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF 是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
-|  3  | [UWP（Universal Windows Platform）](https://github.com/microsoft/Windows-universal-samples) | 通用Windows平台（Universal Windows Platform，简称UWP）是微软公司创建并在Windows 10中首次引入的一个同性质应用程序架构平台。此软件平台的目的是帮助发展Metro样式的应用程序，便于软件可以在Windows 10和Windows 10 Mobile上执行且无需重新编写。 | https://learn.microsoft.com/zh-cn/windows/uwp/ |
+|  2  | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
+|  3  | [UWP（Universal Windows Platform）](https://github.com/microsoft/Windows-universal-samples) | UWP是微软推出的用于开发跨Windows设备兼容应用程序的统一平台。此软件平台的目的是帮助发展Metro样式的应用程序，便于软件可以在Windows 10和Windows 10 Mobile上执行且无需重新编写。 | https://learn.microsoft.com/zh-cn/windows/uwp/ |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
