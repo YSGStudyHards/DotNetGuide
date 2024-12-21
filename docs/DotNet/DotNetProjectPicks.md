@@ -1113,9 +1113,9 @@
 #### 截图&录屏工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [ShareX](https://github.com/ShareX/ShareX) | 一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
-|  2  | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | 一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。 | https://github.com/NickeManarin/ScreenToGif |
-|  3  |  |  |  |
+|  1  | [ShareX](https://github.com/ShareX/ShareX) | ShareX是一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 | https://github.com/ShareX/ShareX |
+|  2  | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)  | ScreenToGif是一款由C#语言开发且开源的操作简单、免费的屏幕录制和GIF动画制作神器。它可以帮助用户捕捉计算机屏幕上的实时动画，并将其保存为高质量的 GIF 图像格式。该工具不仅适用于技术支持、软件演示和教程制作，还可以用于创建有趣的 GIF 图片和动画表情。 | https://github.com/NickeManarin/ScreenToGif |
+|  3  | [Captura](https://github.com/MathewSachin/Captura) | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。 | https://github.com/MathewSachin/Captura |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
