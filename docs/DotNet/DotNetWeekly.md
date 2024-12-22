@@ -19,6 +19,52 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 12月
+### 第 18 期（2024年12.16-12.22）
+#### 好消息，在 Visual Studio 中可以免费使用 GitHub Copilot 了！
+- **文章简介：** 今天大姚给大家分享一个好消息，GitHub Copilot 可以免费使用了！在此之前若开发者要使用 GitHub Copilot 需要付费订阅，每月订阅费用起步价为 10 美元，而经过验证的学生、教师和开源项目维护者则可以申请免费使用。今天咱们一起来看看在 Visual Studio 使用 GitHub Copilot 有多么的智能，是否真的能够提高.NET开发工作效率。
+- **文章地址：** https://mp.weixin.qq.com/s/E731dDi00Bf_uL1iU2roGQ
+
+#### C#正则表达式快速入门
+- **文章简介：** 正则表达式（Regular Expression）是一个强大的文本处理工具，主要用于字符串的搜索、替换、验证和分割等操作。通过定义特定的模式，正则表达式可以高效地匹配、查找或替换符合该模式的文本内容。今天大姚将和大家一起来快速了解学习正则表达式，并且在C#中快速应用。
+- **文章地址：** https://mp.weixin.qq.com/s/HnC-2em8YGuIau1EulNRKw
+
+#### 聊一聊坑人的 C# MySql.Data SDK
+- **文章简介：** 为什么说这东西比较坑人呢？是因为最近一个月接到了两个dump，都反应程序卡死无响应，最后分析下来是因为线程饥饿导致，那什么原因导致的线程饥饿呢？进一步分析发现罪魁祸首是 MySql.Data，这就让人无语了，并且反馈都是升级了MySql.Data驱动引发，接下来我们简单聊一下。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18619048
+
+#### 一个.NET开源、易于使用的屏幕录制工具
+- **文章简介：** Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动（尽管该项目已被归档，但仍然可以下载和使用它）。
+- **文章地址：** https://mp.weixin.qq.com/s/sC8oNJZZKDK4SbpEp_bSIw
+
+#### 基于.NET WinForm开发的一款硬件及协议通讯工具
+- **文章简介：** PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。
+- **文章地址：** https://mp.weixin.qq.com/s/29gvIBLmFugemDUh_gNuVg
+
+#### .NET 9 New features-JSON序列化
+- **文章简介：** .NET 9已经发布有一段时间了，近期整理一下.NET 9的新特性，今天重点分享.NET 9 JSON序列化方面的改进。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/18622226
+
+#### 聊一聊 C#前台线程 如何阻塞程序退出
+- **文章简介：** 这篇文章起源于我的 C#内功修炼训练营里的一位朋友提的问题：后台线程的内部是如何运转的 ? ，犹记得C# Via CLR这本书中 Jeffery 就聊到了他曾经给别人解决一个程序无法退出的bug，最后发现是有一个 Backgrond=false 的线程导致的。恰巧在我分析的350+dump中，也还真遇到了。有了这些铺垫，我觉得有必要简单的聊一聊。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18622015
+
+#### C#中 Task 结合 CancellationTokenSource的妙用
+- **文章简介：** 在.NET中，CancellationTokenSource、CancellationToken和Task是处理异步操作和取消任务的重要工具。本文将通过一些简单的例子，帮助你理解它们的用法和协作方式。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18620273
+
+#### ASP.NET Core EventStream (SSE) 使用以及 WebSocket 比较
+- **文章简介：** 在开发环境中，对于实时数据流的需求非常常见，最常用的技术包括 Server-Sent Events (SSE) 和 WebSocket。
+- **文章地址：** https://www.cnblogs.com/morec/p/18619781
+
+#### .NET 单文件执行程序拆解器 SingleFileExtractor
+- **文章简介：** .NET 现在支持将程序打包为单文件格式，这方便了部署，问题是，我们不能直接看到程序中使用了哪些 DLL，更不能简单地通过查看文件属性的方式，看到这些 DLL 的版本。要是可以像使用 Zip 一样，可以打开这个合成的文件，直接查看内容就好了。SingleFileExtractor 就是这样的工具。它可以从单文件的应用程序中将其中包含的内容，包括程序集、配置文件等等，拆解到文件夹中，方便开发人员进行分析。
+- **文章地址：** https://www.cnblogs.com/haogj/p/18618295
+
+#### 跨平台交叉编译 Native AOT
+- **文章简介：** 如何将.NET 应用程序发布到鸿蒙上，肯定是很多人感兴趣的话题，目前.NET完全具备可以在OpenHarmony系统上运行的能力，.NET 现在有很多选项CoreCLR、Mono和NativeAOT。由于OpenHarmony的沙箱环境的限制，NativeAOT是最佳选择。孙策同学经过几个月的探索，他2024年12月14日在上海举办的.NET Conf China 2024 大会上和大家分享他的探索经验和成果，OpenHarmony作为一个开源的操作系统，本身就具有强大的兼容性和扩展性。而Avalonia则是一个跨平台的UI框架，能够在不同的操作系统上提供一致的用户体验。将这两者结合起来，简直就是强强联手！9月份写的这篇文章《.NET 的 Native AOT 现在是什么样的？》里已经有跨平台交叉编译NativeAOT的答案：使用 Zig 作为链接器和 sysroot，允许从 Windows 机器交叉编译到 Linux-x64、Linux-arm64、Linux-musl-x64 和 Linux-musl-arm64。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18618066
+
+
 ### 第 17 期（2024年12.09-12.15）
 #### 将本地 AI 模型与 .NET Aspire 结合使用
 - **文章简介：** 使用本地 AI 模型是在您自己的计算机上进行实验的好方法，而无需将资源部署到云中。在本文中，我们将了解如何将 .NET Aspire 与 Ollama 结合使用在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。
