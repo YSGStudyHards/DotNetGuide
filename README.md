@@ -858,6 +858,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
+* [值得推荐的4款免费且功能强大的在线文档工具](https://mp.weixin.qq.com/s/Gdm2wHhiLB9I7ib2Ue5ysA)
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
