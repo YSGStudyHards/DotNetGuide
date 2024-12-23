@@ -799,7 +799,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [考试君](https://gitee.com/pig0224/ExamKing) | 考试君是一款基于.NET开源、免费、功能丰富、易于部署和扩展的在线考试系统。 | https://gitee.com/pig0224/ExamKing |
-|  2  | [XBLMES](https://gitee.com/xblms/xblmes) | 一款基于 .NET8 免费开源跨平台在线考试系统，支持人大金仓、达梦、OceanBase数据库 及 MySql、SqlServer、PostgreSql、SQLite 等数据库。 | https://gitee.com/xblms/xblmes |
+|  2  | [XBLMS](https://gitee.com/xblms/xblmes) | XBLMS是一款基于 .NET8 + Vue 开源、免费（AGPL-3.0开源协议）、跨平台的企业级在线考试系统，系统支持多种数据库系统，包括人大金仓、达梦、OceanBase、MySql、SqlServer、PostgreSql、SQLite等。 | https://gitee.com/xblms/xblmes |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -970,7 +970,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [AKStream](https://gitee.com/chatop2020/AKStream) | AKStream是一个基于.NET开发且开源（MIT License）的、功能全面的流媒体管理控制平台，集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能。 | https://gitee.com/chatop2020/AKStream |
-|  2  | [ParallelCollectionMonitoring](https://github.com/bitkylin/ParallelCollectionMonitoring) | 使用数十个.NET客户端控制硬件设备进行工作，采集数据并进行处理，管理人员通过 Android 应用实时控制各设备的工作。 | https://github.com/bitkylin/ParallelCollectionMonitoring |
+|  2  | [ParallelCollectionMonitoring](https://github.com/bitkylin/ParallelCollectionMonitoring) | 一个.NET开源的数据采集及云端监控系统，使用数十个.NET客户端控制硬件设备进行工作，采集数据并进行处理，管理人员通过 Android 应用实时控制各设备的工作。 | https://github.com/bitkylin/ParallelCollectionMonitoring |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
