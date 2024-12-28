@@ -177,9 +177,13 @@
 |  1  | [WinForm（Windows Forms）](https://github.com/dotnet/winforms) | WinForm是一个传统的桌面应用程序框架，它基于 Windows 操作系统的原生控件和窗体。通过简单易用的 API，开发者可以快速构建基于窗体的应用程序，并且可以利用多种控件和事件来实现应用程序的功能和交互。 | https://learn.microsoft.com/zh-cn/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-7.0 |
 |  2  | [WPF（Windows Presentation Foundation）](https://github.com/dotnet/wpf) | WPF是一个强大的桌面应用程序框架，用于构建具有丰富用户界面的 Windows 应用。它提供了灵活的布局、数据绑定、样式和模板、动画效果等功能，让开发者可以创建出吸引人且交互性强的应用程序。| https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/overview/?view=netdesktop-7.0 |
 |  3  | [UWP（Universal Windows Platform）](https://github.com/microsoft/Windows-universal-samples) | UWP是微软推出的用于开发跨Windows设备兼容应用程序的统一平台。此软件平台的目的是帮助发展Metro样式的应用程序，便于软件可以在Windows 10和Windows 10 Mobile上执行且无需重新编写。 | https://learn.microsoft.com/zh-cn/windows/uwp/ |
-|  4  | [GTKSystem.Windows.Forms](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md) | GTKSystem.Windows.Forms是一个C#桌面应用程序跨平台（Windows、Linux、macOS）开发框架，基于GTK组件开发。使用该框架开发项目时，Visual Studio可以使用C#的原生WinForms表单窗体设计器，保持与原生WinForms相同的属性、方法和事件，无需额外学习。通过一次编译，可以实现跨平台运行，便于开发跨平台WinForms软件，以及将现有的C# WinForms软件升级为跨平台软件。 | https://github.com/easywebfactory/gtksystem-windows-forms |
+|  4  | [WinUI](https://github.com/microsoft/microsoft-ui-xaml) | WinUI是一个现代化的UI框架，拥有丰富的控件和样式，它能够帮助开发者构建出动态、高性能且现代化的Windows应用程序。 | https://learn.microsoft.com/zh-cn/windows/apps/winui |
 |  5  |  |  |  |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -191,8 +195,12 @@
 |  2  | [.NET MAUI](https://github.com/dotnet/maui) | .NET MAUI是一个开源、免费（MIT License）的跨平台框架（支持Android、iOS、macOS 和 Windows多平台运行），是 Xamarin.Forms 的进化版，从移动场景扩展到了桌面场景，并从头重新生成了 UI 控件，以提高性能和可扩展性。如果以前使用过 Xamarin.Forms 来生成跨平台用户界面，那么你会注意到它与 .NET MAUI 有许多相似之处。 但也有一些差异。 通过使用 .NET MAUI，可使用单个项目创建多平台应用，但如果有必要，可以添加特定于平台的源代码和资源。.NET MAUI 的主要目的之一是使你能够在单个代码库中实现尽可能多的应用逻辑和 UI 布局。 | https://github.com/dotnet/maui |
 |  3  | [Uno Platform](https://github.com/unoplatform/uno) | Uno Platform是一个基于C#开源、功能强大、灵活的跨平台开发框架，用于快速构建单一代码库原生移动、Web、桌面和嵌入式应用程序。它允许 C# 和 WinUI XAML 和/或 C# 代码在所有目标平台上运行，同时允许你控制每个像素。它支持开箱即用的 Fluent、Material 和 Cupertino 主题样式风格。Uno Platform实现了越来越多的 WinRT 和 WinUI API，例如 Microsoft.UI.Xaml，使 WinUI 应用程序能够以本机性能在所有平台上运行。 | https://github.com/unoplatform/uno |
 |  4  | [Eto.Forms](https://github.com/picoe/Eto) | Eto.Forms是一个.NET开源、跨平台的桌面和移动应用的统一框架，该框架允许开发者使用单一的UI代码库构建在多个平台上运行的应用程序，并利用各自平台的原生工具包，从而使应用程序在所有平台上看起来和工作都像原生应用一样。 | https://github.com/picoe/Eto |
-|  5  | [Xamarin](https://github.com/xamarin/Xamarin.Forms) | Xamarin 是一个开放源代码平台，用于通过 .NET 构建适用于 iOS、Android 和 Windows 的新式高性能应用程序。 Xamarin 是一个抽象层，可管理共享代码与基础平台代码的通信。 Xamarin 在提供便利（如内存分配和垃圾回收）的托管环境中运行。 | https://learn.microsoft.com/zh-cn/previous-versions/xamarin/get-started/ |
-|  6  |  |  |  |
+|  5  | [GTKSystem.Windows.Forms](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md) | GTKSystem.Windows.Forms是一个C#桌面应用程序跨平台（Windows、Linux、macOS）开发框架，基于GTK组件开发。使用该框架开发项目时，Visual Studio可以使用C#的原生WinForms表单窗体设计器，保持与原生WinForms相同的属性、方法和事件，无需额外学习。通过一次编译，可以实现跨平台运行，便于开发跨平台WinForms软件，以及将现有的C# WinForms软件升级为跨平台软件。 | https://github.com/easywebfactory/gtksystem-windows-forms |
+|  6  | [Xamarin](https://github.com/xamarin/Xamarin.Forms) | Xamarin 是一个开放源代码平台，用于通过 .NET 构建适用于 iOS、Android 和 Windows 的新式高性能应用程序。 Xamarin 是一个抽象层，可管理共享代码与基础平台代码的通信。 Xamarin 在提供便利（如内存分配和垃圾回收）的托管环境中运行。 | https://learn.microsoft.com/zh-cn/previous-versions/xamarin/get-started/ |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
