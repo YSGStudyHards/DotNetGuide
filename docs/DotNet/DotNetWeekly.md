@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2024年
 ## 12月
+### 第 19 期（2024年12.23-12.29）
+#### .NET 安装链接正在更改
+- **文章简介：** 我们目前正在对 .NET 安装程序和存档的分发方式进行意外更改。此更改可能会影响您，并且可能需要更改您的开发、CI 和/或生产基础设施。我们预计大多数用户不会受到直接影响，但是，请务必验证您是否受到影响，并注意停机时间或其他类型的破损。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/critical-dotnet-install-links-are-changing
+
+#### 3款.NET开源、功能强大的通讯调试工具，效率提升利器！
+- **文章简介：** 分享3款.NET开源、功能强大的通讯调试工具，帮助大家提高通讯调试的效率和准确性。
+- **文章地址：** https://mp.weixin.qq.com/s/rtX72vSE0ZmWjgXCwKRA9w
+
+#### 分享一个免费且强大的.NET AI智能体
+- **文章简介：** 前不久大姚利用腾讯元器，将公众号变身为了一个强大的.NET AI智能体，今天大姚给大家分享3种使用.NET AI智能体的方式，个人推荐后面两种方式体验性更好。
+- **文章地址：** https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg
+
+#### .NET 在 Visual Studio 中的高效编程技巧集
+- **文章简介：** 本文大姚将为你介绍一些Visual Studio的使用技巧和建议，旨在帮助.NET开发者更加高效地利用Visual Studio进行编程工作。无论你是.NET初学者还是经验丰富的.NET开发者，这些技巧都将有助于提升你的工作效率，让你能够更快地编写出高质量的代码。让我们一起探索这些技巧，让编程工作变得更加轻松、高效吧！
+- **文章地址：** https://mp.weixin.qq.com/s/_yzosjSfVZZwsDgYf8JT9A
+
+#### 开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行
+- **文章简介：** 在咱们的印象中C# WinForm一直只支持Windows系统运行，无法支持跨平台运行。今天大姚给大家分享一个开源框架：GTKSystem.Windows.Forms，它能够让C# Winform支持跨平台运行。
+- **文章地址：** https://mp.weixin.qq.com/s/smWkYnZT4NLUmw3W1XGbOw
+
+#### 基于 WPF 开发的简约，功能强大的终端模拟器
+- **文章简介：** 今天大姚给大家推荐一款基于 WPF 开发的简约，功能强大的终端模拟器：ModengTerm。
+- **文章地址：** https://mp.weixin.qq.com/s/0z-xQ76MN6SfF5NhKQFUPQ
+
+#### .NET Bios相关数据读写
+- **文章简介：** 本文我们介绍针对Bios如何读取、写入数据，比如最常见的SN读取以及烧录。
+- **文章地址：** https://www.cnblogs.com/kybs0/p/18613343
+
+#### C#使用Tesseract C++ API过程记录
+- **文章简介：** C#使用Tesseract C++ API过程记录。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18636610
+
+#### 记一次 .NET某工业视觉软件 崩溃分析
+- **文章简介：** 记一次 .NET某工业视觉软件 崩溃分析。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18635326
+
+#### 在Asp.netCore中使用Attribute来描述限流
+- **文章简介：** 在Asp.netCore中使用Attribute来描述限流。
+- **文章地址：** https://www.cnblogs.com/kewei/p/18630545
+
+#### .NET 中的线程安全数据结构
+- **文章简介：** .NET 中的线程安全数据结构。
+- **文章地址：** https://www.cnblogs.com/Tangtang1997/p/18629960
+
+#### 推荐一个C#轻量级矢量图形库
+- **文章简介：** 推荐一个C#轻量级矢量图形库。
+- **文章地址：** https://www.cnblogs.com/chingho/p/18629448
+
+
 ### 第 18 期（2024年12.16-12.22）
 #### 好消息，在 Visual Studio 中可以免费使用 GitHub Copilot 了！
 - **文章简介：** 今天大姚给大家分享一个好消息，GitHub Copilot 可以免费使用了！在此之前若开发者要使用 GitHub Copilot 需要付费订阅，每月订阅费用起步价为 10 美元，而经过验证的学生、教师和开源项目维护者则可以申请免费使用。今天咱们一起来看看在 Visual Studio 使用 GitHub Copilot 有多么的智能，是否真的能够提高.NET开发工作效率。
