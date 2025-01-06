@@ -17,6 +17,43 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=3598502850881585160&scene=126&sessionid=-1990606076#wechat_redirect)
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
+# 2025年
+## 1月
+### 第 20 期（2025年1.1-1.5）
+#### 一个适用于 .NET 的开源整洁架构项目模板
+- **文章简介：** 项目架构模式在软件开发中扮演着至关重要的角色，它们为开发者提供了一套组织和管理代码的指导原则，以提高软件的可维护性、可扩展性、可重用性和可测试性。今天大姚给大家分享一个适用于 .NET 的开源整洁架构项目模板。
+- **文章地址：** https://mp.weixin.qq.com/s/QABnv-F-CHGbSd_meblf-A
+
+#### 将 EasySQLite 从 .NET 8 升级到 .NET 9
+- **文章简介：** EasySQLite是一个.NET 8操作SQLite入门到实战的详细教程，主要是对学校班级，学生信息进行管理维护。今天咱们的主要内容是将EasySQLite从.NET 8升级到.NET 9。
+- **文章地址：** https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA
+
+#### 推荐4款基于.NET开源、功能强大的CMS建站系统
+- **文章简介：** CMS系统作为一种强大的内容管理工具，在数字化时代发挥着越来越重要的作用。无论是个人博客还是大型企业官网，选择一个合适的CMS都能极大地提高效率和用户体验。今天大姚给大家推荐4款基于.NET开源、免费、功能强大的CMS建站系统，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/ZEFXHHs8UqwK63ttN92Bcg
+
+#### 一个基于.NET开源、功能全面、易于使用的性能基准测试框架
+- **文章简介：** 在软件开发领域，性能基准测试是确保软件系统高效、稳定运行的重要环节。它可以帮助你评估应用程序的性能，了解其在不同条件下的响应时间、吞吐量、资源利用率等。通过基准测试，你可以确定系统在处理特定工作负载时的性能表现。
+- **文章地址：** https://mp.weixin.qq.com/s/6aQSSf8YvlD0VMTj2FtGPA
+
+#### [.NET] 单位转换实践：深入解析 Units.NET
+- **文章简介：** 在现代软件开发中，准确处理不同单位的转换是一个常见而复杂的需求。无论是处理温度、长度、重量还是其他物理量，都需要可靠的单位转换机制。本文将深入介绍 Units.NET 库，展示如何在 .NET 应用中优雅地处理单位转换。
+- **文章地址：** https://www.cnblogs.com/madtom/p/18653522
+
+#### PaperAssistant：使用Microsoft.Extensions.AI实现
+- **文章简介：** PaperAssistant：使用Microsoft.Extensions.AI实现。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18651932
+
+#### .Net程序员机会来了，微软官方新推出一个面向Windows开发者本地运行AI模型的开源工具
+- **文章简介：** .Net程序员机会来了，微软官方新推出一个面向Windows开发者本地运行AI模型的开源工具。
+- **文章地址：** https://www.cnblogs.com/chingho/p/18646910
+
+#### 一款开源且完善的O2O新零售互联网养车连锁系统
+- **文章简介：** Apollo ERP是一款基于O2O新零售的互联网养车连锁平台开发框架，类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、洗车等汽车后市场连锁企业。后端技术：.net 6.0、C#、微服务。
+- **文章地址：** https://mp.weixin.qq.com/s/4H59Ekv7OPikuPUKsnD-wQ
+
+
+
 # 2024年
 ## 12月
 ### 第 19 期（2024年12.23-12.29）
