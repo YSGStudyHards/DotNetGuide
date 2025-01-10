@@ -134,7 +134,8 @@
 
 ### .NET开发效率工具
 * [JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s/9lGdDchHgHCQMlfgqpaXQg)
-* [一个方便易用的在线.NET代码编辑工具.NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
+* [一个强大的在线.NET代码预览与分析利器 - SharpLab](https://sharplab.io)
+* [一个方便易用的在线.NET代码编辑工具 - .NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
 
 ### AI辅助编程工具
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
@@ -197,7 +198,7 @@
 * [.NET API在线目录查询](https://apisof.net/catalog)
 * [NuGet包下载趋势在线查询](https://nugettrends.com)
 * [.NET在线的包管理器NuGet](https://www.nuget.org)
-* [.NET公开可用模板在线搜索](https://dotnetnew.azurewebsites.net)
+* [.NET开源模板大全在线搜索](https://www.nuget.org/packages?q=&includeComputedFrameworks=true&packagetype=template&prerel=true&sortby=totalDownloads-desc)
 
 ### Awesome Collection
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
