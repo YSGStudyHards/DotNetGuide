@@ -134,6 +134,7 @@
   * [.NET开源搜索组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%90%9C%E7%B4%A2%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
   * [.NET开源深度克隆](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86)
+  * [.NET API文档工具类库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -1859,6 +1860,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [DeepCloner](https://github.com/force-net/DeepCloner) | DeepCloner是一个功能强大、使用灵活的对象克隆库，适用于.NET平台。它支持深拷贝和浅拷贝，无需对对象进行特殊标记或指定类型，即可进行快速克隆。库还包含了许多性能优化技巧，以提高克隆速度。此外，项目还提供了详细的使用场景和示例代码，帮助开发者更好地理解和使用库。 | https://github.com/force-net/DeepCloner |
 |  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET API文档工具类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | Swashbuckle.AspNetCore 是一个流行的 .NET 库，它使得在 ASP.NET Core 项目中自动生成 Swagger 文档变得简单。Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的Web服务。 | https://github.com/domaindrivendev/Swashbuckle.AspNetCore |
+|  2  | [Scalar](https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore) | Scalar 是一个功能强大、易于使用的 API 客户端和文档生成工具，适用于各种规模的 API 项目，支持多种编程语言和平台。 | https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
