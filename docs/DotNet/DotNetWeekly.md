@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 1月
+### 第 21 期（2025年1.6-1.12）
+#### 2025年全面的.NET跨平台应用框架推荐
+- **文章简介：** 跨平台应用框架在软件开发领域扮演着至关重要的角色，它们通过提供一种统一的方式来开发、测试和维护应用程序，极大地提高了开发效率和减少了成本。今天大姚给大家分享6个开源的.NET跨平台应用框架，同学们可以按需选择对应框架（排名不分先后，适合自己的才是最好的）。
+- **文章地址：** https://mp.weixin.qq.com/s/6AVoN8PF5PV6lord3_blLw
+
+#### .NET Aspire快速提示 - 管理容器和数据生命周期
+- **文章简介：** .NET Aspire 通过其强大的应用程序组合编排功能增强了本地开发过程。在 .NET Aspire App Host 中，您可以在一个集中位置为应用程序指定所有项目、可执行文件、云资源和容器。当您运行 App Host 项目时，.NET Aspire 将自动运行您的项目和可执行文件，根据需要提供云资源，并下载和运行作为应用程序依赖项的容器。.NET Aspire 9 添加了新功能，让您可以更好地控制在本地计算机上管理容器生命周期的方式，从而在使用容器时加快开发速度。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime
+
+#### 实用干货，一个开源且丰富的C#/.NET编程技巧实战练习教程集
+- **文章简介：** DotNetGuide专栏C#/.NET/.NET Core编程技巧练习集：C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+- **文章地址：** https://mp.weixin.qq.com/s/KQVaA0C74LbSY9av46KXnw
+
+#### 一款基于 .NET8 + Vue 开源、免费、跨平台的企业级在线考试系统
+- **文章简介：** XBLMS是一款基于 .NET8 + Vue 开源、免费（AGPL-3.0开源协议）、跨平台的企业级在线考试系统，系统支持多种数据库系统，包括人大金仓、达梦、OceanBase、MySql、SqlServer、PostgreSql、SQLite等。
+- **文章地址：** https://mp.weixin.qq.com/s/Cn3Tw7wCA0ywot7q-o_D3w
+
+#### API网关选择：YARP还是Ocelot？
+- **文章简介：** 随着微服务架构的流行，API网关在系统架构中扮演着越来越重要的角色。在.NET生态中，YARP（Yet Another Reverse Proxy）和Ocelot是两种常用的API网关解决方案。那么，在实际应用中，我们该如何选择？本文将从易用性、文档、负载均衡、限流、身份验证、授权和性能等多个方面，对YARP和Ocelot进行详细对比，并附上具体的代码示例，帮助大家更好地理解和选择适合的API网关。
+- **文章地址：** https://www.cnblogs.com/madtom/p/18655530
+
+#### 在 .NET 9 中使用 Scalar 替代 Swagger
+- **文章简介：** 在.NET 9发布以后ASP.NET Core官方团队发布公告已经将Swashbuckle.AspNetCore（一个为ASP.NET Core API提供Swagger工具的项目）从ASP.NET Core Web API模板中移除，这意味着以后我们创建Web API项目的时候不会再自动生成Swagger API文档了。那么今天咱们一起来试试把我们的EasySQLite .NET 9的项目使用Scalar用于交互式API文档。
+- **文章地址：** https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ
+
+#### 聊一聊 C#异步 任务延续的三种底层玩法
+- **文章简介：** 聊一聊 C#异步 任务延续的三种底层玩法。
+- **文章地址：** https://mp.weixin.qq.com/s/_GCZvY4dE0GZpmDZYMeqvA
+
+#### .NET 中管理 Web API 文档的两种方式
+- **文章简介：** 在 .NET 开发中管理 Web API 文档是确保 API 易用性、可维护性和一致性的关键。今天大姚给大家分享两种在 .NET 中管理 Web API 文档的方式，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/pzQDvbaMVYOCOBjjUFQ6GA
+
+#### .NET 9.0 使用 Vulkan API 编写跨平台图形应用
+- **文章简介：** .NET 9.0 使用 Vulkan API 编写跨平台图形应用。
+- **文章地址：** https://www.cnblogs.com/xymfblogs/p/18664113
+
+#### .NET 依赖注入中的 Captive Dependency
+- **文章简介：** .NET 依赖注入中的 Captive Dependency。
+- **文章地址：** https://www.cnblogs.com/kklldog/p/18663148/captive-dependency
+
+#### .NET Core：架构、特性和优势详解
+- **文章简介：** 在软件开发领域，保持领先地位至关重要。随着技术以指数级的速度发展，开发人员不断寻求高效、可扩展且多功能的解决方案来应对现代挑战。.NET Core 就是这样一种受到广泛关注的解决方案。在本指南中，我们将深入研究 .NET Core 的基础知识，探索其架构、功能以及相对于传统 .NET Framework 的优势。
+- **文章地址：** https://www.cnblogs.com/liyongqiang-cc/p/18662074
+
+#### 基于.NET8.0实现RabbitMQ的Publish/Subscribe发布订阅以及死信队列
+- **文章简介：** 基于.NET8.0实现RabbitMQ的Publish/Subscribe发布订阅以及死信队列。
+- **文章地址：** https://www.cnblogs.com/sq1201/p/18661294
+
+
 ### 第 20 期（2025年1.1-1.5）
 #### 一个适用于 .NET 的开源整洁架构项目模板
 - **文章简介：** 项目架构模式在软件开发中扮演着至关重要的角色，它们为开发者提供了一套组织和管理代码的指导原则，以提高软件的可维护性、可扩展性、可重用性和可测试性。今天大姚给大家分享一个适用于 .NET 的开源整洁架构项目模板。
