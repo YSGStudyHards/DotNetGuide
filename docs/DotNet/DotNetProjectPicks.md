@@ -1479,7 +1479,7 @@
 |  9 | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | BlazorChartjs是一个在Blazor中使用Chart.js的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。 | https://github.com/erossini/BlazorChartjs |
 |  10 | [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) | ChartJs.Blazor 是一个基于C#和Blazor开发的前端开源图表库，它把ChartJs引入到了Blazor中, 并提供了开箱即用的实现，并且支持了 Client 和 Server 两种模式。 | https://github.com/mariusmuntean/ChartJs.Blazor |
 |  11 | [Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts) | 基于ApexCharts.js封装的C#开源免费的Blazor图表库。 | https://github.com/apexcharts/Blazor-ApexCharts |
-|  12 |  |  |  |
+|  12 | [Veldrid](https://github.com/veldrid/veldrid) | Veldrid是一个跨平台的、与图形API无关的.NET渲染和计算库，它提供了一个强大且统一的接口来访问系统的GPU，并包含了比其他任何.NET库都更高级的功能。与其他平台或供应商特定的技术不同，Veldrid可以用来创建真正可移植的高性能3D应用程序。 | https://github.com/veldrid/veldrid |
 |  13 |  |  |  |
 |  14 |  |  |  |
 |  15 |  |  |  |
