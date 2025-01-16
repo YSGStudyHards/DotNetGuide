@@ -134,7 +134,7 @@
   * [控制台应用帮助库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%BA%94%E7%94%A8%E5%B8%AE%E5%8A%A9%E5%BA%93)
   * [.NET开源搜索组件库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%90%9C%E7%B4%A2%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
-  * [.NET开源深度克隆](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86)
+  * [.NET开源深度克隆库]()
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
@@ -1871,11 +1871,11 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### .NET开源深度克隆
+#### .NET开源深度克隆库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [DeepCloner](https://github.com/force-net/DeepCloner) | DeepCloner是一个功能强大、使用灵活的对象克隆库，适用于.NET平台。它支持深拷贝和浅拷贝，无需对对象进行特殊标记或指定类型，即可进行快速克隆。库还包含了许多性能优化技巧，以提高克隆速度。此外，项目还提供了详细的使用场景和示例代码，帮助开发者更好地理解和使用库。 | https://github.com/force-net/DeepCloner |
-|  2  |  |  |  |
+|  2  | [FastDeepCloner](https://github.com/AlenToma/FastDeepCloner) | FastDeepCloner是一个速度极快的便携式库，它是一个基于C#的.NET跨平台库，用于深度克隆对象，无论这些对象是否可序列化。其设计初衷是要比通常用于深度克隆对象的二进制序列化方法快得多。 | https://github.com/AlenToma/FastDeepCloner |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
