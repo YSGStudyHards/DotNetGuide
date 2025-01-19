@@ -1975,7 +1975,7 @@
 |  3  | [FluentWPF](https://github.com/sourcechord/FluentWPF)  | 基于Fluent Design设计风格的WPF UI界面库。 | https://github.com/sourcechord/FluentWPF |
 |  4  | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 一个开源、易于使用、强大的 WPF UI 控件库，旨在帮助开发人员在 C# 和 VB.Net 中实现 Google 的 Material Design 风格的用户界面。该框架提供了一组丰富的控件、样式和效果，使开发人员能够轻松创建现代化、具有吸引力的应用程序。 | http://materialdesigninxaml.net |
 |  5  | [MaterialDesignExtensions](https://github.com/spiegelp/MaterialDesignExtensions) | MaterialDesignExtensions是在Material Design in XAML Toolkit的基础上进行的扩展，为 WPF 应用提供其他控件和功能。 | https://github.com/spiegelp/MaterialDesignExtensions |
-|  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源的 WPF UI 框架，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
+|  6  | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。 | https://github.com/MahApps/MahApps.Metro |
 |  7  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
 |  8  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  9  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
