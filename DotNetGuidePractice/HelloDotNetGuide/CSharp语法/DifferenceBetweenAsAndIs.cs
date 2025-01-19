@@ -68,6 +68,7 @@
         {
             object title = "Hello DotNetGuide";
             string str = title as string;
+
             if (str != null)
             {
                 Console.WriteLine("是 string 类型: " + str);
@@ -78,6 +79,7 @@
             }
 
             int? num = title as int?;
+
             if (num.HasValue)
             {
                 Console.WriteLine("是 int 类型: " + num.Value);
@@ -85,6 +87,13 @@
             else
             {
                 Console.WriteLine("不是 int 类型");
+            }
+
+            IEnumerable<int> numbers = new List<int>() { 10, 20, 30 };
+            IList<int> indexable = numbers as IList<int>;
+            if (indexable != null)
+            {
+                Console.WriteLine(indexable[0] + indexable[indexable.Count - 1]);  // output: 40
             }
         }
     }

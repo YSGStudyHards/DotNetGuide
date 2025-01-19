@@ -13,9 +13,19 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region YieldExercise
+
+            YieldExercise.IteratorComparisonRun();
+
+            YieldExercise.LazyLoadingRun();
+
+            YieldExercise.YieldBreakRun();
+
+            #endregion
+
             #region 正则表达式
 
-            RegularExpressions.SplitString();
+            //RegularExpressions.SplitString();
 
             #endregion
 
