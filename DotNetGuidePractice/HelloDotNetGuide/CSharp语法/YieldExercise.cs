@@ -60,7 +60,7 @@
         {
             Console.WriteLine("yield延迟加载按需获取数据 开始...");
 
-            foreach (var number in GetEvenNumbers())
+            foreach (var number in GetEvenNumbers(11))
             {
                 Console.WriteLine($"返回值 === {number} ===");
                 Thread.Sleep(500);
@@ -73,9 +73,9 @@
         /// 使用yield返回偶数的迭代器方法
         /// </summary>
         /// <returns></returns>
-        public static IEnumerable<int> GetEvenNumbers()
+        public static IEnumerable<int> GetEvenNumbers(int number)
         {
-            for (int i = 1; i < 11; i++)
+            for (int i = 1; i < number; i++)
             {
                 Console.WriteLine($"Yielding {i}");
                 if (i % 2 == 0)
