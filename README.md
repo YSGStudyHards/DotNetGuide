@@ -1,4 +1,4 @@
-# 🌈C#/.NET/.NET Core学习、工作、面试指南
+![image](https://github.com/user-attachments/assets/38b0e077-3510-4597-bbf0-ce40cfd6014e)# 🌈C#/.NET/.NET Core学习、工作、面试指南
 > 让现在的自己不再迷茫✨✨✨。
 
 ![C#/.NET/.NET Core学习、工作、面试指南](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2336807/o_230817182324_%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97.png "C#/.NET/.NET Core学习、工作、面试指南")
@@ -241,11 +241,11 @@
 
 
 ## 🕹C#/.NET/.NET Core学习路线集合
-> **C#、.NET、.NET Core、WPF、WinForm、Unity等相关技术的学习、工作路线集合（持续更新）！！！**
+> **C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity等相关技术的学习、工作路线集合（持续更新）！！！**
 
 * **C#/.NET/.NET Core学习路线集合地址：** [https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr👉](https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr)
 
-![C#/.NET/.NET Core学习路线集合](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2426875/o_241017162256_%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE.png "C#/.NET/.NET Core学习路线集合")
+![C#/.NET/.NET Core学习路线集合](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2426875/o_250119131352_%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E9%9B%86%E5%90%88.png "C#/.NET/.NET Core学习路线集合")
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
