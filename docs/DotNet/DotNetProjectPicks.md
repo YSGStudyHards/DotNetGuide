@@ -63,7 +63,7 @@
   * [文档管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [访客管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BF%E5%AE%A2%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [医疗管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
-  * [医疗影像PACS系统]()
+  * [医疗影像PACS系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E5%BD%B1%E5%83%8Fpacs%E7%B3%BB%E7%BB%9F)
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
   * [应用监控系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F)
   * [开源游戏项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE)
