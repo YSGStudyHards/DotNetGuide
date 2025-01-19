@@ -1458,9 +1458,9 @@
 #### .NET第三方登录整合库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | .netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台。 | https://github.com/mrhuo/MrHuo.OAuth |
-|  2  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | .Net平台(C#) 史上最全的整合第三方登录的开源库 => 环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
-|  3  |  |  |  |
+|  1  | [MrHuo.OAuth](https://github.com/mrhuo/MrHuo.OAuth) | MrHuo.OAuth是基于 .NET 开源的集成 OAuth2 登录全面的、方便第三方登录组件集合，集成了国内外大部分平台。 | https://github.com/mrhuo/MrHuo.OAuth |
+|  2  | [CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth) | CollectiveOAuth是.NET平台(C#) 史上最全的整合第三方登录的开源库，环境支持 .NET Framework 4.5 ~ 4.6.2 和 .NetCore 3.1。目前已包含Github、Gitee、钉钉、百度、支付宝、微信、企业微信、腾讯云开发者平台(Coding)、OSChina、微博、QQ、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、酷家乐、Gitlab、美团、饿了么、等第三方平台的授权登录。 | https://gitee.com/rthinking/CollectiveOAuth |
+|  3  | [Netnr.Login](https://gitee.com/netnr/Netnr.Login) | Netnr.Login是一个基于 C# 开源（MIT License）的第三方 OAuth2 授权登录整合库，集成了QQ、微信开放平台（Weixin）、微信公众平台（WeixinMP）、微博（Weibo）、淘宝（Taobao）、支付宝（Alipay）、钉钉（DingTalk）、飞书（Feishu）、华为（Huawei）、小米（Xiaomi）、AtomGit、码云（Gitee）、GitHub、GitLab、微软（Microsoft ）、StackOverflow等授权登录功能，可以帮助大家快速完成常见的第三方平台的登录授权功能。 | https://gitee.com/netnr/Netnr.Login |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
