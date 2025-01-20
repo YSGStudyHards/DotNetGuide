@@ -2066,9 +2066,9 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [DesignPattern.Samples.CSharp](https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp) | 23种面向对象设计模式示例代码（C#实现）。 | https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp |
-|  2  | [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) | 设计模式 C# 版（ .NET 6）。 | https://github.com/sheng-jie/Design-Pattern |
-|  3  |  |  |  |
-|  4  |  |  |  |
+|  2  | [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) | 设计模式 C# 版（.NET 6），包含系列教程文章讲解。 | https://github.com/sheng-jie/Design-Pattern |
+|  3  | [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) | C#中的设计模式代码示例。 | https://github.com/abishekaditya/DesignPatterns |
+|  4  | [design-patterns-csharp](https://github.com/RefactoringGuru/design-patterns-csharp) | 一个包含所有经典 GoF 设计模式的 C# 示例。 | https://github.com/RefactoringGuru/design-patterns-csharp |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
