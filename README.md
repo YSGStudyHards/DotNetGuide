@@ -70,7 +70,7 @@
 ## 🏷️优质学习资料收录栈
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
-* [🏹C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
+* [🏹C#设计模式入门实战教程](https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 * [🏄‍♂️一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
 * [🎯Java开发者快速上手.NET指南](https://mp.weixin.qq.com/s/ncn-xhr2_vXBfT5hI-R_CA)
@@ -474,6 +474,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 ### 设计模式推荐学习教程
 * [大话设计模式](http://www.ddooo.com/softdown/109592.htm)
 * [图说设计模式](https://github.com/me115/design_patterns)
+* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q)
 * [设计模式之禅（第2版）](https://www.kancloud.cn/sstd521/design/193489)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
