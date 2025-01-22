@@ -9,7 +9,7 @@
 
 ## C#相关
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/fC8BREhKSnJOxjFnKHIyPg)
-* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
+* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q)
 * [推荐几本C#/.NET进阶书籍](https://mp.weixin.qq.com/s/eQNTWICiuu1mWIUqVVe1Sg)
 * [C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
 * [C#拾遗补漏之goto跳转语句](https://mp.weixin.qq.com/s/sUtAUJpQthiP6pciE1U9nA)
@@ -17,7 +17,9 @@
 * [C#基础：理解装箱与拆箱](https://mp.weixin.qq.com/s/VD_x17aWU2SHuVR22tM7pg)
 * [C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
 * [C# 12 中新增的八大功能你都知道吗？](https://mp.weixin.qq.com/s/yBqSWhkztihCnIjb7vm_aw)
+* [C#使用yield关键字提升迭代性能与效率](https://mp.weixin.qq.com/s/MVU93mXgwHP1St7vGqZdtQ)
 * [C#中IsNullOrEmpty和IsNullOrWhiteSpace的区别？](https://mp.weixin.qq.com/s/50DYqNYHVj9gb4XNGGqE9w)
+* [.NET 在 Visual Studio 中的高效编程技巧集](https://mp.weixin.qq.com/s/_yzosjSfVZZwsDgYf8JT9A)
 * [支持C#的开源免费、新手友好的数据结构与算法入门教程](https://mp.weixin.qq.com/s/9lb5iu6tGNiSGcIrf7fQ3A)
 * [GUID 在 C# 中的五种格式化输出](https://mp.weixin.qq.com/s/Wk6zk667HmU4SM86fBxWZQ)
 * [C#集合数据去重的5种方式及其性能对比测试分析](https://mp.weixin.qq.com/s/cjtq-y16OoM5DxcQ_t2YKw)
@@ -51,8 +53,12 @@
 * [你可能不知道的C#几种对象初始化方式](https://mp.weixin.qq.com/s/oBYbcRRevZdiVEhkd5i6Uw)
 * [基于C#开发的工控网关，轻量级组态软件](https://mp.weixin.qq.com/s/69wGzJkNq8yHVX7YepYEsw)
 * [C#常见的四种经典查找算法](https://mp.weixin.qq.com/s/zj9oZBajcewU6yP4y8e_ow)
+* [2024年各编程语言运行100万个并发任务需要多少内存？](https://mp.weixin.qq.com/s/5P0Y8Mqw_WiG6DHD777LIw)
+* [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg)
+* [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s/_GCZvY4dE0GZpmDZYMeqvA)
 
 ## .NET/.NET Core相关
+* [C#正则表达式快速入门](https://mp.weixin.qq.com/s/HnC-2em8YGuIau1EulNRKw)
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
 * [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
 * [.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
@@ -142,8 +148,23 @@
 * [.NET使用Umbraco CMS快速构建一个属于自己的内容管理系统](https://mp.weixin.qq.com/s/xaTtknSY98Nsuxrvyfwe5w)
 * [.NET使用MiniWord高效生成Word文件](https://mp.weixin.qq.com/s/2A02aXxvMxIhQV2WJE7pkg)
 * [使用 BenchmarkDotNet 对 .NET 代码进行性能基准测试](https://mp.weixin.qq.com/s/6mpHS1OVuIlBgdU71OIIOw)
+* [一款基于 .NET + Blazor 开发的智能访客管理系统](https://mp.weixin.qq.com/s/k3DnbdXHqO-iUHKNnE9S9w)
+* [一个.NET开源、免费、功能强大的 PDF 处理工具](https://mp.weixin.qq.com/s/MX8np6yN-x-D4FAdEf4dcA)
+* [在IIS上部署ASP.NET Core Web API和Blazor Wasm](https://mp.weixin.qq.com/s/MfScgBu0QMRT3D5aIT5A3w)
+* [一套以用户体验出发的.NET8 Web开源框架](https://mp.weixin.qq.com/s/IdkatdfUsnGtf-GeILmQkw)
+* [.NET MongoDB数据仓储和工作单元模式封装](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
+* [一个适用于 .NET 的开源整洁架构项目模板](https://mp.weixin.qq.com/s/QABnv-F-CHGbSd_meblf-A)
+* [将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
+* [推荐4款基于.NET开源、功能强大的CMS建站系统](https://mp.weixin.qq.com/s/ZEFXHHs8UqwK63ttN92Bcg)
+* [在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
+* [2025年全面的.NET跨平台应用框架推荐](https://mp.weixin.qq.com/s/6AVoN8PF5PV6lord3_blLw)
+* [2025年全面的 .NET 图表构建解决方案](https://mp.weixin.qq.com/s/dRbniqW_ED9fNH2PjGw6-A)
+* [.NET 中管理 Web API 文档的两种方式](https://mp.weixin.qq.com/s/pzQDvbaMVYOCOBjjUFQ6GA)
+* [.NET 9.0 使用 Vulkan API 编写跨平台图形应用](https://mp.weixin.qq.com/s/ETWcdLMxvIulosu2kPb9EA)
+* [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s/AAQ-AzQ4oJvBo2yV1uXYJQ)
 
 ## WPF相关
+* [一个使用 WPF 开发的管理系统](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
 * [WPF学习路线详解（文末附带脑图）](https://mp.weixin.qq.com/s/kT_cbEL3-fcv75YNB9vcWw)
 * [一款简单漂亮的WPF UI - AduSkin](https://mp.weixin.qq.com/s/Lt4aSmNqpZTPPQypzyhb5g)
 * [一套开源、强大且美观的WPF UI控件库 - HandyControl](https://mp.weixin.qq.com/s/6OcSyquHutFOm5IWcgLLBQ)
@@ -163,6 +184,7 @@
 * [基于Ant Design设计语言的WinForm UI界面库 - AntdUI](https://mp.weixin.qq.com/s/H46V1EZ7DCduUeS9j7wO0w)
 * [使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
 * [基于Material Design风格开源、免费的WinForms UI控件库](https://mp.weixin.qq.com/s/5cQvqL9ryPe6OS1azmBdKg)
+* [开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行](https://mp.weixin.qq.com/s/smWkYnZT4NLUmw3W1XGbOw)
 
 ## Blazor相关
 * [C#开源免费的Blazor图表库](https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw)
@@ -174,7 +196,6 @@
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
 * [基于Bootstrap Blazor开源的.NET通用后台权限管理系统](https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA)
 * [一套基于 Ant Design 和 Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g)
-* [在IIS上部署ASP.NET Core Web API和Blazor Wasm](https://mp.weixin.qq.com/s/MfScgBu0QMRT3D5aIT5A3w)
 * [MudBlazor：基于Material Design风格开源且强大的Blazor组件库](https://mp.weixin.qq.com/s/BYIRIIZvp6waLudFlevoxg)
 
 ## Avalonia相关
@@ -183,6 +204,7 @@
 * [一款开源免费的现代化风格的Avalonia控件库](https://mp.weixin.qq.com/s/mJtego9nVh7PDNtl_OMgzw)
 * [在Avalonia项目中使用MediatR和MS.DI库实现事件驱动通信](https://mp.weixin.qq.com/s/I_1AQrWZq5fXKEUt3g6WyQ)
 * [一款开源、免费、美观的 Avalonia UI 原生控件库 - Semi Avalonia](https://mp.weixin.qq.com/s/hQIeWwqQtLmAIVE2f4zgFw)
+* [一个基于 Roslyn 和 AvalonEdit 的跨平台 C# 编辑器](https://mp.weixin.qq.com/s/Rh3grf7g06KKXcKnSnCd5A)
 
 ## MAUI相关
 * [.NET开源免费的跨平台框架 - MAUI（附学习资料）](https://mp.weixin.qq.com/s/Srita3XuYRUQ3tEzcSB4Og)
