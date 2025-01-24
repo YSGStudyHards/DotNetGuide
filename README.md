@@ -482,7 +482,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [C#常见的23种设计模式（含源码）圣杰](https://github.com/sheng-jie/Design-Pattern)
 * [23种面向对象设计模式示例代码（C#实现）Edison Zhou](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
 
-## 经典的23种设计模式
+### 经典的23种设计模式
 
 ![经典的23种设计模式思维脑图](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2441975/o_250120135924_DesignPatterns.webp "经典的23种设计模式思维脑图")
 
