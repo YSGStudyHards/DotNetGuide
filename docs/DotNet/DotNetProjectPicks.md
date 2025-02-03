@@ -617,7 +617,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统，项目亮点功能包括：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
 |  2  | [EasyMES](https://gitee.com/qian_wei_hong/EasyMES) | EasyMES一款基于 .NET 6 MVC 框架开发、开源免费（MIT License）、功能全面的离散型零部件制造管理系统（MES）和仓储管理系统（WMS）。 | https://gitee.com/qian_wei_hong/EasyMES |
-|  3  | [jianjipan/MES](https://github.com/jianjipan/MES) | 一个用C#写的MES系统，用到了supersocket通信框架，以及WPF技术。 | https://github.com/jianjipan/MES |
+|  3  | [jianjipan/MES](https://github.com/jianjipan/MES) | 一个使用C#写的MES系统，用到了supersocket通信框架，以及WPF技术。 | https://github.com/jianjipan/MES |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
