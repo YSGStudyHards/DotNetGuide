@@ -435,7 +435,7 @@
 |  1  | [Abot](https://github.com/sjdirect/abot) | Abot是一个基于C#的开源网络爬虫框架，旨在提供高速和灵活的爬取功能。它负责底层的任务调度、多线程处理、HTTP 请求、链接解析等繁琐的细节，开发者只需要注册事件来处理页面数据。 | https://github.com/sjdirect/abot |
 |  2  | [SpiderEye](https://github.com/JBildstein/SpiderEye) | SpiderEye是一个基于.NET的Web爬虫框架，旨在为开发者提供构建高效、可扩展的网络爬虫的工具。与其他类似的框架相比，SpiderEye使用操作系统的原生webview而不是捆绑Chromium，从而提供更轻量级的解决方案。 | https://github.com/JBildstein/SpiderEye |
 |  3  | [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
-|  4  |  |  |  |
+|  4  | [Hawk](https://github.com/ferventdesert/Hawk) | Hawk是一个基于C#/WPF开发的开源ETL和爬虫流引擎，提供智能分析、可视化拖拽、并行处理和多格式支持等功能。 | https://github.com/ferventdesert/Hawk |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -617,7 +617,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [iMES工厂管家](https://gitee.com/ZM-Rid/imes) | 一款基于.NetCore3.1和Vue3的MES管理系统，项目亮点功能包括：模版打印，Excel模版导出，自定义实体扩展，移动端精美设计，大屏设计等功能。 | https://gitee.com/ZM-Rid/imes |
 |  2  | [EasyMES](https://gitee.com/qian_wei_hong/EasyMES) | EasyMES一款基于 .NET 6 MVC 框架开发、开源免费（MIT License）、功能全面的离散型零部件制造管理系统（MES）和仓储管理系统（WMS）。 | https://gitee.com/qian_wei_hong/EasyMES |
-|  3  |  |  |  |
+|  3  | [jianjipan/MES](https://github.com/jianjipan/MES) | 一个用C#写的MES系统，用到了supersocket通信框架，以及WPF技术。 | https://github.com/jianjipan/MES |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
