@@ -585,7 +585,7 @@
 |  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall是一个.NET ABP框架开发、开源、免费（MIT License）的多租户多商户多应用社交电商商城平台。 | https://github.com/jerrytang67/SoMall |
 |  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 | https://github.com/CoreUnion/CoreShop |
 |  4  | [QShop](https://gitee.com/qiushuochina/QShop) | QShop商城是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。 | https://gitee.com/qiushuochina/QShop |
-|  5  | [eShop](https://github.com/dotnet/eShop) | eShop是由.NET团队提供的电子商务系统示例项目，演示了如何使用.NET技术栈构建现代化的电子商务网站，包括微服务架构、领域驱动设计和事件驱动架构等最佳实践。 | https://github.com/dotnet/eShop |
+|  5  | [eShop](https://github.com/dotnet/eShop) | eShop是一款由.NET官方开源的，基于.NET Aspire构建的用于参考学习的服务架构电子商务系统，旨在展示如何利用.NET框架及其相关技术栈构建一个现代化的电子商务网站。该项目采用服务架构，将应用程序分解为多个独立的服务，每个服务都可以独立开发、部署和扩展。 | https://github.com/dotnet/eShop |
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
 |  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
