@@ -11,6 +11,57 @@
 * [🔔C#/.NET/.NET Core优秀项目和框架GitHub精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
+# 2025年
+## 1月
+### 公众号1月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年1月简报：**
+
+### CleanArchitecture
+* **项目简介：** CleanArchitecture是一个适用于 .NET 的开源整洁架构项目模板，此模板的目标是利用 Clean Architecture 和 ASP.NET Core 的强大功能，为企业应用程序开发提供一种简单而有效的方法。使用此模板，您可以毫不费力地使用 ASP.NET Core 和 Angular 或 React 创建单页应用程序 （SPA），同时遵守 Clean Architecture 的原则。入门非常简单，只需安装 .NET 模板。
+* **项目源码地址：** https://github.com/jasontaylordev/CleanArchitecture
+* **项目详细介绍：** https://mp.weixin.qq.com/s/QABnv-F-CHGbSd_meblf-A
+
+### XBLMS
+* **项目简介：** XBLMS是一款基于 .NET8 + Vue 开源、免费（AGPL-3.0开源协议）、跨平台的企业级在线考试系统，系统支持多种数据库系统，包括人大金仓、达梦、OceanBase、MySql、SqlServer、PostgreSql、SQLite等。
+* **项目源码地址：** https://gitee.com/xblms/xblmes
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Cn3Tw7wCA0ywot7q-o_D3w
+
+### Swashbuckle.AspNetCore
+* **项目简介：** Swashbuckle.AspNetCore 是一个流行的 .NET 库，它使得在 ASP.NET Core 项目中自动生成 Swagger 文档变得简单。Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的Web服务。
+* **项目源码地址：** https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+* **项目详细介绍：** https://mp.weixin.qq.com/s/pzQDvbaMVYOCOBjjUFQ6GA
+
+### Scalar
+* **项目简介：** Scalar 是一个功能强大、易于使用的 API 客户端和文档生成工具，适用于各种规模的 API 项目，支持多种编程语言和平台。
+* **项目源码地址：** https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore
+* **项目详细介绍：** https://mp.weixin.qq.com/s/pzQDvbaMVYOCOBjjUFQ6GA
+
+### RoslynPad
+* **项目简介：** RoslynPad是一个基于 Roslyn 和 AvalonEdit 开源、轻量、跨平台的 C# 编辑器。
+* **项目源码地址：** https://github.com/roslynpad/roslynpad
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Rh3grf7g06KKXcKnSnCd5A
+
+### DicomSCP
+* **项目简介：** DicomSCP是一个基于 .NET Core 的 DICOM SCP（Service Class Provider）服务器，提供 DICOM 存储、工作列表、查询检索服务，打印服务，WADO/DicomWeb服务，集成了功能强大的DICOM 桌面和Web查看器。
+* **项目源码地址：** https://gitee.com/fightroad/DicomSCP
+* **项目详细介绍：** https://mp.weixin.qq.com/s/G8XvIOLJjL-_jecfMQh6VA
+
+### Design-Pattern
+* **项目简介：** 设计模式 C# 版（.NET 6），包含系列教程文章讲解。
+* **项目源码地址：** https://github.com/sheng-jie/Design-Pattern
+* **项目详细介绍：** https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q
+
+### DesignPattern.Samples.CSharp
+* **项目简介：** 23种面向对象设计模式示例代码（C#实现）。
+* **项目源码地址：** https://github.com/Coder-EdisonZhou/DesignPattern.Samples.CSharp
+* **项目详细介绍：** https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q
+
+### MahApps.Metro
+* **项目简介：** MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，提供了现代化、平滑和美观的控件和样式，帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。
+* **项目源码地址：** https://github.com/MahApps/MahApps.Metro
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qNmPkyK8D9OQEAp2MXiAzg
+
+
 # 2024年
 ## 12月
 ### 公众号12月简报
