@@ -2049,8 +2049,8 @@
 |  6  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
 |  7  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
-|  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | 一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
-|  10  |  |  |  |
+|  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | AlohaKit是一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
+|  10  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control是适用于.NET MAUI 的组件库(Component)，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
 |  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
