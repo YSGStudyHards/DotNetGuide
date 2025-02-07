@@ -1010,7 +1010,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [AKStream](https://gitee.com/chatop2020/AKStream) | AKStream是一个基于.NET开发且开源（MIT License）的、功能全面的流媒体管理控制平台，集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能。 | https://gitee.com/chatop2020/AKStream |
 |  2  | [ParallelCollectionMonitoring](https://github.com/bitkylin/ParallelCollectionMonitoring) | 一个.NET开源的数据采集及云端监控系统，使用数十个.NET客户端控制硬件设备进行工作，采集数据并进行处理，管理人员通过 Android 应用实时控制各设备的工作。 | https://github.com/bitkylin/ParallelCollectionMonitoring |
-|  3  |  |  |  |
+|  3  | [Apollo ERP](https://gitee.com/aerphouse/ApolloERP) | Apollo ERP是一款.NET开源（MIT License）、免费的基于O2O新零售的互联网养车连锁平台开发框架，类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、洗车等汽车后市场连锁企业。 | https://gitee.com/aerphouse/ApolloERP |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
