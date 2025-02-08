@@ -864,6 +864,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [10款程序员常用的API管理工具](https://mp.weixin.qq.com/s/i9WwbP8r2BJ3-fPGYbM_fg)
 * [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+* [推荐一些程序员常逛的开发者社区](https://mp.weixin.qq.com/s/F52kY4kqPovLcTlm5kFo7w)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [值得推荐的4款免费且功能强大的在线文档工具](https://mp.weixin.qq.com/s/Gdm2wHhiLB9I7ib2Ue5ysA)
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
