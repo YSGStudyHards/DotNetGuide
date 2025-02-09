@@ -61,6 +61,11 @@
 * **项目源码地址：** https://github.com/MahApps/MahApps.Metro
 * **项目详细介绍：** https://mp.weixin.qq.com/s/qNmPkyK8D9OQEAp2MXiAzg
 
+### Apollo ERP
+* **项目简介：** Apollo ERP是一款.NET开源（MIT License）、免费的基于O2O新零售的互联网养车连锁平台开发框架，类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、洗车等汽车后市场连锁企业。	
+* **项目源码地址：** https://gitee.com/aerphouse/ApolloERP
+* **项目详细介绍：** https://mp.weixin.qq.com/s/1RC5PW_kyFCafQOvfFQkFQ
+
 
 # 2024年
 ## 12月
