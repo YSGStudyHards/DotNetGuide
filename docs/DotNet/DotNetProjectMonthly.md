@@ -14,7 +14,7 @@
 # 2025年
 ## 1月
 ### 公众号1月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年1月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2025年1月简报：** https://mp.weixin.qq.com/s/MjRkz7k9mdeCxG5tpTAVxQ
 
 ### CleanArchitecture
 * **项目简介：** CleanArchitecture是一个适用于 .NET 的开源整洁架构项目模板，此模板的目标是利用 Clean Architecture 和 ASP.NET Core 的强大功能，为企业应用程序开发提供一种简单而有效的方法。使用此模板，您可以毫不费力地使用 ASP.NET Core 和 Angular 或 React 创建单页应用程序 （SPA），同时遵守 Clean Architecture 的原则。入门非常简单，只需安装 .NET 模板。
