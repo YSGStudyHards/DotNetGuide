@@ -49,6 +49,7 @@
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🏆C#/.NET/.NET Core技术前沿周刊](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A)
 * [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
+* [🤖AIGC&AI赋能]()
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 * [🧮逻辑算法](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%80%BB%E8%BE%91%E7%AE%97%E6%B3%95)
@@ -463,6 +464,17 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise)：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
 * [**19、CSharp12GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp12GrammarExercise.cs)：[C# 12 新增功能实操](https://mp.weixin.qq.com/s/P-f-cP9bpUD99RsB3lQOzA)
 * [**20、FFmpegAudioAndVideoMerge**](https://github.com/YSGStudyHards/FFmpegAudioAndVideoMerge)：[C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## 🤖AIGC&AI赋能
+* [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
+* [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
+* [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
+* [6款支持C#语言的AI辅助编程工具，开发效率提升利器！](https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg)
+* [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s/b94N2WSSNydwAlJiZineUw)
+* [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
