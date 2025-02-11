@@ -18,7 +18,84 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 2月
+### 第 25 期（2025年2.1-2.9）
+#### 2025年这些实用的C#/.NET知识点你都知道吗？
+- **文章简介：** 在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
+- **文章地址：** https://mp.weixin.qq.com/s/rr8YyihxuKzbrs4ycF78fg
+
+#### 3款 .NET 开源的编辑器，包含代码、文本和Markdown编辑功能！
+- **文章简介：** 今天大姚给大家推荐3款 .NET 开源、免费的编辑器，其中包含 C# 代码编辑器、文本编辑器和 Markdown 编辑器！
+- **文章地址：** https://mp.weixin.qq.com/s/UWBWbBeAw88HNIpGzPdsvA
+
+#### Avalonia使用XML文件实现国际化
+- **文章简介：** 在软件开发日益全球化的今天，Avalonia 的国际化实现策略成为了众多开发者关注的焦点。继上一篇 Avalonia 国际化之路：Resx 资源文件的深度应用与探索之后，本文将引领大家深入探究如何运用自定义 XML 文件来达成 Avalonia 国际化的目标，开启一段全新的技术探索之旅。
+- **文章地址：** https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw
+
+#### Visual Studio使用GitHub Copilot提高.NET开发工作效率
+- **文章简介：** GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。
+- **文章地址：** https://mp.weixin.qq.com/s/C9Cp_dl2-3bm5aPw3o1TFQ
+
+#### 一个超经典WinForm,WPF卡死问题的终极反思
+- **文章简介：** 一个超经典WinForm,WPF卡死问题的终极反思。
+- **文章地址：** https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q
+
+#### 一个 .NET 开源、免费、功能强大的Windows应用卸载神器
+- **文章简介：** Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。
+- **文章地址：** https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw
+
+#### 一款由 .NET 官方团队开源的电子商务系统
+- **文章简介：** eShop基于.NET 9构建，并集成了.NET Aspire、Blazor、Azure OpenAI等先进技术，数据库采用 PostgreSQL，缓存采用 Redis，客户端支持网页版本、iOS 版本和安卓版本，为开发者提供了一个学习和实践的平台。此外，项目还提供了详细的运行和部署指南，以及示例产品数据和AI集成，帮助开发者更好地理解和应用这些技术。
+- **文章地址：** https://mp.weixin.qq.com/s/ufxiFkdNbW6UaufvlHE2FQ
+
+#### 一个基于 C# 开源的第三方 OAuth2 授权登录整合库
+- **文章简介：** Netnr.Login是一个基于 C# 开源（MIT License）的第三方 OAuth2 授权登录整合库，集成了QQ、微信开放平台（Weixin）、微信公众平台（WeixinMP）、微博（Weibo）、淘宝（Taobao）、支付宝（Alipay）、钉钉（DingTalk）、飞书（Feishu）、华为（Huawei）、小米（Xiaomi）、AtomGit、码云（Gitee）、GitHub、GitLab、微软（Microsoft ）、StackOverflow等授权登录功能，可以帮助大家快速完成常见的第三方平台的登录授权功能。
+- **文章地址：** https://mp.weixin.qq.com/s/XT8WeRxa-_qmrOAs8odj5w
+
+#### 一款基于 WPF 开源、功能全面的串口调试工具
+- **文章简介：** BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。
+- **文章地址：** https://mp.weixin.qq.com/s/cAb5GExmhU0_6mw-M3iHRA
+
+#### 一款基于 .NET 开源、功能齐全的商用餐饮管理系统
+- **文章简介：** 科讯餐饮管理系统是一款基于 .NET 开源、功能齐全的商用餐饮管理系统。系统旨在帮助餐饮企业实现业务流程的自动化和规范化，提高工作效率，降低运营成本，并提供决策支持。
+- **文章地址：** https://mp.weixin.qq.com/s/TUwv6VuCjloe5wJW86YxYQ
+
+#### C# OpenCvSharp 部署读光-票证检测矫正模型
+- **文章简介：** 票证检测矫正模型在实际生活中有着广泛的需求，例如信息抽取、图像质量判断、证件扫描、票据审计等领等场景，可以大幅提高工作效率和准确性。
+- **文章地址：** https://mp.weixin.qq.com/s/4sWePf937IcMwrkLe41sUw
+
+#### DeepSeek,你是懂.NET的！
+- **文章简介：** DeepSeek,你是懂.NET的！
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18697848
+
+
 ## 1月
+### 第 24 期（2025年1.27-2.31）
+#### 一款 .NET 开源、完善、轻量级的医疗影像PACS系统
+- **文章简介：** DicomSCP是一款开源（MIT License开源协议）、免费、完善、轻量级的医疗影像PACS系统，基于.NET Core 的 DICOM SCP（Service Class Provider）服务器，提供 DICOM 存储、工作列表、查询检索服务，打印服务，WADO/DicomWeb服务，集成了功能强大的DICOM 桌面和Web查看器。
+- **文章地址：** https://mp.weixin.qq.com/s/G8XvIOLJjL-_jecfMQh6VA
+
+#### C# OpenCvSharp 部署3D人脸重建3DDFA-V3
+- **文章简介：** C# OpenCvSharp 部署3D人脸重建3DDFA-V3。
+- **文章地址：** https://mp.weixin.qq.com/s/h8dKMN2sCAy-BwO7wK2BvA
+
+#### 2025年值得推荐的 8 款 WPF UI 控件库
+- **文章简介：** 今天大姚给大家分享 8 款开源、美观、功能强大、简单易用的WPF UI控件库，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw
+
+#### 分享2款 .NET 开源且强大的翻译工具
+- **文章简介：** 对于程序员而言永远都无法逃避和英文打交道，今天大姚给大家分享2款 .NET 开源、功能强大的翻译工具，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/DWAGJGvE5QlZCnlAglKV-g
+
+#### 【译】.NET 升级助手现在支持升级到集中式包管理
+- **文章简介：** 【译】.NET 升级助手现在支持升级到集中式包管理。
+- **文章地址：** https://mp.weixin.qq.com/s/kTBnZM7wvq-xAsHxx5k0_Q
+
+#### 【译】轻松评估 AI 应用程序的质量
+- **文章简介：** 【译】轻松评估 AI 应用程序的质量。
+- **文章地址：** https://mp.weixin.qq.com/s/pTNzU0db3qC1qO2A1ZlTpw
+
+
 ### 第 23 期（2025年1.20-1.26）
 #### C#设计模式入门实战教程
 - **文章简介：** 设计模式是对面向对象设计中反复出现的问题的解决方案。它们提供了被反复使用、多数人知晓的、经过分类编目的代码设计经验总结。
