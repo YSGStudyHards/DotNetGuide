@@ -142,12 +142,12 @@
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：小浣熊家族](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
-* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer/)
+* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
 * [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
 * [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
-* [高效的AI代码编辑助手：Cursor](https://www.cursor.com/)
-* [免费AI编程助手：豆包MarsCode](https://www.marscode.cn/events/s/iBsbXQST/)
-* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com/)
+* [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
+* [免费AI编程助手：豆包MarsCode](https://www.marscode.cn/home)
+* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
