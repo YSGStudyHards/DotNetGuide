@@ -472,8 +472,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
-* [6款支持C#语言的AI辅助编程工具，开发效率提升利器！](https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg)
+* [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg)
 * [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s/b94N2WSSNydwAlJiZineUw)
+* [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索！]()
 * [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
