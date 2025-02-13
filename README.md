@@ -140,7 +140,7 @@
 
 ### AI辅助编程工具
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
-* [AI智能助手：小浣熊家族](https://raccoon.sensetime.com/code)
+* [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
 * [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
 * [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
