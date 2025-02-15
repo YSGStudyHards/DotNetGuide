@@ -147,6 +147,7 @@
 * [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
 * [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
 * [免费AI编程助手：豆包MarsCode](https://www.marscode.cn/home)
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
 * [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
 
 ### GitHub
