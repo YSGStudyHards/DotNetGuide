@@ -252,7 +252,6 @@
     }
 ```
 
- ![](assets/images/2023-07-19-00-08-11-6b0749ea6f6c3cc152c521bd3b6f91c.png)
 
 # C#List集合相关
 ## C#List RemoveAt（按照索引移除）、Remove（按照对象移除）
