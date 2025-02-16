@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 2月
+### 第 26 期（2025年2.10-2.16）
+#### 8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！
+- **文章简介：** 在当今这个AI技术日新月异的时代，一股创新的浪潮正席卷着软件开发领域，其中AI辅助编程工具以其独特的魅力脱颖而出，成为了众多开发者不可或缺的得力助手。这些工具不仅能够显著提升开发效率，优化代码质量，还能有效降低bug产生率，是现代软件开发过程中不可或缺的重要助手。
+- **文章地址：** https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg
+
+#### C#字符串拼接的6种方式及其性能分析对比
+- **文章简介：** 在C#编程中字符串拼接是一种常见且基础的操作，广泛应用于各种场景，如动态生成SQL查询、构建日志信息、格式化用户显示内容等。然而，不同的字符串拼接方式在性能和内存使用上可能存在显著差异。今天咱们一起来看看在C#中字符串拼接的常见6种方式及其使用BenchmarkDotNet进行性能分析对比。
+- **文章地址：** https://mp.weixin.qq.com/s/J5wCwYGriS6QI9vwBHFBrA
+
+#### V-Control：一个基于 .NET MAUI 的开箱即用的UI组件库
+- **文章简介：** V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。
+- **文章地址：** https://mp.weixin.qq.com/s/zN_56i4C9Uhj_oJQWl0f5Q
+
+#### 用 C# 插值字符串处理器写一个 sscanf
+- **文章简介：** 用 C# 插值字符串处理器写一个 sscanf。
+- **文章地址：** https://www.cnblogs.com/hez2010/p/18718386/csharp-interpolated-string-sscanf
+
+#### C# 深度学习：对抗生成网络(GAN)训练头像生成模型
+- **文章简介：** 本教程将通过一个示例介绍生成对抗网络(DCGAN)，在教程中，我们将训练一个生成对抗网络 (GAN) 模型来生成新的名人头像。这里的大部分代码来自 pytorch/examples 中的 DCGAN 实现，然后笔者通过 C# 移植了代码实现，本文档将对该实现进行详尽的解释，并阐明该模型的工作原理和原因，阅读本文不需要 GAN 的基础知识，原理部分比较难理解，不用将精力放在这上面，主要是根据代码思路走一遍即可。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/18708861
+
+#### Microsoft.Testing.Platform：现在受所有主要 .NET 测试框架支持
+- **文章简介：** 一年前，我们推出了 Microsoft.Testing.Platform，作为 MSTest Runner 公告的一部分。我们的目标是为 .NET 项目创建一个可靠的测试平台，专注于可扩展性和模块化。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mtp-adoption-frameworks/
+
+#### C# 开发工具包更新：.NET Aspire、热重载等！
+- **文章简介：** 为了响应您的反馈，该团队推出了一系列更新，旨在增强用户体验并提高性能和可靠性。这些更新旨在使使用 VS Code 的开发人员能够更高效、更愉快、更高效地使用 C# 进行编码。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit/
+
+#### .NET 和 .NET Framework 2025 年 2 月服务版本更新
+- **文章简介：** .NET 和 .NET Framework 2025 年 2 月服务版本更新。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates/
+
+#### 宣布推出面向初学者的生成式 AI – .NET
+- **文章简介：** 今天，我们很高兴地推出一门新的动手实践课程，该课程专为想要探索生成式 AI 世界的 .NET 开发人员而设计。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/announcing-generative-ai-for-beginners-dotnet/
+
+#### 提高 Razor 生产力的新功能！
+- **文章简介：** 如果您正在使用 Razor 构建 Web 应用程序，我们有一些很棒的新功能，您会喜欢 Visual Studio 和 Visual Studio Code！提取到组件重构和基于 Roslyn 的新 C# 分词器现已推出，旨在提高 Razor 文件的工作效率，让我们来看看。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/
+
+#### .NET中 泛型 + 依赖注入 的实现与应用
+- **文章简介：** .NET中 泛型 + 依赖注入 的实现与应用。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18714657
+
+#### .NET最佳实践：业务逻辑减少使用异常
+- **文章简介：** 在 .NET 开发中，异常处理是保证应用健壮性的重要手段，但不应被滥用。异常的引发和捕获相较于普通的代码逻辑性能较差，因此在热路径（频繁执行的代码路径）中，避免依赖异常来控制程序流是提升性能的关键之一。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18712075
+
+
 ### 第 25 期（2025年2.1-2.9）
 #### 2025年这些实用的C#/.NET知识点你都知道吗？
 - **文章简介：** 在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
