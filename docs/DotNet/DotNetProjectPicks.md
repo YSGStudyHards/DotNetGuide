@@ -583,7 +583,7 @@
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
 |  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | nopCommerce是一个.NET开源功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) ，具备商城该有的各种功能和特性。| https://github.com/nopSolutions/nopCommerce |
 |  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall是一个.NET ABP框架开发、开源、免费（MIT License）的多租户多商户多应用社交电商商城平台。 | https://github.com/jerrytang67/SoMall |
-|  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 | https://github.com/CoreUnion/CoreShop |
+|  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | CoreShop完整开源、无封装无加密、商用免费、支持跨平台、多数据库支持，基于 Asp.Net 8.0、Uni-App开发、支持可视化布局的商城系统；前后端分离，支持跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能；支持一键发布到微信小程序、H5、安卓APP、苹果APP。 | https://github.com/CoreUnion/CoreShop |
 |  4  | [QShop](https://gitee.com/qiushuochina/QShop) | QShop商城是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。 | https://gitee.com/qiushuochina/QShop |
 |  5  | [eShop](https://github.com/dotnet/eShop) | eShop是一款由.NET官方开源的，基于.NET Aspire构建的用于参考学习的服务架构电子商务系统，旨在展示如何利用.NET框架及其相关技术栈构建一个现代化的电子商务网站。该项目采用服务架构，将应用程序分解为多个独立的服务，每个服务都可以独立开发、部署和扩展。 | https://github.com/dotnet/eShop |
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
@@ -2050,7 +2050,7 @@
 |  7  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
 |  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | AlohaKit是一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
-|  10  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control是适用于.NET MAUI 的组件库(Component)，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
+|  10  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
 |  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
