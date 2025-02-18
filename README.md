@@ -636,7 +636,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s/3Fmv7h5p2QDtLxc9n1dp5A)
 * [5款.NET开源免费的Redis客户端组件库](https://mp.weixin.qq.com/s/z7Wdch8pc0o696DuBY8v0A)
-* [3款实用、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/bLA0eTCeipEiGKuxXl--4A)
+* [4款实用、跨平台的Redis可视化管理工具](https://mp.weixin.qq.com/s/hHQ69esiJbS_pspcid3FkA)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -883,7 +883,6 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [推荐一些程序员常逛的开发者社区](https://mp.weixin.qq.com/s/F52kY4kqPovLcTlm5kFo7w)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [值得推荐的4款免费且功能强大的在线文档工具](https://mp.weixin.qq.com/s/Gdm2wHhiLB9I7ib2Ue5ysA)
-* [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 
