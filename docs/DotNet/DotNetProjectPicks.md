@@ -1888,7 +1888,7 @@
 #### .NET开源深度克隆库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [DeepCloner](https://github.com/force-net/DeepCloner) | DeepCloner是一个功能强大、使用灵活的对象克隆库，适用于.NET平台。它支持深拷贝和浅拷贝，无需对对象进行特殊标记或指定类型，即可进行快速克隆。库还包含了许多性能优化技巧，以提高克隆速度。此外，项目还提供了详细的使用场景和示例代码，帮助开发者更好地理解和使用库。 | https://github.com/force-net/DeepCloner |
+|  1  | [DeepCloner](https://github.com/force-net/DeepCloner) | DeepCloner是一个基于 .NET 开源、功能强大、使用灵活的对象克隆库。它支持深度和浅度克隆，无需对对象进行特殊标记或指定类型，即可进行快速克隆。此外，项目还提供了详细的使用场景和示例代码，帮助开发者更好地理解和使用库。 | https://github.com/force-net/DeepCloner |
 |  2  | [FastDeepCloner](https://github.com/AlenToma/FastDeepCloner) | FastDeepCloner是一个速度极快的便携式库，它是一个基于C#的.NET跨平台库，用于深度克隆对象，无论这些对象是否可序列化。其设计初衷是要比通常用于深度克隆对象的二进制序列化方法快得多。 | https://github.com/AlenToma/FastDeepCloner |
 |  3  |  |  |  |
 |  4  |  |  |  |
