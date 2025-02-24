@@ -1328,7 +1328,7 @@
 |  1  | [Notepads](https://github.com/0x7c13/Notepads) | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
 |  2  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  3  | [RoslynPad](https://github.com/roslynpad/roslynpad) | RoslynPad是一个基于 Roslyn 和 AvalonEdit 开源、轻量、跨平台的 C# 编辑器。 | https://github.com/roslynpad/roslynpad |
-|  4  |  |  |  |
+|  4  | [NetPad](https://github.com/tareqimbasher/NetPad) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。 | https://github.com/tareqimbasher/NetPad |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
