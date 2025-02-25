@@ -573,7 +573,17 @@
 |  27  | [AIStudio.Wpf.AClient](https://gitee.com/akwkevin/aistudio.-wpf.-aclient) | AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) 构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。 | https://gitee.com/akwkevin/aistudio.-wpf.-aclient |
 |  28  | [WPFManager](https://github.com/straw-git/WPFManager) | 一个使用 WPF 开发的管理系统，该项目包含了用户登录、人员管理、角色授权、插件管理、职位管理、主页功能（邮件、皮肤、设置）等功能，对于一个 WPF 初学者而言是一个值得参考和学习的项目。 | https://github.com/straw-git/WPFManager |
 |  29  | [Easy.Admin](https://gitee.com/miss_you/easy-admin) | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 | https://gitee.com/miss_you/easy-admin |
-|  30  |  |  |  |
+|  30  | [WinformDevFramework](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame) | WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、字典、日志、代码生成等一系列系统常规模块。 | https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame |
+|  31  |  |  |  |
+|  32  |  |  |  |
+|  33  |  |  |  |
+|  34  |  |  |  |
+|  35  |  |  |  |
+|  36  |  |  |  |
+|  37  |  |  |  |
+|  38  |  |  |  |
+|  39  |  |  |  |
+|  40  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
