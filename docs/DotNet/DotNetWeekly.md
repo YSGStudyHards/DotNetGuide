@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 2月
+### 第 27 期（2025年2.17-2.23）
+#### 使用 Chroma 构建 .NET AI 应用程序
+- **文章简介：** 无论您是构建 AI 解决方案还是使用高级搜索功能增强现有项目，您现在都可以选择将 Chroma 用作 .NET 应用程序中的数据库提供程序。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk
+
+#### .NET 9 中的 .NET MAUI 性能功能
+- **文章简介：** .NET 多平台应用 UI （.NET MAUI） 随着每个版本的发展而不断发展，.NET 9 将重点放在剪裁和新的受支持运行时上：NativeAOT。这些功能可以帮助您减小应用程序大小、缩短启动时间，并确保您的应用程序在各种平台上平稳运行。希望优化其 .NET MAUI 应用程序的开发人员和 NuGet 包作者都能够在 .NET 9 中利用这些功能。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui
+
+#### 精选4款基于.NET开源、功能强大的通讯调试工具
+- **文章简介：** 今天大姚给大家分享4款基于.NET开源、功能强大的通讯调试工具，旨在帮助.NET开发者们更好的应对通讯调试方面的学习和工作，提升调试效率。
+- **文章地址：** https://mp.weixin.qq.com/s/T9QqIsDyW9eOF0r2bZUznQ
+
+#### 推荐几款开源且免费的 .NET MAUI 组件库
+- **文章简介：** 今天大姚给大家推荐 3 款开源且免费的 .NET MAUI 组件库。
+- **文章地址：** https://mp.weixin.qq.com/s/ffqbSMsI2pDDuFZyZUSS6A
+
+#### Plotly.NET 一个为 .NET 打造的强大开源交互式图表库
+- **文章简介：** Plotly.NET 一个为 .NET 打造的强大、免费、开源的交互式图表库，支持 C# 和 F#编程语言，它构建在 plotly.js 之上并提供多个 API 层，用于创建、样式化和渲染美观的数据可视化图表。
+- **文章地址：** https://mp.weixin.qq.com/s/YBZ1ta70YPeUq4JTkMq9aw
+
+#### NetPad：一个.NET开源、跨平台的C#编辑器
+- **文章简介：** NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。
+- **文章地址：** https://mp.weixin.qq.com/s/DVv_5LdMBTam4Ro-k9f-Ow
+
+#### 【.NET】调用本地 Deepseek 模型
+- **文章简介：** 本篇咱们来聊一聊怎么在 .NET 代码中使用本地部署的 Deepseek 语言模型。大伙伴们不必要紧张，很简单的，你不需要学习新知识，只要你知道 .NET 如何访问 HTTP 和 JSON 的序列化相关就够了。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/18731997
+
+#### 基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储
+- **文章简介：** 基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储
+- **文章地址：** https://www.cnblogs.com/deali/p/18731660
+
+#### 关于选择最佳.NET Core SSH服务器库的全面分析
+- **文章简介：** 在安全远程访问领域，SSH（安全外壳协议）服务器对于在潜在不安全的网络上实现客户端与服务器之间的安全通信至关重要。对于使用.NET Core的开发人员来说，选择合适的SSH服务器库对确保兼容性、性能和功能丰富性至关重要。本文分析了识别和评估潜在库的过程，最终推荐Rebex SSH Pack作为最佳选择，同时也考虑了FxSsh和SSH.NET等替代方案以提供背景参考。
+- **文章地址：** https://www.cnblogs.com/Aimeast/p/18731287
+
+#### .NET 使用 DeepSeek R1 开发智能 AI 客户端
+- **文章简介：** deepseek-dotnet 项目不仅包含了如何在 .NET 中集成和使用 DeepSeek 模型的详细示例，还展示了如何通过 Microsoft.Extensions.AI (MEAI) 库来简化与 DeepSeek R1 模型的交互。
+- **文章地址：** https://www.cnblogs.com/1312mn/p/18715438
+
+#### 一文掌握DeepSeek本地部署+Page Assist浏览器插件+C#接口调用+局域网访问！全攻略来了！
+- **文章简介：** 一文掌握DeepSeek本地部署+Page Assist浏览器插件+C#接口调用+局域网访问！全攻略来了！
+- **文章地址：** https://www.cnblogs.com/chingho/p/18728308
+
+#### Maomi.MQ 2.0 | 功能强大的 .NET 消息队列通讯模型框架
+- **文章简介：** Maomi.MQ 2.0 | 功能强大的 .NET 消息队列通讯模型框架。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/18728153
+
+
 ### 第 26 期（2025年2.10-2.16）
 #### 8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！
 - **文章简介：** 在当今这个AI技术日新月异的时代，一股创新的浪潮正席卷着软件开发领域，其中AI辅助编程工具以其独特的魅力脱颖而出，成为了众多开发者不可或缺的得力助手。这些工具不仅能够显著提升开发效率，优化代码质量，还能有效降低bug产生率，是现代软件开发过程中不可或缺的重要助手。
