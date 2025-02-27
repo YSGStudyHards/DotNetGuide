@@ -471,6 +471,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 🤖AIGC&AI赋能
 * [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
+* [清华大学《AIGC发展研究报告3.0版》]()
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
 * [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg)
