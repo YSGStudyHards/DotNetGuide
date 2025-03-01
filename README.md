@@ -471,11 +471,11 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 🤖AIGC&AI赋能
 * [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
+* [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s/T9VIEm-9UGRXv01QLjKAcA)
 * [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
 * [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
 * [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg)
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
-* [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s/T9VIEm-9UGRXv01QLjKAcA)
 * [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s/b94N2WSSNydwAlJiZineUw)
 * [清华大学推出第二讲 DeepSeek 如何赋能职场应用？从提示语技巧到多场景应用！](https://mp.weixin.qq.com/s/z6Osmc3FtMpNl_MEcUeiOg)
 * [清华大学推出第三讲普通人如何抓住 DeepSeek 红利，普通人必备的免费AI手册！](https://mp.weixin.qq.com/s/CWhRgwzx6Ya93hwgnnDU3A)
