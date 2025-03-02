@@ -19,6 +19,48 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 2月
+### 第 28 期（2025年2.24-2.28）
+#### 一个基于C# Winform开源免费的通用快速开发框架，内置完整的权限架构！
+- **文章简介：** WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、字典、日志、代码生成等一系列系统常规模块。
+- **文章地址：** https://mp.weixin.qq.com/s/Lk_HBmznE18db8czj_Lrtg
+
+#### 分享4款.NET开源、免费、实用的商城系统
+- **文章简介：** 今天大姚给大家分享4款.NET开源、免费、实用的商城系统，希望可以帮助到有商城系统开发需求的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/STOF-VtVtQTiE_NkNh-FVA
+
+#### 一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库
+- **文章简介：** 今天大姚给大家分享一套基于 Material Design 规范实现的、开源（MIT license）且免费的 Blazor 和 Razor 通用组件库：MatBlazor。
+- **文章地址：** https://mp.weixin.qq.com/s/mFSAX81f7jsB3D1mL3XzPg
+
+#### 一个开源且免费的 .NET CMS 和应用程序框架
+- **文章简介：** Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。
+- **文章地址：** https://mp.weixin.qq.com/s/FeiRaHcry9TY4Gz658YtoQ
+
+#### .NET Aspire 9.1 现已推出，具有六项出色的新仪表板功能，以及更多功能！
+- **文章简介：** 我们很高兴地宣布 .NET Aspire 9.1 的发布！此版本包括几项新功能和生活质量改进，这些改进基于开发人员在生产应用程序中使用 .NET Aspire 的反馈。在本文中，我们将重点介绍 .NET Aspire 仪表板中的新功能，以及此版本中添加的其他一些很酷的功能。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1/
+
+#### 基于Microsoft.Extensions.VectorData实现语义搜索
+- **文章简介：** 基于Microsoft.Extensions.VectorData实现语义搜索。
+- **文章地址：** https://www.cnblogs.com/edisonchou/p/-/introduction-to-vector-query-demo
+
+#### SQLSugar 支持 TDengine 超级表的使用指南
+- **文章简介：** SQLSugar 支持 TDengine 超级表的使用指南。
+- **文章地址：** https://www.cnblogs.com/sunkaixuan/p/18740748
+
+#### C# 图形界面编程之 FlowLayoutPanel 界面闪烁问题解决
+- **文章简介：** C# 图形界面编程之 FlowLayoutPanel 界面闪烁问题解决。
+- **文章地址：** https://www.cnblogs.com/Afeather/p/18737613
+
+#### C# 委托与 Lambda 表达式转换机制及弱事件模式下的生命周期分析
+- **文章简介：** C# 委托与 Lambda 表达式转换机制及弱事件模式下的生命周期分析。
+- **文章地址：** https://www.cnblogs.com/buachuan/p/18385701
+
+#### C# 集成 DeepSeek 模型实现 AI 私有化（本地部署与 API 调用教程）
+- **文章简介：** C# 集成 DeepSeek 模型实现 AI 私有化（本地部署与 API 调用教程）。
+- **文章地址：** https://www.cnblogs.com/1312mn/p/18729302
+
+
 ### 第 27 期（2025年2.17-2.23）
 #### 使用 Chroma 构建 .NET AI 应用程序
 - **文章简介：** 无论您是构建 AI 解决方案还是使用高级搜索功能增强现有项目，您现在都可以选择将 Chroma 用作 .NET 应用程序中的数据库提供程序。
