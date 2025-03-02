@@ -20,9 +20,9 @@
 * [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 * [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 
-<a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" width="88%"/></a>
+<a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" width="66%"/></a>
 
-<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=1881849804402589699#wechat_redirect"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="88%"/></a>
+<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=1881849804402589699#wechat_redirect"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="66%"/></a>
 
 
 ## 🎉Issues宝藏存库
