@@ -13,6 +13,12 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region DictionaryExercise
+
+            DictionaryExercise.DictionaryOperation();
+
+            #endregion
+
             #region YieldExercise
 
             YieldExercise.IteratorComparisonRun();
