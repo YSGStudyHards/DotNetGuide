@@ -649,7 +649,7 @@
 |  9  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 | https://gitee.com/feiyit/FytSoaCms |
 |  10  | [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
 |  11 | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
-|  12  |  |  |  |
+|  12  | [Cofoundry](https://github.com/cofoundry-cms/cofoundry) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。 | https://github.com/cofoundry-cms/cofoundry |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
