@@ -832,7 +832,6 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 🙇面试须知
 * [面试工作流程](https://zhuanlan.zhihu.com/p/121555573)
-* [写简历的技巧](https://github.com/atian25/blog/issues/3)
 * [牛客网面试经验](https://www.nowcoder.com/interview/center?entranceType=%25E9%259D%25A2%25E8%25AF%2595%25E7%25BB%258F%25E9%25AA%258Ctab)
 * [牛客网AI模拟面试](https://www.nowcoder.com/interview/ai/index?entranceType=AI%25E6%25A8%25A1%25E6%258B%259F%25E9%259D%25A2%25E8%25AF%2595tab)
 * [程序员面试都需要准备什么?](https://zhuanlan.zhihu.com/p/137490246)
@@ -842,6 +841,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 * [程序员写简历必须要注意的技术词汇拼写](https://github.com/StartInterview/Awesome-Tech-Words)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
+* [互联网寒冬下，如何写好一份.NET求职简历？](https://mp.weixin.qq.com/s/R6QtYjKYoeHNRAJv96qmgw)
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
 * [专科学历的程序员想要面试获胜必须要做的两个点](https://mp.weixin.qq.com/s/HrbIlWDY7oqFOWDonKD89A)
 
