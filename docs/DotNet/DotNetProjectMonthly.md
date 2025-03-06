@@ -12,6 +12,66 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 2月
+### 公众号2月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年2月简报：** 
+
+### eShop
+* **项目简介：** eShop是一款由.NET官方开源的，基于.NET Aspire构建的用于参考学习的服务架构电子商务系统，旨在展示如何利用.NET框架及其相关技术栈构建一个现代化的电子商务网站。该项目采用服务架构，将应用程序分解为多个独立的服务，每个服务都可以独立开发、部署和扩展。
+* **项目源码地址：** https://github.com/dotnet/eShop
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ufxiFkdNbW6UaufvlHE2FQ
+
+### Bulk Crap Uninstaller
+* **项目简介：** Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。
+* **项目源码地址：** https://github.com/Klocman/Bulk-Crap-Uninstaller
+* **项目详细介绍：** https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw
+
+### Netnr.Login
+* **项目简介：** Netnr.Login是一个基于 C# 开源（MIT License）的第三方 OAuth2 授权登录整合库，集成了QQ、微信开放平台（Weixin）、微信公众平台（WeixinMP）、微博（Weibo）、淘宝（Taobao）、支付宝（Alipay）、钉钉（DingTalk）、飞书（Feishu）、华为（Huawei）、小米（Xiaomi）、AtomGit、码云（Gitee）、GitHub、GitLab、微软（Microsoft ）、StackOverflow等授权登录功能，可以帮助大家快速完成常见的第三方平台的登录授权功能。
+* **项目源码地址：** https://gitee.com/netnr/Netnr.Login
+* **项目详细介绍：** https://mp.weixin.qq.com/s/XT8WeRxa-_qmrOAs8odj5w
+
+### BYSerial
+* **项目简介：** BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。
+* **项目源码地址：** https://gitee.com/LvYiWuHen/byserial
+* **项目详细介绍：** https://mp.weixin.qq.com/s/cAb5GExmhU0_6mw-M3iHRA
+
+### V-Control
+* **项目简介：** V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。
+* **项目源码地址：** https://github.com/jevonsflash/V-Control
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zN_56i4C9Uhj_oJQWl0f5Q
+
+### Plotly.NET
+* **项目简介：** Plotly.NET 一个为 .NET 打造的强大、免费、开源的交互式图表库，支持 C# 和 F#编程语言，它构建在 plotly.js 之上并提供多个 API 层，用于创建、样式化和渲染美观的数据可视化图表。
+* **项目源码地址：** https://github.com/plotly/Plotly.NET
+* **项目详细介绍：** https://mp.weixin.qq.com/s/YBZ1ta70YPeUq4JTkMq9aw
+
+### NetPad
+* **项目简介：** NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。
+* **项目源码地址：** https://github.com/tareqimbasher/NetPad
+* **项目详细介绍：** https://mp.weixin.qq.com/s/DVv_5LdMBTam4Ro-k9f-Ow
+
+### WinformDevFramework
+* **项目简介：** WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、字典、日志、代码生成等一系列系统常规模块。
+* **项目源码地址：** https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Lk_HBmznE18db8czj_Lrtg
+
+### MatBlazor
+* **项目简介：** MatBlazor是一套基于 Material Design 规范实现的、开源（MIT license）且免费的 Blazor 和 Razor 通用组件库。
+* **项目源码地址：** https://github.com/SamProf/MatBlazor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/mFSAX81f7jsB3D1mL3XzPg
+
+### Cofoundry
+* **项目简介：** Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。
+* **项目源码地址：** https://github.com/cofoundry-cms/cofoundry
+* **项目详细介绍：** https://mp.weixin.qq.com/s/FeiRaHcry9TY4Gz658YtoQ
+
+### tmom
+* **项目简介：** tmom是一款基于 .NET 开源、通用的生产制造系统，支持多厂区/多项目级的MOM/MES系统，计划排程、工艺路线设计、在线低代码报表、大屏看板、移动端、AOT客户端...... 目标是尽可能打造一款通用的生产制造系统。前端基于最新的vue3、ts、ant design vue, 后端使用.net8、Sqlsugar，支持多种数据库切换、数据隔离与聚合。
+* **项目源码地址：** https://gitee.com/thgao/tmom
+* **项目详细介绍：** https://mp.weixin.qq.com/s/KOxtnNRUngeaSb5vZ86Z-Q
+
+
 ## 1月
 ### 公众号1月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年1月简报：** https://mp.weixin.qq.com/s/MjRkz7k9mdeCxG5tpTAVxQ
