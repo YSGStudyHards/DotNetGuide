@@ -712,16 +712,16 @@
 #### 任务调度系统（Scheduler）
 |  ✍   |                    项目名称和地址                    |                           项目简介                           |                     项目详细介绍（文档、文章、源码地址）                     |
 | :--: | :--------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
-|  1  | [Hangfire](https://github.com/HangfireIO/Hangfire) | 一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
-|  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | 一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
-|  3 | [OpenTask](https://github.com/SpringHgui/OpenTask) | 一个.NET开源去中心设计的分布式任务调度平台。 | https://github.com/SpringHgui/OpenTask |
-|  4 | [TaskScheduler](https://github.com/dahall/TaskScheduler) | 这个原始的.NET封装器用于Windows任务计划程序，它整合了多个版本，并提供了本地化的控件用于编辑。 | https://github.com/dahall/TaskScheduler |
-|  5 | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | 可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
+|  1  | [Hangfire](https://github.com/HangfireIO/Hangfire) | Hangfire是一个开源的.NET任务调度框架，提供了内置集成化的控制台，可以直观明了的查看作业调度情况，并且Hangfire不需要依赖于单独的应用程序执行（如：windows服务，window计划）。并且支持持久性存储。 | https://www.hangfire.io/ |
+|  2  | [Quartz.Net](https://github.com/quartznet/quartznet) | Quartz.Net是一款功能齐全的任务调度系统，从小型应用到大型企业级系统都能适用。功能齐全体现在触发器的多样性上面，即支持简单的定时器，也支持Cron表达式；即能执行重复的作业任务，也支持指定例外的日历；任务也可以是多样性的，只要继承IJob接口即可。 |  https://github.com/quartznet/quartznet |
+|  3 | [OpenTask](https://github.com/SpringHgui/OpenTask) | OpenTask是一个.NET开源去中心设计的分布式任务调度平台。 | https://github.com/SpringHgui/OpenTask |
+|  4 | [TaskScheduler](https://github.com/dahall/TaskScheduler) | TaskScheduler是一个为Windows任务计划程序提供的.NET包装器。这个包装器整合了Windows任务计划程序的多个版本，提供了一个编辑器，并支持本地化，使得用户可以更方便地创建、编辑和管理任务计划。 | https://github.com/dahall/TaskScheduler |
+|  5 | [QuartzNetWebConsole](https://github.com/mausch/QuartzNetWebConsole) | QuartzNetWebConsole是一个可嵌入的Quartz.Net Web控制台。 | https://github.com/mausch/QuartzNetWebConsole |
 |  6  | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) | CrystalQuartz一个轻量级的用于管理和监控Quartz.NET调度器的开源Web应用程序，它提供了一个用户友好的界面，使得用户可以方便地查看和管理各种调度作业。 | https://github.com/guryanovev/CrystalQuartz |
-|  7  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
-|  8  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
+|  7  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 一个基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
+|  8  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 一个基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
 |  9  | [SilkierQuartz](https://github.com/maikebing/SilkierQuartz) | SilkierQuartz可以作为Quartz.NET插件在现有应用程序中使用，并自动创建嵌入式Web服务器，使用起来非常方便。 | https://github.com/maikebing/SilkierQuartz |
-|  10  | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
+|  10  | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 一个基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
 |  11 | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  12 | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
 |  13 | [Sundial](https://gitee.com/dotnetchina/Sundial) | .NET 功能齐全的开源分布式作业调度系统，可从最小的应用程序到大型企业系统使用。 | https://gitee.com/dotnetchina/Sundial |
