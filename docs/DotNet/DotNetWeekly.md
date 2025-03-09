@@ -18,6 +18,57 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 3月
+### 第 29 期（2025年3.1-3.9）
+#### .NET 10首个预览版发布：重大改进与新特性概览！
+- **文章简介：** .NET 团队于2025年2月25日发布博文，宣布推出 .NET 10 首个预览版更新，重点改进.NET Runtime、SDK、Libraries 、C#、ASP.NET Core、Blazor 和.NET MAUI 等。
+- **文章地址：** https://mp.weixin.qq.com/s/TBSw11UXhToQdeHmSZdJVg
+
+#### C#之 Dictionary 详解
+- **文章简介：** Dictionary<TKey, TValue>是C#中用于存储键值对集合的泛型类，属于System.Collections.Generic命名空间。它允许使用键（Key）来访问与其关联的值（Value）。其中，TKey表示字典中键的类型，TValue表示字典中值的类型。
+- **文章地址：** https://mp.weixin.qq.com/s/PIzbV1gxz3L9JR8-vsB4ow
+
+#### 互联网寒冬下，如何写好一份.NET求职简历？
+- **文章简介：** 在当今互联网行业的寒冬时期，每一位求职者都面临着更为激烈的竞争环境，如何在众多.NET候选人中脱颖而出，成为企业心仪的对象，用心准备一份简历显得尤为重要。简历不仅是个人职业经历的简要概述，更是向潜在雇主、HR展示你专业技能、项目经验、个人特质以及求职诚意的关键名片。
+- **文章地址：** https://mp.weixin.qq.com/s/R6QtYjKYoeHNRAJv96qmgw
+
+#### 全面的C#/.NET/.NET Core面试宝典（永久免费）
+- **文章简介：** C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习、携手进步。
+- **文章地址：** https://mp.weixin.qq.com/s/TJzu0wHNcNzIIcHuJj6JLQ
+
+#### 一款基于.NET开源、强大的网络管理和网络问题排查工具！
+- **文章简介：** NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。
+- **文章地址：** https://mp.weixin.qq.com/s/ZAsNvjWQzXTpCHBF4vw4qg
+
+#### 解锁.NET 人工智能评估的新可能性
+- **文章简介：** 微软 .NET 扩展库 Microsoft.Extensions.AI.Evaluations 旨在简化 AI 评估过程与您的应用程序的集成。它提供了一个强大的框架，用于评估您的 AI 应用程序并自动化其性能评估。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/start-using-the-microsoft-ai-evaluations-library-today
+
+#### .NET AI 模板现已提供预览
+- **文章简介：** 想要开始人工智能开发，但不确定从何入手？我为你准备了一份惊喜——我们有一个新的 AI 聊天 Web 应用模板现在处于预览阶段。此模板是我们持续努力使使用.NET 进行人工智能开发更容易发现和使用的部分，包括在 Visual Studio、Visual Studio Code 和.NET CLI 中的脚手架和指导。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1
+
+#### AI与.NET技术实操系列（四）：使用Semantic Kernel和DeepSeek构建AI应用
+- **文章简介：** AI与.NET技术实操系列（四）：使用Semantic Kernel和DeepSeek构建AI应用。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18757511
+
+#### Linux系列：如何用heaptrack跟踪.NET程序的非托管内存泄露
+- **文章简介：** Linux系列：如何用heaptrack跟踪.NET程序的非托管内存泄露。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18757287
+
+#### AI与.NET技术实操系列（三）：在.NET中使用大语言模型（LLMs）
+- **文章简介：** AI与.NET技术实操系列（三）：在.NET中使用大语言模型（LLMs）。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18752589
+
+#### 在 Aspire 项目下使用 AgileConfig
+- **文章简介：** 在 Aspire 项目下使用 AgileConfig。
+- **文章地址：** https://www.cnblogs.com/kklldog/p/18747156/aspire-agileconfig
+
+#### 一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库
+- **文章简介：** 今天大姚给大家分享一套基于 Material Design 规范实现的、开源（MIT license）且免费的 Blazor 和 Razor 通用组件库：MatBlazor。
+- **文章地址：** https://www.cnblogs.com/Can-daydayup/p/18742384
+
+
 ## 2月
 ### 第 28 期（2025年2.24-2.28）
 #### 一个基于C# Winform开源免费的通用快速开发框架，内置完整的权限架构！
