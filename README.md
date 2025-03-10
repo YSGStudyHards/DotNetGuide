@@ -484,6 +484,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [清华大学推出第三讲普通人如何抓住 DeepSeek 红利，普通人必备的免费AI手册！](https://mp.weixin.qq.com/s/CWhRgwzx6Ya93hwgnnDU3A)
 * [清华大学推出第四讲使用 DeepSeek + DeepResearch 让科研像聊天一样简单！](https://mp.weixin.qq.com/s/3inmjt8omsZFBXsjtoVn1A)
 * [清华大学推出第五讲《DeepSeek与AI幻觉》，避免你的AI一本正经地胡说八道！](https://mp.weixin.qq.com/s/HtYVzjDGb2HhV4IuP0_SEw)
+* [清华大学推出第六讲：使用DeepSeek赋能家庭教育，开启智能育儿新时代！](https://mp.weixin.qq.com/s/KT3P-L1SNtF8rSjGOF2edA)
 * [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s/xl5_WgfYf1QynT5pVqWNvg)
 * [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
 * [我的公众号接入了DeepSeek-R1模型，成为了一个会深度思考的强大.NET AI智能体！](https://mp.weixin.qq.com/s/K1SJGSHLxDS_Qa17wo43EA)
