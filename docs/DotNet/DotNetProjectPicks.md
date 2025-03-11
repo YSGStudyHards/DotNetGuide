@@ -565,8 +565,8 @@
 |  19 | [ApeVolo](https://github.com/xianhc/apevolo-api) | .Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台管理系统。 | https://github.com/xianhc/apevolo-api |
 |  20 | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
 |  21 | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
-|  22  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Web后台快速开发框架,.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
-|  23  | [Known](https://gitee.com/known/Known) | Known是基于Blazor的企业级快速开发框架，低代码，跨平台，开箱即用，一处代码，多处运行。 | https://gitee.com/known/Known |
+|  22  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | 一个开源的Web后台快速开发框架，.NET5+Ant Design Vue版本。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
+|  23  | [Known](https://gitee.com/known/Known) | Known 是一个基于 .NET Blazor 开源（Apache License）的轻量级、跨平台、低代码、易扩展的插件开发框架。它旨在帮助开发者快速构建和扩展应用程序，提供了一整套工具和组件，从前端到后端全栈支持。 | https://gitee.com/known/Known |
 |  24  | [Purest Admin](https://github.com/dymproject/purest-admin) | 基于 .NET 8 + Vue3 实现的极简RABC权限管理系统，后端基于精简后的ABP框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.NET框架。 | https://github.com/dymproject/purest-admin |
 |  25 | [SimpleAdmin](https://gitee.com/zxzyjs/SimpleAdmin) | SimpleAdmin是一个小而美的通用业务型后台管理系统，专为解决开发过程中的痛点难点而生。Vue3+Vite+Vuex+JS,并在此基础上增加更人性化功能,后端基于.NET6/7+Furion,ORM采用Sqlsugar+单例模式,插件式开发。采用RBAC+多机构的权限管理模式，实现全网最灵活的接口级别数据权限控制，集成国密加解密，导入导出、导入导出、批量修改等常用插件。后端代码注释覆盖率>90%，并配备超牛皮的代码生成器和超详细的手摸手教学文档，非常适合二次开发。 | https://gitee.com/zxzyjs/SimpleAdmin |
 |  26  | [abp-elsa-module](https://github.com/jxnkwlp/abp-elsa-module) | Elsa Abp模块和工作流应用程序。 | https://github.com/jxnkwlp/abp-elsa-module |
