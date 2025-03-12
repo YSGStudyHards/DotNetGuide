@@ -642,7 +642,7 @@
 |  2  | [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS是一个针对 .NET 8 和 Entity Framework Core 构建的解耦式、跨平台 CMS。它具有模块化和可扩展的架构，支持多种托管和部署方案。 | https://github.com/PiranhaCMS/piranha.core |
 |  3  | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统。 | https://github.com/SeriaWei/ZKEACMS |
 |  4  | [Oqtane Framework](https://github.com/oqtane/oqtane.framework) | Blazor 和 .NET MAUI 的 CMS & 应用程序框架。 | https://github.com/oqtane/oqtane.framework |
-|  5  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于Asp.net Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
+|  5  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于ASP.NET Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
 |  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco CMS是一个基于.NET开源、免费（MIT License）、功能强大、灵活易用的内容管理系统。它能够帮助你创建美观现代的网站，并与最新的.NET技术和各种服务集成。无论你是个人开发者还是企业客户，Umbraco CMS都是一个值得考虑的选择。 | https://github.com/umbraco/Umbraco-CMS |
 |  7  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
 |  8  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
