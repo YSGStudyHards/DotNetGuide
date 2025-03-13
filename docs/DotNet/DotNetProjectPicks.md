@@ -100,6 +100,7 @@
   * [开源编辑器](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%96%E8%BE%91%E5%99%A8)
   * [代码格式化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [开源下载工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
+  * [网络管理工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1364,6 +1365,19 @@
 |  1  | [Downloader](https://github.com/bezzad/Downloader) | Downloader是一个快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 也是一个现代、流畅、异步、可测试和便携的 .NET 库，专门用于文件下载。它支持跨平台操作，可以在 Windows、Linux 和 macOS 上运行。Downloader 特别适合用于需要下载大文件或需要实时下载进度的应用程序。 | https://github.com/bezzad/Downloader |
 |  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
 |  3  | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | 蓝猫KoKo下载器（BlueCatKoKo）是一个基于C#语言编写的、免登录、简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。 | https://github.com/K12f/BlueCatKoKo |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 网络管理工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。 | https://github.com/BornToBeRoot/NETworkManager |
+|  2  |  |  |  |
+|  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
