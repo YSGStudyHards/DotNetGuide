@@ -488,6 +488,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s/xl5_WgfYf1QynT5pVqWNvg)
 * [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
 * [我的公众号接入了DeepSeek-R1模型，成为了一个会深度思考的强大.NET AI智能体！](https://mp.weixin.qq.com/s/K1SJGSHLxDS_Qa17wo43EA)
+* [一个免费、快速、无限量使用的满血 DeepSeek R1 模型，支持深度思考和联网搜索！](https://mp.weixin.qq.com/s/-l4Jih7Ua3cXcf4RL4YXRw)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
