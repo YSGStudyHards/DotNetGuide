@@ -19,6 +19,68 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 3月
+### 第 30 期（2025年3.10-3.16）
+#### 企业应用开发中.NET ORM EF常用哪种模式？
+- **文章简介：** 本篇文章来源于DotNetGuide技术社区微信交流小伙伴的提问：在企业应用开发中.NET ORM EF常用哪种模式进行开发？今天我们一起来了解一下EF开发的三种模式。
+- **文章地址：** https://mp.weixin.qq.com/s/PqKOZWx6r0oo48uNxx6L2Q
+
+#### 基于 .NET Blazor 开源、低代码、易扩展的插件开发框架
+- **文章简介：** Known 是一个基于 Blazor 的轻量级、跨平台、低代码、易扩展的插件开发框架。它旨在帮助开发者快速构建和扩展应用程序，提供了一整套工具和组件，从前端到后端全栈支持。
+- **文章地址：** https://mp.weixin.qq.com/s/CJse1k6xv0kDb1_4gtXdhA
+
+#### 全面的 .NET 操作 SQLite 入门实战
+- **文章简介：** EasySQLite是一个七天.NET 8操作SQLite入门到实战详细教程，主要是对学校班级，学生信息进行管理维护（包含选型、开发、发布、部署）！
+- **文章地址：** https://mp.weixin.qq.com/s/X7Aaq-uEb_AYWvH5GSfO5A
+
+#### 分享 3 个 .NET 开源的文件压缩处理库，助力快速实现文件压缩解压功能！
+- **文章简介：** 今天大姚给大家分享 3 个 .NET 开源、免费的文件压缩处理库，希望可以快速帮助同学们实现文件压缩和解压功能！
+- **文章地址：** https://mp.weixin.qq.com/s/8oMetwVSiVeC4qH--ka-7Q
+
+#### 技术速递｜立即使用 .NET 和 DeepSeek R1 构建智能应用程序！
+- **文章简介：** 技术速递｜立即使用 .NET 和 DeepSeek R1 构建智能应用程序！
+- **文章地址：** https://mp.weixin.qq.com/s/uxTGCNLoeZhneE5xjJFOmA
+
+#### 精选5款基于.NET开源、免费、功能强大的CMS内容管理系统
+- **文章简介：** CMS系统作为一种强大的内容管理工具，在数字化时代发挥着越来越重要的作用。无论是个人博客还是大型企业官网，选择一个合适的CMS内容管理系统能极大地提高效率和用户体验。今天大姚给大家推荐5款基于.NET开源、免费、功能强大的CMS内容管理系统，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/v9NDhljCfaLdpzwcgRhpaQ
+
+#### .NET 和 .NET Framework 2025 年 3 月服务更新
+- **文章简介：** 欢迎来到我们 2025 年 3 月的.NET 服务更新。让我们深入了解.NET 和.NET Framework 的最新版本，以下是这些版本中新增内容的快速概述。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates/
+
+#### HybridCache：简化 ASP.NET Core 应用程序的缓存管理
+- **文章简介：** HybridCache 是一个新的 .NET 9 库，可通过Microsoft.Extensions.Caching.Hybrid包获取，现已普遍可用！HybridCache 因其能够利用内存和分布式缓存（如 Redis）而得名，无论应用程序的规模或复杂性如何，它都能确保数据存储和检索针对性能和安全性进行优化。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga
+
+#### 引入对 SLNX 的支持，这是 .NET CLI 中一种新的、更简单的解决方案文件格式
+- **文章简介：** 多年来，解决方案文件一直是 .NET 和 Visual Studio 体验的一部分，并且它们始终具有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnetCLI 支持以与现有解决方案文件相同的方式构建和与这些文件交互。在本文的其余部分，我们将展示用户如何迁移到新格式，探索 CLI 中的新支持dotnet，并讨论迈向格式普遍可用版本的后续步骤。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli
+
+#### ADO.NET中SQL绑定变量方式总结
+- **文章简介：** ADO.NET中SQL绑定变量方式总结。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/18774515
+
+#### 使用C#创建一个MCP客户端
+- **文章简介：** 使用C#创建一个MCP客户端。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18772576
+
+#### 10年+ .NET Coder 心语 ── 封装的思维：从隐藏、稳定开始理解其本质意义
+- **文章简介：** 小编是一名10年+的.NET Coder，期间也写过Java、Python，从中深刻的认识到了软件开发与语言的无关性。现在小编已经脱离了一线开发岗位，在带领团队的过程中，发现了很多的问题，究其原因，更多的是开发思维的问题。所以小编通过总结自己过去十多年的软件开发经验，为年轻一辈的软件开发者从思维角度提供一些建议，希望能对大家有所帮助。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18769455
+
+#### 【译】Visual Studio 中新的强大生产力特性
+- **文章简介：** 有时候，生活中的小事才是最重要的。在最新版本的 Visual Studio 中，我们增加了一些功能和调整，目的是让您脸上带着微笑，让您更有效率。这里是其中的一些列表，如果您想要完整的列表，请查看发行说明。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/18764506
+
+#### .NET Core 中如何实现缓存的预热？
+- **文章简介：** .NET Core 中如何实现缓存的预热？
+- **文章地址：** https://www.cnblogs.com/liyongqiang-cc/p/18737994
+
+#### AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现
+- **文章简介：** AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18761132
+
+
 ### 第 29 期（2025年3.1-3.9）
 #### .NET 10首个预览版发布：重大改进与新特性概览！
 - **文章简介：** .NET 团队于2025年2月25日发布博文，宣布推出 .NET 10 首个预览版更新，重点改进.NET Runtime、SDK、Libraries 、C#、ASP.NET Core、Blazor 和.NET MAUI 等。
