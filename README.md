@@ -572,9 +572,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
 * [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html#_label1)
 * [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
-* [SQL中的各种连接的区别总结](https://mp.weixin.qq.com/s/lIrxpuY340zV2Nj5LxcKzQ)
 * [一个不错的 SQL 编码风格的指南](https://mp.weixin.qq.com/s/OcE2zgKOqUkg6fdjNwstxA)
 * [3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s/590oWXEgTYFkC6lzPc682A)
+* [SQL 中的各种连接 JOIN 的区别总结](https://mp.weixin.qq.com/s/CWyIZA5Gy-OJspPPYQituA)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
