@@ -1336,12 +1336,16 @@
 #### 开源编辑器
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Notepads](https://github.com/0x7c13/Notepads) | 一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
-|  2  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
-|  3  | [RoslynPad](https://github.com/roslynpad/roslynpad) | RoslynPad是一个基于 Roslyn 和 AvalonEdit 开源、轻量、跨平台的 C# 编辑器。 | https://github.com/roslynpad/roslynpad |
-|  4  | [NetPad](https://github.com/tareqimbasher/NetPad) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。 | https://github.com/tareqimbasher/NetPad |
-|  5  |  |  |  |
+|  1  | [NetPad](https://github.com/tareqimbasher/NetPad) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。 | https://github.com/tareqimbasher/NetPad |
+|  2  | [RoslynPad](https://github.com/roslynpad/roslynpad) | RoslynPad是一个基于 Roslyn 和 AvalonEdit 开源（MIT license）、轻量、跨平台的 C# 编辑器。 | https://github.com/roslynpad/roslynpad |
+|  3  | [Notepads](https://github.com/0x7c13/Notepads) | Notepads是一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
+|  4  | [CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、易于使用的 CSV 文本编辑器应用程序，使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 | https://github.com/WildGums/CsvTextEditor |
+|  5  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
