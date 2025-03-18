@@ -149,6 +149,7 @@
 * [免费AI编程助手：豆包MarsCode](https://www.marscode.cn/home)
 * [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
 * [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
+* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
