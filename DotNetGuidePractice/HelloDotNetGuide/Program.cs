@@ -15,17 +15,17 @@ namespace HelloDotNetGuide
 
             #region DictionaryExercise
 
-            DictionaryExercise.DictionaryOperation();
+            //DictionaryExercise.DictionaryOperation();
 
             #endregion
 
             #region YieldExercise
 
-            YieldExercise.IteratorComparisonRun();
+            //YieldExercise.IteratorComparisonRun();
 
-            YieldExercise.LazyLoadingRun();
+            //YieldExercise.LazyLoadingRun();
 
-            YieldExercise.YieldBreakRun();
+            //YieldExercise.YieldBreakRun();
 
             #endregion
 
@@ -40,6 +40,7 @@ namespace HelloDotNetGuide
             //LinqExercise.CountByExample();
             //LinqExercise.AggregateByExample();
             //LinqExercise.IndexExample();
+            LinqExercise.CommonMethodsInLINQ();
 
             #endregion
 
