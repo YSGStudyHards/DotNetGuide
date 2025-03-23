@@ -65,7 +65,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章地址：** https://www.cnblogs.com/bitzhuwei/p/18779851
 
 #### .NET8中gRPC的使用
-- **文章简介：** 在.NET8中gRPC的使用。
+- **文章简介：** 在.NET8中使用gRPC。
 - **文章地址：** https://www.cnblogs.com/liyongqiang-cc/p/18691064
 
 
