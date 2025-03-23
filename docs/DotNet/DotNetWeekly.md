@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 3月
+### 第 31 期（2025年3.17-3.13）
+#### 推荐8款 .NET 开源、免费、实用的 Windows 效率软件
+- **文章简介：** 今天大姚给大家推荐8款基于 .NET 开源、免费、实用的 Windows 效率软件，开发工作提升利器，希望可以帮助到有需要的小伙伴。
+- **文章地址：** https://mp.weixin.qq.com/s/pU3_op8rgEywqAKGqsjfYA
+
+#### C# 中比较实用的关键字，基础高频面试题！
+- **文章简介：** 在C#编程中关键字是构建逻辑和实现功能的基石，它承载着编程语言的语法规则和编程智慧。熟练掌握这些基础高频关键字对提升编程能力和面试表现至关重要，它们是日常开发和解决复杂问题的关键。
+- **文章地址：** https://mp.weixin.qq.com/s/V1fDK4cs_j_igsIrKcPHZg
+
+#### 一款 .NET 开源、功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议！
+- **文章简介：** mRemoteNG是一款基于 .NET 开源（GPL-2.0 license）、免费、功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、VNC、SSH 等多种主流协议、并且提供了标签式界面，用户可同时管理和切换多个远程连接。
+- **文章地址：** https://mp.weixin.qq.com/s/0KZuIi9PrNY04INjBmHbVw
+
+#### 浅谈 C# 13 中的 params 集合
+- **文章简介：** 在 C# 13 中，params 的改进使其从可变数量的数组参数升级为可变数量的集合类型参数。这一改进通过支持高性能集合类型（如Span<T>,ReadOnlySpan<T>）和简化调用语法，显著提升了代码的灵活性和效率。
+- **文章地址：** https://mp.weixin.qq.com/s/RNxL8YX_BEFDb3qcJzXjqA
+
+#### 精选 5 款基于 .NET 开源、功能强大的编辑器
+- **文章简介：** 今天大姚给大家分享 5 款基于 .NET 开源、免费、功能强大的编辑器，其中包含 C# 代码编辑器、文本编辑器、CSV 文本编辑器和 Markdown 编辑器。
+- **文章地址：** https://mp.weixin.qq.com/s/hmd1e87YTLE8kXJQBpeONg
+
+#### dotnet 源代码生成器分析器入门
+- **文章简介：** 本文将带领大家入门 dotnet 的 SourceGenerator 源代码生成器技术，期待大家阅读完本文能够看懂理解和编写源代码生成器和分析器。
+- **文章地址：** https://www.cnblogs.com/lindexi/p/18786647
+
+#### .NET 10 Preview 2 现已发布！
+- **文章简介：** .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2/
+
+#### MSTest 3.8：增强 .NET 测试的 10 大功能！
+- **文章简介：** MSTest，也称为微软测试框架，简化了.NET 应用程序的测试体验。此测试框架允许用户编写和执行测试，同时提供集成到 Visual Studio 和 Visual Studio Code 测试资源管理器的测试套件，以及许多 CI 管道。MSTest 完全支持、开源且跨平台，与所有支持的.NET 目标一起工作，同时保持对 VSTest 的支持，并增加了对 Microsoft.Testing.Platform（MTP）改进体验的支持。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights/
+
+#### ASP.NET Core 模型验证消息的本地化新姿势
+- **文章简介：** ASP.NET Core 模型验证消息的本地化新姿势。
+- **文章地址：** https://www.cnblogs.com/himax/p/18785387/how_to_localize_validation_attrbuite_message
+
+#### .NET Core奇技淫巧之WinForm使用Python.NET并打包
+- **文章简介：** .NET Core奇技淫巧之WinForm使用Python.NET并打包。
+- **文章地址：** https://www.cnblogs.com/GuZhenYin/p/18781724
+
+#### C#实现自己的Json解析器(LALR(1)+miniDFA)
+- **文章简介：** C#实现自己的Json解析器(LALR(1)+miniDFA)。
+- **文章地址：** https://www.cnblogs.com/bitzhuwei/p/18779851
+
+#### .NET8中gRPC的使用
+- **文章简介：** 在.NET8中gRPC的使用。
+- **文章地址：** https://www.cnblogs.com/liyongqiang-cc/p/18691064
+
+
 ### 第 30 期（2025年3.10-3.16）
 #### 企业应用开发中.NET ORM EF常用哪种模式？
 - **文章简介：** 本篇文章来源于DotNetGuide技术社区微信交流小伙伴的提问：在企业应用开发中.NET ORM EF常用哪种模式进行开发？今天我们一起来了解一下EF开发的三种模式。
