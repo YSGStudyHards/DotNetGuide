@@ -13,6 +13,14 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region CSharp13GrammarExercise
+
+            CSharp13GrammarExercise.SpanDataPrintRun();
+
+            CSharp13GrammarExercise.NewEscapeSequence();
+
+            #endregion
+
             #region DictionaryExercise
 
             //DictionaryExercise.DictionaryOperation();
@@ -40,7 +48,7 @@ namespace HelloDotNetGuide
             //LinqExercise.CountByExample();
             //LinqExercise.AggregateByExample();
             //LinqExercise.IndexExample();
-            LinqExercise.CommonMethodsInLINQ();
+            //LinqExercise.CommonMethodsInLINQ();
 
             #endregion
 
