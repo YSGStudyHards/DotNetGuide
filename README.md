@@ -610,6 +610,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### PostgreSQL
 * [PostgreSQL教程](https://www.runoob.com/postgresql/postgresql-tutorial.html)
+* [PostgreSQL开发指南](https://github.com/YSGStudyHards/postgresql_dev_guide)
 * [PostgreSQL中文文档](http://www.postgres.cn/v2/document)
 * [PostgreSQL 11.2 手册](http://www.postgres.cn/docs/11/)
 * [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/)
