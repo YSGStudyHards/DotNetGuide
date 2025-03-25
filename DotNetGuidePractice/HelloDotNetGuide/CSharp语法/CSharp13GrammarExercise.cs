@@ -97,7 +97,7 @@ namespace HelloDotNetGuide.CSharp语法
                    [1] = 0,
                    [2] = 1,
                     
-                   // 从 C# 13 开始执行下面方式赋值
+                   // 从 C# 13 开始可以执行下面方式赋值
                    [^3] = 2,
                    [^4] = 3,
                    [^5] = 4
@@ -109,14 +109,30 @@ namespace HelloDotNetGuide.CSharp语法
 
         #region 重载解析优先级
 
-        public class Printer
-        {
-            [OverloadResolutionPriority(1)] // 优先调用
-            public static void Print(params int[] numbers) { }
+        [OverloadResolutionPriority(1)] //优先调用
+        public static void PrintWay(params int[] numberList) { }
 
-            public static void Print(params ReadOnlySpan<int> numbers) { }
-        }
+        public static void PrintWay(params ReadOnlySpan<int> numberList) { }
 
         #endregion
     }
+
+    #region partial类型中现在允许使用部分属性和索引器
+
+    public partial class MyClass
+    {
+        public partial string Name { get; set; }
+    }
+
+    public partial class MyClass
+    {
+        private string _name;
+        public partial string Name
+        {
+            get => _name;
+            set => _name = value;
+        }
+    }
+
+    #endregion
 }
