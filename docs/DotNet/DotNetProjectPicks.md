@@ -381,8 +381,12 @@
 |  2  | [Workflow Core](https://github.com/danielgerlag/workflow-core) | Workflow Core是一个基于.NET的开源工作流引擎，提供了可扩展和灵活的工作流管理功能，帮助开发人员设计和执行复杂的工作流程。 | https://github.com/danielgerlag/workflow-core |
 |  3  | [Wexflow](https://github.com/aelassas/wexflow)  | Wexflow 是一个开源、跨平台的工作流引擎和自动化平台，旨在实现重复性任务的自动化。在 Wexflow 的帮助下，构建自动化和工作流程变得轻而易举。 | https://github.com/aelassas/wexflow |
 |  4  | [Slickflow](https://github.com/besley/slickflow) | Slickflow是一款.NET开源的工作流引擎，Slickflow工作流引擎，选取BPMN模型作为工作流模型的语义表达，BPMN模型消除技术和业务之间的隔阂，注重业务人员对流程的需求和理解，而不是以技术为本位，相对来说，更近一步体现技术服务于业务需求的概念。 | https://github.com/besley/slickflow |
-|  5  |  |  |  |
+|  5  | [CCFlow](https://gitee.com/opencc/ccflow) | CCFlow 是一款基于 .NET 开源（GPL-3.0开源协议）、配置灵活、功能强大，适合中国国情的工作流引擎，集成方式简洁，容易实现插件模式的开发。 | https://gitee.com/opencc/ccflow |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
