@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 3月
+### 第 32 期（2025年3.24-3.31）
+#### 面试官问：你知道 C# 单例模式有哪几种常用的实现方式？
+- **文章简介：** 单例模式是一种创建型设计模式，它主要确保在一个类只有一个实例，并提供一个全局访问点来获取该实例。在C#中，有多种方式实现单例模式，每种方式都有其特定的使用场景和注意事项。
+- **文章地址：** https://mp.weixin.qq.com/s/KmsCsE98byOaPGCheaNZxA
+
+#### 精选15款C#/.NET编程效率提升类库，含详细使用教程！
+- **文章简介：** 在.NET开发领域中随着技术的不断进步和项目的日益复杂，选择和使用一款合适的类库成为提升开发效率、保证代码质量和缩短项目周期的关键因素。今天大姚给大家分享15款C#/.NET编程效率提升类库，并且都包含详细介绍和使用教程。
+- **文章地址：** https://mp.weixin.qq.com/s/dU-x94S9LJz9OdXlBw64LA
+
+#### C# 13 中的新增功能实操
+- **文章简介：** 今天大姚带领大家一起来看看 C# 13 中的新增几大功能，并了解其功能特性和实际应用场景。
+- **文章地址：** https://mp.weixin.qq.com/s/s6FXo-8pL2I3l8EDH4-ZiA
+
+#### 一个基于 .NET 开源免费的异地组网和内网穿透工具
+- **文章简介：** linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。
+- **文章地址：** https://mp.weixin.qq.com/s/6uerc4ISjoipRg3A7lPpsA
+
+#### SLNX 支持简介，.NET CLI 中一种更加简化的全新解决方案文件格式
+- **文章简介：** 在 SDK 9.0.200 之前，创建 SLNX 文件的唯一方式是通过 Visual Studio 设置。勾选 环境 > 预览功能 > 使用解决方案文件持久性模型 设置后，用户可以将现有的 .sln 文件另存为新的 .slnx 格式。
+- **文章地址：** https://mp.weixin.qq.com/s/RRYEoWCsQpOuI4Q9UCsJdA
+
+#### 在 ASP.NET Core 中创建中间件的 4 种方式
+- **文章简介：** 今天大姚带领大家一起来盘点一下在 ASP.NET Core 应用程序中添加和创建中间件的常见的四种方式。
+- **文章地址：** https://mp.weixin.qq.com/s/xdEhu3JpCslPIBRDIMUCAw
+
+#### C#14内置AI支持，让代码更智能
+- **文章简介：** C# 14 借助 AI 辅助功能，简化了软件开发流程，让代码生成、重构和调试变得更加高效。 Visual Studio 和 .NET 工具集成了 AI 功能，使开发人员能够编写干净、易于维护的代码，并享受机器学习驱动的建议、自动完成和智能调试。
+- **文章地址：** https://mp.weixin.qq.com/s/Gjj2h5YIiEMEnxUhy7xRRg
+
+#### 一款基于 .NET 开源、配置灵活的工作流引擎
+- **文章简介：** CCFlow 是一款基于 .NET 开源（GPL-3.0开源协议）、配置灵活、功能强大，适合中国国情的工作流引擎，集成方式简洁，容易实现插件模式的开发。
+- **文章地址：** https://mp.weixin.qq.com/s/9VOSiLd5TCjtayumOdTYTg
+
+#### .NET 源代码生成器分析器入门
+- **文章简介：** 本文将带领大家入门 dotnet 的 SourceGenerator 源代码生成器技术，期待大家阅读完本文能够看懂理解和编写源代码生成器和分析器。
+- **文章地址：** https://mp.weixin.qq.com/s/ef8ujn9RfxXlfNDy14PaNA
+
+#### AOT编译Avalonia应用：StarBlog Publisher项目实践与挑战
+- **文章简介：** AOT编译Avalonia应用 StarBlog Publisher 项目实践与挑战
+- **文章地址：** https://www.cnblogs.com/deali/p/18797316
+
+#### 互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互
+- **文章简介：** 互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互。
+- **文章地址：** https://www.cnblogs.com/GreenShade/p/18771608
+
+#### .NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想
+- **文章简介：** 在当今数据驱动的时代，向量数据库（Vector Database）作为一种新兴的数据库技术，正逐渐成为软件开发领域的重要组成部分。特别是在 .NET 生态系统中，向量数据库的应用为开发者提供了构建智能、高效应用程序的新途径。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18784938
+
+#### C# - 获取枚举描述 - 使用增量源生成器
+- **文章简介：** C# 获取枚举描述的方法有很多, 常用的有通过 DescriptionAttribute 反射获取, 进阶的可以加上缓存机制, 减少反射的开销。今天我们还提供一种更加高效的方法,通过增量源生成器生成获取枚举描述的代码。这是在编译层面实现的, 无需反射, 性能更高。
+- **文章地址：** https://www.cnblogs.com/broadm/p/18786843
+
+#### 使用 BrowserStack App Automate 与 Appium UI 测试自动化 .NET MAUI 应用程序
+- **文章简介：** 使用 BrowserStack App Automate 与 Appium UI 测试自动化 .NET MAUI 应用程序。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui
+
+
 ### 第 31 期（2025年3.17-3.23）
 #### 推荐8款 .NET 开源、免费、实用的 Windows 效率软件
 - **文章简介：** 今天大姚给大家推荐8款基于 .NET 开源、免费、实用的 Windows 效率软件，开发工作提升利器，希望可以帮助到有需要的小伙伴。
