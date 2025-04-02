@@ -12,6 +12,56 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 3月
+### 公众号3月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年3月简报：**
+
+### NETworkManager
+* **项目简介：** NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。
+* **项目源码地址：** https://github.com/BornToBeRoot/NETworkManager
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ZAsNvjWQzXTpCHBF4vw4qg
+
+### Known
+* **项目简介：** Known 是一个基于 Blazor 的轻量级、跨平台、低代码、易扩展的插件开发框架。它旨在帮助开发者快速构建和扩展应用程序，提供了一整套工具和组件，从前端到后端全栈支持。
+* **项目源码地址：** https://gitee.com/known/Known
+* **项目详细介绍：** https://mp.weixin.qq.com/s/CJse1k6xv0kDb1_4gtXdhA
+
+### SharpCompress
+* **项目简介：** SharpCompress 是一个基于 C# 编写的压缩库，支持多种压缩格式的解压与部分格式的写入，专为.NET多版本设计，适合处理大文件和流式压缩。适用于 .NET Framework 4.62、.NET Standard 2.1、.NET 6.0 和 NET 8.0 等多平台的 C# 压缩库，它能够解压 RAR、7Z、ZIP、TAR、BZIP2、GZIP 和 LZIP 格式的文件，同时提供仅向前读取和文件随机访问的API。该库已实现了对 ZIP、TAR、BZIP2、GZIP 和 LZIP 格式的写入支持。
+* **项目源码地址：** https://github.com/adamhathcock/sharpcompress
+* **项目详细介绍：**  https://mp.weixin.qq.com/s/8oMetwVSiVeC4qH--ka-7Q
+
+### SharpZipLib
+* **项目简介：** SharpZipLib（以前称为 NZipLib）是一个完全用 C# 编写的压缩库，它支持使用存储和 deflate 压缩方法、PKZIP 2.0 样式和 AES 加密、带有 GNU 长文件扩展名的 tar、GZip、zlib 和 raw deflate 以及 BZip2 的 Zip 文件。支持 Zip64，当前尚不支持 Deflate64。它作为程序集实现（可安装在全局程序集缓存GAC中），因此可以很容易地合并到其他项目中（使用任何 .NET 语言）。
+* **项目源码地址：** https://github.com/icsharpcode/SharpZipLib
+* **项目详细介绍：** https://mp.weixin.qq.com/s/8oMetwVSiVeC4qH--ka-7Q
+
+### K4os.Compression.LZ4
+* **项目简介：** K4os.Compression.LZ4 是一个为 .NET 平台设计的基于 LZ4 算法的高效压缩库，提供极快的压缩和解压缩速度，支持多种压缩级别和流/块压缩模式。
+* **项目源码地址：** https://github.com/MiloszKrajewski/K4os.Compression.LZ4
+* **项目详细介绍：** https://mp.weixin.qq.com/s/8oMetwVSiVeC4qH--ka-7Q
+
+### mRemoteNG
+* **项目简介：** mRemoteNG是一款基于 .NET 开源（GPL-2.0 license）、免费、功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、VNC、SSH 等多种主流协议、并且提供了标签式界面，用户可同时管理和切换多个远程连接。
+* **项目源码地址：** https://github.com/mRemoteNG/mRemoteNG
+* **项目详细介绍：** https://mp.weixin.qq.com/s/0KZuIi9PrNY04INjBmHbVw 
+
+### CsvTextEditor
+* **项目简介：** CsvTextEditor是一个基于 C# 开源（MIT License）、免费、易于使用的 CSV 文本编辑器应用程序，使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。
+* **项目源码地址：** https://github.com/WildGums/CsvTextEditor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/hmd1e87YTLE8kXJQBpeONg
+
+### linker
+* **项目简介：** linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。
+* **项目源码地址：** https://github.com/snltty/linker
+* **项目详细介绍：** https://mp.weixin.qq.com/s/6uerc4ISjoipRg3A7lPpsA
+
+### CCFlow
+* **项目简介：** CCFlow 是一款基于 .NET 开源（GPL-3.0开源协议）、配置灵活、功能强大，适合中国国情的工作流引擎，集成方式简洁，容易实现插件模式的开发。
+* **项目源码地址：** https://gitee.com/opencc/ccflow
+* **项目详细介绍：** https://mp.weixin.qq.com/s/9VOSiLd5TCjtayumOdTYTg 
+
+
 ## 2月
 ### 公众号2月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年2月简报：** https://mp.weixin.qq.com/s/znx5iqyMjZwtz1qIPSyn0w
