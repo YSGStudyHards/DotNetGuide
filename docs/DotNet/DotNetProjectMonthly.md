@@ -14,7 +14,7 @@
 # 2025年
 ## 3月
 ### 公众号3月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年3月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2025年3月简报：** https://mp.weixin.qq.com/s/6pn76VrpM9RFm4qylQe1Bw
 
 ### NETworkManager
 * **项目简介：** NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。
