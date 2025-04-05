@@ -101,6 +101,7 @@
   * [代码格式化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [开源下载工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
   * [网络管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [文件搜索工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1387,6 +1388,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、功能强大的开源工具，旨在帮助用户管理和解决网络问题。通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，管理网络和服务器基础设施。 | https://github.com/BornToBeRoot/NETworkManager |
 |  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 文件搜索工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [EverythingToolbar](https://github.com/srwi/EverythingToolbar) | EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。 | https://github.com/srwi/EverythingToolbar |
+|  2  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
