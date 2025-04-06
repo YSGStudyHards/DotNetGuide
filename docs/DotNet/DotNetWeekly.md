@@ -18,6 +18,49 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 4月
+### 第 33 期（2025年4.1-4.6）
+#### 在 Blazor 中使用 Chart.js 快速创建数据可视化图表
+- **文章简介：** BlazorChartjs 是一个在 Blazor 中使用 Chart.js 的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。本文我们将一起来学习一下在 Blazor 中使用 Chart.js 快速创建数据可视化图表。
+- **文章地址：** https://mp.weixin.qq.com/s/S-rvo1_1Oo6_2oeOFr7f2A
+
+#### 一款让 Everything 更加如虎添翼的 .NET 开源辅助工具！
+- **文章简介：** EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。
+- **文章地址：** https://mp.weixin.qq.com/s/oouJHTJPKeT2dJEAt6NDGQ
+
+#### 由 MCP 官方推出的 C# SDK，使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器交互！
+- **文章简介：** MCP C# SDK 是由 Model Context Protocol（MCP）官方推出的 C# 软件开发工具包（SDK），它使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器进行交互。MCP是一个开放协议，它标准化了应用程序如何为大型语言模型（LLMs）提供上下文，并实现了 LLMs 与各种数据源和工具之间的安全集成。
+- **文章地址：** https://mp.weixin.qq.com/s/2ynU3wdFrj06cd_zccI5pg
+
+#### 分享 3 款基于 .NET 开源且免费的远程桌面工具
+- **文章简介：** 今天大姚给大家分享 3 款基于 .NET 开源、免费、功能强大的远程桌面工具，希望可以给大家的远程工作和学习带来便利。
+- **文章地址：** https://mp.weixin.qq.com/s/ppB41HVLFmisdLO07OIsMQ
+
+#### BotSharp 5.0 MCP：迈向更开放的AI Agent框架
+- **文章简介：** 在人工智能快速发展的时代，AI Agent（人工智能代理）作为一种能够自主感知环境、决策并执行动作的实体，在众多领域展现出了巨大的潜力。BotSharp 是一个功能强大的开源项目，由 SciSharp[1] 社区开发和维护，旨在实现.NET技术栈下高度可定制的多智能体解决方案。为开发高效的对话式 AI 系统提供了极大的灵活性。通过其模块化的设计和多模型的支持，它更适合需要定制化需求的大型企业或组织。BotSharp作为一款专注于AI Agent开发的框架，一直致力于为开发者提供强大而灵活的工具来构建各种类型的智能代理。BotSharp 5.0 的 MCP（Model Context Protocol）支持是该版本的核心升级之一，BotSharp 5.0 MCP版本的推出，标志着该框架向着更开放的方向迈出了重要的一步，为开发者和使用者带来了更多的可能性和机遇。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18809988
+
+#### ShadowSql之.net sql拼写神器
+- **文章简介：** ShadowSql之.net sql拼写神器，我正在开发的一个.net sql拼写工具(SqlBuilder)，也可以算是ORM，命名为ShadowSql，本工具的作用就是帮码农拼写sql，对标开源项目SqlKata。
+- **文章地址：** https://www.cnblogs.com/xiangji/p/18806891
+
+#### 使用MCP C# SDK开发MCP Server + Client
+- **文章简介：** 近日被MCP刷屏了，刚好看到张队发了一篇文章提到MCP的官方C# SDK发布了预览版，于是手痒痒尝了一下鲜，写了一个DEMO分享给大家。
+- **文章地址：** https://www.cnblogs.com/edisonchou/p/-/introduction-to-mcp-csharp-sdk
+
+#### C# 窗口过程消息处理 WndProc
+- **文章简介：** C# 窗口过程消息处理 WndProc。
+- **文章地址：** https://www.cnblogs.com/BluePointLilac/p/18802906
+
+#### 用 CSnakes 把 MarkItDown 嵌入到 .NET 应用程序
+- **文章简介：** 本文将演示我如何使用 CSnakes 将一个调用了 MarkItDown 的 Python 函数脚本嵌入到我的 .NET 应用程序中，让 C# 代码间接完成文档转换。
+- **文章地址：** https://mp.weixin.qq.com/s/LDJoSyYVv8XsySqjjfuZ3g
+
+#### MySurvey 问卷调查, 一个简单的Biwen.QuickApi示例项目
+- **文章简介：** 很久没更新我的博客了,之前开发的Biwen.QuickApi微框架 一直没有开发一个示例项目,最近有点时间,写了一个示例项目稍微介绍下,
+- **文章地址：** https://www.cnblogs.com/vipwan/p/18808244
+
+
 ## 3月
 ### 第 32 期（2025年3.24-3.31）
 #### 面试官问：你知道 C# 单例模式有哪几种常用的实现方式？
