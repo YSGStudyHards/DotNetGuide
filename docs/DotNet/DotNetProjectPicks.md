@@ -568,7 +568,7 @@
 |  16  | [Serenity](https://github.com/serenity-is/Serenity) | Serenity 是一个 ASP.NET Core / TypeScript 应用程序平台，旨在通过基于服务的架构简化和缩短以数据为中心的业务应用程序的开发过程。它旨在通过避免模板代码、减少重复性任务所花费的时间以及应用最佳软件设计实践，使开发更轻松，同时降低维护成本。 | https://github.com/serenity-is/Serenity |
 |  17  | [AIBPM](https://github.com/leooneone/aibpm.plus) | 采用开源.NET框架中台Admin（前后端分离权限管理系统）开发的工作流/工单系统，自己实现的顺序流引擎。 | https://github.com/leooneone/aibpm.plus |
 |  18  | [OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net) | .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。包括：角色授权、代码生成、打印设计、表单设计、工作流等。架构易扩展，是中小企业的首选。 | https://gitee.com/dotnetchina/OpenAuth.Net |
-|  19 | [ApeVolo](https://github.com/xianhc/apevolo-api) | .Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台管理系统。 | https://github.com/xianhc/apevolo-api |
+|  19 | [ApeVolo.Admin](https://github.com/xianhc/ApeVolo.Admin) | ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、更适用企业级系统开发，助力快速完成常规业务需求开发。 | https://github.com/xianhc/ApeVolo.Admin |
 |  20 | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
 |  21 | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
 |  22  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Colder.Admin.AntdVue是一个基于.NET5 + Ant Design Vue开源的Web后台快速开发框架。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
