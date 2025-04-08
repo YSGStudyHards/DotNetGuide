@@ -1424,7 +1424,7 @@
 |  10 | [Dots](https://github.com/nor0x/Dots) | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 | https://github.com/nor0x/Dots |
 |  11 | [Camelotia](https://github.com/reactiveui/Camelotia) | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 | https://github.com/reactiveui/Camelotia |
 |  12 | [G-Helper](https://github.com/seerge/g-helper) | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 | https://github.com/seerge/g-helper |
-|  13 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
+|  13 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 哔哩是一款哔哩哔哩的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 | https://github.com/Richasy/Bili.Uwp |
 |  14 | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 | https://github.com/RayWangQvQ/BiliBiliToolPro |
 |  15 | [ToastFish](https://github.com/Uahh/ToastFish) | 一个利用Windows通知栏背单词的软件。 | https://github.com/Uahh/ToastFish |
 |  16 | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 | https://github.com/Accelerider/Accelerider.Windows |
@@ -1441,7 +1441,12 @@
 |  27  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
 |  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://github.com/genrwoody/vs_file_encoding |
 |  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 | https://github.com/Klocman/Bulk-Crap-Uninstaller |
-|  30  |  |  |  |
+|  30  | [TinyWall](https://github.com/pylorak/TinyWall) | TinyWall 是一款 .NET 开源、免费、轻量级且非侵入性的防火墙软件。 | https://github.com/pylorak/TinyWall |
+|  31  |  |  |  |
+|  32  |  |  |  |
+|  33  |  |  |  |
+|  34  |  |  |  |
+|  35  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
