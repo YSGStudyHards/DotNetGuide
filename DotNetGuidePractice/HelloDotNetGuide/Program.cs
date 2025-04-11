@@ -15,9 +15,9 @@ namespace HelloDotNetGuide
 
             #region CSharp13GrammarExercise
 
-            CSharp13GrammarExercise.SpanDataPrintRun();
+            //CSharp13GrammarExercise.SpanDataPrintRun();
 
-            CSharp13GrammarExercise.NewEscapeSequence();
+            //CSharp13GrammarExercise.NewEscapeSequence();
 
             #endregion
 
@@ -48,7 +48,7 @@ namespace HelloDotNetGuide
             //LinqExercise.CountByExample();
             //LinqExercise.AggregateByExample();
             //LinqExercise.IndexExample();
-            //LinqExercise.CommonMethodsInLINQ();
+            LinqExercise.CommonMethodsInLINQ();
 
             #endregion
 

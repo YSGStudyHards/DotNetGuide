@@ -1,4 +1,6 @@
-﻿namespace HelloDotNetGuide.CSharp语法
+﻿using static HelloDotNetGuide.CSharp语法.LinqExercise;
+
+namespace HelloDotNetGuide.CSharp语法
 {
     public class LinqExercise
     {
@@ -73,6 +75,30 @@
             public string CourseName { get; set; }
         }
 
+        static List<Course> courses = new List<Course>()
+        {
+          new Course
+          {
+            CourseID =  101,
+            CourseName = "语文"
+          },
+          new Course
+          {
+            CourseID =  102,
+            CourseName = "数学"
+          },
+          new Course
+          {
+            CourseID =  103,
+            CourseName = "地理"
+          },
+          new Course
+          {
+            CourseID =  104,
+            CourseName = "历史"
+          }
+        };
+
         static List<StudentInfo> students = new List<StudentInfo>
         {
             new StudentInfo
@@ -131,10 +157,11 @@
         {
             #region 基本查询方法
 
-            var femaleStudents = students.Where(s => s.StudentName == "时光者");
+            var femaleStudents = students.Where(s => s.StudentName == "追逐时光者");
             var studentNames = students.Select(s => s.StudentName);
 
             // 使用SelectMany展平所有学生的课程列表
+            // SelectMany用于将多个集合（嵌套集合，如集合的集合）`展平`为一个集合。
             var allCourses = students.SelectMany(student => student.Courses).ToList();
 
             // 输出所有课程的名称
@@ -190,7 +217,7 @@
 
             #region 集合操作方法
 
-            var uniqueClassIDs = students.Select(s => s.ClassID).Distinct();
+            var uniqueClassIDs = students.Select(s => s.ClassID).Distinct();//
             var unionClassIDs = uniqueClassIDs.Union(new[] { 103, 104 });
             var intersectClassIDs = uniqueClassIDs.Intersect(new[] { 101, 103 });
             var exceptClassIDs = uniqueClassIDs.Except(new[] { 101 });
@@ -201,13 +228,24 @@
             #region 分组与连接方法
 
             var groupedByClassID = students.GroupBy(s => s.ClassID);
+
+            foreach (var group in groupedByClassID)
+            {
+                Console.WriteLine($"班级ID: {group.Key}");
+                foreach (var student in group)
+                {
+                    Console.WriteLine($"  学生姓名: {student.StudentName}");
+                }
+            }
+
+            // 连接两个集合（内连接查询）
             var otherStudent = new List<StudentInfo>
             {
                new StudentInfo
                {
                    StudentID=4,
                    StudentName="摇一摇",
-                   Birthday=Convert.ToDateTime("2997-10-25"),
+                   Birthday=Convert.ToDateTime("1997-10-25"),
                    ClassID=101,
                    Courses = new List<Course>
                    {
@@ -216,10 +254,11 @@
                    }
                }
             };
+
             var listJoin = students.Join(
-                otherStudent, // 要连接的第二个序列
-                s1 => s1.StudentID, // 从第一个序列中提取键
-                s2 => s2.StudentID, // 从第二个序列中提取键
+                otherStudent, // 要连接的第二个集合
+                s1 => s1.StudentID, // 从第一个集合中提取键
+                s2 => s2.StudentID, // 从第二个集合中提取键
                 (s1, s2) => new // 结果选择器，指定如何从两个匹配元素创建结果
                 {
                     StudentID = s1.StudentID,
@@ -228,8 +267,37 @@
                     ClassID = s1.ClassID,
                     Address = s1.Address,
                     Courses = s1.Courses,
-                    OtherStudentName = s2.StudentName //假设我们想要包含第二个序列中学生的名称
+                    OtherStudentName = s2.StudentName
                 });
+
+            //使用 GroupJoin 方法实现两个集合的左连接（Left Join）
+            //目标：获取所有课程及选修学生（即使无人选修也要显示课程）
+            var courseStudentGroups = courses.GroupJoin(
+                students.SelectMany(
+                    student => student.Courses,
+                    (student, course) => new { Student = student, Course = course }
+                ),
+                course => course.CourseID,
+                studentCoursePair => studentCoursePair.Course.CourseID,
+                // 结果投影：生成课程名称及对应的学生列表
+                (course, matchedStudents) => new
+                {
+                    CourseName = course.CourseName,
+                    Students = matchedStudents
+                        .Select(pair => pair.Student.StudentName)
+                        .DefaultIfEmpty("（无学生）")
+                        .ToList()
+                }
+            ).ToList();
+
+            // 输出结果
+            foreach (var group in courseStudentGroups)
+            {
+                Console.WriteLine("-------------------");
+                Console.WriteLine($"课程：{group.CourseName}");
+                Console.WriteLine($"选修学生：{string.Join(", ", group.Students)}");
+                Console.WriteLine("-------------------");
+            }
 
             #endregion
 
