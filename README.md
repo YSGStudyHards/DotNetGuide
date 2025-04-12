@@ -78,6 +78,7 @@
 * [🎯C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s/XPRmwWmoZa4zq29Kx-u4HA)
 * [🎯C#/.NET/.NET Core自学入门指南](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
 * [🎯2025年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master)
+* [🎯ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
 * [🎯C# LINQ快速入门实战指南，建议收藏学习](https://mp.weixin.qq.com/s/dYJLNMqaGGO9tLdODot9vg)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
 * [🧱.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
