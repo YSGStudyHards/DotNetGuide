@@ -78,7 +78,7 @@
 * [🎯C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s/XPRmwWmoZa4zq29Kx-u4HA)
 * [🎯C#/.NET/.NET Core自学入门指南](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
 * [🎯2025年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master)
-* [🎯C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s/qRYeSLNS4BGNpWoZm-I4pQ)
+* [🎯C# LINQ快速入门实战指南，建议收藏学习](https://mp.weixin.qq.com/s/dYJLNMqaGGO9tLdODot9vg)
 * [🥏值得推荐的.NET/.NET Core ORM框架汇总](https://www.cnblogs.com/Can-daydayup/p/15911410.html)
 * [🧱.NET常见的几种项目架构模式，你知道几种？](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
 * [🐮C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
@@ -575,9 +575,10 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
 * [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html#_label1)
 * [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
+* [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [一个不错的 SQL 编码风格的指南](https://mp.weixin.qq.com/s/OcE2zgKOqUkg6fdjNwstxA)
-* [3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s/590oWXEgTYFkC6lzPc682A)
 * [SQL 中的各种连接 JOIN 的区别总结](https://mp.weixin.qq.com/s/CWyIZA5Gy-OJspPPYQituA)
+* [精选 4 款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s/beQsQ0eKnm4ha0GX17ITAg)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
@@ -893,7 +894,6 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [3款程序员常用的画图工具](https://mp.weixin.qq.com/s/t92aadaH1Os9vDPBI-rv8Q)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [10款程序员常用的API管理工具](https://mp.weixin.qq.com/s/i9WwbP8r2BJ3-fPGYbM_fg)
-* [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [推荐一些程序员常逛的开发者社区](https://mp.weixin.qq.com/s/F52kY4kqPovLcTlm5kFo7w)
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
