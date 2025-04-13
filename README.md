@@ -240,8 +240,8 @@
 在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
 
 * [✍C#/.NET/.NET Core拾遗补漏Issues投稿](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
-* [🚀C#/.NET/.NET Core拾遗补漏合集（Gitee）](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
-* [📚C#/.NET/.NET Core拾遗补漏合集（GitHub）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
+* [🚀C#/.NET/.NET Core拾遗补漏Gitee合集](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
+* [📚C#/.NET/.NET Core拾遗补漏GitHub合集](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
