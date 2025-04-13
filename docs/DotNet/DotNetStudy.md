@@ -4,8 +4,9 @@
 ## 前言
 在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
 
-* [✍C#/.NET/.NET Core拾遗补漏合集](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
-* [🚀C#/.NET/.NET Core拾遗补漏Issues投稿](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
+* [✍C#/.NET/.NET Core拾遗补漏Issues投稿](https://github.com/YSGStudyHards/DotNetGuide/issues/37)
+* [🚀C#/.NET/.NET Core拾遗补漏合集（Gitee）](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
+* [📚C#/.NET/.NET Core拾遗补漏合集（GitHub）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetStudy.md)
 
 ## C#相关
 * [C#关键字常见面试题](https://mp.weixin.qq.com/s/V1fDK4cs_j_igsIrKcPHZg)
