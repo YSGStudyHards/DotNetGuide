@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 4月
+### 第 34 期（2025年4.7-4.13）
+#### DotNetGuide 突破了 8K + Star，努力打造C#/.NET/.NET Core全面的学习、工作、面试指南知识库！
+- **文章简介：** 转眼之间维护DotNetGuide（全面的C#/.NET/.NET Core学习、工作、面试指南知识库）已经持续超过了4年多的时间，Commit提交数也超过1400+，在前几天在 GitHub 上也突破了8k+ Star并且荣获GitHub C# 中文Trending月榜第一，这里由衷的感谢各位贡献者和社区小伙伴们的支持。
+- **文章地址：** https://mp.weixin.qq.com/s/4SJFeGXSJdirIy5cBzOkeg
+
+#### C# LINQ 快速入门实战指南，建议收藏学习
+- **文章简介：** 因为咱们的.NET EF Core快速入门实战教程经常会用到 LINQ 去查询和操作 MySQL 中的数据，因此我觉得很有必要对 LINQ 的一些使用技巧、常用方法、特性做一个详细的介绍，让大家在后续的课程中不迷茫。
+- **文章地址：** https://mp.weixin.qq.com/s/qRYeSLNS4BGNpWoZm-I4pQ
+
+#### 一起来看看 .NET 10 Preview 3 新增的功能
+- **文章简介：** 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3
+
+#### 用 .NET NativeAOT 构建完全 distroless 的静态链接应用
+- **文章简介：** .NET NativeAOT 想必不少开发者都已经很熟悉了，它可以将 .NET 程序集直接编译到原生的机器代码，从而可以脱离 VM 直接运行。简单的一句 `dotnet publish -c Release -r <rid> /p:PublishAot=true` 就可以做到。
+- **文章地址：** https://mp.weixin.qq.com/s/86u4-7C3eV31qwI47qzDDg
+
+#### 一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统
+- **文章简介：** ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、更适用企业级系统开发，助力快速完成常规业务需求开发。
+- **文章地址：** https://mp.weixin.qq.com/s/TmJsAVSc_nfNd9f0Zh6YHA
+
+#### 排查 EF 保存数据时提示：Validation failed for one or more entities 的问题
+- **文章简介：** 这个错误提示表明，在尝试将实体保存到数据库时，一个或多个实体的验证失败了。但是，错误消息本身并没有提供足够的详细信息来指出是哪个具体的属性或字段导致了验证失败，而且这个表的字段比较多不好一个一个的去排查具体是哪个字段的问题。这里分享一个比较实用的技巧，能够帮助我们快速定位数据验证错误问题。
+- **文章地址：** https://mp.weixin.qq.com/s/lopiYuOkMTAF9fS9f3Lqqg
+
+#### 一款 .NET 开源、免费、轻量级且非侵入性的防火墙软件
+- **文章简介：** TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。
+- **文章地址：** https://mp.weixin.qq.com/s/Q2_GMFYbbKuxjBO8YNNO4Q
+
+#### .NET 中编译错误与运行时错误的区别
+- **文章简介：** 在 .NET 开发中，程序错误通常发生在两个不同阶段：编译阶段和运行时阶段。要想高效地调试问题并写出高质量、无错误的代码，理解这两种错误的区别非常重要。本文将通过示例，帮助你分清编译错误与运行时错误的不同点。
+- **文章地址：** https://mp.weixin.qq.com/s/w_SDPoMutMq4unjgceK5ZQ
+
+#### 2025年C#/.NET快速入门实战指南大全
+- **文章简介：** 2025年C#/.NET快速入门实战指南大全。
+- **文章地址：** https://mp.weixin.qq.com/s/mCVosesSze3zr85dgbNPSg
+
+#### 记一次 .NET某云HIS系统 CPU爆高分析
+- **文章简介：** 记一次 .NET某云HIS系统 CPU爆高分析。
+- **文章地址：** https://mp.weixin.qq.com/s/bh8Gnw810dQyhUWN9_QZWQ
+
+#### .NET 阻止关机机制以及关机前执行业务
+- **文章简介：** 本文主要介绍Windows在关闭时，如何正确、可靠的阻止系统关机以及关机前执行相应业务Windows关机，默认会给应用几s的关闭时间，但有一些场景需要在关机/重启前执行更长时间的业务逻辑，确保下次开机时数据的一致性以及可靠性。统一整理，以下是实现这一需求的几种方法,
+- **文章地址：** https://www.cnblogs.com/kybs0/p/18822799
+
+#### 使用 StreamJsonRpc 在 ASP.NET Core 中启用 JSON-RPC 
+- **文章简介：** StreamJsonRpc 是微软开发的一个开源库，用于在 .NET 平台中实现基于 JSON-RPC 2.0 规范 的远程过程调用（RPC）。它通过流（如管道、网络流等）实现高效的跨进程或跨网络通信，特别适用于需要轻量级、灵活通信的场景。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18822452
+
+#### .NET 原生驾驭 AI 新基建实战系列（二）：Semantic Kernel 整合对向量数据库的统一支持
+- **文章简介：** 在人工智能（AI）应用开发迅猛发展的今天，向量数据库作为存储和检索高维数据的重要工具，已经成为许多场景（如自然语言处理、推荐系统和语义搜索）的核心组件。对于.NET生态系统的开发者而言，如何高效地整合和管理不同的向量数据库，并以统一的方式使用它们，是一个亟待解决的问题。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18814133
+
+#### C# 工业视觉开发必刷20道 Halcon 面试题
+- **文章简介：** 随着工业4.0的深入推进，越来越多的企业开始重视智能制造和自动化生产。在这个背景下，对具备C#和Halcon开发经验的专业人才需求也日益增长。为了帮助广大 C#工业视觉开发的朋友更好地备战面试，掌握Halcon的核心技能，小编精心整理了20道高频Halcon面试题。
+- **文章地址：** https://www.cnblogs.com/1312mn/p/18755838
+
+
 ### 第 33 期（2025年4.1-4.6）
 #### 在 Blazor 中使用 Chart.js 快速创建数据可视化图表
 - **文章简介：** BlazorChartjs 是一个在 Blazor 中使用 Chart.js 的库（支持Blazor WebAssembly和Blazor Server两种模式），它提供了简单易用的组件来帮助开发者快速集成数据可视化图表到他们的 Blazor 应用程序中。本文我们将一起来学习一下在 Blazor 中使用 Chart.js 快速创建数据可视化图表。
