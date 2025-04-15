@@ -451,10 +451,10 @@
 #### 内网穿透框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
-|  2  | [CYarp](https://github.com/xljiulang/CYarp) | 基于Yarp的http内网穿透中间件，支持tcp、http/2.0或http/3.0作为http/1.1的传输层。 | https://github.com/xljiulang/CYarp |
-|  3  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel是一个.NET开源、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
-|  4  | [linker](https://github.com/snltty/linker) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
+|  1  | [CYarp](https://github.com/xljiulang/CYarp) | CYarp是一组高性能的反向代理组件，用于将 NAT 或防火墙后面的多个本地 http 服务器公开到互联网。 目前支持HTTP/1.1 Upgrade、HTTP/2 Extended CONNECT、WebSocket和WebSocket over Http/2四种连接方式。 | https://github.com/xljiulang/CYarp |
+|  2  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费、跨平台的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
+|  3  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel是一个.NET开源免费（Apache-2.0）、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+|  4  | [linker](https://github.com/snltty/linker) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）、跨平台、高性能的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
