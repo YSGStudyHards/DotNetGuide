@@ -895,6 +895,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [免费的接口服务收集](https://github.com/fangzesheng/free-api)
 * [Awesome-Design-Tools](https://github.com/MyBigKnowledgeBase/Awesome-Design-Tools)
 * [3款程序员常用的画图工具](https://mp.weixin.qq.com/s/t92aadaH1Os9vDPBI-rv8Q)
+* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english)
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN)
 * [10款程序员常用的API管理工具](https://mp.weixin.qq.com/s/i9WwbP8r2BJ3-fPGYbM_fg)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
