@@ -903,6 +903,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 * [值得推荐的4款免费且功能强大的在线文档工具](https://mp.weixin.qq.com/s/Gdm2wHhiLB9I7ib2Ue5ysA)
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
+* [2款简洁好用的在线代码变量命名利器，让命名不再烦恼！](https://mp.weixin.qq.com/s/NfH7CtUqnLEtzoV7B5PUkw)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
 * [一个纯净无广、原版操作系统、开发人员工具、服务器等资源免费下载的网站](https://mp.weixin.qq.com/s/3_YXIH_D4-iE3q80FC3kkg)
 
