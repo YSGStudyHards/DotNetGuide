@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 4月
+### 第 35 期（2025年4.14-4.20）
+#### Visual Studio 2022 v17.13新版发布：强化稳定性和安全，助力 .NET 开发提效！
+- **文章简介：** 今天大姚带领大家一起来看看 Visual Studio 2022 v17.13 新版发布都更新了哪些新功能，为我们开发工作带来了哪些便利，是否真的值得我们花费时间把 Visual Studio 2022 更新到最新版本。
+- **文章地址：** https://mp.weixin.qq.com/s/tAgn_4ImjHlojWTgLDdlpw
+
+#### 一个开源的 Blazor 跨平台入门级实战项目
+- **文章简介：** YourWeather是一个开源（MIT license）、免费的 Blazor 跨平台入门级实战项目，多个项目共用一个Rcl（Razor类库），通过天气API获取当前天气和天气预报，具有多个天气源（高德地图、和风天气 、心知天气等），也可以选择指定位置的天气。
+- **文章地址：** https://mp.weixin.qq.com/s/QqG5c26IpfFQT046qmZHdg
+
+#### 加入 .NET 与 C# 团队，共赴 2025 年 Microsoft Build
+- **文章简介：** 微软 Build 2025 的倒计时已经开始！呼吁所有.NET 开发者：准备好享受令人兴奋的.NET 和 C#内容。无论你是经验丰富的老手还是初学者，这里都有适合每个人的内容可以深入探索和享受。不要错过这次学习并与.NET 和微软社区其他成员建立联系的机会。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/join-us-at-build-2025/
+
+#### .NET AI 模板 Preview 2 现已发布
+- **文章简介：** 我们非常高兴地宣布，.NET AI Chat Web App 模板的第二个预览版现已推出！这次更新带来了令人兴奋的新功能，包括对.NET Aspire 的支持以及在使用.NET Aspire 时与 Qdrant 向量数据库的集成，这使得创建云原生 AI 聊天应用变得更加容易。我们的.NET AI 模板继续作为我们简化.NET AI 开发的持续努力的一部分，通过在 Visual Studio、Visual Studio Code 和.NET CLI 中提供脚手架和指导。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview2
+
+#### Hangfire Redis 实现秒级定时任务、使用 CQRS 实现动态执行代码
+- **文章简介：** 在微服务架构中中，定时任务是最常用的基础设施组件之一，社区中有很多定时任务类库或平台，例如 Quartz.NET、xxx-job，使用方法差异很大，比如 xxx-job 的核心是 http 请求，配置定时任务实现 http 请求具体的接口，不过用起来还是比较复杂的。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/18832422
+
+#### 使用 StreamJsonRpc 在 ASP.NET Core 中启用 JSON-RPC
+- **文章简介：** StreamJsonRpc 是微软开发的一个开源库，用于在 .NET 平台中实现基于 JSON-RPC 2.0 规范 的远程过程调用（RPC）。它通过流（如管道、网络流等）实现高效的跨进程或跨网络通信，特别适用于需要轻量级、灵活通信的场景。
+- **文章地址：** https://mp.weixin.qq.com/s/00WA_krKeo79KAc6le5G5A
+
+#### 一款基于 .NET 开源、美观的桌面端餐饮管理系统
+- **文章简介：** 蜀味正道是一款基于 .NET 开源、美观、全面高效的桌面端餐饮管理系统，该系统是专门针对餐饮行业开发的桌面应用程序，旨在提供高效、便捷的餐饮管理服务。
+- **文章地址：** https://mp.weixin.qq.com/s/pSzCRs_Z_lNooYHagGYaDQ
+
+#### 推荐 3 款 .NET 开源免费、功能强大的内网穿透工具
+- **文章简介：** 今天大姚给大家推荐 3 款 .NET 开源免费、功能强大、跨平台的内网穿透工具。
+- **文章地址：** https://mp.weixin.qq.com/s/2sGP4TBcg4j86zOvDCuHKw
+
+#### C# OnnxRuntime部署DAMO-YOLO香烟检测
+- **文章简介：** C# OnnxRuntime部署DAMO-YOLO香烟检测。
+- **文章地址：** https://mp.weixin.qq.com/s/f1G72xA_gqnCMiPSLVMg6g
+
+#### 记一次 .NET某固高运动卡测试 卡慢分析
+- **文章简介：** 记一次 .NET某固高运动卡测试 卡慢分析。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18824441
+
+#### 解锁.NET 9性能优化黑科技：从内存管理到Web性能的最全指南
+- **文章简介：** .NET 9为开发者带来了一系列强大的性能优化工具和改进，涵盖内存管理、异步编程、代码执行效率和 Web 应用性能等多个方面。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18830657
+
+#### .NET 原生驾驭 AI 新基建实战系列（三）：Chroma ── 轻松构建智能应用的向量数据库
+- **文章简介：** .NET 原生驾驭 AI 新基建实战系列（三）：Chroma ── 轻松构建智能应用的向量数据库。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18826233
+
+#### surging 集成SuperSocket预发布版本2.0
+- **文章简介：** 周末在家试着扩展SuperSocket，因为之前都是只支持.net framework, 后面出现支持.NET CORE 的SuperSocket 2.0 ，然后集成进来和dotnetty 做下对比，dotnetty 有多强，我压测可以支持20w/s, 然后客户提供的服务器，通过外网压测网关，把上行速度50MB带宽的网络跑满了，引擎主机CPU只是在15%左右，完全没有跑满。然后再试试国人开发的SuperSocket看下性能怎么样。
+- **文章地址：** https://www.cnblogs.com/fanliang11/p/18824796
+
+#### C#关键字：in、out、ref、in T、out T、In、Out这些你都知道多少？ 
+- **文章简介：** C#关键字：in、out、ref、in T、out T、In、Out这些你都知道多少？ 
+- **文章地址：** https://www.cnblogs.com/caoruipeng/p/18821383
+
+
 ### 第 34 期（2025年4.7-4.13）
 #### DotNetGuide 突破了 8K + Star，努力打造C#/.NET/.NET Core全面的学习、工作、面试指南知识库！
 - **文章简介：** 转眼之间维护DotNetGuide（全面的C#/.NET/.NET Core学习、工作、面试指南知识库）已经持续超过了4年多的时间，Commit提交数也超过1400+，在前几天在 GitHub 上也突破了8k+ Star并且荣获GitHub C# 中文Trending月榜第一，这里由衷的感谢各位贡献者和社区小伙伴们的支持。
