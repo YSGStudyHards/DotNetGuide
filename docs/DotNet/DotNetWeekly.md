@@ -72,8 +72,8 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章简介：** 周末在家试着扩展SuperSocket，因为之前都是只支持.net framework, 后面出现支持.NET CORE 的SuperSocket 2.0 ，然后集成进来和dotnetty 做下对比，dotnetty 有多强，我压测可以支持20w/s, 然后客户提供的服务器，通过外网压测网关，把上行速度50MB带宽的网络跑满了，引擎主机CPU只是在15%左右，完全没有跑满。然后再试试国人开发的SuperSocket看下性能怎么样。
 - **文章地址：** https://www.cnblogs.com/fanliang11/p/18824796
 
-#### C#关键字：in、out、ref、in T、out T、In、Out这些你都知道多少？ 
-- **文章简介：** C#关键字：in、out、ref、in T、out T、In、Out这些你都知道多少？ 
+#### C#关键字：in、out、ref、in T、out T、[In]、[Out]这些你都知道多少？ 
+- **文章简介：** C#关键字 in、out、ref、in T、out T、[In]、[Out]这些你都知道多少？
 - **文章地址：** https://www.cnblogs.com/caoruipeng/p/18821383
 
 
