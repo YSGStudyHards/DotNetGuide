@@ -259,7 +259,7 @@
 
 ## 🥇C#/.NET/.NET Core开发实战教程
 ### 全面的.NET Core MongoDB入门到实战教程
-* [MongoDB从入门到实战之MongoDB简介](https://www.cnblogs.com/Can-daydayup/p/16797608.html)
+* [MongoDB从入门到实战之MongoDB简介](https://mp.weixin.qq.com/s/lYCp7Bsw1GBQQea7eK7Kew)
 * [MongoDB从入门到实战之MongoDB快速入门](https://www.cnblogs.com/Can-daydayup/p/16804415.html)
 * [MongoDB从入门到实战之Docker快速安装MongoDB](https://www.cnblogs.com/Can-daydayup/p/16838976.html)
 * [MongoDB从入门到实战之MongoDB工作常用操作命令](https://www.cnblogs.com/Can-daydayup/p/16840085.html)
