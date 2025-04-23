@@ -107,7 +107,7 @@
 * [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
-* [28款Visual Studio实用插件推荐](https://mp.weixin.qq.com/s/A5mMJZkcUMdfkJFNG7sEWQ)
+* [34款Visual Studio实用插件推荐](https://mp.weixin.qq.com/s/A5mMJZkcUMdfkJFNG7sEWQ)
 * [使用Visual Studio分析.NET Dump](https://mp.weixin.qq.com/s/JDCsr-sH1Z7jMEcxNfjbmg)
 * [使用Visual Studio调试 .NET源代码](https://mp.weixin.qq.com/s/LnFV2K2CoqiorArBM8XkDg)
 * [Visual Studio 2022 Git多存储库管理](https://mp.weixin.qq.com/s/-X04QR3rgXAubCnMVGJosQ)
