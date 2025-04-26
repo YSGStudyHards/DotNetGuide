@@ -261,7 +261,7 @@
 ### 全面的.NET Core MongoDB入门到实战教程
 * [MongoDB从入门到实战之MongoDB简介](https://mp.weixin.qq.com/s/lYCp7Bsw1GBQQea7eK7Kew)
 * [MongoDB从入门到实战之MongoDB快速入门](https://mp.weixin.qq.com/s/Y_iaK3047lJUavMQQNpRcg)
-* [MongoDB从入门到实战之Docker快速安装MongoDB](https://www.cnblogs.com/Can-daydayup/p/16838976.html)
+* [MongoDB从入门到实战之Docker快速安装MongoDB](https://mp.weixin.qq.com/s/YRbgLNe7sJ7hNyDTT1k63A)
 * [MongoDB从入门到实战之MongoDB工作常用操作命令](https://www.cnblogs.com/Can-daydayup/p/16840085.html)
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（1）-后端项目框架搭建](https://www.cnblogs.com/Can-daydayup/p/17020707.html)
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（2）-Swagger框架集成](https://www.cnblogs.com/Can-daydayup/p/17020885.html)
