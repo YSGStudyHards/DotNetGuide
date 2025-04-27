@@ -2038,8 +2038,8 @@
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  14 | [Adonis UI](https://github.com/benruehl/adonis-ui) | 一款为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
-|  16  | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本，一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
-|  17 |  |  |  |
+|  16 | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本，一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
+|  17 | [Extended.Wpf.Toolkit](https://github.com/xceedsoftware/wpftoolkit) | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 | https://github.com/xceedsoftware/wpftoolkit |
 |  18 |  |  |  |
 |  19 |  |  |  |
 |  20 |  |  |  |
