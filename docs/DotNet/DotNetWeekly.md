@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 4月
+### 第 36 期（2025年4.21-4.27）
+#### 精选 14 款 .NET 开源、功能强大的快速开发框架，提高开发生产效率、避免工作996！
+- **文章简介：** 选择一款全面且功能强大的快速开发框架能够帮助我们解决C#、.NET项目中的很多重复工作，从而提高开发生产效率、避免工作996。今天大姚给大家分享14款.NET开源、功能强大的快速开发框架，同学们可以按需选择适合自己的框架进行开发（注意，以下排名不分先后）。
+- **文章地址：** https://mp.weixin.qq.com/s/ga18sbN5bgIVtPUOsKx1xw
+
+#### 一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！
+- **文章简介：** Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。
+- **文章地址：** https://mp.weixin.qq.com/s/avLIWx6tmS5DLokzLLfurw
+
+#### 2025 年全面且实用的 Visual Studio 插件推荐，开发效率提升利器！
+- **文章简介：** 俗话说的好工欲善其事必先利其器，安装一些实用的 Visual Studio 插件对自己日常的开发和工作效率能够大大的提升，避免996从选一款好的 Visual Studio 实用插件开始。以下是大姚认为比较实用的 Visual Studio 插件希望对大家有用，大家有更好的插件推荐可在文末留言🤞。
+- **文章地址：** https://mp.weixin.qq.com/s/pPotUmbPPVWnF6F_jXvRIg
+
+#### AI Dev Gallery：基于.NET的本地人工智能开发入口
+- **文章简介：** AI Dev Gallery是一个 Windows 应用程序，它是一个使用.NET 进行 AI 开发的综合游乐场。它提供了您探索、实验和实现应用程序中 AI 功能所需的一切，而无需连接到云服务。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/
+
+#### dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径
+- **文章简介：** dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径。
+- **文章地址：** https://www.cnblogs.com/lindexi/p/18847625
+
+#### 一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云
+- **文章简介：** 一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云。
+- **文章地址：** https://www.cnblogs.com/deali/p/18848662
+
+#### C# 使用StackExchange.Redis实现分布式锁的两种方式
+- **文章简介：** C# 使用StackExchange.Redis实现分布式锁的两种方式。
+- **文章地址：** https://www.cnblogs.com/qwqwQAQ/p/18849019
+
+#### 【译】让多线程调试更有意义
+- **文章简介：** 调试复杂的程序常常感觉像是在迷宫般的线程和堆栈跟踪中跳转。理解线程行为和跟踪问题的挑战可能令人生畏，这会导致更长的开发时间和更大的挫败感。但是现在，有一个解决方案可以简化这个过程——在 Visual Studio 的并行堆栈窗口中引入 AI 驱动的线程摘要。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/18846145
+
+#### 基于Blazor实现的运输信息管理系统
+- **文章简介：** 运输信息管理系统（TIMS）是一个集手机端和PC端协同工作的小型运输服务公司的信息化系统，采用Blazor框架的Auto模式进行开发。
+- **文章地址：** https://www.cnblogs.com/known/p/18844645
+
+#### C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景
+- **文章简介：** C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18844112
+
+#### 在SqlSugar的开发框架中增加对低代码EAV模型（实体-属性-值）的WebAPI实现支持
+- **文章简介：** 在SqlSugar的开发框架中增加对低代码EAV模型（实体-属性-值）的WebAPI实现支持。
+- **文章地址：** https://www.cnblogs.com/wuhuacong/p/18842471
+
+#### .NET Core中的配置Configuration实战
+- **文章简介：** .NET Core中的配置Configuration实战。
+- **文章地址：** https://www.cnblogs.com/caoruipeng/p/18842001
+
+#### .NET 原生驾驭 AI 新基建实战系列（四）：Qdrant ── 实时高效的向量搜索利器
+- **文章简介：** .NET 原生驾驭 AI 新基建实战系列（四）：Qdrant ── 实时高效的向量搜索利器。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18840212
+
+#### 某公司原版.NET面试题，大家觉得难吗？
+- **文章简介：** 某公司原版.NET面试题解析。
+- **文章地址：** https://mp.weixin.qq.com/s/tbOEra1HygtmhzZoiuir0A
+
+
 ### 第 35 期（2025年4.14-4.20）
 #### Visual Studio 2022 v17.13新版发布：强化稳定性和安全，助力 .NET 开发提效！
 - **文章简介：** 今天大姚带领大家一起来看看 Visual Studio 2022 v17.13 新版发布都更新了哪些新功能，为我们开发工作带来了哪些便利，是否真的值得我们花费时间把 Visual Studio 2022 更新到最新版本。
