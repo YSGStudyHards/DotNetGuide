@@ -1376,9 +1376,11 @@
 |  1  | [Downloader](https://github.com/bezzad/Downloader) | Downloader是一个快速、跨平台且可靠的多部分下载器，具有适用于 .NET 应用程序的异步进度事件。 也是一个现代、流畅、异步、可测试和便携的 .NET 库，专门用于文件下载。它支持跨平台操作，可以在 Windows、Linux 和 macOS 上运行。Downloader 特别适合用于需要下载大文件或需要实时下载进度的应用程序。 | https://github.com/bezzad/Downloader |
 |  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
 |  3  | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | 蓝猫KoKo下载器（BlueCatKoKo）是一个基于C#语言编写的、免登录、简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。 | https://github.com/K12f/BlueCatKoKo |
-|  4  |  |  |  |
+|  4  | [downkyi](https://github.com/leiurayer/downkyi) | downkyi（哔哩下载姬）是一款基于 .NET 开源、简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，并输出mp4格式的文件。采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。 | https://github.com/leiurayer/downkyi |
 |  5  |  |  |  |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
