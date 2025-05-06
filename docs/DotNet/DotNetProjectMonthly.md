@@ -12,6 +12,56 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 4月
+### 公众号4月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年4月简报：** 
+
+### EverythingToolbar
+* **项目简介：** EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。
+* **项目源码地址：** https://github.com/srwi/EverythingToolbar
+* **项目详细介绍：** https://mp.weixin.qq.com/s/oouJHTJPKeT2dJEAt6NDGQ
+
+### MCP C# SDK
+* **项目简介：** MCP C# SDK 是由 Model Context Protocol（MCP）官方推出的 C# 软件开发工具包（SDK），它使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器进行交互。MCP是一个开放协议，它标准化了应用程序如何为大型语言模型（LLMs）提供上下文，并实现了 LLMs 与各种数据源和工具之间的安全集成。
+* **项目源码地址：** https://mp.weixin.qq.com/s/2ynU3wdFrj06cd_zccI5pg
+* **项目详细介绍：** https://github.com/modelcontextprotocol/csharp-sdk
+
+### JYX2
+* **项目简介：** JYX2一个基于 C# Unity 开发的金庸群侠传 3D 重制版是一个回合制战棋战斗开放世界RPG游戏，它是一个非盈利游戏项目，项目目标为重制经典游戏《金庸群侠传》（在线玩DOS原版）并支持后续一系列MOD和二次开发。你可以在PC、MAC或移动手机平台(或其他支持平台)游玩。
+* **项目源码地址：** https://github.com/jynew/jynew/tree/main/jyx2/Assets/Mods/JYX2
+* **项目详细介绍：** https://mp.weixin.qq.com/s/NZHLApJu0KvlkVNMIySlag
+
+### ApeVolo.Admin
+* **项目简介：** ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、更适用企业级系统开发，助力快速完成常规业务需求开发。
+* **项目源码地址：** https://github.com/xianhc/ApeVolo.Admin
+* **项目详细介绍：** https://mp.weixin.qq.com/s/TmJsAVSc_nfNd9f0Zh6YHA
+
+### TinyWall
+* **项目简介：** TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。
+* **项目源码地址：** https://github.com/pylorak/TinyWall
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Q2_GMFYbbKuxjBO8YNNO4Q
+
+### YourWeather
+* **项目简介：** YourWeather是一个开源（MIT license）、免费的 Blazor 跨平台入门级实战项目，多个项目共用一个Rcl（Razor类库），通过天气API获取当前天气和天气预报，具有多个天气源（高德地图、和风天气 、心知天气等），也可以选择指定位置的天气。
+* **项目源码地址：** https://github.com/Yu-Core/YourWeather
+* **项目详细介绍：** https://mp.weixin.qq.com/s/QqG5c26IpfFQT046qmZHdg
+
+### Quasar
+* **项目简介：** Quasar是一个.NET开源、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。
+* **项目源码地址：** https://github.com/quasar/Quasar
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ppB41HVLFmisdLO07OIsMQ
+
+### FastTunnel
+* **项目简介：** FastTunnel是一个.NET开源免费（Apache-2.0）、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。
+* **项目源码地址：** https://gitee.com/Hgui/FastTunnel
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2sGP4TBcg4j86zOvDCuHKw
+
+### Extended.Wpf.Toolkit
+* **项目简介：** Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。
+* **项目源码地址：** https://github.com/xceedsoftware/wpftoolkit
+* **项目详细介绍：** https://mp.weixin.qq.com/s/avLIWx6tmS5DLokzLLfurw
+
+
 ## 3月
 ### 公众号3月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年3月简报：** https://mp.weixin.qq.com/s/6pn76VrpM9RFm4qylQe1Bw
