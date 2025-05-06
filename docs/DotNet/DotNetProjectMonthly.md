@@ -14,7 +14,7 @@
 # 2025年
 ## 4月
 ### 公众号4月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年4月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年4月简报：** https://mp.weixin.qq.com/s/ItUqROEL0OV13Iwpkgxy7A
 
 ### EverythingToolbar
 * **项目简介：** EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。
@@ -23,8 +23,8 @@
 
 ### MCP C# SDK
 * **项目简介：** MCP C# SDK 是由 Model Context Protocol（MCP）官方推出的 C# 软件开发工具包（SDK），它使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器进行交互。MCP是一个开放协议，它标准化了应用程序如何为大型语言模型（LLMs）提供上下文，并实现了 LLMs 与各种数据源和工具之间的安全集成。
-* **项目源码地址：** https://mp.weixin.qq.com/s/2ynU3wdFrj06cd_zccI5pg
-* **项目详细介绍：** https://github.com/modelcontextprotocol/csharp-sdk
+* **项目源码地址：** https://github.com/modelcontextprotocol/csharp-sdk
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2ynU3wdFrj06cd_zccI5pg
 
 ### JYX2
 * **项目简介：** JYX2一个基于 C# Unity 开发的金庸群侠传 3D 重制版是一个回合制战棋战斗开放世界RPG游戏，它是一个非盈利游戏项目，项目目标为重制经典游戏《金庸群侠传》（在线玩DOS原版）并支持后续一系列MOD和二次开发。你可以在PC、MAC或移动手机平台(或其他支持平台)游玩。
