@@ -67,6 +67,9 @@
 * [面试官问：你知道 C# 单例模式有哪几种常用的实现方式？](https://mp.weixin.qq.com/s/KmsCsE98byOaPGCheaNZxA)
 * [由 MCP 官方推出的 C# SDK，使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器交互！](https://mp.weixin.qq.com/s/2ynU3wdFrj06cd_zccI5pg)
 * [C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s/dYJLNMqaGGO9tLdODot9vg)
+* [C#中LINQ基础：101个常用LINQ操作](https://mp.weixin.qq.com/s/QpDyA45WFlPLvxM1sy2O8Q)
+* [一款基于 .NET 开源的多功能的 B 站视频下载工具](https://mp.weixin.qq.com/s/AGZ3H3tdMhfeg2C0qBTjzQ)
+* [C# 14 新增功能一览，你觉得实用吗？](https://mp.weixin.qq.com/s/83fmF_bjP-XCmlTP7Kc5Sg)
 
 ## .NET/.NET Core相关
 * [C#正则表达式快速入门](https://mp.weixin.qq.com/s/HnC-2em8YGuIau1EulNRKw)
@@ -209,6 +212,7 @@
 * [C# WPF IoTClient与三菱PLC通讯详解](https://mp.weixin.qq.com/s/8zH_K-8rEfQw4z6rYDc5Eg)
 * [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s/qNmPkyK8D9OQEAp2MXiAzg)
 * [一款基于 WPF 开源、功能全面的串口调试工具](https://mp.weixin.qq.com/s/cAb5GExmhU0_6mw-M3iHRA)
+* [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！](https://mp.weixin.qq.com/s/avLIWx6tmS5DLokzLLfurw)
 
 ## WinForm相关
 * [一个超经典 WinForm 卡死的最后一次反思](https://mp.weixin.qq.com/s/9bSINvK9Ioh0BsYkfIlPkg)
@@ -219,6 +223,7 @@
 * [开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行](https://mp.weixin.qq.com/s/smWkYnZT4NLUmw3W1XGbOw)
 * [一个超经典WinForm,WPF卡死问题的终极反思](https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q)
 * [一个基于C# Winform开源免费的通用快速开发框架，内置完整的权限架构！](https://mp.weixin.qq.com/s/Lk_HBmznE18db8czj_Lrtg)
+* [分享5款开源、美观的 WinForm UI 控件库](https://mp.weixin.qq.com/s/hBrm3J1zPMEPvPTuMSwKYg)
 
 ## Blazor相关
 * [C#开源免费的Blazor图表库](https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw)
@@ -227,6 +232,7 @@
 * [在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
 * [Ant Design Blazor前端框架搭建](https://mp.weixin.qq.com/s/W98huzk2oYtco3xwtm3NEA)
 * [BootstrapBlazor UI组件库引入](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+* [一个开源的 Blazor 跨平台入门级实战项目](https://mp.weixin.qq.com/s/QqG5c26IpfFQT046qmZHdg)
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
 * [基于Bootstrap Blazor开源的.NET通用后台权限管理系统](https://mp.weixin.qq.com/s/M1Ga5iO7oYdc9l8pBWD8tA)
 * [一套基于 Ant Design 和 Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g)
