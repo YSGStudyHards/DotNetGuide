@@ -933,9 +933,9 @@
 #### 应用监控系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Opserver](https://github.com/Opserver/Opserver) | 一款Stack Overflow基于.NET开源（遵循MIT License开源协议）的轻量级监控系统，它可以独立监控多个系统，支持提取有关 CPU、内存、网络和硬件的统计数据。 并且支持跨平台部署（包括 Windows，macOS，Linux）。 | https://github.com/Opserver/Opserver |
-|  2  | [DotNetify-Pulse](https://github.com/dsuryd/dotNetify-Pulse) | DotNetify-Pulse 是一个基于 .NET 开发的开源、轻量级实时监控项目，通过 Nuget 安装后可以监控服务的日志活动和资源使用情况，DotNetify-Pulse 使用了 SignalR 进行前后端数据交互， 监控页面支持实时刷新。 | https://github.com/dsuryd/dotNetify-Pulse |
-|  3  | [WatchDog](https://github.com/IzyPro/WatchDog) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。 | https://github.com/IzyPro/WatchDog |
+|  1  | [WatchDog](https://github.com/IzyPro/WatchDog) | WatchDog 是一个开源（MIT License）、免费、针对 ASP.Net Core Web 应用程序和 API 的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、HTTP请求和响应，以及运行时捕获的异常。 | https://github.com/IzyPro/WatchDog |
+|  2  | [Opserver](https://github.com/Opserver/Opserver) | Opserver 是一款由 Stack Overflow 技术社区基于 .NET 开源（遵循MIT License开源协议）的轻量级监控系统，它可以独立监控多个系统，支持提取有关 CPU、内存、网络和硬件的统计数据，并且支持跨平台部署（包括 Windows，macOS，Linux）。 | https://github.com/Opserver/Opserver |
+|  3  | [DotNetify-Pulse](https://github.com/dsuryd/dotNetify-Pulse) | DotNetify-Pulse 是一个基于 .NET 开发的开源、轻量级实时监控项目，通过 Nuget 安装后可以监控服务的日志活动和资源使用情况，DotNetify-Pulse 使用了 SignalR 进行前后端数据交互， 监控页面支持实时刷新。 | https://github.com/dsuryd/dotNetify-Pulse |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
