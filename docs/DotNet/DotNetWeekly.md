@@ -18,6 +18,89 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 5月
+### 第 37 期（2025年5.1-5.11）
+#### 在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！
+- **文章简介：** Sqids 是一个基于 C# 编写、开源的轻量级工具库，它允许你从数字生成类似 YouTube 的 ID。它可以将数字（如 127）编码为字符串（如 yc3），然后你可以将这些字符串解码回原始数字。当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。
+- **文章地址：** https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g
+
+#### C#/.NET/.NET Core优秀项目和框架2025年4月简报
+- **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：追逐时光者，第一时间获取每周精选分享资讯🔔）。
+- **文章地址：** https://mp.weixin.qq.com/s/ItUqROEL0OV13Iwpkgxy7A
+
+#### C# 14 新增功能一览，你觉得实用吗？
+- **文章简介：** 今天咱们一起来看看在 C# 14 中新增的几个功能特性，是否给我们日常编码带了来便利。
+- **文章地址：** https://mp.weixin.qq.com/s/83fmF_bjP-XCmlTP7Kc5Sg
+
+#### FluentTerminal：一个基于 UWP 开发的现代化 Windows 终端应用
+- **文章简介：** FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的现代化 Windows 终端应用，旨在为用户提供高度可定制、功能丰富的终端体验。通过其强大的自定义主题模块，用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、内置 SSH 和 Mosh 连接支持。
+- **文章地址：** https://mp.weixin.qq.com/s/HxPTRAk1Zq4-aWZ9clcXsw
+
+#### 分享 2 款基于 .NET 开源的实时应用监控系统
+- **文章简介：** 在现代软件开发和运维管理中，实时应用监控系统扮演着至关重要的角色。它们能够帮助开发者和运维人员实时监控应用程序的状态，及时发现并解决问题，从而确保应用的稳定性和可靠性。今天大姚给大家分享 2 款基于.NET 开源的实时应用监控系统，希望可以为大家提供一些有效的监控解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/TqENSADTTb1yG274dJC3QQ
+
+#### 一个包含 80+ C#/.NET 编程技巧实战练习开源项目！
+- **文章简介：** C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+- **文章地址：** https://mp.weixin.qq.com/s/pazQ3bfyI6maepGjpOw1Ow
+
+#### 为什么我们用 C# 构建了我们的创业公司
+- **文章简介：** 当我们开始构建 Tracebit——一款面向 B2B SaaS 安全产品时，我早期做出的一个关键决定是选择一种编程语言。虽然许多初创公司倾向于选择 Python、TypeScript、Golang 或 Rust，但我选择了不同的道路：C#。我之前已经相当多地写过关于这个决定的内容，我想在这里分享一些亮点。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp/
+
+#### C# 14 – 探索扩展成员
+- **文章简介：** C# 14 引入了扩展成员。C# 长期以来就有了扩展方法，新的扩展成员语法则在此基础上构建了这个熟悉的特性。最新的预览版增加了静态扩展方法和实例及静态扩展属性。我们未来将发布更多种类的成员。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/
+
+#### C# 线程安全集合 Concurrent
+- **文章简介：** 最近看一些代码的时候，发现有人用 System.Collections.Concurrent 下的 BlockingCollection 很便利的实现了生产者 - 消费者模式，这是之前没有注意到的，之前只关注过 ConcurrentQueue<T> 、ConcurrentStack<T> 或 ConcurrentBag<T>这些并发队列，并发堆栈，并发包相关的使用，正好好奇 BlockingCollection的用法，本次将 System.Collections.Concurrent 下的所有用法都实践一下
+- **文章地址：** https://www.cnblogs.com/pandefu/p/18864569
+
+#### 一个基于 WPF 开源、美观的通用上位机程序框架
+- **文章简介：** Cheems上位机框架是一个基于WPF（Windows Presentation Foundation）技术构建的开源、通用上位机程序框架，旨在提供一个高效、可扩展、易于维护的开发平台，用于快速构建各类工业自动化、设备监控、数据采集与分析等上位机应用。
+- **文章地址：** https://mp.weixin.qq.com/s/ZhfhfaHorHoHxn0sSRG2dA
+
+#### 一款基于 .NET 开源的多功能的 B 站视频下载工具
+- **文章简介：** downkyi（哔哩下载姬）是一款基于 .NET 开源、简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，并输出mp4格式的文件。采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。
+- **文章地址：** https://mp.weixin.qq.com/s/AGZ3H3tdMhfeg2C0qBTjzQ
+
+#### 分享5款开源、美观的 WinForm UI 控件库
+- **文章简介：** 今天大姚给大家分享5款开源、美观的 WinForm UI 控件库，助力让我们的 WinForm 应用更好看。
+- **文章地址：** https://mp.weixin.qq.com/s/hBrm3J1zPMEPvPTuMSwKYg
+
+#### 如何反向绘制出 .NET程序 异步方法调用栈
+- **文章简介：** 如何反向绘制出 .NET程序 异步方法调用栈。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18871528
+
+#### 如何把ASP.NET Core WebApi打造成Mcp Server
+- **文章简介：** MCP (Model Context Protocol)即模型上下文协议目前不要太火爆了，关于它是什么相信大家已经很熟悉了。目前主流的AI开发框架和AI工具都支持集成MCP，这也正是它的意义所在。毕竟作为一个标准的协议，当然是更多的生态接入进来才会有意义。使用MCP我们可以把Tools调用标准化，这意味着我们可以忽略语言、框架快速把工具融合到不同的模型中去。现在，如何把现有的业务逻辑快速的接入到模型中，成为模型落地很关键的一步，今天我们就借助微软的Semantic Kernel和Microsoft.Extensions.AI框架，通过简单的示例展示，如何把现有的ASP NET Core WebApi转换成MCP Server。
+- **文章地址：** https://www.cnblogs.com/wucy/p/18864044/dotnet_webapi_mcp
+
+#### .net core workflow流程定义
+- **文章简介：** .net core workflow流程定义。
+- **文章地址：** https://www.cnblogs.com/wikeflow/p/18868313
+
+#### c#开发完整的Socks5代理客户端与服务端——客户端（已完结）
+- **文章简介：** c#开发完整的Socks5代理客户端与服务端——客户端（已完结）。
+- **文章地址：** https://www.cnblogs.com/qwqwQAQ/p/18867762
+
+#### 使用C#构建一个同时问多个LLM并总结的小工具 
+- **文章简介：** 使用C#构建一个同时问多个LLM并总结的小工具 。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18866486
+
+#### 【译】Visual Studio Hub 介绍
+- **文章简介：** 这就是为什么我们创建了 Visual Studio Hub——一个帮助您快速找到最重要内容的单一目的地。无论您是在寻找最新的功能、GitHub Copilot 资源、即将举行的活动，还是我们产品团队的专家见解，Visual Studio Hub 都可以轻松地与 Visual Studio 生态系统中发生的一切保持联系。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/18864220
+
+#### .NET + AI | Semantic Kernel vs Microsoft.Extensions.AI
+- **文章简介：** Microsoft.Extensions.AI 在 .NET AI 应用架构中的定位示意图：应用程序通过 Microsoft.Extensions.AI 调用下层各种 AI 服务（如 Semantic Kernel、OpenAI、Ollama 等），其核心由 Microsoft.Extensions.AI.Abstractions 提供统一接口。
+- **文章地址：** https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai
+
+#### .NET 原生驾驭 AI 新基建实战系列（六）：Pinecone ── 托管向量数据库的向量数据库的云原生先锋
+- **文章简介：** 本文将深入介绍 Pinecone 的背景、特点及其优势，并结合 GitHub 上 Semantic Kernel 的单元测试文件 PineconeMemoryStoreTests.cs，详细讲解 Pinecone 在 Semantic Kernel 中的集成和使用方法。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18860998
+
+
 ## 4月
 ### 第 36 期（2025年4.21-4.27）
 #### 精选 14 款 .NET 开源、功能强大的快速开发框架，提高开发生产效率、避免工作996！
