@@ -300,7 +300,7 @@
 * [全面的.NET微信网页开发之JS-SDK使用步骤、配置信息和接口请求签名生成详解](https://mp.weixin.qq.com/s/zlSKXQg8IgzEFC-7v-Gngg)
 * [.NET微信网页开发之通过UnionID机制解决多应用用户帐号统一问题](https://mp.weixin.qq.com/s/XiFxwEREJxmOuFLwZzDBww)
 * [.NET微信网页开发之网页授权获取用户基本信息](https://mp.weixin.qq.com/s/5eGEt1JEVKflsR360NexHA)
-* [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/7hC-DrELYJiz8YUt06WxKw)
+* [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://www.cnblogs.com/Can-daydayup/p/11135983.html)
 * [.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
 * [.NET微信网页开发之使用微信JS-SDK获取当前地理位置](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
 
@@ -801,7 +801,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
 * [前端3+1面试题库](https://github.com/haizlin/fe-interview)
 * [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
-* [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
+* [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://segmentfault.com/a/1190000016496448)
 * [最新前端面试中常见的面试题（附答案）](https://blog.csdn.net/Jet_Lover/article/details/115637795)
 * [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
 * [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
