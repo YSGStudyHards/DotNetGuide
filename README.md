@@ -910,7 +910,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer)
 * [2款简洁好用的在线代码变量命名利器，让命名不再烦恼！](https://mp.weixin.qq.com/s/NfH7CtUqnLEtzoV7B5PUkw)
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide)
-* [一个纯净无广、原版操作系统、开发人员工具、服务器等资源免费下载的网站](https://mp.weixin.qq.com/s/3_YXIH_D4-iE3q80FC3kkg)
+* [一个纯净无广、原版操作系统、服务器等资源免费下载的网站](https://mp.weixin.qq.com/s/3_YXIH_D4-iE3q80FC3kkg)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
