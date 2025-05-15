@@ -163,6 +163,8 @@
 * [五分钟教你使用GitHub寻找优质开源项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
 * [详细概述Gitee和GitHub生成/添加SSH公钥](https://mp.weixin.qq.com/s/B84wXcX_AlTfCphcL_4MHA)
 * [30分钟快速搭建并部署一个免费的个人博客](https://mp.weixin.qq.com/s/x7uZvQvtipr2wbNzxqJ5Ng)
+* [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
+* [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
@@ -482,6 +484,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg)
 * [分享 5 个在微信中使用 DeepSeek 的方法，建议收藏！](https://mp.weixin.qq.com/s/D62jLkvDqxiIOiaxan80qA)
 * [DeepSeek 官方推出的实用集成工具百宝箱，建议收藏！](https://mp.weixin.qq.com/s/mtdtty99MGIlcOv9rJLRnQ)
+* [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
 * [北京大学DeepSeek系列教程：《DeepSeek与AIGC应用》](https://mp.weixin.qq.com/s/r901bHIDrsd77B0yRI1Nuw)
