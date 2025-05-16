@@ -72,7 +72,7 @@
   * [学校管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AD%A6%E6%A0%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [开源协作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   * [酒店管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
-  * [阅读应用系统]()
+  * [阅读应用系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F)
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -1025,8 +1025,8 @@
 #### 阅读应用系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1 | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
-|  2  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
+|  1  | [Kavita](https://github.com/Kareadita/Kavita) | 一个基于.NET开源的快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏。 | https://github.com/Kareadita/Kavita |
+|  2  | [CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) | 一款.NET开源、免费、简洁易用的Windows桌面小说阅读应用(是原生的 Windows 应用，为 Windows 11 系统设计)。 | https://github.com/Clean-Reader/CleanReader.Desktop |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
