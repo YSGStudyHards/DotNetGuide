@@ -1444,7 +1444,7 @@
 |  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://github.com/genrwoody/vs_file_encoding |
 |  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 | https://github.com/Klocman/Bulk-Crap-Uninstaller |
 |  30  | [TinyWall](https://github.com/pylorak/TinyWall) | TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。 | https://github.com/pylorak/TinyWall |
-|  31  |  |  |  |
+|  31  | [FluentTerminal](https://github.com/felixse/FluentTerminal) | FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的现代化 Windows 终端应用，旨在为用户提供高度可定制、功能丰富的终端体验。通过其强大的自定义主题模块，用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、内置 SSH 和 Mosh 连接支持。 | https://github.com/felixse/FluentTerminal |
 |  32  |  |  |  |
 |  33  |  |  |  |
 |  34  |  |  |  |
@@ -1985,10 +1985,20 @@
 |  14  | [SmartFormat](https://github.com/axuno/SmartFormat) | SmartFormat是一个用 C# 编写的轻量级文本模板库，可以直接替代string.Format 。不仅如此， SmartFormat还可以使用命名占位符、列表、本地化、复数和其他智能扩展来格式化数据。 | https://github.com/axuno/SmartFormat |
 |  15  | [MethodTimer](https://github.com/Fody/MethodTimer) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 | https://github.com/Fody/MethodTimer |
 |  16  | [aws-sdk-net](https://github.com/aws/aws-sdk-net) | 适用于 .NET 的 AWS 开发工具包使 .NET 开发人员能够轻松使用 Amazon Web Services，并使用 Amazon S3、Amazon DynamoDB、Amazon Glacier 等构建可扩展的解决方案。 | https://github.com/aws/aws-sdk-net |
-|  17  |  |  |  |
-|  18  |  |  |  |
+|  17  | [Sqids](https://github.com/sqids/sqids-dotnet) | Sqids 是一个基于 C# 编写、开源的轻量级工具库，它允许你从数字生成类似 YouTube 的 ID。它可以将数字（如 127）编码为字符串（如 yc3），然后你可以将这些字符串解码回原始数字。当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。 | https://github.com/sqids/sqids-dotnet |
+|  18  | [Hashids](https://github.com/ullmark/hashids.net) | 一个用于从一个或多个数字生成类似 YouTube 的哈希的小型 .NET 包。当您不想将数据库 ID 显示给用户时，可以使用 Hashids。 | https://github.com/ullmark/hashids.net |
 |  19  |  |  |  |
 |  20  |  |  |  |
+|  21  |  |  |  |
+|  22  |  |  |  |
+|  23  |  |  |  |
+|  24  |  |  |  |
+|  25  |  |  |  |
+|  26  |  |  |  |
+|  27  |  |  |  |
+|  28  |  |  |  |
+|  29  |  |  |  |
+|  30  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
