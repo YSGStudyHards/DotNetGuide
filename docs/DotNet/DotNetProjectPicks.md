@@ -1617,9 +1617,9 @@
 #### .NET支付SDK
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay) | Magicodes.Pay，是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。 | https://github.com/xin-lai/Magicodes.Pay |
-|  2  | [paylink](https://github.com/essensoft/paylink) | 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。 | https://github.com/essensoft/paylink |
-|  3  | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | https://github.com/Varorbc/PaySharp |
+|  1  | [Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay) | Magicodes.Pay 是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。 | https://github.com/xin-lai/Magicodes.Pay |
+|  2  | [Paylinks](https://github.com/essensoft/paylinks) | Paylinks 是一套基于 现代 .NET 开发，支持跨平台、多商户的第三方支付SDK。为简化开发者接入第三方支付平台而设计的SDK，支持支付宝和微信支付，便于快速集成支付功能。 | https://github.com/essensoft/paylinks |
+|  3  | [PaySharp](https://github.com/Varorbc/PaySharp) | PaySharp 是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 | https://github.com/Varorbc/PaySharp |
 |  4 |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
