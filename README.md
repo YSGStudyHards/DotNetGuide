@@ -835,6 +835,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [10款实用便捷的Git可视化管理工具](https://mp.weixin.qq.com/s/18J-YoEArJS_rCxkx4-D5w)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
+* [实际工作中 Git Commit 代码提交规范是什么样的？](https://mp.weixin.qq.com/s/6JhVIpS1smXoYhRyfSbbtg)
 * [Git入门图文教程(1.5W字40图)--深入浅出、图文并茂](https://mp.weixin.qq.com/s/I6LgkVPJFwopnYeANq3uOQ)
 * [Visual Studio使用Git忽略不想上传到远程仓库的文件](https://mp.weixin.qq.com/s/T2Ya3NWlv1gQN7_FQcHWnw)
 * [在开发过程中使用git rebase还是git merge，优缺点分别是什么？](https://mp.weixin.qq.com/s/31p8oXyKJW7T2_0grcE7HQ)
