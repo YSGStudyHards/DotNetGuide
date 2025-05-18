@@ -19,6 +19,56 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 5月
+### 第 38 期（2025年5.12-5.18）
+#### 再也不用为找项目发愁了，C#/.NET/.NET Core优秀项目和框架精选值得你拥有！
+- **文章简介：** 你还在为如何找到优质的C#/.NET/.NET Core项目和框架发愁吗？今天大姚给大家推荐一个收录了非常多优秀的C#/.NET/.NET Core项目和框架的宝藏资源，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的C#/.NET/.NET Core优秀项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，都能为你提供有价值的参考和指导。关注优秀项目和框架精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。
+- **文章地址：** https://mp.weixin.qq.com/s/WBcq-M5CeM7Zj3O42k-qdA
+
+#### 一款基于 .NET 开源、可以拦截并修改 WinSock 封包的 Windows 软件
+- **文章简介：** WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。
+- **文章地址：** https://mp.weixin.qq.com/s/a2knh4wTPZqPPBq9ERArVg
+
+#### 【开源力荐】一款基于 Ant Design 风格开源、免费、现代化的 WinForm UI 界面库，全面支持AOT！
+- **文章简介：** AntdUI 是一个基于 Ant Design 设计语言的 WinForm UI 界面库，致力于将现代美观的前端设计风格带入到桌面应用程序中。该项目采用纯GDI绘图，不依赖任何图片资源，并全面支持AOT，最低兼容 .NET Framework 4.0。
+- **文章地址：** https://mp.weixin.qq.com/s/_rT6TD7tI-HicNsPtQ3M_g
+
+#### 一套基于 Bootstrap 和 .NET Blazor 的开源企业级组件库
+- **文章简介：** BootstrapBlazor 是一套基于 Bootstrap 和 Blazor 的开源（Apache License）、企业级组件库，无缝整合了 Bootstrap 框架与 Blazor 技术。它提供了一整套强大的工具，使开发者能够轻松创建响应式和交互式的 Web 应用程序，喜欢 Bootstrap 风格的小伙伴推荐使用。
+- **文章地址：** https://mp.weixin.qq.com/s/cOPEdLj989f7YTKOeqK2lw
+
+#### 用 VS Code 编写、运行与调试 .NET 应用全攻略（macOS 跨平台支持）,非常的简单
+- **文章简介：** 随着 Visual Studio for Mac 将于 2024 年 8 月 31 日正式退役，微软推荐 C# 开发者转向跨平台的替代方案 —— Visual Studio Code（VS Code）。配合 C# Dev Kit 插件，VS Code 提供了完整的 .NET 开发、运行与调试体验。另外也有.NET开发者用惯VS而不太会用VS Code开发.NET。
+- **文章地址：** https://mp.weixin.qq.com/s/7PZ0N0xrwXzN2GWZVFGeKw
+
+#### .NET 10 Preview 4 现在可以使用了！
+- **文章简介：** 今天，我们很高兴宣布 .NET 10 的第四次预览发布，包括 .NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面的增强。请查看下方的完整发布说明，并立即开始使用。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4
+
+#### .NET 和.NET Framework 2025 年 5 月服务更新
+- **文章简介：** 欢迎来到我们 2025 年 5 月的.NET 服务更新。让我们深入了解.NET 和.NET Framework 的最新版本，以下是我们的服务更新中新增内容的快速概述。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates
+
+#### 在您的 .NET AI 应用中评估内容安全
+- **文章简介：** 我们很高兴地宣布，Microsoft.Extensions.AI.Evaluation.Safety 包已添加到 Microsoft.Extensions.AI.Evaluation 库中！这个新包提供了评估器，帮助您检测 AI 生成内容中的有害或敏感内容——例如仇恨言论、暴力、版权材料、不安全代码等。这些安全评估器由 Azure AI Foundry 评估服务提供支持，并设计为可以无缝集成到您现有的工作流程中，无论您是在本地运行单元测试中的评估，还是在 CI/CD 管道中自动执行离线评估检查。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety
+
+#### 理解 C# 中的各类指针
+- **文章简介：** 指针是一种特殊的变量，它存储了一个内存地址，这个内存地址代表了另一块内存的位置。指针指向的可以是一个变量、一个数组元素、一个对象实例、一块非托管内存、一个函数等。截止到发文为止，.NET 最新正式版本为 .NET 9，C# 最新正式版本为 C# 13。文中提及的 IL 代码可能会随编译器版本的不同而有所差异，仅供参考。本文将介绍到发文为止 C# 中的各类指针，并对比差异。
+- **文章地址：** https://www.cnblogs.com/eventhorizon/p/18873400
+
+#### 换个方式用C#开发微信小程序
+- **文章简介：** 前一阵子帮朋友开发个微信小程序，一开始使用Wechat Devtools开发，实在受不了转用uniapp开发。后来突发奇想能否将C#写的PixUI编译成WebAssembly，由微信小程序加载运行。先上网搜了下小程序使用blazor的文章，都是用WebView包了一下blazor应用，没有参考价值，还是自己动手实现吧。
+- **文章地址：** https://www.cnblogs.com/BaiCai/p/18877189
+
+#### 记一次ASP.NET CORE线上内存溢出问题与dotnet-dump的排查方法
+- **文章简介：** 记一次ASP.NET CORE线上内存溢出问题与dotnet-dump的排查方法。
+- **文章地址：** https://www.cnblogs.com/GuZhenYin/p/18879790
+
+#### dotnet-trace 分析.net程序性能
+- **文章简介：** 本文将介绍如何使用 dotnet-trace 工具进行 .NET Core 应用的性能跟踪，并结合 PerfView 和 Speedscope 等可视化工具，深入理解应用的运行状况。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18881181
+
+
 ### 第 37 期（2025年5.1-5.11）
 #### 在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！
 - **文章简介：** Sqids 是一个基于 C# 编写、开源的轻量级工具库，它允许你从数字生成类似 YouTube 的 ID。它可以将数字（如 127）编码为字符串（如 yc3），然后你可以将这些字符串解码回原始数字。当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。
