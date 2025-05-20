@@ -32,7 +32,6 @@
   * [反向代理框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E6%A1%86%E6%9E%B6)
   * [开源网关框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BD%91%E5%85%B3%E6%A1%86%E6%9E%B6)
   * [网络爬虫框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6)
-  * [内网穿透框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%A1%86%E6%9E%B6)
   * [依赖注入框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%A1%86%E6%9E%B6)
   * [开源缓存框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%BC%93%E5%AD%98%E6%A1%86%E6%9E%B6)
   * [开源游戏框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
@@ -102,6 +101,7 @@
   * [代码格式化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7)
   * [开源下载工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
   * [网络管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
+  * [内网穿透工具]()
   * [文件搜索工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
@@ -166,7 +166,7 @@
 |  6  | [ServiceStack](https://github.com/ServiceStack/ServiceStack) | 一个简单、快速、通用且高效的全功能 Web 和 Web 服务框架，其架构经过精心设计，可减少人工复杂性并通过基于消息的设计促进远程服务最佳实践，从而实现最大程度的重用利用集成服务网关创建松散耦合的模块化服务架构。 | https://github.com/ServiceStack/ServiceStack |
 |  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | JsonApiDotNetCore是一个用于构建符合JSON:API标准的RESTful API的框架，基于ASP.NET和Entity Framework Core，旨在通过提供排序、过滤、分页等现成功能来最大限度地减少样板代码，使开发者只需关注资源定义和业务逻辑实现，且其基于依赖注入的设计使扩展变得非常容易。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
 |  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
-|  9  |  |  |  |
+|  9  | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 | https://github.com/netcorepal/netcorepal-cloud-framework |
 |  10  |  |  |  |
 |  11  |  |  |  |
 |  12  |  |  |  |
@@ -410,7 +410,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [YARP (Yet Another Reverse Proxy) ](https://github.com/microsoft/reverse-proxy) | YARP (Yet Another Reverse Proxy) 是一个开源的反向代理项目，由微软推出并维护。它提供了一个灵活、高性能和可扩展的反向代理解决方案。YARP 的设计目标是为开发人员提供一个简单而强大的工具，用于构建和管理反向代理服务。它支持多种功能和特性，包括负载均衡、路由规则、请求转发、请求/响应修改、流量控制等。该项目采用基于配置的方式来定义反向代理的行为。通过简单的配置文件，您可以指定转发规则、负载均衡策略、路由规则以及其他扩展功能。这使得 YARP 可以适应不同类型的应用场景和需求。 | https://github.com/microsoft/reverse-proxy |
-|  2  |  |  |  |
+|  2  | [CYarp](https://github.com/xljiulang/CYarp) | CYarp是一组高性能的反向代理组件，用于将 NAT 或防火墙后面的多个本地 http 服务器公开到互联网。 目前支持HTTP/1.1 Upgrade、HTTP/2 Extended CONNECT、WebSocket和WebSocket over Http/2四种连接方式。 | https://github.com/xljiulang/CYarp |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -443,19 +443,6 @@
 |  2  | [SpiderEye](https://github.com/JBildstein/SpiderEye) | SpiderEye是一个基于.NET的Web爬虫框架，旨在为开发者提供构建高效、可扩展的网络爬虫的工具。与其他类似的框架相比，SpiderEye使用操作系统的原生webview而不是捆绑Chromium，从而提供更轻量级的解决方案。 | https://github.com/JBildstein/SpiderEye |
 |  3  | [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  | DotnetSpider是一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架。 | https://github.com/dotnetcore/DotnetSpider |
 |  4  | [Hawk](https://github.com/ferventdesert/Hawk) | Hawk是一个基于C#/WPF开发的开源ETL和爬虫流引擎，提供智能分析、可视化拖拽、并行处理和多格式支持等功能。 | https://github.com/ferventdesert/Hawk |
-|  5  |  |  |  |
-|  6  |  |  |  |
-
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
-
-#### 内网穿透框架
-|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
-| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [CYarp](https://github.com/xljiulang/CYarp) | CYarp是一组高性能的反向代理组件，用于将 NAT 或防火墙后面的多个本地 http 服务器公开到互联网。 目前支持HTTP/1.1 Upgrade、HTTP/2 Extended CONNECT、WebSocket和WebSocket over Http/2四种连接方式。 | https://github.com/xljiulang/CYarp |
-|  2  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费、跨平台的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
-|  3  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel是一个.NET开源免费（Apache-2.0）、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
-|  4  | [linker](https://github.com/snltty/linker) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）、跨平台、高性能的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -1212,7 +1199,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的Windows内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
 |  2  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
-|  3  |  |  |  |
+|  3  | [SophiApp](https://github.com/Sophia-Community/SophiApp) | SophiApp 是一个基于 .NET 开源、免费的应用程序，专为微调 Windows 10 和 Windows 11 系统而设计。它提供了一个现代的用户界面（UI/UX），包含了超过 130 项独特的调整选项，展示了如何在不影响 Windows 系统稳定性的前提下对其进行配置和优化。 | https://github.com/Sophia-Community/SophiApp |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
@@ -1412,6 +1399,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 内网穿透工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | NSmartProxy是一款.NET开源（MIT License）、免费、跨平台的内网穿透工具，采用.NET Core的全异步模式打造。 | https://github.com/tmoonlight/NSmartProxy |
+|  2  | [FastTunnel](https://gitee.com/Hgui/FastTunnel)  | FastTunnel是一个.NET开源免费（Apache-2.0）、高性能、跨平台的内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。 | https://gitee.com/Hgui/FastTunnel |
+|  3  | [linker](https://github.com/snltty/linker) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）、跨平台、高性能的异地组网和内网穿透工具，支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 | https://github.com/snltty/linker |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 文件搜索工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1457,7 +1457,7 @@
 |  27  | [TinyWall](https://github.com/pylorak/TinyWall) | TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。 | https://github.com/pylorak/TinyWall |
 |  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://github.com/genrwoody/vs_file_encoding |
 |  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 | https://github.com/Klocman/Bulk-Crap-Uninstaller |
-|  30  |  |  |  |
+|  30  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 | https://github.com/x-nas/WinsockPacketEditor |
 |  31  |  |  |  |
 |  32  |  |  |  |
 |  33  |  |  |  |
