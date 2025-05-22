@@ -195,6 +195,7 @@
 * [排查 EF 保存数据时提示：Validation failed for one or more entities 的问题](https://mp.weixin.qq.com/s/lopiYuOkMTAF9fS9f3Lqqg)
 * [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统 - ApeVolo.Admin](https://mp.weixin.qq.com/s/TmJsAVSc_nfNd9f0Zh6YHA)
 * [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s/gi35WPRGI5uHmaeAwK_MJQ)
+* [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
 
 ## WPF相关
 * [一个使用 WPF 开发的管理系统](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
