@@ -103,6 +103,7 @@
   * [网络管理工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
   * [内网穿透工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%B7%A5%E5%85%B7)
   * [文件搜索工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
+  * [开源画图工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1417,6 +1418,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [EverythingToolbar](https://github.com/srwi/EverythingToolbar) | EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。 | https://github.com/srwi/EverythingToolbar |
 |  2  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 开源画图工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [AIStudio.Wpf.Diagram](https://gitee.com/akwkevin/aistudio.-wpf.-diagram) | AIStudio.Wpf.Diagram 是一个使用 WPF 开发、开源（LGPL-3.0协议）的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor），该画板在 WPF-Diagram-Designer 的基础上进行的开发，UI界面框架使用的是Fluent.Ribbon。 | https://gitee.com/akwkevin/aistudio.-wpf.-diagram |
+|  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
