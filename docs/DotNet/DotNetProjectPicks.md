@@ -72,7 +72,7 @@
   * [开源协作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   * [酒店管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [阅读应用系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F)
-  * [量化交易平台]()
+  * [量化交易平台](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
