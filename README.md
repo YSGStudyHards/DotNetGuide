@@ -814,7 +814,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [开源实用的大屏数据展示模板](https://mp.weixin.qq.com/s/Aky1uQe3FnSlEy3YwjEWTw)
 * [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
-* [全网最全！1500+ 免费、美观的前端网页模板，建站神器](https://mp.weixin.qq.com/s/vkw_N10cYi58tK_fho6lmQ)
+* [全网最全！1500+ 免费、美观的前端网页模板](https://mp.weixin.qq.com/s/vkw_N10cYi58tK_fho6lmQ)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
