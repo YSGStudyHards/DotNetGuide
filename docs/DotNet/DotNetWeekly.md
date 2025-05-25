@@ -19,6 +19,76 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 5月
+### 第 39 期（2025年5.19-5.25）
+#### 精选 5 款开源、免费、美观的 .NET Blazor UI 组件库
+- **文章简介：** 今天大姚给大家分享 5 款开源、免费、美观的 .NET Blazor UI 组件库，希望可以帮助到有需要的小伙伴（注意：以下排名不分先后，都是十分优秀的 Blazor UI 组件库）。
+- **文章地址：** https://mp.weixin.qq.com/s/z2gMth_M2HWOz0st-5Shww
+
+#### 一个 .NET 开源、免费、使用简单的人脸识别库
+- **文章简介：** FaceRecognitionDotNet 是一个基于 .NET 开发的跨平台面部识别API，旨在为用户提供简单易用的面部识别功能。该项目通过将 face_recognition 库移植到 C#，实现了在 Windows、Linux 和 MacOS 上的跨平台支持。FaceRecognitionDotNet 提供了丰富的功能和示例代码，方便开发者快速上手和使用。
+- **文章地址：** https://mp.weixin.qq.com/s/s9m39IyrEOgzxMlCSUf_ZQ
+
+#### 一套基于 .NET 开发，支持跨平台、多商户的第三方支付SDK，助力快速集成支付功能！
+- **文章简介：** Paylinks 是一套基于现代 .NET 开发的，支持跨平台、多商户的第三方支付SDK。该项目旨在简化开发者接入第三方支付平台的过程，特别是针对支付宝和微信支付，便于快速集成支付功能。Paylinks 提供了丰富的配置选项和示例代码，以帮助开发者更快地上手和使用。
+- **文章地址：** https://mp.weixin.qq.com/s/kOSVpiKyXrYLH5GrKOLm1A
+
+#### 一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架
+- **文章简介：** netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。
+- **文章地址：** https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g
+
+#### .NET微信网页开发之使用微信JS-SDK自定义微信分享内容
+- **文章简介：** .NET微信网页开发之使用微信JS-SDK自定义微信分享内容。
+- **文章地址：** https://mp.weixin.qq.com/s/_E6TXunEPt9j6U-5836rZQ
+
+#### 一个使用 WPF 开发的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor）
+- **文章简介：** AIStudio.Wpf.Diagram 是一个使用 WPF 开发、开源（LGPL-3.0协议）的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor），该画板在 WPF-Diagram-Designer 的基础上进行的开发，UI界面框架使用的是Fluent.Ribbon。
+- **文章地址：** https://mp.weixin.qq.com/s/dAyNl_8vuKD1-qVvUY044g
+
+#### 微软正式发布 SQL Server 2025 公开预览版，深度集成AI功能
+- **文章简介：** 微软在今年的 Build 2025 大会上正式发布了 SQL Server 2025 公开预览版，标志着这一经典数据库产品在 AI 集成、安全性、性能及开发者工具方面的全面升级。
+- **文章地址：** https://mp.weixin.qq.com/s/eS6CR6X1TMy5H6YAnT1zxA
+
+#### 一个基于 C# 编写的事件驱动、具备专业水准的算法交易平台（量化交易引擎）
+- **文章简介：** Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。它允许开发者直接从终端管理项目、运行回测、部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。
+- **文章地址：** https://mp.weixin.qq.com/s/MDn-Z1TB3qQn7yqfcP5Eug
+
+#### 在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior
+- **文章简介：** 在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 Method 'get_LockReleaseBehavior' in type 'Pomelo.EntityFrameworkCore.MySql.Migrations.Internal.MySqlHistoryRepository' from assembly 'Pomelo.EntityFrameworkCore.MySql, Version=8.0.3.0, Culture=neutral, PublicKeyToken=2cc498582444921b' does not have an implementation。
+- **文章地址：** https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA
+
+#### 重磅消息，微软宣布 VS Code Copilot 开源，剑指 Cursor！
+- **文章简介：** 微软宣布重磅消息将把 GitHub Copilot Chat 扩展的代码以 MIT 许可证协议开源，然后将扩展中的 AI 功能重构到 VS Code 核心中，这一举措是为了将 VS Code 成为一个开源 AI 编辑器做准备！
+- **文章地址：** https://mp.weixin.qq.com/s/kzMB-x9BJydLjjCObbrriQ
+
+#### .NET Aspire 9.3 已经发布，并增强了 GitHub Copilot！
+- **文章简介：** 今天，我们非常激动地宣布 .NET Aspire 9.3 的发布！这次更新带来了许多质量改进、集成增强和 API 更新。我们最兴奋的是将 GitHub Copilot 的强大功能带到您的 .NET Aspire 仪表板中，帮助您在仪表板内分析应用程序、调试并改进它们。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93
+
+#### .NET 的全新低延时高吞吐自适应 GC - Satori GC
+- **文章简介：** .NET 的新低延时高吞吐自适应 GC —— Satori GC 仍然采用 Dijkstra 风格的写屏障设计，因此吞吐量性能仍然能够匹敌已有的 Server GC。另外，Satori GC 采用了分代、增量并发回收设计，所有与堆大小成比例的主要 GC 阶段都会与应用程序线程并发执行，完全不需要暂停应用程序，除了压缩过程之外。不过，压缩仅仅是 GC 可以执行但不是必须执行的一个可选项。例如 C++/Rust 的内存分配器也不会进行压缩，但仍能正常运行；Go 的 GC 也不会进行压缩。
+- **文章地址：** https://www.cnblogs.com/hez2010/p/18889954/the-new-satori-gc-for-dotnet
+
+#### .NET 10 进展之 CoreCLR Interpreter 
+- **文章简介：** 我们从前一阵子 Maui 几个被离职的Mono 工具链相关的微软员工来说起，通过现象看本质，这意味着.NET 10 将完成对Mono的完全替代。.NET 10 特性中有一个 @dotnet/runtime/issues/112158 CoreCLR Interpreter, 将 Mono 的解释器（interpreter）移植到 CoreCLR 的工作进展和目标。Mono 是 .NET 项目的一个实现，历史上以其解释器模式和嵌入式支持而闻名。将其解释器移植到 CoreCLR 的目标是为 CoreCLR 提供完整的解释器支持，包括运行测试套件和支持无 JIT/AOT（Just-In-Time 编译/提前编译）模式的全解释器模式。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18895698
+
+#### WinDbg 分析 .NET Dump 线程锁问题
+- **文章简介：** 在定位 .NET 应用程序中的高 CPU 占用问题时，WinDbg 是非常强大的工具之一，尤其配合 SOS 扩展使用可以快速锁定“忙线程”或死锁等问题。本文将基于一次实际的分析流程，演示如何一步步定位由线程锁引起的 CPU 高占用。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18894206
+
+#### SuperSocket 2.0 的发布标志着.NET Socket 服务器框架迈入了一个全新的时代
+- **文章简介：** SuperSocket 2.0 的发布标志着.NET Socket 服务器框架迈入了一个全新的时代。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18894166
+
+#### C#线程池核心技术：从原理到高效调优的实用指南
+- **文章简介：** 在现代软件开发中，多线程编程是提升应用程序性能的关键手段。随着多核处理器的普及，合理利用并发能力已成为开发者的重要课题。然而，线程的创建和销毁是一个昂贵的过程，涉及系统资源的分配与回收，频繁操作会导致性能瓶颈。线程池应运而生，通过预先创建并重用线程，线程池不仅降低了线程管理的开销，还能有效控制并发线程数量，避免资源耗尽。线程池（Thread Pool）作为多线程编程中的核心技术之一，它通过管理一组预创建的线程来执行任务，有效减少线程创建和销毁的开销，提升应用程序的性能和响应能力。在 .NET 中，System.Threading.ThreadPool 类为开发者提供了一个托管线程池，内置于 CLR（公共语言运行时）之中。它支持任务的异步执行、线程数量的动态调整以及状态监控，成为多线程编程的基础设施。无论是处理 Web 请求、执行后台任务，还是进行并行计算，线程池都能显著提升效率。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18886677
+
+#### 用 Sidecar 容器为 .NET Core 应用做诊断和性能分析 
+- **文章简介：** 用 Sidecar 容器为 .NET Core 应用做诊断和性能分析。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/18886607
+
+
 ### 第 38 期（2025年5.12-5.18）
 #### 再也不用为找项目发愁了，C#/.NET/.NET Core优秀项目和框架精选值得你拥有！
 - **文章简介：** 你还在为如何找到优质的C#/.NET/.NET Core项目和框架发愁吗？今天大姚给大家推荐一个收录了非常多优秀的C#/.NET/.NET Core项目和框架的宝藏资源，帮助开发者发现功能强大、性能优越、创新前沿、简单易用的C#/.NET/.NET Core优秀项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，都能为你提供有价值的参考和指导。关注优秀项目和框架精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。
