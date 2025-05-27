@@ -145,14 +145,15 @@
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
+* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
 * [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
 * [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
 * [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
 * [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
 * [免费AI编程助手：豆包MarsCode](https://www.marscode.cn/home)
 * [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
+* [AI 时代的智能编程伙伴：CodeBuddy](https://copilot.tencent.com)
 * [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
-* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
 
 ### GitHub
 * [GitHub漫游指南](https://github.com/phodal/github)
