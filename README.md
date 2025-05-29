@@ -130,7 +130,7 @@
 * [VS Code常用快捷键](https://mp.weixin.qq.com/s/BTja1gAsbWnPQ_b9uFr27g)
 * [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 * [Visual Studio Code的C#开发工具包](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
-* [22款Visual Studio Code实用插件推荐](https://mp.weixin.qq.com/s/Ud4ihBzPzjf3EZyqs0_jMA)
+* [37款Visual Studio Code实用插件推荐](https://mp.weixin.qq.com/s/Gen98f2ei9HzSbW1zRQHRw)
 * [VS Code使用Git可视化管理源代码详细教程](https://mp.weixin.qq.com/s/nvlLTMP-svb4vqpAvIjkWA)
 * [VS Code调试和发布ASP.NET Core Web应用](https://mp.weixin.qq.com/s/YxHpE1WljKWF6aZJkmBquA)
 * [VS Code安装C#开发工具包并编写ASP.NET Core Web应用](https://mp.weixin.qq.com/s/kKVPdxp9p-7QZ45XMosDWw)
