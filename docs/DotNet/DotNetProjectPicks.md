@@ -1478,7 +1478,7 @@
 |  20 | [PDFQFZ](https://github.com/flytkgl/PDFQFZ) | PDF加盖骑缝章的小工具。 | https://github.com/flytkgl/PDFQFZ |
 |  21 | [VPet](https://github.com/LorisYounger/VPet) | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 | https://github.com/LorisYounger/VPet |
 |  22 | [Tai](https://github.com/Planshit/Tai) | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 | https://github.com/Planshit/Tai |
-|  23 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款.NET开源的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁，通用的微信多开工具。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
+|  23 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | RevokeMsgPatcher 是一款基于 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了），通用的微信多开工具，支持最新版微信/QQ/TIM。|  https://github.com/huiyadanli/RevokeMsgPatcher   |
 |  24  | [PasteEx](https://github.com/huiyadanli/PasteEx) | PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。 | https://github.com/huiyadanli/PasteEx |
 |  25  | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 | https://github.com/Richasy/Bili.Copilot |
 |  26  | [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal) | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 | https://gitee.com/zyfalreadyexsit/terminal |
