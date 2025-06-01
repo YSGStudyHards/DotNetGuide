@@ -19,6 +19,72 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 5月
+### 第 40 期（2025年5.26-5.31）
+#### 一款 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了）！！
+- **文章简介：** RevokeMsgPatcher 是一款基于 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了），通用的微信多开工具，支持最新版微信/QQ/TIM。
+- **文章地址：** https://mp.weixin.qq.com/s/a6ZtLbm4Ybj9HIf2fIk2VQ
+
+#### 一款.NET开源、免费、功能强大的 Windows 文件搜索和应用程序启动器
+- **文章简介：** Flow.Launcher是一款由 .NET 开源、免费、功能强大、方便实用的 Windows 文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过 "设置 "中的 "插件商店 "菜单快速安装插件。
+- **文章地址：** https://mp.weixin.qq.com/s/OMd07mRMJXjL9Av10UsBYA
+
+#### 一个简单高效、低内存的 .NET 处理 Excel 文件的实用类库
+- **文章简介：** MiniExcel 是一个简单高效的 .NET 处理 Excel 查、写、填充数据的实用工具类库，旨在避免内存溢出（OOM）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。
+- **文章地址：** https://mp.weixin.qq.com/s/BvxjzwhClCV1PCsbkqWAKg
+
+#### WPF 使用GDI+提取图片主色调并生成Mica材质特效背景
+- **文章简介：** WPF 使用GDI+提取图片主色调并生成Mica材质特效背景。
+- **文章地址：** https://www.cnblogs.com/TwilightLemon/p/18901390
+
+#### 一个基于 .NET 8.0 + Uni-App 开源的、支持可视化布局的小程序商城系统，前后端分离！
+- **文章简介：** 核心商城系统（CoreShop） 是基于 Asp.Net 8.0、Uni-App开发、支持可视化布局的小程序商城系统；前后端分离，支持跨平台运行。拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程，支持可视化自定义首页模块布局效果。
+- **文章地址：** https://mp.weixin.qq.com/s/UVQmkTUz_ue_pE7ngGOWvQ
+
+#### PP-OCRv5 C++封装DLL C#调用源码分享
+- **文章简介：** PP-OCRv5 C++封装DLL C#调用源码分享。
+- **文章地址：** https://mp.weixin.qq.com/s/WpBpIA3klxHsRO5WTdq-6g
+
+#### PLINQ vs LINQ：C#中的使用场景与性能洞察
+- **文章简介：** 随着软件应用中计算密集型任务和大型数据集的日益普遍，开发者需要高效的工具来处理数据。在 C# 中，两个常用的数据处理工具是 LINQ（语言集成查询）和 PLINQ（并行 LINQ）。它们在语法和功能上相似，但在查询的执行方式上却有本质区别。本文将深入探讨 LINQ 与 PLINQ 的主要差异、适用场景以及性能对比，同时通过实际示例和基准测试来说明它们的使用效果。
+- **文章地址：** https://mp.weixin.qq.com/s/JiJjzigo73LT96zpJ_xKSg
+
+#### .NET 10 进展之 CoreCLR Interpreter
+- **文章简介：** 我们从前一阵子 Maui 几个被离职的Mono 工具链相关的微软员工来说起，通过现象看本质，这意味着.NET 10 将完成对Mono的完全替代。.NET 10 特性中有一个 @dotnet/runtime/issues/112158 CoreCLR Interpreter, 将 Mono 的解释器（interpreter）移植到 CoreCLR 的工作进展和目标。Mono 是 .NET 项目的一个实现，历史上以其解释器模式和嵌入式支持而闻名。将其解释器移植到 CoreCLR 的目标是为 CoreCLR 提供完整的解释器支持，包括运行测试套件和支持无 JIT/AOT（Just-In-Time 编译/提前编译）模式的全解释器模式。
+- **文章地址：** https://mp.weixin.qq.com/s/XUaLHK3K_H_Hk3u4f8CnoA
+
+#### 一款开源免费、功能丰富的仓库管理与执行系统，便于二次开发！
+- **文章简介：** WMES是一个基于 .NET + LayUI 开源的仓库管理与执行系统，旨在提供高效、灵活的仓库管理解决方案。该系统通过集成化的功能模块，实现了仓库运营的自动化、智能化，并提升了仓库管理的效率和准确性。
+- **文章地址：** https://mp.weixin.qq.com/s/fRiR2ZoPVsaFzpeAddP3LA
+
+#### 一套开源、免费、高颜值的 WPF 控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件！
+- **文章简介：** HandyControl 是一套开源、免费、高颜值的 WPF（Windows Presentation Foundation）的控件库，它几乎重写了所有原生样式，并提供了80余款自定义控件。该项目致力于提升WPF应用的用户界面体验，通过提供丰富、美观且易用的控件，帮助开发者更高效地构建高质量的桌面应用。
+- **文章地址：** https://mp.weixin.qq.com/s/ii8bxSXwIMoCTdwftbdq8g
+
+#### 用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译
+- **文章简介：** 用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译。
+- **文章地址：** https://www.cnblogs.com/deali/p/18896645
+
+#### Circuit Breaker Policy Fine-tuning Best Practice
+- **文章简介：** 本文介绍了 Polly 中断路器弹性策略的概念，特别关注使用.NET 扩展和 Polly 的 HTTP 客户端请求，但这一理念也适用于更通用的 CB 调优。它提供了一个实用的指南，用于集成中断路器策略并微调其配置，以增强服务弹性和容错能力。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice
+
+#### 微调你的应用程序产生的日志量
+- **文章简介：** 如果你正在运行一个生产应用程序，你知道管理日志的挑战。日志太少会让你在黑暗中摸索；日志太多会让你被数据淹没并支付过高的存储成本。这是一个经典的可观察性困境——当事情出错时，你想要全面的信息，但你又不想存储所有从快乐路径中获取的细节。现在，让我们来看看.NET 中的日志采样——一种强大的功能，它允许你策略性地减少日志量，同时保持可观察性。与简单的日志过滤（它使用二元决策，即发送或发送日志）不同，采样为你提供了细粒度的控制，让你能够从应用程序的不同部分发送精确百分比的日志。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces
+
+#### .NET8带来的一些新特性
+- **文章简介：** .NET8带来的一些新特性了解。
+- **文章地址：** https://www.cnblogs.com/xiongze520/p/18902755
+
+#### C#学习：构建一个更真实的基于LLM的简历评估系统
+- **文章简介：** C#学习：构建一个更真实的基于LLM的简历评估系统。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18902739
+
+#### .NET AI 基座双核引擎正式版发布：深度拆解 AI / Vector Extensions 如何重构企业级 AI 架构​
+- **文章简介：** 关注.NET AI和.NET Vector原生开发已有半年之久了，其核心组件在历经这半年预发布期的持续迭代后，这两大基座终于在5月16日和5月20日逐步发布了。在此之前，基于预发布版本撰写的文章和调试工作常常受限于功能的缺失，许多特性无法正常调用，只能通过下载源代码进行调试。如今，随着正式版的发布，这些库为 .NET 原生 AI 开发提供了强大的基础，支持开发者构建可扩展、可维护且具备互作性的 AI 驱动型应用程序。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18899291
+
+
 ### 第 39 期（2025年5.19-5.25）
 #### 精选 5 款开源、免费、美观的 .NET Blazor UI 组件库
 - **文章简介：** 今天大姚给大家分享 5 款开源、免费、美观的 .NET Blazor UI 组件库，希望可以帮助到有需要的小伙伴（注意：以下排名不分先后，都是十分优秀的 Blazor UI 组件库）。
