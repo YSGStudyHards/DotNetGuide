@@ -43,7 +43,7 @@
 
 ### netcorepal-cloud-framework
 * **项目简介：** netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。
-* **项目源码地址：** https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g
+* **项目源码地址：** https://github.com/netcorepal/netcorepal-cloud-framework
 * **项目详细介绍：** https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g
 
 ### SophiApp
