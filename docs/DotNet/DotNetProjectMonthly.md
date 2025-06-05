@@ -12,6 +12,76 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 5月
+### 公众号5月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年5月简报：** 
+
+### Sqids
+* **项目简介：** Sqids 是一个基于 C# 编写、开源的轻量级工具库，它允许你从数字生成类似 YouTube 的 ID。它可以将数字（如 127）编码为字符串（如 yc3），然后你可以将这些字符串解码回原始数字。当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。
+* **项目源码地址：** https://github.com/sqids/sqids-dotnet
+* **项目详细介绍：** https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g
+
+### Lean
+* **项目简介：** Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。它允许开发者直接从终端管理项目、运行回测、部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。
+* **项目源码地址：** https://github.com/QuantConnect/Lean
+* **项目详细介绍：** https://mp.weixin.qq.com/s/MDn-Z1TB3qQn7yqfcP5Eug
+
+### RevokeMsgPatcher
+* **项目简介：** RevokeMsgPatcher 是一款基于 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了），通用的微信多开工具，支持最新版微信/QQ/TIM。
+* **项目源码地址：** https://github.com/huiyadanli/RevokeMsgPatcher
+* **项目详细介绍：** https://mp.weixin.qq.com/s/a6ZtLbm4Ybj9HIf2fIk2VQ
+
+### BootstrapBlazor
+* **项目简介：** BootstrapBlazor 是一套基于 Bootstrap 和 Blazor 的开源（Apache License）、企业级组件库，无缝整合了 Bootstrap 框架与 Blazor 技术。它提供了一整套强大的工具，使开发者能够轻松创建响应式和交互式的 Web 应用程序，喜欢 Bootstrap 风格的小伙伴推荐使用。
+* **项目源码地址：** https://github.com/dotnetcore/BootstrapBlazor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/cOPEdLj989f7YTKOeqK2lw
+
+### AIStudio.Wpf.Diagram
+* **项目简介：** AIStudio.Wpf.Diagram 是一个使用 WPF 开发、开源（LGPL-3.0协议）的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor），该画板在 WPF-Diagram-Designer 的基础上进行的开发，UI界面框架使用的是Fluent.Ribbon。
+* **项目源码地址：** https://gitee.com/akwkevin/aistudio.-wpf.-diagram
+* **项目详细介绍：** https://mp.weixin.qq.com/s/dAyNl_8vuKD1-qVvUY044g
+
+### netcorepal-cloud-framework
+* **项目简介：** netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。
+* **项目源码地址：** https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g
+
+### SophiApp
+* **项目简介：** SophiApp 是一个基于 .NET 开源、免费的应用程序，专为微调 Windows 10 和 Windows 11 系统而设计。它提供了一个现代的用户界面（UI/UX），包含了超过 130 项独特的调整选项，展示了如何在不影响 Windows 系统稳定性的前提下对其进行配置和优化。
+* **项目源码地址：** https://github.com/Sophia-Community/SophiApp
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zNJqynL9idNFQWo-OsZBtw
+
+### WinsockPacketEditor
+* **项目简介：** WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。
+* **项目源码地址：** https://github.com/x-nas/WinsockPacketEditor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/a2knh4wTPZqPPBq9ERArVg
+
+### FluentTerminal
+* **项目简介：** FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的现代化 Windows 终端应用，旨在为用户提供高度可定制、功能丰富的终端体验。通过其强大的自定义主题模块，用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、内置 SSH 和 Mosh 连接支持。
+* **项目源码地址：** https://github.com/felixse/FluentTerminal
+* **项目详细介绍：** https://mp.weixin.qq.com/s/HxPTRAk1Zq4-aWZ9clcXsw
+
+### Opserver
+* **项目简介：** Opserver 是一款由 Stack Overflow 团队基于 .NET 开源（遵循MIT License开源协议）的轻量级监控系统，它可以独立监控多个系统，支持提取有关 CPU、内存、网络和硬件的统计数据，并且支持跨平台部署（包括 Windows，macOS，Linux）。
+* **项目源码地址：** https://github.com/Opserver/Opserver
+* **项目详细介绍：** https://mp.weixin.qq.com/s/TqENSADTTb1yG274dJC3QQ
+
+### downkyi
+* **项目简介：** downkyi（哔哩下载姬）是一款基于 .NET 开源、简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，并输出mp4格式的文件。采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。
+* **项目源码地址：** https://github.com/leiurayer/downkyi
+* **项目详细介绍：** https://mp.weixin.qq.com/s/AGZ3H3tdMhfeg2C0qBTjzQ
+
+### HZHControls
+* **项目简介：** HZHControls是一个.NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中（注意：基于 MPL2.0 协议开源，源码仅用于交流学习）。
+* **项目源码地址：** https://github.com/kwwwvagaa/NetWinformControl
+* **项目详细介绍：** https://mp.weixin.qq.com/s/hBrm3J1zPMEPvPTuMSwKYg
+
+### SunnyUI
+* **项目简介：** SunnyUI是一个基于.NET Framework 4.0+、.NET6、.NET8、.NET9 框架的 C# WinForm UI、开源控件库、工具类库、扩展类库、多页面开发框架（注意：基于GPL-3.0 license开源，个人学习交流免费）。
+* **项目源码地址：** https://github.com/yhuse/SunnyUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/hBrm3J1zPMEPvPTuMSwKYg
+
+
 ## 4月
 ### 公众号4月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年4月简报：** https://mp.weixin.qq.com/s/ItUqROEL0OV13Iwpkgxy7A
