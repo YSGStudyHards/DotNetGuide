@@ -1313,6 +1313,10 @@
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1324,8 +1328,12 @@
 |  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | Wu.CommTool是一款基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具（支持Modbus RTU、MQTT调试，界面色彩丰富）。 | https://github.com/Monika1313/Wu.CommTool |
 |  3  | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。 | https://github.com/SmallRob/PLC-CommunTools |
 |  4  | [BYSerial](https://gitee.com/LvYiWuHen/byserial) | BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。 | https://gitee.com/LvYiWuHen/byserial |
-|  5  |  |  |  |
+|  5  | [OSDA](https://gitee.com/leven9/OSDA) | OSDA一个基于 C# 开源的串口调试助手。 | https://gitee.com/leven9/OSDA |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
