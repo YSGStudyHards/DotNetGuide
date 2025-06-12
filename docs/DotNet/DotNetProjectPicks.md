@@ -646,7 +646,7 @@
 |  10  | [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
 |  11 | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 |  12  | [Cofoundry](https://github.com/cofoundry-cms/cofoundry) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。 | https://github.com/cofoundry-cms/cofoundry |
-|  13  |  |  |  |
+|  13  | [FluentCMS](https://github.com/fluentcms/FluentCMS) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），它基于强大的 ASP.NET Core + Blazor技术构建。FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），使其非常适合各种数字应用场景。 | https://github.com/fluentcms/FluentCMS |
 |  14  |  |  |  |
 |  15  |  |  |  |
 
@@ -2102,7 +2102,7 @@
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  16 | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本，一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
 |  17 | [Extended.Wpf.Toolkit](https://github.com/xceedsoftware/wpftoolkit) | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 | https://github.com/xceedsoftware/wpftoolkit |
-|  18 |  |  |  |
+|  18 | [WPF-ControlBase]() | WPF-ControlBase 是一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库。 | https://github.com/HeBianGu/WPF-ControlBase |
 |  19 |  |  |  |
 |  20 |  |  |  |
 
