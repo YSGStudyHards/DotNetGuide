@@ -570,7 +570,7 @@
 |  28  | [WPFManager](https://github.com/straw-git/WPFManager) | 一个使用 WPF 开发的管理系统，该项目包含了用户登录、人员管理、角色授权、插件管理、职位管理、主页功能（邮件、皮肤、设置）等功能，对于一个 WPF 初学者而言是一个值得参考和学习的项目。 | https://github.com/straw-git/WPFManager |
 |  29  | [Easy.Admin](https://gitee.com/miss_you/easy-admin) | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 | https://gitee.com/miss_you/easy-admin |
 |  30  | [WinformDevFramework](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame) | WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、字典、日志、代码生成等一系列系统常规模块。 | [WinformGeneralDeveloperFrame](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame) |
-|  31  |  |  |  |
+|  31  | [Caviar](https://gitee.com/Cherryblossoms/caviar) | Caviar 是一个基于 .NET 8 + Ant Design Blazor 开发的、基于 Apache-2.0 协议开源的后台管理框架，使用简洁架构，简单大方现代，包含了后台管理基础功能，在开发上为了方便，封装了很多Ant Design组件，包含了自动列表、高级搜索、自动化菜单、布局等。此外，该框架在代码生成上实现了100%的代码隔离，确保修改和重新生成代码不会对开发者造成任何影响，同时保持了开发的灵活性。 | https://gitee.com/Cherryblossoms/caviar |
 |  32  |  |  |  |
 |  33  |  |  |  |
 |  34  |  |  |  |
