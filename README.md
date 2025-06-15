@@ -124,6 +124,7 @@
 * [Visual Studio 2022 v17.13新版发布：强化稳定性和安全](https://mp.weixin.qq.com/s/tAgn_4ImjHlojWTgLDdlpw)
 * [Visual Studio使用GitHub Copilot提高.NET开发工作效率](https://mp.weixin.qq.com/s/E731dDi00Bf_uL1iU2roGQ)
 * [Visual Studio使用Web Deploy发布应用到指定服务器的IIS中](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
+* [Visual Studio 2022 中的 EF Core 反向工程和模型可视化工具](https://mp.weixin.qq.com/s/nnJndy3C1VwZz5Yu1yPd_A)
 
 ### Visual Studio Code
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
