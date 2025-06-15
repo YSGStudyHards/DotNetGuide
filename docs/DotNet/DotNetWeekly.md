@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 6月
+### 第 42 期（2025年6.9-6.15）
+#### Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件
+- **文章简介：** 在 EF 6 及其之前的版本数据库优先模式（Database First）是可以在 Visual Studio 中通过可视化界面来操作完成的，但是到了 EF Core 之后就不再支持了（因为模型格式 EDMX (XML) 在 EF Core中未实现），今天大姚给大家分享一款在 EF Core 命令行工具的基础上构建的适用于 Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件：EF Core Power Tools。
+- **文章地址：** https://mp.weixin.qq.com/s/nnJndy3C1VwZz5Yu1yPd_A
+
+#### 不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）
+- **文章简介：** FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），它基于强大的 ASP.NET Core + Blazor技术构建。FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），使其非常适合各种数字应用场景。
+- **文章地址：** https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw
+
+#### 一个开源免费、功能丰富的 WPF 自定义控件资源库
+- **文章简介：** 今天大姚给大家分享一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库：WPF-ControlBase。
+- **文章地址：** https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ
+
+#### 推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案
+- **文章简介：** 在快速迭代的软件开发环境中，为 .NET Windows 桌面应用程序实现自动更新功能已成为提升用户体验和产品维护效率的关键功能。自动更新机制能够确保用户始终使用最新版本的应用，及时获取安全补丁、版本性能优化和新版本功能，并且能够显著降低技术支持成本。今天大姚给大家分享 3 种 .NET Windows 桌面应用程序自动更新解决方案，希望可以帮助到有需要的小伙伴。
+- **文章地址：** https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA
+
+#### 一个基于 .NET 8 + Ant Design Blazor 开发的简洁现代后台管理框架
+- **文章简介：** Caviar 是一个基于 .NET 8 + Ant Design Blazor 开发的、基于 Apache-2.0 协议开源的后台管理框架，使用简洁架构，简单大方现代，包含了后台管理基础功能，在开发上为了方便，封装了很多Ant Design组件，包含了自动列表、高级搜索、自动化菜单、布局等。此外，该框架在代码生成上实现了100%的代码隔离，确保修改和重新生成代码不会对开发者造成任何影响，同时保持了开发的灵活性。
+- **文章地址：** https://mp.weixin.qq.com/s/qhyhfN4u7RBfzHUdQFSpoQ
+
+#### 一个基于 .NET 开源、模块化 AI 图像生成 Web 用户界面
+- **文章简介：** SwarmUI （原 StableSwarmUI）是一个基于 .NET 开源（MIT license）、模块化 AI 图像生成 Web 用户界面，注重让强大工具易于访问、高性能及可扩展性。支持 AI 图像模型（如Stable Diffusion、Flux等），以及AI视频模型（如LTX-V、Hunyuan Video、Cosmos、Wan等）。
+- **文章地址：** https://mp.weixin.qq.com/s/NCOciHGS5yU7xui3tmT6YA
+
+#### C#实现欧姆龙 HostLink 通讯协议库
+- **文章简介：** C#实现欧姆龙 HostLink 通讯协议库。
+- **文章地址：** https://www.cnblogs.com/dragonet-Z/p/18928900
+
+#### C# WinForms 实现打印监听组件
+- **文章简介：** 打印监听组件是一款集成于 Windows 桌面环境的打印任务管理与监控工具，适用于企业级应用场景。它不仅支持多打印机任务的实时监控，还能通过 WebSocket 与外部系统集成，实现自动化打印、任务状态反馈、远程控制等功能。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/18928583
+
+#### C# 中委托和事件的深度剖析与应用场景
+- **文章简介：** 在 C# 编程中，委托和事件是两个非常重要的概念，它们为程序的设计和开发提供了强大的功能和灵活性。委托可以看作是一种类型安全的函数指针，它允许将方法作为参数传递给其他方法，从而实现回调机制。而事件则是基于委托的一种特殊机制，用于实现对象之间的消息传递和事件驱动编程。理解委托和事件的原理和应用场景，对于编写高效、可维护的 C# 代码至关重要。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18926505
+
+#### C# 锁机制全景与高效实践：从 Monitor 到 .NET 9 全新 Lock
+- **文章简介：** C# 锁机制全景与高效实践：从 Monitor 到 .NET 9 全新 Lock。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18924622
+
+#### C# 与低代码平台的融合：以活字格为例的 Web API 开发实践
+- **文章简介：** 在当今软件开发领域，低代码平台凭借其高效、便捷的特性逐渐成为开发的主流趋势。而 C# 作为一种功能强大的编程语言，在服务端开发中有着广泛的应用。将 C# 与低代码平台相结合，能够充分发挥两者的优势，快速开发出高质量的应用程序。本文将以葡萄城公司的企业级低代码平台 —— 活字格为例，详细介绍如何使用 C# 进行接口扩展，创建服务端 Web API。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18924171
+
+#### ​微软 AI Agent三剑客：AutoGen、Semantic Kernel与MEAI的协同演进
+- **文章简介：** 微软正在积极构建其人工智能（AI）开发者生态系统，旨在为开发者提供从实验研究到生产部署的全方位支持。在这一宏大蓝图中，AutoGen、Semantic Kernel (SK) 和 Microsoft.Extensions.AI (MEAI) 是三个关键的框架组件，各自扮演着独特且相互关联的角色。
+- **文章地址：** https://www.cnblogs.com/sheng-jie/p/18924852
+
+#### WinForm中实现Adobe PDF Reader实现旋转PDF功能
+- **文章简介：** WinForm中实现Adobe PDF Reader实现旋转PDF功能。
+- **文章地址：** https://www.cnblogs.com/wofeiliangren/p/18923487
+
+#### C# Visual Studio工具使用实践
+- **文章简介：** C# Visual Studio工具使用实践。
+- **文章地址：** https://www.cnblogs.com/anding/p/18919985
+
+
 ### 第 41 期（2025年6.1-6.8）
 #### 免费且全面的C#/.NET/.NET Core面试宝典，阅读量突破40万+了！
 - **文章简介：** C#/.NET/.NET Core相关技术常见面试题汇总，不仅仅为了面试而学习，更多的是查漏补缺、扩充知识面和大家共同学习、携手进步。该面试宝典知识库主要由自己平时学习和工作实践总结、网上优秀文章资料收集（这一部分一定会标明来源）和社区小伙伴提供三部分组成。
