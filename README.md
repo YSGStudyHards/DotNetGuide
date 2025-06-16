@@ -62,7 +62,7 @@
 * [🧰DevOps&CI&CD](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端开发](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
-* [📨面试经验分享](url)
+* [📨面试经验分享](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
