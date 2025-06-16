@@ -62,6 +62,7 @@
 * [🧰DevOps&CI&CD](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端开发](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
+* [📨面试经验分享](url)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [👩‍💻简历模板](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
@@ -847,6 +848,12 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Subversion版本控制](https://svnbook.red-bean.com/nightly/zh/index.html)
 * [SVN教程-菜鸟教程](https://www.runoob.com/svn/svn-tutorial.html)
 * [SVN版本控制软件视频教程](https://www.bilibili.com/video/BV1mW411M7yR?p=5)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
+## 📨面试经验分享
+* [.NET初级软件工程师面试经验分享](https://mp.weixin.qq.com/s/_I5bbp9q1Zr1xIxEghNrjA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
