@@ -166,6 +166,7 @@
 * [五分钟教你使用GitHub寻找优质开源项目](https://www.cnblogs.com/Can-daydayup/p/17581307.html)
 * [详细概述Gitee和GitHub生成/添加SSH公钥](https://mp.weixin.qq.com/s/B84wXcX_AlTfCphcL_4MHA)
 * [30分钟快速搭建并部署一个免费的个人博客](https://mp.weixin.qq.com/s/x7uZvQvtipr2wbNzxqJ5Ng)
+* [GitHub 汉化神器，2步快速解锁中文化 GitHub 界面！](https://mp.weixin.qq.com/s/z9vQKyMk_m5vtk6GKEG6GQ)
 * [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 
