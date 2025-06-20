@@ -429,7 +429,7 @@
 |  3 | [IoTGateway](https://gitee.com/iioter/iotgateway) | 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。 | https://gitee.com/iioter/iotgateway |
 |  4 | [FastGateway](https://github.com/239573049/FastGateway/)  | 基于 .NET8+FreeSql超轻量级网关，为了代替Nginx而生，基于使用Yarp打造更快更轻量级的网关，并且提供了完整的UI界面提供了地区请求数据统计，提供了免费的HTTPS证书申请，并且支持HTTP内网穿透，还提供了黑白名单，并且提供动态更新，支持限流等。  | https://github.com/239573049/FastGateway/ |
 |  5  | [Apiumc Gateway](https://gitee.com/apiumc/Gateway) | Apiumc Gateway 是高性能的Web网关，它从底层Socket原始通信层开始，采用多线程、多任务模式从新构建Web服务，充分发挥当下多核的CPU的多任务并行性能，达到不输nginx的性能表现，而多线程、多任务天生比多进程模式更有编程可控性，基于这此原理，为Apiumc带来丰富多的基于网关深度应用，是网关功能集大成者；它一个工具等于Nginx + 网关登录 + 图片处理 + 内网穿透 + 免费Ssl证书，且配置全程界面化，让你告别难懂、难记易出错的指令配置。 | https://gitee.com/apiumc/Gateway |
-|  6  | [SharpSCADA](https://gitee.com/LaoHuaiMiao/SharpSCADA) | SharpSCADA 是一个开源的轻量级工业控制网关和组态软件，旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNet/IP、施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。 | https://gitee.com/LaoHuaiMiao/SharpSCADA |
+|  6  | [SharpSCADA](https://gitee.com/LaoHuaiMiao/SharpSCADA) | SharpSCADA是一个基于 C# 编写、开源（LGPL-3.0 license）的轻量级工控网关和 SCADA 组态软件，旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNetIPs、施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。 | https://gitee.com/LaoHuaiMiao/SharpSCADA |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
