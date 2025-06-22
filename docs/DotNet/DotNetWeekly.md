@@ -19,6 +19,88 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 6月
+### 第 43 期（2025年6.16-6.22）
+#### .NET初级软件工程师面试经验分享
+- **文章简介：** 今天大姚给大家分享一个来源于DotNetGuide编程学院小伙伴的面试经验分享，首先这位小伙伴是24年6月份毕业的，满打满算也就只有一年的经验，从当初投递简历没太多动静，到后面找我帮忙优化完简历后 HR 邀约率大幅上升，并且成功斩获2个不错的offer，现已入职。
+- **文章地址：** https://mp.weixin.qq.com/s/_I5bbp9q1Zr1xIxEghNrjA
+
+#### 提高 .NET 编程效率的 Visual Studio 使用技巧和建议！
+- **文章简介：** 本文大姚将为你介绍一些 Visual Studio 的使用技巧和建议，旨在帮助 .NET 开发者更加高效地利用 Visual Studio 进行编程开发工作。无论你是 .NET 初学者还是经验丰富的 .NET 开发者，这些技巧都将有助于提升你的工作效率，让你能够更快地编写出高质量的代码。
+- **文章地址：** https://mp.weixin.qq.com/s/DRRdK0ecHa6GvyrY37bRnw
+
+#### 基于 C# 编写的轻量级工控网关和 SCADA 组态软件
+- **文章简介：** SharpSCADA是一个基于 C# 编写、开源（LGPL-3.0 license）的轻量级工控网关和 SCADA 组态软件，旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNetIPs、施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。
+- **文章地址：** https://mp.weixin.qq.com/s/mDi0NbDrCM4SjyZjNlR9zw
+
+#### 一个基于 .NET 开源、便捷、高效的远程桌面控制工具
+- **文章简介：** P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！
+- **文章地址：** https://mp.weixin.qq.com/s/fR7yUDiEN-Wa_hInRduudQ
+
+#### 一个基于 .NET 8 开源免费、高性能、低占用的博客系统
+- **文章简介：** Masuit.MyBlogs 是一个基于 .NET 8 开源免费（MIT license）、高性能、高安全性、低占用的博客系统，该项目仅 3MB 的代码量，目前日均处理请求数 80-600 W次，同时在线活跃用户数60-600人，数据量累计已达到数百万条，数据库+Redis+网站主程序同时运行在一台4核8GB的机器上，浏览器页面请求秒级响应，CPU平均使用率控制在10%左右，内存占用控制在400MB左右。
+- **文章地址：** https://mp.weixin.qq.com/s/u1w8DSE_jhnTxzOlBAMfIQ
+
+#### 基于.NET MAUI 的多模态视觉智能
+- **文章简介：** 扩展用户与我们的应用交互的多种方式，是使用现代 AI 模型和设备功能时最令人兴奋的部分之一。借助.NET MAUI，您可以轻松地将应用从基于文本的体验升级为支持语音、视觉及其他功能的应用。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui
+
+#### Rider 2025.2 EAP 5：全新设计的监控工具窗口与新增OpenTelemetry插件
+- **文章简介：** Rider 2025.2 EAP 5 版本刚刚发布，这次带来了两项针对 .NET 开发者的主要生产力提升。
+- **文章地址：** https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin
+
+#### C# 能为你做什么？
+- **文章简介：** 1999 年，微软将 C#（读作 C sharp）作为一门新的未来派编程语言介绍给世界，我有幸成为早期采用该语言的人之一。1999 年 12 月，C#编译器以 alpha 版本发布时，我就接触到了它。是的，当时确实有 alpha 版本。微软花了 3 年时间才推出该语言的首个稳定可用版本。从那时起，我见证了这门新生儿成长为完全成熟的强大语言。
+- **文章地址：** https://www.c-sharpcorner.com/UploadFile/mahesh/what-can-C-Sharp-do-for-you
+
+#### Minimal API 与 Controller API 在.NET Core 中的区别
+- **文章简介：** https://www.c-sharpcorner.com/article/different-between-minimal-api-and-controller-api-net-core
+- **文章地址：** 将讨论.NET 9 Core Minimal API 与 Controller API 的区别。Minimal API 是在 .NET 6.0 中引入的一种快速轻量级 API 开发方式，并在 .NET 9 中得到增强。它也非常适合轻量级服务、微服务和小型 API。Minimal API 中没有路由和 [HttpGet] 属性。更简单，所有逻辑都在 Program.cs 中定义。基于 Controller 的 API 是基于 MVC（模型-视图-控制器）模式的，结构化且可扩展。它适合大型和复杂的应用程序。逻辑组织在单独的控制器类中。
+
+#### 一个基于 .NET 开源、跨平台的工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统！
+- **文章简介：** IoTGateway 是一个基于 .NET8 开源免费（MIT License）、功能强大且跨平台工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统（如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等），并与Thingsboard、IoTSharp或用户自己的物联网平台（如MES、SCADA）进行双向数据通讯。
+- **文章地址：** https://mp.weixin.qq.com/s/qogfJfZ1eBmuI_lvbMNnyQ
+
+#### Model Context Protocol C# SDK v0.3.0-preview.1 版本发布
+- **文章简介：** Model Context Protocol (MCP) 是一种新兴的开放标准，旨在实现大型语言模型（LLM）与外部数据源及工具之间的无缝集成。v0.3.0-preview.1 版本是这一标准的重要更新，带来了多项新功能和增强特性，特别适合开发者构建基于 MCP 的 AI 服务或客户端应用。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18942263
+
+#### 《C#高级GDI+实战：从零开发一个流程图》第03章：画一个线，连接两个矩
+- **文章简介：** 《C#高级GDI+实战：从零开发一个流程图》第03章：画一个线，连接两个矩。
+- **文章地址：** https://www.cnblogs.com/lesliexin/p/18923105
+
+#### C# 将 CSV 转化为 Excel
+- **文章简介：** 在数据处理和交换的过程中，CSV（逗号分隔值）格式和 Excel 文件格式都是非常常见的。CSV 文件以纯文本形式存储表格数据，易于生成和处理；而 Excel 文件则提供了更丰富的功能，如数据可视化、公式计算等。在实际应用中，我们经常需要将 CSV 文件转化为 Excel 文件，以利用 Excel 的强大功能进行数据分析和展示。本文将介绍如何使用合适的技术手段在 C# 中实现将 CSV 文件转化为 Excel 文件的功能。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18934279
+
+#### 记一次 .NET 某发证机系统 崩溃分析
+- **文章简介：** 前些天有位朋友在微信上找到我，说他的系统有偶发崩溃，自己也没找到原因，让我帮忙看下怎么回事，我分析dump一直都是免费的，毕竟对这些东西挺感兴趣，有问题可以直接call我，好了，接下来我们就来分析dump吧。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/18932886
+
+#### C# 异步编程：从 async/await 到 Task 并行库的全面解析
+- **文章简介：** 在现代软件开发中，处理高并发和耗时操作是一个常见的挑战。C# 提供了强大的异步编程模型，它允许程序在执行耗时操作时不会阻塞主线程，从而提高程序的响应性和性能。其中，async/await 关键字和 Task 并行库是 C# 异步编程的核心组成部分。深入理解和掌握这些技术，对于开发高效、稳定的应用程序至关重要。本文将全面解析从 async/await 到 Task 并行库的相关知识，帮助开发者更好地运用 C# 进行异步编程。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18932383
+
+#### .NET 10 引入后量子密码学 （PQC）
+- **文章简介：** .NET 10 预览版 5 悄悄引入了对基于新定稿行业标准的后量子加密（PQC）的支持，这标志着帮助开发人员保护应用程序免受未来量子驱动攻击的早期举措。后量子密码学 （PQC） 支持是一项坚定地展望未来的新功能，它与更广泛的行业努力保持一致，以便在量子时代到来之前为它做好准备。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18932238
+
+#### 记录.Net 8 发布增加 PublishTrimmed 裁剪选项，调用WMI 的ManagementObject 异常
+- **文章简介：** 最近在做OTA的功能，需要获取到sn做一些业务的逻辑。我们自己实现的库里边的，大部分都是调用 System.Management 的 ManagementObjectSearcher 获取 Bios 的序列号。
+- **文章地址：** https://www.cnblogs.com/wuty/p/18931865
+
+#### 基于 C# 和 .NET 的 Spread.NET 数据处理实战
+- **文章简介：** Spread.NET 是一款全面的 .NET 表格控件，它支持多种数据绑定方式，能够与各种数据源（如数据库、XML 文件等）进行无缝集成。同时，它提供了丰富的单元格样式设置、公式计算、数据验证、排序和筛选等功能，可满足不同场景下的数据处理需求。其界面友好，易于使用，无论是简单的数据展示还是复杂的数据分析，Spread.NET 都能提供出色的解决方案。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18930958
+
+#### .NET 10 支持Linux/Unix 的Shebang（Hashbang）
+- **文章简介：** .NET 10 Preview 5 带来的C# 文件脚本化运行，在 Linux/Unix 系统中通过 #!/usr/bin/dotnet run 支持 Shebang（Hashbang）。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/18930500
+
+#### C#实现语音预处理：降噪、静音检测、自动增益（附Demo源码）
+- **文章简介：** 无论是在音视频录制系统，还是音视频通话系统、或视频会议系统中，对从麦克风采集到的说话的声音数据进行预处理，都是是非常必要的。语音数据预处理主要包括：​​降噪（Noise Reduction）、静音检测（Silence Detection/VAD）、自动增益（Automatic Gain Control, AGC）​​ 。
+- **文章地址：** https://www.cnblogs.com/zhuweisky/p/18936492
+
+
 ### 第 42 期（2025年6.9-6.15）
 #### Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件
 - **文章简介：** 在 EF 6 及其之前的版本数据库优先模式（Database First）是可以在 Visual Studio 中通过可视化界面来操作完成的，但是到了 EF Core 之后就不再支持了（因为模型格式 EDMX (XML) 在 EF Core中未实现），今天大姚给大家分享一款在 EF Core 命令行工具的基础上构建的适用于 Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件：EF Core Power Tools。
