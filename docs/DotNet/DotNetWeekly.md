@@ -53,8 +53,8 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章地址：** https://www.c-sharpcorner.com/UploadFile/mahesh/what-can-C-Sharp-do-for-you
 
 #### Minimal API 与 Controller API 在.NET Core 中的区别
-- **文章简介：** https://www.c-sharpcorner.com/article/different-between-minimal-api-and-controller-api-net-core
-- **文章地址：** 将讨论.NET 9 Core Minimal API 与 Controller API 的区别。Minimal API 是在 .NET 6.0 中引入的一种快速轻量级 API 开发方式，并在 .NET 9 中得到增强。它也非常适合轻量级服务、微服务和小型 API。Minimal API 中没有路由和 [HttpGet] 属性。更简单，所有逻辑都在 Program.cs 中定义。基于 Controller 的 API 是基于 MVC（模型-视图-控制器）模式的，结构化且可扩展。它适合大型和复杂的应用程序。逻辑组织在单独的控制器类中。
+- **文章简介：** 将讨论.NET 9 Core Minimal API 与 Controller API 的区别。Minimal API 是在 .NET 6.0 中引入的一种快速轻量级 API 开发方式，并在 .NET 9 中得到增强。它也非常适合轻量级服务、微服务和小型 API。Minimal API 中没有路由和 [HttpGet] 属性。更简单，所有逻辑都在 Program.cs 中定义。基于 Controller 的 API 是基于 MVC（模型-视图-控制器）模式的，结构化且可扩展。它适合大型和复杂的应用程序。逻辑组织在单独的控制器类中。
+- **文章地址：** https://www.c-sharpcorner.com/article/different-between-minimal-api-and-controller-api-net-core
 
 #### 一个基于 .NET 开源、跨平台的工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统！
 - **文章简介：** IoTGateway 是一个基于 .NET8 开源免费（MIT License）、功能强大且跨平台工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统（如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等），并与Thingsboard、IoTSharp或用户自己的物联网平台（如MES、SCADA）进行双向数据通讯。
