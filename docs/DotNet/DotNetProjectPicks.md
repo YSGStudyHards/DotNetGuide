@@ -1355,11 +1355,15 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) | 一款由.NET开源（GPL-3.0 license）、基于腾讯ARC Lab提供的Real-ESRGAN模型开发的AI无损放大工具。 | https://github.com/X-Lucifer/AI-Lossless-Zoomer |
-|  2  |  |  |  |
-|  3  |  |  |  |
-|  4  |  |  |  |
-|  5  |  |  |  |
-|  6  |  |  |  |
+|  2  | [ChatGPT](https://github.com/wieslawsoltes/ChatGPT) | 一个适用于 MacOS、Windows、Linux、Android、iOS 和浏览器的 ChatGPT C#客户端。由 Avalonia UI 框架驱动。 | https://github.com/wieslawsoltes/ChatGPT |
+|  3  | [ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop) | 一个 Blazor 实现的 ChatGpt 界面简洁的界面，让用户更容易理解，支持多个对话。 | https://github.com/239573049/ChatGpt.Desktop |
+|  4  | [ChatGPTPowerToys](https://github.com/ferraridavide/ChatGPTPowerToys) | 一个用于在浏览器中启动 ChatGPT 查询的 PowerToys Run 插件。 | https://github.com/ferraridavide/ChatGPTPowerToys |
+|  5  | [OpenAIOnWPF](https://github.com/yt3trees/OpenAIOnWPF) | 一个用于操作 OpenAI API 的 WPF 应用程序。 | https://github.com/yt3trees/OpenAIOnWPF |
+|  6  | [CSharpWpfChatGPT](https://github.com/psun247/CSharpWpfChatGPT) | C# WPF ChatGPT API (GPT-3.5 Turbo) 应用程序。 | https://github.com/psun247/CSharpWpfChatGPT |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
