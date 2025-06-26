@@ -142,6 +142,7 @@
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
   * [.NET开源深度克隆库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86%E5%BA%93)
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
+  * [应用程序自动更新类库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -356,7 +357,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [NUnit](https://github.com/nunit/nunit) | NUnit是一个流行的.NET平台上的开源单元测试框架，它提供了强大的功能和灵活性，使开发人员能够编写高质量的单元测试代码。 | https://github.com/nunit/nunit |
-|  2  | [xUnit.net](https://github.com/xunit/xunit) | xUnit.net是一个.NET平台上的开源单元测试框架，它提供了简洁、现代化的设计和丰富的功能，使开发人员能够轻松编写高效的单元测试。 | https://github.com/xunit/xunit |
+|  2  | [xUnit](https://github.com/xunit/xunit) | xUnit 是一个开源、免费、以社区为中心的 .NET 单元测试框架，是用于 C# 和 F#（其他 .NET 语言可能也能运行，但未提供官方支持）进行单元测试的最新技术。xUnit 能够与 Visual Studio、Visual Studio Code、ReSharper、CodeRush 和 TestDriven.NET 兼容。它是.NET 基金会的一部分，并遵循其行为准则。 | https://github.com/xunit/xunit |
 |  3  | [Fixie](https://github.com/fixie/fixie) | Fixie是一个类似于NUnit和xUnit的现代化.NET测试框架，但更注重简洁的默认设置和灵活的定制。 | https://github.com/fixie/fixie |
 |  4  | [TUnit](https://github.com/thomhurst/TUnit) | TUnit是一个适用于.NET 8及更高版本的现代、灵活、开源和快速的.NET测试框架，包括原生AOT和Trimmed Single File应用程序支持！ | https://github.com/thomhurst/TUnit |
 |  5  |  |  |  |
@@ -571,7 +572,7 @@
 |  29  | [Easy.Admin](https://gitee.com/miss_you/easy-admin) | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，分为普通版本和SSR（服务端渲染，支持SEO），服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 | https://gitee.com/miss_you/easy-admin |
 |  30  | [WinformDevFramework](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame) | WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、字典、日志、代码生成等一系列系统常规模块。 | [WinformGeneralDeveloperFrame](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame) |
 |  31  | [Caviar](https://gitee.com/Cherryblossoms/caviar) | Caviar 是一个基于 .NET 8 + Ant Design Blazor 开发的、基于 Apache-2.0 协议开源的后台管理框架，使用简洁架构，简单大方现代，包含了后台管理基础功能，在开发上为了方便，封装了很多Ant Design组件，包含了自动列表、高级搜索、自动化菜单、布局等。此外，该框架在代码生成上实现了100%的代码隔离，确保修改和重新生成代码不会对开发者造成任何影响，同时保持了开发的灵活性。 | https://gitee.com/Cherryblossoms/caviar |
-|  32  |  |  |  |
+|  32  | [Platform](https://gitee.com/Jesai/platform)  | Platform 是一套基于 .NET + Ant Design Vue 开源（MIT License）、免费的低代码、权限、工作流、动态接口平台。 | https://gitee.com/Jesai/platform |
 |  33  |  |  |  |
 |  34  |  |  |  |
 |  35  |  |  |  |
@@ -745,7 +746,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Meowv/Blog](https://github.com/Meowv/Blog) | 一个使用 abp vNext + Blazor 搭建的、前后端分离的个人博客系统，使用 MongoDB 存储数据，Redis 缓存数据。 | https://github.com/Meowv/Blog |
 |  2  | [LinkDotNet.Blog](https://github.com/linkdotnet/Blog) | 基于C#和Blazor编写的博客引擎，旨在成为一个简单易用且易于扩展的博客平台。博客文章以Markdown格式编写，并渲染为HTML。 | https://github.com/linkdotnet/Blog |
-|  3  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | 基于C#/.NET8的 masuit.org个人博客站项目源码，高性能高安全性低占用的博客系统，仅3MB的代码量！ 目前日均处理请求数80-600w次，同时在线活跃用户数60-600人。 | https://github.com/ldqk/Masuit.MyBlogs |
+|  3  | [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) | Masuit.MyBlogs 是一个基于 .NET 8 开源免费（MIT license）、高性能、高安全性、低占用的博客系统，该项目仅 3MB 的代码量，目前日均处理请求数 80-600 W次，同时在线活跃用户数60-600人，数据量累计已达到数百万条，数据库+Redis+网站主程序同时运行在一台4核8GB的机器上，浏览器页面请求秒级响应，CPU平均使用率控制在10%左右，内存占用控制在400MB左右。 | https://github.com/ldqk/Masuit.MyBlogs |
 |  4  | [Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) | 一个基于ASP.NET Core 7（3.1及以上版本）构建的功能齐全但简单易用的博客引擎。 | https://github.com/madskristensen/Miniblog.Core |
 |  5  | [Blogifier](https://github.com/blogifierdotnet/Blogifier) | Blogifier是一个使用.NET和Blazor WebAssembly编写的开源、快速、轻量级的个人博客系统。 | https://github.com/blogifierdotnet/Blogifier |
 |  6  | [StarBlog](https://github.com/Deali-Axy/StarBlog) | StarBlog是一个支持Markdown导入的开源博客系统，后端基于最新的.Net6和Asp.Net Core框架，遵循RESTFul接口规范，前端基于Vue+ElementUI开发，可作为 .Net Core 入门项目学习。 | https://github.com/Deali-Axy/StarBlog |
@@ -1148,7 +1149,7 @@
 |  5  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
 |  6  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
 |  7  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
-|  8  |  |  |  |
+|  8  | [P2P](https://github.com/miroslavpejic85/p2p) | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
 |  9  |  |  |  |
 |  10  |  |  |  |
 |  11  |  |  |  |
@@ -1360,7 +1361,7 @@
 |  4  | [ChatGPTPowerToys](https://github.com/ferraridavide/ChatGPTPowerToys) | 一个用于在浏览器中启动 ChatGPT 查询的 PowerToys Run 插件。 | https://github.com/ferraridavide/ChatGPTPowerToys |
 |  5  | [OpenAIOnWPF](https://github.com/yt3trees/OpenAIOnWPF) | 一个用于操作 OpenAI API 的 WPF 应用程序。 | https://github.com/yt3trees/OpenAIOnWPF |
 |  6  | [CSharpWpfChatGPT](https://github.com/psun247/CSharpWpfChatGPT) | C# WPF ChatGPT API (GPT-3.5 Turbo) 应用程序。 | https://github.com/psun247/CSharpWpfChatGPT |
-|  7  |  |  |  |
+|  7  | [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)  | SwarmUI （原 StableSwarmUI）是一个基于 .NET 开源（MIT license）、模块化 AI 图像生成 Web 用户界面，注重让强大工具易于访问、高性能及可扩展性。支持 AI 图像模型（如Stable Diffusion、Flux等），以及AI视频模型（如LTX-V、Hunyuan Video、Cosmos、Wan等）。 | https://github.com/mcmonkeyprojects/SwarmUI |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
@@ -2013,6 +2014,19 @@
 |  1  | [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | Swashbuckle.AspNetCore 是一个流行的 .NET 库，它使得在 ASP.NET Core 项目中自动生成 Swagger 文档变得简单。Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的Web服务。 | https://github.com/domaindrivendev/Swashbuckle.AspNetCore |
 |  2  | [Scalar](https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore) | Scalar 是一个功能强大、易于使用的 API 客户端和文档生成工具，适用于各种规模的 API 项目，支持多种编程语言和平台。 | https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore |
 |  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 应用程序自动更新类库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [ClickOnce](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) | ClickOnce 是一种部署技术，可用于创建可安装和运行且用户交互最少的基于 Windows 的自更新应用程序。 如果已使用 Visual Basic 和 Visual C# 开发项目，Visual Studio 将完全支持发布和更新使用 ClickOnce 技术部署的应用程序。 | [ClickOnce微软官方使用教程](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) |
+|  2  | [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) | AutoUpdater.NET 是一个 .NET 开源类库，允许.NET 开发者轻松为其传统桌面应用程序项目添加自动更新功能（该库仅适用于 WinForms 或 WPF 应用程序项目）。 | https://github.com/ravibpatel/AutoUpdater.NET |
+|  3  | [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | Squirrel.Windows 是一个开源项目，旨在提供一套工具和库来全面管理 Windows 桌面应用程序的安装和更新。该项目适用于使用 C# 或其他语言（如C++）编写的应用程序。Squirrel 利用 NuGet包来创建安装和更新包，使得开发者能够轻松地创建安装程序并发布更新。 | https://github.com/Squirrel/Squirrel.Windows |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
