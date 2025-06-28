@@ -70,6 +70,8 @@
 * [C#中LINQ基础：101个常用LINQ操作](https://mp.weixin.qq.com/s/QpDyA45WFlPLvxM1sy2O8Q)
 * [一款基于 .NET 开源的多功能的 B 站视频下载工具](https://mp.weixin.qq.com/s/AGZ3H3tdMhfeg2C0qBTjzQ)
 * [C# 14 新增功能一览，你觉得实用吗？](https://mp.weixin.qq.com/s/83fmF_bjP-XCmlTP7Kc5Sg)
+* [一种更简单的方式运行 C# 代码，简化 C# 开发体验！](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
+* [换个方式用C#开发微信小程序](https://mp.weixin.qq.com/s/LN3kLl44Jcq8cuzxUf26Nw)
 
 ## .NET/.NET Core相关
 * [C#正则表达式快速入门](https://mp.weixin.qq.com/s/HnC-2em8YGuIau1EulNRKw)
@@ -82,6 +84,7 @@
 * [一个在线的.NET源码查询网站](https://mp.weixin.qq.com/s/c552ShsvTqn8oBoZzDO7ZA)
 * [三款免费的.NET混淆工具推荐](https://mp.weixin.qq.com/s/hXGRdQjC7NXiGwq84KbEnA)
 * [.NET反编译神器ILSpy怎么用？](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
+* [.NET初级软件工程师面试经验分享](https://mp.weixin.qq.com/s/_I5bbp9q1Zr1xIxEghNrjA)
 * [4款免费且实用的.NET反编译工具](https://mp.weixin.qq.com/s/6c-bjHi7XV0og24MTN2lvw)
 * [.NET之Hangfire快速入门和使用](https://mp.weixin.qq.com/s/fokjKhfFZyhD8XOW21Etug)
 * [开源且实用的C#/.NET编程技巧练习宝库](https://mp.weixin.qq.com/s/8m6cHJOwdQU2c75zPxFhWw)
@@ -196,6 +199,18 @@
 * [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统 - ApeVolo.Admin](https://mp.weixin.qq.com/s/TmJsAVSc_nfNd9f0Zh6YHA)
 * [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s/gi35WPRGI5uHmaeAwK_MJQ)
 * [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
+* [使用 xUnit 快速编写 .NET 应用单元测试](https://mp.weixin.qq.com/s/_jZNx2V1mRJCVL4m0nFzxw)
+* [一套基于 .NET 开源的低代码、权限、工作流、动态接口平台](https://mp.weixin.qq.com/s/Tg_iC3dNBM8mtxJRT_-CWQ)
+* [.NET 开发者最容易踩坑的 5 个 LINQ 使用误区](https://mp.weixin.qq.com/s/X2QL5bVe6WiSfMiKdyREGQ)
+* [一个基于 .NET 8 开源免费、高性能、低占用的博客系统](https://mp.weixin.qq.com/s/u1w8DSE_jhnTxzOlBAMfIQ)
+* [.NET 10 引入 后量子密码学 （PQC）](https://mp.weixin.qq.com/s/Qe03Yc-HqIBi_-PX72TJcA)
+* [一个基于 .NET 8 + Ant Design Blazor 开发的简洁现代后台管理框架](https://mp.weixin.qq.com/s/qhyhfN4u7RBfzHUdQFSpoQ)
+* [推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案](https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA)
+* [不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
+* [.NET 9中的异常处理性能提升分析：为什么过去慢，未来快](https://mp.weixin.qq.com/s/uo_-XRlxnSpdEGYEDFtEXQ)
+* [一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架](https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g)
+* [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/_E6TXunEPt9j6U-5836rZQ)
+* [在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g)
 
 ## WPF相关
 * [一个使用 WPF 开发的管理系统](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
@@ -213,6 +228,7 @@
 * [C# WPF IoTClient与三菱PLC通讯详解](https://mp.weixin.qq.com/s/8zH_K-8rEfQw4z6rYDc5Eg)
 * [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s/qNmPkyK8D9OQEAp2MXiAzg)
 * [一款基于 WPF 开源、功能全面的串口调试工具](https://mp.weixin.qq.com/s/cAb5GExmhU0_6mw-M3iHRA)
+* [一个开源免费、功能丰富的 WPF 自定义控件资源库](https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ)
 * [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！](https://mp.weixin.qq.com/s/avLIWx6tmS5DLokzLLfurw)
 
 ## WinForm相关
@@ -239,6 +255,7 @@
 * [一套基于 Ant Design 和 Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/L6WEFjq_ktI9hPJqv_ZS2g)
 * [MudBlazor：基于Material Design风格开源且强大的Blazor组件库](https://mp.weixin.qq.com/s/BYIRIIZvp6waLudFlevoxg)
 * [一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库](https://mp.weixin.qq.com/s/mFSAX81f7jsB3D1mL3XzPg)
+* [一套基于 Bootstrap 和 .NET Blazor 的开源企业级组件库](https://mp.weixin.qq.com/s/cOPEdLj989f7YTKOeqK2lw)
 
 ## Avalonia相关
 * [一个开源、跨平台的.NET UI框架 - Avalonia UI](https://mp.weixin.qq.com/s/_JE8G68qdSuxv-dKRRymyQ)
