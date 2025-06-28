@@ -211,6 +211,8 @@
 * [一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架](https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g)
 * [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/_E6TXunEPt9j6U-5836rZQ)
 * [在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g)
+* [使用 StreamJsonRpc 在 ASP.NET Core 中启用 JSON-RPC](https://mp.weixin.qq.com/s/00WA_krKeo79KAc6le5G5A)
+* [Visual Studio 2022 v17.13新版发布：强化稳定性和安全，助力 .NET 开发提效！](https://mp.weixin.qq.com/s/tAgn_4ImjHlojWTgLDdlpw)
 
 ## WPF相关
 * [一个使用 WPF 开发的管理系统](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
