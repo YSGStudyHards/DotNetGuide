@@ -41,10 +41,7 @@
                     {
                         lock (_lockObj)
                         {
-                            if (_instance == null)
-                            {
-                                _instance = new SingletonLazy();
-                            }
+                            _instance ??= new SingletonLazy();
                         }
                     }
                     return _instance;

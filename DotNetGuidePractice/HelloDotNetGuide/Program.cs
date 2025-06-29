@@ -13,6 +13,12 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region ConstAndReadonlyExercise
+
+            //ConstAndReadonlyExercise.UpdateApplicationNameValue();
+
+            #endregion
+
             #region CSharp13GrammarExercise
 
             //CSharp13GrammarExercise.SpanDataPrintRun();
