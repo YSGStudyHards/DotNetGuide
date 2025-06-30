@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 6月
+### 第 44 期（2025年6.23-6.30）
+#### .NET应用中的高效分布式同步解决方案
+- **文章简介：** DistributedLock 是一个 .NET 开源的库，它基于多种底层技术提供了强大且易于使用的分布式互斥锁、读写锁和信号量。确保多个线程、进程或服务能够安全、协调地访问共享资源，防止竞态条件，维护数据一致性。
+- **文章地址：** https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg
+
+#### .NET 开源、快速开发框架选型看这里就够了，开发效率翻倍！
+- **文章简介：** 选择一款全面且功能强大的快速开发框架能够帮助我们解决C#、.NET项目中的很多重复工作，从而提高开发生产效率、避免工作996。今天大姚给大家分享一些 .NET 开源、功能强大的快速开发框架，同学们可以按需选择适合自己的框架进行开发（注意，以下排名不分先后）。
+- **文章地址：** https://mp.weixin.qq.com/s/JwSDsQYrvBTJNJqtJRBjGg
+
+#### 使用 xUnit 快速编写 .NET 应用单元测试
+- **文章简介：** xUnit 是一个开源、免费、以社区为中心的 .NET 单元测试框架，是用于 C# 和 F#（其他 .NET 语言可能也能运行，但未提供官方支持）进行单元测试的最新技术。xUnit 能够与 Visual Studio、Visual Studio Code、ReSharper、CodeRush 和 TestDriven.NET 兼容。它是.NET 基金会的一部分，并遵循其行为准则。
+- **文章地址：** https://mp.weixin.qq.com/s/_jZNx2V1mRJCVL4m0nFzxw
+
+#### 一款基于 .NET 和 Vue3 开源（Apache）的MES管理系统，您的新一代工厂管理助手！
+- **文章简介：** iMES工厂管家是一个基于.NET Core开发的新一代工厂助手MES/MOM管理系统。该项目旨在通过提供全面的工厂管理功能，帮助企业实现生产过程的数字化、自动化和智能化。项目支持前端、后台自定义业务代码扩展，内置了大量的通用组件和代码生成器，以提高开发效率和代码质量。
+- **文章地址：** https://mp.weixin.qq.com/s/lg2LRlaY7IAnietsVNF06Q
+
+#### C#/.NET/.NET Core拾遗补漏合集（25年6月更新）
+- **文章简介：** 在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。
+- **文章地址：** https://mp.weixin.qq.com/s/RSbeULxSsr9TWL8qisaBww
+
+#### 分享一些使用 WPF 创建的精美 UI 设计案例
+- **文章简介：** wpf-uidesign 是一个基于 WPF (Windows Presentation Foundation) 的 UI 设计项目，旨在提供一个高效、可定制的用户界面设计方案。作为 WPF 技术学习和研究的参考项目，帮助开发者深入理解 WPF 框架。
+- **文章地址：** https://mp.weixin.qq.com/s/bUK0NgRQENsVp6nwz9DCmg
+
+#### 一套基于 .NET 开源的低代码、权限、工作流、动态接口平台
+- **文章简介：** Platform 是一套基于 .NET + Ant Design Vue 开源（MIT License）、免费的低代码、权限、工作流、动态接口平台。
+- **文章地址：** https://mp.weixin.qq.com/s/Tg_iC3dNBM8mtxJRT_-CWQ
+
+#### .NET MAUI 10 中更简洁的 XAML
+- **文章简介：** 在 .NET MAUI 中使用 XAML 构建 UI 仍然是最受欢迎的方法。您可以轻松查看 UI 的嵌套结构，支持热重载，适用于大多数用例，并支持强大的状态流和数据绑定。缺点之一是它可能变得冗长。每个页面都需要您声明所使用类型的命名空间，提供前缀，当然还要使用它们。您可能比我更擅长开发，但我经常在不同的文件中使用不同的前缀来表示相同的命名空间，这造成了很大的混乱。.NET 6 引入了 C# 的全局和隐式 using 语句，大大减少了 C# 文件开头的 using 语句。现在在 .NET 10 的 Preview 5 版本中，我们为 XAML 引入了相同的功能，这样您可以在单个文件中声明命名空间和前缀，并在整个项目中使用它们。事实上，现在您可以完全省略前缀的使用！
+- **文章地址：** https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/
+
+#### 一次 .NET 性能优化之旅：将 GC 压力降低 99%
+- **文章简介：** 最近，我使用 ScottPlot 库开发一个频谱分析应用。应用的核心功能之一是实时显示频谱图，这可以看作是一个高频刷新热力图（Heatmap）。然而，在程序运行一段时间后，我注意到整体性能开始逐渐下降，界面也出现了卡顿。直觉告诉我，这背后一定隐藏着性能瓶颈。
+- **文章地址：** https://www.cnblogs.com/Cookies-Tang/p/18956241
+
+#### 【EF Core】DbContext是如何识别出实体集合的
+- **文章简介：** 咱们都知道，在派生 DbContext 类时，集体类的集合用 DbSet<TEntity> 表示，而咱们最常用的方法是在 DbContext 的派生类中公开 DbSet<TEntity> 属性。但在实例化 DbContext 后，我们并未给这些属性赋值，就能查询数据了，那么，DbContext 类（包括其子类）是如何识别出这些公共属性并填充数据的？好，主题已经打开，接下来老周就开始表演了。有大伙伴会说了：切，这个看看源码不就知道了。是的，但有些人天生懒啊，不想看，那老周帮你看。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/18956032
+
+#### C#.Net筑基-泛型T & 协变逆变
+- **文章简介：** C#.Net筑基-泛型T & 协变逆变。
+- **文章地址：** https://www.cnblogs.com/anding/p/18940828
+
+#### C#.Net筑基-优雅LINQ的查询艺术
+- **文章简介：** Linq（Language Integrated Query，集成查询语言），顾名思义就是用来查询数据的一种语言（可以看作是一组功能、框架特性的集合）。在.NETFramework3.5（大概2007年）引入C#，用统一的C#语言快速查询各种数据，如数据库、XML文档、对象集合等等。Linq的诞生对 C# 编程领域产生了深远而持久的影响，改变了开发人员对查询的思考方式。
+- **文章地址：** https://www.cnblogs.com/anding/p/18942909
+
+#### 基于 Spread，在 Blazor 框架中导入 / 导出 Excel
+- **文章简介：** 在现代 Web 应用开发中，处理 Excel 文件的导入和导出是一项常见且重要的需求。Blazor 框架是微软推出的用于构建具有 .NET 强大功能的交互式客户端 Web UI 的相对较新的框架。而 Spread.net（是一个非常强大且可扩展的 JavaScript 电子表格组件，它能使在 Blazor 框架中进行 Excel 文件的导入和导出变得更加简单。本文将详细介绍如何基于 SpreadJS，在 Blazor 框架中实现 Excel 文件的导入和导出功能。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18944095
+
+#### LinqPad：C#代码测试学习一品神器
+- **文章简介：** LinqPad 是一个可编写、运行C#（VB/F#/SQL）代码的轻量工具，C#开发者强烈推荐必备的工具，一个一旦用了就再也不想丢弃的工具。工具出自《C# 核心技术指南》的作者Joseph Albahari，一位.Net资深技术专家。
+- **文章地址：** https://www.cnblogs.com/anding/p/18939444
+
+
 ### 第 43 期（2025年6.16-6.22）
 #### .NET初级软件工程师面试经验分享
 - **文章简介：** 今天大姚给大家分享一个来源于DotNetGuide编程学院小伙伴的面试经验分享，首先这位小伙伴是24年6月份毕业的，满打满算也就只有一年的经验，从当初投递简历没太多动静，到后面找我帮忙优化完简历后 HR 邀约率大幅上升，并且成功斩获2个不错的offer，现已入职。
