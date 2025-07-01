@@ -586,6 +586,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [闯关式SQL自学网](https://github.com/liyupi/sql-mother)
 * [牛客网在线SQL练习](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199)
 * [关系型数据库概念详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html#_label1)
+* [SQL常见100面试题解析](https://mp.weixin.qq.com/s/39VVuwQcWYWSmaCAUssQ5w)
 * [7种系统设计中的数据库范式](https://mp.weixin.qq.com/s/h7y0UwFowIOoMh2UzN4iuA)
 * [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [一个不错的 SQL 编码风格的指南](https://mp.weixin.qq.com/s/OcE2zgKOqUkg6fdjNwstxA)
