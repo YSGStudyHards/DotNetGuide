@@ -51,6 +51,7 @@
   * [配置中心系统（CCS）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%B3%BB%E7%BB%9Fccs)
   * [任务调度系统（Scheduler）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9Fscheduler)
   * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+  * [分布式同步解决方案]()
   * [博客系统（Blog）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9Fblog)
   * [办公系统（OA）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8A%9E%E5%85%AC%E7%B3%BB%E7%BB%9Foa)
   * [媒体服务器系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E7%BB%9Fmedia)
@@ -732,6 +733,19 @@
 |  ✍   |              项目名称和地址              |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :--------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [CAP](https://github.com/dotnetcore/CAP) | CAP 是一个基于 .NET Standard 的 C# 库，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。 | https://github.com/dotnetcore/CAP |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 分布式同步解决方案
+|  ✍   |              项目名称和地址              |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :--------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [DistributedLock](https://github.com/madelson/DistributedLock) | DistributedLock 是一个 .NET 开源的库，它基于多种底层技术提供了强大且易于使用的分布式互斥锁、读写锁和信号量。确保多个线程、进程或服务能够安全、协调地访问共享资源，防止竞态条件，维护数据一致性。 | https://github.com/madelson/DistributedLock |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
