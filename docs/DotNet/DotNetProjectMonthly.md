@@ -12,6 +12,76 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 6月
+### 公众号6月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年6月简报：**
+
+### DistributedLock
+* **项目简介：** DistributedLock 是一个 .NET 开源的库，它基于多种底层技术提供了强大且易于使用的分布式互斥锁、读写锁和信号量。确保多个线程、进程或服务能够安全、协调地访问共享资源，防止竞态条件，维护数据一致性。
+* **项目源码地址：** https://github.com/madelson/DistributedLock
+* **项目详细介绍：** https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg
+
+### xUnit
+* **项目简介：** xUnit 是一个开源、免费、以社区为中心的 .NET 单元测试框架，是用于 C# 和 F#（其他 .NET 语言可能也能运行，但未提供官方支持）进行单元测试的最新技术。xUnit 能够与 Visual Studio、Visual Studio Code、ReSharper、CodeRush 和 TestDriven.NET 兼容。它是.NET 基金会的一部分，并遵循其行为准则。
+* **项目源码地址：** https://github.com/xunit/xunit
+* **项目详细介绍：** https://mp.weixin.qq.com/s/_jZNx2V1mRJCVL4m0nFzxw
+
+### FluentCMS
+* **项目简介：** FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），它基于强大的 ASP.NET Core + Blazor技术构建。FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），使其非常适合各种数字应用场景。
+* **项目源码地址：** https://github.com/fluentcms/FluentCMS
+* **项目详细介绍：** https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw
+
+### EF Core Power Tools
+* **项目简介：** EF Core Power Tools 是一款基于 C# 编写、开源免费（MIT license）、在 EF Core 命令行工具的基础上构建的适用于 Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件。它提供了反向工程、迁移和模型可视化、生成关系图、生成SQL语句等功能，旨在降低使用 EF Core 的门槛，并通过图形用户界面（GUI）辅助开发者进行数据库的反向工程和DbContext模型的可视化。
+* **项目源码地址：** https://github.com/ErikEJ/EFCorePowerTools
+* **项目详细介绍：** https://mp.weixin.qq.com/s/nnJndy3C1VwZz5Yu1yPd_A
+
+### Platform
+* **项目简介：** Platform 是一套基于 .NET + Ant Design Vue 开源（MIT License）、免费的低代码、权限、工作流、动态接口平台。
+* **项目源码地址：** https://gitee.com/Jesai/platform
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Tg_iC3dNBM8mtxJRT_-CWQ
+
+### Masuit.MyBlogs
+* **项目简介：** Masuit.MyBlogs 是一个基于 .NET 8 开源免费（MIT license）、高性能、高安全性、低占用的博客系统，该项目仅 3MB 的代码量，目前日均处理请求数 80-600 W次，同时在线活跃用户数60-600人，数据量累计已达到数百万条，数据库+Redis+网站主程序同时运行在一台4核8GB的机器上，浏览器页面请求秒级响应，CPU平均使用率控制在10%左右，内存占用控制在400MB左右。
+* **项目源码地址：** https://github.com/ldqk/Masuit.MyBlogs
+* **项目详细介绍：** https://mp.weixin.qq.com/s/u1w8DSE_jhnTxzOlBAMfIQ
+
+### P2P
+* **项目简介：** P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！
+* **项目源码地址：** https://github.com/miroslavpejic85/p2p
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fR7yUDiEN-Wa_hInRduudQ
+
+### SharpSCADA
+* **项目简介：** SharpSCADA是一个基于 C# 编写、开源（LGPL-3.0 license）的轻量级工控网关和 SCADA 组态软件，旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNetIPs、施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。
+* **项目源码地址：** https://github.com/GavinYellow/SharpSCADA
+* **项目详细介绍：** https://mp.weixin.qq.com/s/mDi0NbDrCM4SjyZjNlR9zw
+
+### SwarmUI
+* **项目简介：** SwarmUI （原 StableSwarmUI）是一个基于 .NET 开源（MIT license）、模块化 AI 图像生成 Web 用户界面，注重让强大工具易于访问、高性能及可扩展性。支持 AI 图像模型（如Stable Diffusion、Flux等），以及AI视频模型（如LTX-V、Hunyuan Video、Cosmos、Wan等）。
+* **项目源码地址：** https://github.com/mcmonkeyprojects/SwarmUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/NCOciHGS5yU7xui3tmT6YA
+
+### Caviar
+* **项目简介：** Caviar 是一个基于 .NET 8 + Ant Design Blazor 开发的、基于 Apache-2.0 协议开源的后台管理框架，使用简洁架构，简单大方现代，包含了后台管理基础功能，在开发上为了方便，封装了很多Ant Design组件，包含了自动列表、高级搜索、自动化菜单、布局等。此外，该框架在代码生成上实现了100%的代码隔离，确保修改和重新生成代码不会对开发者造成任何影响，同时保持了开发的灵活性。
+* **项目源码地址：** https://gitee.com/Cherryblossoms/caviar
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qhyhfN4u7RBfzHUdQFSpoQ
+
+### WPF-ControlBase
+* **项目简介：** 一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库：WPF-ControlBase。
+* **项目源码地址：** https://github.com/HeBianGu/WPF-ControlBase
+* **项目详细介绍：** https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ
+
+### AutoUpdater.NET
+* **项目简介：** AutoUpdater.NET 是一个 .NET 开源类库，允许.NET 开发者轻松为其传统桌面应用程序项目添加自动更新功能（该库仅适用于 WinForms 或 WPF 应用程序项目）。
+* **项目源码地址：** https://github.com/ravibpatel/AutoUpdater.NET
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA
+
+### Squirrel.Windows
+* **项目简介：** Squirrel.Windows 是一个开源项目，旨在提供一套工具和库来全面管理 Windows 桌面应用程序的安装和更新。该项目适用于使用 C# 或其他语言（如C++）编写的应用程序。Squirrel 利用 NuGet包来创建安装和更新包，使得开发者能够轻松地创建安装程序并发布更新。
+* **项目源码地址：** https://github.com/Squirrel/Squirrel.Windows
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA
+
+
 ## 5月
 ### 公众号5月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年5月简报：** https://mp.weixin.qq.com/s/vF2XAw-FgOq2l1iAPZpw4A
