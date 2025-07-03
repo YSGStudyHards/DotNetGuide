@@ -67,7 +67,7 @@
 * **项目详细介绍：** https://mp.weixin.qq.com/s/qhyhfN4u7RBfzHUdQFSpoQ
 
 ### WPF-ControlBase
-* **项目简介：** 一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库：WPF-ControlBase。
+* **项目简介：** WPF-ControlBase 是一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库。
 * **项目源码地址：** https://github.com/HeBianGu/WPF-ControlBase
 * **项目详细介绍：** https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ
 
