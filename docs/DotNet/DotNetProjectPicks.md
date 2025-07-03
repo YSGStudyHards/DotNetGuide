@@ -39,6 +39,7 @@
   * [性能基准测试框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%80%A7%E8%83%BD%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)
   * [分布式事务解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
   * [分布式同步解决方案](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%88%86%E5%B8%83%E5%BC%8F%E5%90%8C%E6%AD%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+  * [应用程序自动更新解决方案]()
   * [其他开源框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)
 
 * [开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
@@ -143,7 +144,6 @@
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
   * [.NET开源深度克隆库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86%E5%BA%93)
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
-  * [应用程序自动更新类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E7%B1%BB%E5%BA%93)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -546,6 +546,21 @@
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 应用程序自动更新解决方案
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [ClickOnce](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) | ClickOnce 是一种部署技术，可用于创建可安装和运行且用户交互最少的基于 Windows 的自更新应用程序。 如果已使用 Visual Basic 和 Visual C# 开发项目，Visual Studio 将完全支持发布和更新使用 ClickOnce 技术部署的应用程序。 | [ClickOnce微软官方使用教程](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) |
+|  2  | [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) | AutoUpdater.NET 是一个 .NET 开源类库，允许.NET 开发者轻松为其传统桌面应用程序项目添加自动更新功能（该库仅适用于 WinForms 或 WPF 应用程序项目）。 | https://github.com/ravibpatel/AutoUpdater.NET |
+|  3  | [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | Squirrel.Windows 是一个开源项目，旨在提供一套工具和库来全面管理 Windows 桌面应用程序的安装和更新。该项目适用于使用 C# 或其他语言（如C++）编写的应用程序。Squirrel 利用 NuGet包来创建安装和更新包，使得开发者能够轻松地创建安装程序并发布更新。 | https://github.com/Squirrel/Squirrel.Windows |
+|  4  | [CheckUpdate.Net](https://gitee.com/xcong/CheckUpdate.Net) | CheckUpdate.Net 是一个基于 WinForm 开发的检查桌面应用程序更新的开源项目，可用于 WinForm、WPF，主要功能包括更新文件、更新程序自身、下载安装包等。主要利用 WebClient 下载服务器网站目录下的文件，安全性暂没有考虑，比较适用于小型项目。 | https://gitee.com/xcong/CheckUpdate.Net |
+|  5  |  |  |  |
+|  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -2028,19 +2043,6 @@
 |  1  | [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | Swashbuckle.AspNetCore 是一个流行的 .NET 库，它使得在 ASP.NET Core 项目中自动生成 Swagger 文档变得简单。Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的Web服务。 | https://github.com/domaindrivendev/Swashbuckle.AspNetCore |
 |  2  | [Scalar](https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore) | Scalar 是一个功能强大、易于使用的 API 客户端和文档生成工具，适用于各种规模的 API 项目，支持多种编程语言和平台。 | https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore |
 |  3  |  |  |  |
-|  4  |  |  |  |
-|  5  |  |  |  |
-|  6  |  |  |  |
-
-[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
-
-
-#### 应用程序自动更新类库
-|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
-| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [ClickOnce](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) | ClickOnce 是一种部署技术，可用于创建可安装和运行且用户交互最少的基于 Windows 的自更新应用程序。 如果已使用 Visual Basic 和 Visual C# 开发项目，Visual Studio 将完全支持发布和更新使用 ClickOnce 技术部署的应用程序。 | [ClickOnce微软官方使用教程](https://learn.microsoft.com/zh-cn/visualstudio/deployment/clickonce-security-and-deployment?view=vs-2022) |
-|  2  | [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) | AutoUpdater.NET 是一个 .NET 开源类库，允许.NET 开发者轻松为其传统桌面应用程序项目添加自动更新功能（该库仅适用于 WinForms 或 WPF 应用程序项目）。 | https://github.com/ravibpatel/AutoUpdater.NET |
-|  3  | [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | Squirrel.Windows 是一个开源项目，旨在提供一套工具和库来全面管理 Windows 桌面应用程序的安装和更新。该项目适用于使用 C# 或其他语言（如C++）编写的应用程序。Squirrel 利用 NuGet包来创建安装和更新包，使得开发者能够轻松地创建安装程序并发布更新。 | https://github.com/Squirrel/Squirrel.Windows |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
