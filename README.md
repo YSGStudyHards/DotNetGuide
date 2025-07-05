@@ -886,7 +886,11 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 | **Resume Generator**：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。|[https://github.com/visiky/resume](https://github.com/visiky/resume)|
 | **best resume ever**：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。| [https://github.com/salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) |
 | **Magic Resume**：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。 | [https://github.com/JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) |
-|**codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。|https://github.com/acmenlei/codecv|
+|**codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。|[https://github.com/acmenlei/codecv](https://github.com/acmenlei/codecv)|
+| **OpenResume**：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。| [https://github.com/xitanggg/open-resume](https://github.com/xitanggg/open-resume) |
+| **猫步简历**：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。 | [https://github.com/Hacker233/resume-design](https://github.com/Hacker233/resume-design) |
+| **Dnd Resume**：是一个免费且开源的简历生成工具，帮助您轻松创建专业的简历。 | [https://github.com/Arman19941113/dnd-resume](https://github.com/Arman19941113/dnd-resume) |
+| **ResumeToJob**：是一个免费开源的在线简历制作工具，帮助求职者快速创建专业、美观的简历。支持多种模板选择、实时编辑、PDF 导出等功能，同时保护您的隐私数据安全。 | [https://github.com/ltlylfun/ResumeToJob](https://github.com/ltlylfun/ResumeToJob) |
 | **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
 | **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。 | [https://github.com/resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) |
 | **DeerResume**：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。 | [https://github.com/geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) |
