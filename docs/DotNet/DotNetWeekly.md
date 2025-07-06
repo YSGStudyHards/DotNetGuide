@@ -26,7 +26,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 #### 一款开源免费、通用的 WPF 主题控件包
 - **文章简介：** Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包。
-- **文章地址：** https://gitee.com/wuyanxin1028/rubyer-wpf
+- **文章地址：** https://mp.weixin.qq.com/s/SNf3slPwLbOBOhJ6yGZPew
 
 #### 精选 10 个 C#/.NET 开发必备开源库！
 - **文章简介：** 精选 10 个 C#/.NET 开发必备开源库！
