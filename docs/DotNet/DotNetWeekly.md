@@ -18,6 +18,61 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 7月
+### 第 45 期（2025年7.1-7.6）
+#### 本地 AI + .NET = 一个 C# 脚本中的 AltText 魔术
+- **文章简介：** 需要快速生成图片说明？在本篇文章中，我们将展示如何将 .NET 10 的新功能与本地 AI 模型相结合，创建智能 AltText - 所有这一切只需一个简单的 C# 文件即可完成。这是一种探索人工智能在聊天之外的功能的有趣方式。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models
+
+#### 一款开源免费、通用的 WPF 主题控件包
+- **文章简介：** Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包。
+- **文章地址：** https://gitee.com/wuyanxin1028/rubyer-wpf
+
+#### 精选 10 个 C#/.NET 开发必备开源库！
+- **文章简介：** 精选 10 个 C#/.NET 开发必备开源库！
+- **文章地址：** https://mp.weixin.qq.com/s/PeIgSvczS0SDw0CTZiMhpw
+
+#### dotnet 代码调试方法
+- **文章简介：** 文将会从基础到高级，从简单到复杂的顺序，告诉大家如何调试 dotnet 系应用，特别是桌面端应用。本文将会向大家介绍使用 VisualStudio 大量的功能用来提高调试效率，穿插着也会介绍一些好用的调试辅助工具，以及如何编写方便调试的代码，期望大家通过阅读本文能有所收获。
+- **文章地址：** https://www.cnblogs.com/lindexi/p/18960345
+
+#### .NET 挪车二维码生成工具开发实战
+- **文章简介：** .NET 挪车二维码生成工具开发实战。
+- **文章地址：** https://mp.weixin.qq.com/s/QernaEMesl4k-d6LM13L5w
+
+#### .NET Core 内存泄漏排查实战指南
+- **文章简介：** 在 .NET Core 应用中，内存泄漏是指程序申请了内存但没有正确释放，导致内存占用持续增长。这种情况一开始可能不明显，但随着时间推移，应用会越来越慢，甚至崩溃。虽然 .NET 有自动垃圾回收机制（GC），但在某些情况下，比如对象被意外持有、缓存未清理、事件订阅未取消等，还是会出现内存泄漏问题。好消息是：.NET 提供了一些非常实用的诊断工具，可以帮助我们快速发现并修复这些问题。
+- **文章地址：** https://mp.weixin.qq.com/s/PQyqCbs9e0eDjF3Wu41z8g
+
+#### MinHook 如何对 .NET 母体 CoreCLR 进行拦截
+- **文章简介：** 这篇文章起源于和一家 .NET公司 开线上会议时，提出的一个场景问题，程序出现了非托管内存暴涨，这些非托管内存关联的对象都囤积在 终结器队列 中，很显然这是代码中没用 using 及时释放引发的，而这块代码又是第三方组件，你想加也加不了，所以提出了一个设想：能不能设法干预 终结器队列的 freachable 节段，让里面的对象提前释放，而不是等待不稳定的终结器线程来兜底。
+- **文章地址：** https://mp.weixin.qq.com/s/kJ6uHCIZOIoqBM1KS8IiPw
+
+#### 精选 6 款基于 .NET 开源免费、功能强大的内容管理系统
+- **文章简介：** 今天大姚给大家分享 6 款基于 .NET 开源免费、功能强大的内容管理系统（CMS），希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/kVZmwfgAKgkM6EURJz_RZQ
+
+#### .NET中全新的MongoDb ORM框架 - SqlSugar
+- **文章简介：** .NET中好用的MongoDb ORM很少，选择也很少，所以我打造了一款适合SQL习惯的MongoDb ORM，让用户多一个选择。
+- **文章地址：** https://www.cnblogs.com/sunkaixuan/p/18959484
+
+#### 免费开源 .NET OpenCV 迷你运行时全平台发布
+- **文章简介：** 各位朋友好！经过数周的持续打磨，我一次性放出了 15 个全新的 OpenCvSharp 迷你运行时 NuGet 包，版本号统一为 4.11.0.35。无论你是在 Windows、Linux、macOS，还是 Android、Alpine 甚至老旧 CentOS 环境中，都能即装即用、开箱即跑。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/18963793/opencvsharp4-mini-all-platforms-published
+
+#### C#：wpf ui 4.0 是如何实现页面导航的？
+- **文章简介：** 本文带领大家一起了解 C#：wpf ui 4.0 是如何实现页面导航的。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/18965841
+
+#### 《C#高级GDI+实战：从零开发一个流程图》第05章：有锯齿？拖动闪烁？优化！优化！
+- **文章简介：** 前面的课程我们实现了矩形、圆形的拖动，以及不同形状间的连线，在实现的过程中，很多读者都发现并提出来了存在显示质量差有锯齿、拖动不流畅还闪烁等问题，作为承上启下的一节课程，我们本节就来看一上如何解决这些问题。
+- **文章地址：** https://www.cnblogs.com/lesliexin/p/18930941
+
+#### .NET程序员的多语言笔记本：Polyglot Notebook
+- **文章简介：** 之前在学习机器学习的时候，使用了Jupyter Notebook这个笔记本工具，我就在想.NET这边有没有类似的，今天就跟你介绍下Polyglot Notebook这个工具。
+- **文章地址：** https://www.cnblogs.com/edisontalk/p/-/quick-start-on-polyglot-notebook
+
+
 ## 6月
 ### 第 44 期（2025年6.23-6.30）
 #### .NET应用中的高效分布式同步解决方案
