@@ -14,7 +14,7 @@
 # 2025年
 ## 6月
 ### 公众号6月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年6月简报：**
+* **C#/.NET/.NET Core优秀项目和框架2025年6月简报：** https://mp.weixin.qq.com/s/LwsQCMAJWsln_Sxw-0NkJA
 
 ### DistributedLock
 * **项目简介：** DistributedLock 是一个 .NET 开源的库，它基于多种底层技术提供了强大且易于使用的分布式互斥锁、读写锁和信号量。确保多个线程、进程或服务能够安全、协调地访问共享资源，防止竞态条件，维护数据一致性。
