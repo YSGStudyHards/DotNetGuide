@@ -874,6 +874,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [互联网寒冬下，如何写好一份.NET求职简历？](https://mp.weixin.qq.com/s/R6QtYjKYoeHNRAJv96qmgw)
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
 * [专科学历的程序员想要面试获胜必须要做的两个点](https://mp.weixin.qq.com/s/HrbIlWDY7oqFOWDonKD89A)
+* [面试第一步，先准备一份简洁、优雅的简历模板！](https://mp.weixin.qq.com/s/nnlV8pgOw4xRlyeHjgd5FA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
