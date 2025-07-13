@@ -1528,7 +1528,7 @@
 |  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 | https://github.com/genrwoody/vs_file_encoding |
 |  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 | https://github.com/Klocman/Bulk-Crap-Uninstaller |
 |  30  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 | https://github.com/x-nas/WinsockPacketEditor |
-|  31  |  |  |  |
+|  31  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence |
 |  32  |  |  |  |
 |  33  |  |  |  |
 |  34  |  |  |  |
