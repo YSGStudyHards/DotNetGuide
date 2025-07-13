@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 7月
+### 第 46 期（2025年7.7-7.13）
+#### 使用 OpenAuth.Net 快速搭建 .NET 企业级权限工作流系统
+- **文章简介：** OpenAuth.Net 是一个基于 .NET 开源免费（Apache-2.0 License）的权限管理及快速开发框架，.NET 开源最好用的权限工作流系统。它源于 Martin Fowler 的企业级应用开发思想，并结合了最新的技术组合，如 SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer 等。该项目架构易于扩展，文档齐全且免费，特别适合中小企业使用。
+- **文章地址：** https://mp.weixin.qq.com/s/D3wIFkNvFq-Z9LWOA6HSZA
+
+#### C# 中 const 和 readonly 关键字的区别和用法
+- **文章简介：** C# 中 const 和 readonly 关键字的区别和用法。
+- **文章地址：** https://mp.weixin.qq.com/s/qQ-d61pEIU7YpNSJjZTwGQ
+
+#### .NET 和 .NET Framework 2025 年 7 月服务发布更新
+- **文章简介：** 欢迎来到我们 2025 年 7 月的 .NET 服务更新，本文让我们深入了解 .NET 和 .NET Framework 的最新版本新增内容的简要概述。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates
+
+#### C# OnnxRuntime 动漫人物人脸检测
+- **文章简介：** C# OnnxRuntime 动漫人物人脸检测。
+- **文章地址：** https://mp.weixin.qq.com/s/carDenB85DHFe4zjlvrobg
+
+#### .NET 开发者最容易踩坑的6个async/await 使用错误
+- **文章简介：** 今天我就来总结一下，**.NET 开发者最容易犯的 6 个 async/await 使用错误**，并告诉你正确的做法是什么。希望你看了之后能少走弯路，写出真正高效又稳定的异步代码
+- **文章地址：** https://mp.weixin.qq.com/s/tdIX8uF8DYjrKcGMMzsmZQ
+
+#### 一套基于 Bulma 和 Blazor 的轻量级组件库
+- **文章简介：** BulmaRazor 是一套基于 Bulma 和 Blazor 的开源（MIT）、免费、轻量级组件库。它利用 Blazor 框架的优势，使用 C# 代替 JavaScript 来创建丰富的交互式 UI，并共享使用 .NET 编写的服务器端和客户端应用逻辑。通过封装 Bulma 样式，BulmaRazor 提供了一组稳定、功能丰富且易用的 UI 组件，助力开发者快速构建现代化的 Web 应用。
+- **文章地址：** https://mp.weixin.qq.com/s/5wxpO36Q4cW3eechNd6p1g
+
+#### 一款基于 WPF 开发的管理系统！
+- **文章简介：** WPFManager 是一款基于 WPF（Windows Presentation Foundation）开发的管理系统，采用插件式开发方式，旨在提高业务分离度和多人协作开发效率。
+- **文章地址：** https://mp.weixin.qq.com/s/dgYLMYyasxB_yKWNr8bzqQ
+
+#### .NET MAUI 团队如何使用 GitHub Copilot 提高生产力
+- **文章简介：** 本文主要概述 .NET MAUI 团队如何使用 GitHub Copilot 提高生产力。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips
+
+#### C#源生成器：让你的代码飞起来的黑科技
+- **文章简介：** 说起源生成器，可能很多同学会想：又是什么新的轮子？我反射用得好好的，为什么要学这个？别急，看完这篇文章，你就会发现源生成器简直是性能优化的救命稻草，能让你的应用快到飞起。
+- **文章地址：** https://www.cnblogs.com/token-ai/p/18979978
+
+#### 通过 .NET Aspire 使用本地 AI 模型
+- **文章简介：** 在当今快速发展的 AI 领域，开发人员经常需要在本地环境中实验和测试 AI 模型，然后再将其部署到云端。使用本地 AI 模型不仅能够节省云资源成本，还能提供更快的迭代速度和更好的隐私保护。本文将介绍如何利用 .NET Aspire 框架结合 Ollama 在本地运行 AI 模型，并通过 Microsoft.Extensions.AI 抽象层实现从本地开发到云部署的无缝过渡。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18976279
+
+#### 《C#高级GDI+实战：从零开发一个流程图》第06章：繁琐？没扩展性？抽象！
+- **文章简介：** 前面的课程我们实现了两种形状：矩形、圆形，在第4章的时候就会发现，仅增加了个新形状，代码量及判断逻辑就翻倍不止，异常繁琐，可维护性很差，更没有扩展性可言。我们本节课就来解决这一点，解决的方法也很简单经典：抽象！
+- **文章地址：** https://www.cnblogs.com/lesliexin/p/18972184
+
+#### .NET 9 + React 开发的企业级后台权限管理系统，文档齐全，轻松上手
+- **文章简介：** 今天推荐一款完全独立开发、基于前沿技术栈开发的RBAC权限系统。它摒弃了现成Admin框架的束缚，以 ".NET 9 + React 18" 双引擎驱动，深度融合按钮级权限与数据权限控制，并原生支持多租户架构，为开发者与企业提供高可控性、易扩展的后台管理基座。
+- **文章地址：** https://www.cnblogs.com/1312mn/p/18974282
+
+#### C#脚本化（Roslyn）：如何在C#脚本中引入nuget包
+- **文章简介：** 假设我们开发了一个C#脚本编辑器，利用Roslyn去执行用户所编写的脚本。这时候，如果用户想要引用一个nuget包，应该如何实现呢？我们想要引用nuget包的话，只要能得到nuget包及其依赖包的所有程序集和资源文件就可以了。
+- **文章地址：** https://www.cnblogs.com/yangtb/p/18881071
+
+#### .NET AI 模板
+- **文章简介：** 随着人工智能技术的快速发展，AI应用开发已成为开发者必备的技能之一。然而，对于许多.NET开发者来说，如何快速上手AI开发仍然是一个挑战。微软推出的.NET AI模板预览版正是为了解决这一问题而生，为开发者提供了构建智能聊天应用的脚手架和最佳实践指南。本文将详细介绍如何安装和使用这个模板，探索其核心功能，并通过实际案例展示如何扩展其能力，帮助.NET开发者快速进入AI开发领域。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/18970200
+
+
 ### 第 45 期（2025年7.1-7.6）
 #### 本地 AI + .NET = 一个 C# 脚本中的 AltText 魔术
 - **文章简介：** 需要快速生成图片说明？在本篇文章中，我们将展示如何将 .NET 10 的新功能与本地 AI 模型相结合，创建智能 AltText - 所有这一切只需一个简单的 C# 文件即可完成。这是一种探索人工智能在聊天之外的功能的有趣方式。
