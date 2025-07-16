@@ -2106,7 +2106,7 @@
 |  12 | [Element-Blazor](https://github.com/Element-Blazor/Element-Blazor) | 基于 Element 和 Blazor WebAssembly 的 Web UI 库。 | https://github.com/Element-Blazor/Element-Blazor |
 |  13 | [BlazorBootstrap](https://github.com/vikramlearning/blazorbootstrap) | 企业级Blazor Bootstrap组件库，基于Blazor和Bootstrap CSS框架构建。 | https://github.com/vikramlearning/blazorbootstrap |
 |  14 | [blazor-adminlte](https://github.com/sjefvanleeuwen/blazor-adminlte) | 该组件库将 ADMINLTE 3 适配到了dotnet core Blazor框架中，使得开发者可以在Blazor项目中使用这些组件。 | https://github.com/sjefvanleeuwen/blazor-adminlte |
-|  15 |  |  |  |
+|  15 | [BulmaRazor](https://gitee.com/loogn/bulmarazor)  | BulmaRazor 是一套基于 Bulma 和 Blazor 的开源（MIT）、免费、轻量级组件库。它利用 Blazor 框架的优势，使用 C# 代替 JavaScript 来创建丰富的交互式 UI，并共享使用 .NET 编写的服务器端和客户端应用逻辑。通过封装 Bulma 样式，BulmaRazor 提供了一组稳定、功能丰富且易用的 UI 组件，助力开发者快速构建现代化的 Web 应用。 | https://gitee.com/loogn/bulmarazor |
 |  16 |  |  |  |
 |  17 |  |  |  |
 |  18 |  |  |  |
