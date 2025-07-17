@@ -76,7 +76,7 @@
 ## .NET/.NET Core相关
 * [C#正则表达式快速入门](https://mp.weixin.qq.com/s/HnC-2em8YGuIau1EulNRKw)
 * [.NET人脸识别解决方案](https://mp.weixin.qq.com/s/bNaR0ztnHRl51euog9c1pQ)
-* [.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/qDK_jWLBkK1cCvbQOAwctg)
+* [在.NET Core中灵活使用反射](https://mp.weixin.qq.com/s/dPwuPcdicO7gXGG4weWEOA)
 * [.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
 * [一文带你了解.NET能做什么？](https://mp.weixin.qq.com/s/XMnvST5qUk2QJWKENB3jeQ)
 * [.NET异步有多少种实现方式？](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
