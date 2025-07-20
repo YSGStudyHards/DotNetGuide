@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 7月
+### 第 47 期（2025年7.14-7.20）
+#### 精选 10 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！
+- **文章简介：** 今天大姚给大家分享 10 款开源美观、简单易用、主题控件齐全的 WPF UI 控件库，助力轻松打造现代化 WPF 桌面应用，提升开发效率与视觉体验！
+- **文章地址：** https://mp.weixin.qq.com/s/9ARSnNauXDuzLdT6liI0sQ
+
+#### .NET 使用 DocNET 库快速高效的操作 PDF 文档
+- **文章简介：** DocNET 是一个基于 .NET 开源（MIT license）、跨平台（支持Windows、Linux和macOS平台）的旨在提供快速 PDF 编辑和数据提取的操作库。它是基于 Chromium 所使用的 PDFium C++ 库开发的 .NET Standard 2.0 封装库。
+- **文章地址：** https://mp.weixin.qq.com/s/qJloEWIhCx7YY2w3lfTB9g
+
+#### Visual Studio 现已支持新的、更简洁的解决方案文件（slnx）格式
+- **文章简介：** 解决方案文件是 Visual Studio 中用于组织和管理多个项目的文件，其后缀通常为.sln（基于 UTF-8格式的）。它充当一个容器，维护着项目之间的引用关系、构建配置以及其他设置，定义了解决方案的结构以及包含哪些项目。现如今 Visual Studio 解决方案文件已经支持新的、更简洁的基于 XML 格式的解决方案文件格式.slnx。
+- **文章地址：** https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg
+
+#### 【开源力荐】一个 .NET 开源、快速、功能强大的电子表格组件库
+- **文章简介：** ReoGrid 是一个快速且强大的开源（MIT License  MIT 许可证） .NET 电子表格组件，旨在为开发者提供一套全面、灵活的电子表格解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/WqPKDD841rlx8jhXmmWkxw
+
+#### 一个遵循 Material Design 设计规范、开源免费的 Blazor 组件库
+- **文章简介：** MASA Blazor 是一个遵循 Material Design 设计规范、开源免费（MIT License）的 Blazor 组件库。它提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件，从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。
+- **文章地址：** https://mp.weixin.qq.com/s/zjwzr0KZQGp1HoJtWjmp7g
+
+#### 代码 vs. 经验：真正优秀的.NET开发者必须懂的16条关键实践
+- **文章简介：** 试想一下，有一位工作7年的开发者，写出来的代码简洁、优雅、易维护。另一位开发了15年，却始终重复着同样的套路，从未真正进步。那问题来了？到底是“年限”成就了开发者， 还是“思维方式、好奇心、和对代码的打磨”才是决定性因素？答案其实很简单：真正优秀的开发者，靠的不是“干了多久”，而是“每年成长了多少”。接下来，我们就用一系列真实对比例子，帮你看清优秀开发者和普通开发者的差距在哪里。看懂这些代码，相信你也能快速进阶！
+- **文章地址：** https://mp.weixin.qq.com/s/ST4gjQ_pWu8ju5dPrPpbYA
+
+#### 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统
+- **文章简介：** TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，功能丰富且易于扩展。无论是日常交易管理、会员管理，还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。
+- **文章地址：** https://mp.weixin.qq.com/s/WvBebsd_guMnLcH8yX22cA
+
+#### 一个 .NET 开源美观、灵活易用、功能强大的图表库
+- **文章简介：** LiveCharts2 是一个开源、简单、灵活、交互式且功能强大的 .NET 图表库。LiveCharts2 现在几乎可以在任何地方运行：Maui、Uno Platform、Blazor-wasm、WPF、WinForms、Xamarin、Avalonia、WinUI、UWP。
+- **文章地址：** https://mp.weixin.qq.com/s/esXBnwqpCruN7sPBut6vYQ
+
+#### 在 .NET 中使用内存映射文件构建高性能的进程间通信队列
+- **文章简介：** 本文会先介绍内存映射文件（Memory-Mapped File）的基本概念，如何在 .NET 中使用，然后再介绍如何使用这两种实现来构建高性能的进程间通信队列。
+- **文章地址：** https://www.cnblogs.com/eventhorizon/p/18994830
+
+#### 【EF Core】带主键实体与无主键实体
+- **文章简介：** 上一次老周已介绍了 EF Core 框架自动发现实体和实体成员的原理。涉及到对源码的分析，可能大伙伴们都看得气压升高了。故这一次老周不带各位去分析源码了，咱们聊一聊熟悉又陌生的关键词——主键。说它熟悉，是因为只要咱们创建数据表，99%会用到；说它陌生，是指在 EF Core 中与主键相关的细节。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/18993171
+
+#### 探索 MCP C# SDK：实现大语言模型与应用的无缝对接
+- **文章简介：** 在当今人工智能快速发展的时代，大语言模型（LLMs）已经成为众多应用的核心驱动力。然而，如何让这些强大的模型与各种数据源和工具进行有效集成，仍然是一个挑战。Model Context Protocol（MCP）正是为解决这一问题而设计的开放协议，它标准化了应用程序如何向大语言模型提供上下文信息。本文将介绍 MCP 的基本概念，并通过 C# SDK 展示如何实现客户端和服务器端的交互。
+- **文章地址：** https://www.cnblogs.com/zhulige/p/18990558
+
+#### 从 Redis 客户端超时到 .NET 线程池挑战：饥饿、窃取与阻塞的全景解析
+- **文章简介：** 在开发 .NET 应用时，我偶然遇到使用 StackExchange.Redis 作为 Redis 客户端时出现的超时问题。经查验，这些问题往往不是 Redis 服务器本身出了故障，而是客户端侧的配置和资源管理不当所致。尤其是当应用运行在高并发环境下，比如 ASP.NET Core 服务中使用 Kestrel 服务器时，超时异常如 RedisTimeoutException 或 Timeout performing GET 会频繁出现，让人头疼不已。
+- **文章地址：** https://www.cnblogs.com/code-daily/p/18985234
+
+#### .NET 10 Preview 6 现已发布！
+- **文章简介：** 今天，我们很高兴宣布 .NET 10 的第六个预览版本发布，涵盖了 .NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面的改进。请查看下方链接的完整发布说明，并立即开始使用。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6
+
+#### 使用 .NET 构建第一个 MCP 服务器并发布到 NuGet
+- **文章简介：** 想扩展 AI 助手的自定义功能吗？在这篇文章中，我们将向你展示如何使用.NET 10 构建一个模型上下文协议（MCP）服务器，并将其发布到 NuGet——使你的 AI 工具能够被整个.NET 社区发现和重用。我们还将向你展示.NET 10 和 NuGet 为支持这一功能添加的新特性，以及一个新的 MCP 服务器项目模板，它将帮助你更轻松地开始！
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart
+
+
 ### 第 46 期（2025年7.7-7.13）
 #### 使用 OpenAuth.Net 快速搭建 .NET 企业级权限工作流系统
 - **文章简介：** OpenAuth.Net 是一个基于 .NET 开源免费（Apache-2.0 License）的权限管理及快速开发框架，.NET 开源最好用的权限工作流系统。它源于 Martin Fowler 的企业级应用开发思想，并结合了最新的技术组合，如 SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer 等。该项目架构易于扩展，文档齐全且免费，特别适合中小企业使用。
