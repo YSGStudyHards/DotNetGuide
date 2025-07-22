@@ -74,7 +74,7 @@
   * [开源协作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   * [酒店管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [阅读应用系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F)
-  * [量化交易平台](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)
+  * [开源交易系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -1054,11 +1054,11 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
-#### 量化交易平台
+#### 开源交易系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Lean](https://github.com/QuantConnect/Lean) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。它允许开发者直接从终端管理项目、运行回测、部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 | https://github.com/QuantConnect/Lean |
-|  2  |  |  |  |
+|  2  | [TradingSystem](https://github.com/oybab/TradingSystem) | TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，功能丰富且易于扩展。无论是日常交易管理、会员管理，还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。 | https://github.com/oybab/TradingSystem |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
