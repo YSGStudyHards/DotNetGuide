@@ -1325,7 +1325,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。 | https://github.com/wmjordan/PDFPatcher |
-|  2  |  |  |  |
+|  2  | [Caly](https://github.com/CalyPdf/Caly)  | Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行（注意：当前项目目前处于 alpha 阶段）。 | https://github.com/CalyPdf/Caly |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -1731,11 +1731,11 @@
 #### .NET PDF文件操作库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1 | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
+|  1  | [PDFsharp](https://github.com/empira/PDFsharp) | PDFsharp 是一个开源 .NET 库，可在 Windows、Linux 和 Mac 下使用 .NET 6 轻松创建和处理 PDF 文档。 | https://github.com/empira/PDFsharp |
 |  2  | [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。轻松生成 PDF 报告、发票、导出等。 | https://github.com/QuestPDF/QuestPDF |
 |  3  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
 |  4  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
-|  5  |  |  |  |
+|  5  | [DocNET](https://github.com/GowenGit/docnet) | DocNET 是一个基于 .NET 开源（MIT license）、跨平台（支持Windows、Linux和macOS平台）的旨在提供快速 PDF 编辑和数据提取的操作库。它是基于 Chromium 所使用的 PDFium C++ 库开发的 .NET Standard 2.0 封装库。 | https://github.com/GowenGit/docnet |
 |  6  |  |  |  |
 |  7  |  |  |  |
 |  8  |  |  |  |
