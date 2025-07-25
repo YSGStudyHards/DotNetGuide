@@ -1358,8 +1358,8 @@
 |  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | Wu.CommTool是一款基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具（支持Modbus RTU、MQTT调试，界面色彩丰富）。 | https://github.com/Monika1313/Wu.CommTool |
 |  3  | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。 | https://github.com/SmallRob/PLC-CommunTools |
 |  4  | [BYSerial](https://gitee.com/LvYiWuHen/byserial) | BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。 | https://gitee.com/LvYiWuHen/byserial |
-|  5  | [OSDA](https://gitee.com/leven9/OSDA) | OSDA一个基于 C# 开源的串口调试助手。 | https://gitee.com/leven9/OSDA |
-|  6  |  |  |  |
+|  5  | [OSDA](https://gitee.com/leven9/OSDA) | OSDA是一个基于 C# 开源（MIT License）的串口调试助手，其功能包括基础功能（打开、关闭、接收、发送、清接收区、清发送区和清空计数）、十六进制（HEX）接收，十六进制（HEX）发送、流控制（握手协议、控制协议）等。 | https://gitee.com/leven9/OSDA |
+|  6  | [SerialDebug](https://gitee.com/mcuxmx/SerialDebug) | SerialDebug是一款基于 C# 的串口调试助手，支持进制转换，可编辑发送队列，支持XModem、YModem传输协议。 | https://gitee.com/mcuxmx/SerialDebug |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
