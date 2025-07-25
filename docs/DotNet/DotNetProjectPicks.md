@@ -2186,7 +2186,7 @@
 |  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
 |  11  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
 |  12  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
-|  13  |  |  |  |
+|  13  | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 | https://github.com/BAndysc/Classic.Avalonia |
 |  14  |  |  |  |
 |  15  |  |  |  |
 
