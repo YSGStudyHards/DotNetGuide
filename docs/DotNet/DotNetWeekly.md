@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 7月
+### 第 48 期（2025年7.21-7.27）
+#### 一款基于 .NET 开源免费、轻量快速、跨平台的 PDF 阅读器
+- **文章简介：** Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行。
+- **文章地址：** https://mp.weixin.qq.com/s/UFMcp-O0Ij1daFI_mN-y5Q
+
+#### 一款超级经典复古的 Windows 9x 主题风格 Avalonia UI 控件库，满满的回忆杀！
+- **文章简介：** Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。
+- **文章地址：** https://mp.weixin.qq.com/s/UXjXPubmCqctduMxpQeqeQ
+
+#### 推荐 7 款开源、免费、美观的 .NET Blazor UI 组件库
+- **文章简介：** 今天大姚给大家推荐 7 款开源、免费、美观的 .NET Blazor UI 组件库，希望可以帮助到有需要的小伙伴（注意：以下排名不分先后，都是十分优秀的 Blazor UI 组件库）。
+- **文章地址：** https://mp.weixin.qq.com/s/3Ra3-hBkaUmpsId01x9sUg
+
+#### 9.4k+ Star，一款基于 .NET 开源免费、功能强大的 Windows 远程管理神器
+- **文章简介：** Quasar 是一款基于 .NET 开源免费（基于 MIT license 协议开源）、功能强大的 Windows 远程管理神器，使用 C# 编写，具有快速、轻量级的特点。它适用于多种用途，包括用户支持、日常行政工作以及员工监控。Quasar提供了高稳定性和易于使用的用户界面，是远程管理的理想解决方案，目前在 GitHub 中已有 9.4k+ Star！！！
+- **文章地址：** https://mp.weixin.qq.com/s/ahkr4WFW3GH7KtwOMtEpuw
+
+#### 推荐 6 款基于 .NET 开源的串口调试工具，调试效率提升利器！
+- **文章简介：** 今天大姚给大家分享 6 款基于 .NET 开源的串口调试工具，旨在帮助 .NET 开发者们更好的应对通讯调试方面的学习和工作，提升调试效率。
+- **文章地址：** https://mp.weixin.qq.com/s/VY1pdPRiC8Y1RbrXpDNPZQ
+
+#### .NET 项目发布中常见的文件及其作用
+- **文章简介：** 在发布 .NET 应用（如控制台程序、ASP.NET Core 网站或类库）时，构建工具会在输出目录生成多个关键文件。这些文件对程序运行、调试和部署都至关重要。本文将介绍最常见的几种文件，说明它们的作用、生成方式及生产环境注意事项。
+- **文章地址：** https://mp.weixin.qq.com/s/CChDcv2NQkRsaUVqyBecRg
+
+#### 提问模式与代理模式 – 为 .NET 选择正确的 Copilot 体验
+- **文章简介：** 作为 .NET 开发人员，生产力和解决问题是工作流的核心。GitHub Copilot Chat 提供两种强大的模式，即询问模式和代理模式，可以显着加速您的开发，但知道何时使用每种模式对于充分利用此工具至关重要。在这篇文章中，我们将分解差异，帮助您了解每种模式的优势，并提供针对常见 .NET 场景量身定制的具体示例。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/
+
+#### 关于SqlSugar并发情况下的问题（排坑）
+- **文章简介：** 关于SqlSugar并发情况下的问题（排坑）。
+- **文章地址：** https://www.cnblogs.com/lvpp13/p/19007377
+
+#### 【EF Core】为 DatabaseFacade 扩展“创建”与“删除”数据表功能
+- **文章简介：** 对于玩 EF 的大伙伴来说，对 DatabaseFacade 类的 EnsureCreated 和 EnsureDeleted 方法应该很熟悉。这对方法可在运行阶段创建或删除数据库。创建数据库时，会连同数据表一起创建；至于说删除数据库时嘛……库都没了，哪还有表呢。不过，有些时候，不，不是有些时候，很多时候我们其实只想删除数据表。比如要初始化应用程序；或者数据库已存在的情况下，咱们只考虑判断数据表是否存在，不存在的话就创建表。最简单的方法是直接发送 SQL 语句——如 DROP TABLE、DROP DATABASE 等。这个不在本文的讨论范围内。老周这次讨论的是运用 EF Core 自身的功能去实现。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19007218
+
+#### Abp vNext -动态 C# API 实现原理解析
+- **文章简介：** 作为铺垫后续阅读源码的一些帮助，开始想直接开始尝试读源码，但是发现上下文连接不紧密，很突兀，所以还是简单介绍下如何使用。最起码从0-1。然后发现他解决的问题, 其实官方文档是有介绍如何使用的，只是比较浅显，想深入理解和发掘它的一些扩展性，还是需要自己多下功夫的，不过经过总结出的经验来说，只要你想学习某一项技术，但凡认真的看过它的官方文档，你就已经超过了60%的人了.
+- **文章地址：** https://www.cnblogs.com/yuxl01/p/18092437
+
+#### 【译】10 款微软 MCP 服务器，加速您的开发工作流程
+- **文章简介：** 最近，我们一直在大量讨论模型上下文协议（MCP），包括近期的博客文章以及在微软 Build 大会上。在这篇文章中，我想分享一些重要技巧，告诉您如何使用我们一直在构建的 MCP 服务器来提高开发人员的工作效率。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19002849
+
+#### 在SqlSugar的开发框架的Vue3+ElementPlus前端中增加对报表模块的封装处理，实现常规报表的快速处理 
+- **文章简介：** 在我们开发业务系统的时候，往往都需要一些数据报表进行统计查看，本篇内容介绍如何在实际的前端中对报表内容进行的一些封装操作，以便提高报表模块开发的效率，报表模块的展示主要是结合Vue3中比较广泛使用的echarts图表组件进行展示。
+- **文章地址：** https://www.cnblogs.com/wuhuacong/p/19004341
+
+#### 为大模型 MCP Code Interpreter 而生：C# Runner 开源发布
+- **文章简介：** 在7月初，我立下了一个 Flag：要做一个专门为大语言模型（LLM）设计的 C# 运行器 MCP (Model-Protocol-Context)。我的小小执念，是希望 C# 能够像 Python 一样，成为大模型世界里的一等公民。经过一段时间的构思、踩坑和开发，今天，我非常高兴地向大家宣布：这个项目—— C# Runner 已经正式开源发布了！这是一个高性能、高安全性的 C# 代码在线执行平台（沙箱），专为大语言模型（LLM）的 Function Calling、在线代码编辑器、动态脚本执行等场景而设计。我的目标很简单：为 C# 在 AI 浪潮中争得一席之地，使其成为像 Python 一样被大模型轻松调度的“一等公民”。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19003720/csharp-runner-mcp
+
+#### 还在手写JSON调教大模型？.NET 9有新玩法
+- **文章简介：** .NET 9 迎来了一项备受期待的功能更新：对JSON Schema的原生支持。这一新增功能极大地简化了JSON Schema的生成与使用。JSON Schema作为一种描述JSON数据结构的标准格式，能够帮助我们有效地验证数据结构和类型。尤其在与大语言模型（LLM）进行交互的场景中，它扮演着至关重要的角色，可以精确定义模型输入与输出的数据格式，从而确保通信的准确性和可靠性。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19001777/dotnet9-json-schema
+
+
 ### 第 47 期（2025年7.14-7.20）
 #### 精选 10 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！
 - **文章简介：** 今天大姚给大家分享 10 款开源美观、简单易用、主题控件齐全的 WPF UI 控件库，助力轻松打造现代化 WPF 桌面应用，提升开发效率与视觉体验！
