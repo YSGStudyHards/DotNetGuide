@@ -12,6 +12,71 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 7月
+### 公众号7月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年7月简报：** 
+
+### OpenAuth.Net
+* **项目简介：** OpenAuth.Net 是一个基于 .NET 开源免费（Apache-2.0 License）的权限管理及快速开发框架，.NET 开源最好用的权限工作流系统。它源于 Martin Fowler 的企业级应用开发思想，并结合了最新的技术组合，如 SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer 等。该项目架构易于扩展，文档齐全且免费，特别适合中小企业使用。
+* **项目源码地址：** https://gitee.com/dotnetchina/OpenAuth.Net
+* **项目详细介绍：** https://mp.weixin.qq.com/s/D3wIFkNvFq-Z9LWOA6HSZA
+
+### DocNET
+* **项目简介：** DocNET 是一个基于 .NET 开源（MIT license）、跨平台（支持Windows、Linux和macOS平台）的旨在提供快速 PDF 编辑和数据提取的操作库。它是基于 Chromium 所使用的 PDFium C++ 库开发的 .NET Standard 2.0 封装库。
+* **项目源码地址：** https://github.com/GowenGit/docnet
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qJloEWIhCx7YY2w3lfTB9g
+
+### AntDeploy
+* **项目简介：** AntDeploy 是一款由 .NET 开源、实用的 Visual Studio 发布部署插件，支持部署 Docker、IIS、Windows 和 Linux 服务，同时支持 .NET Framework 和 .NET Core，支持回滚和增量部署，在支持 Visual Studio 2019 和 2022 中使用。
+* **项目源码地址：** https://github.com/yuzd/AntDeploy
+* **项目详细介绍：** https://mp.weixin.qq.com/s/U0oq-6jq0NCBMmZ81sZj-Q
+
+### Classic.Avalonia
+* **项目简介：** Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。
+* **项目源码地址：** https://github.com/BAndysc/Classic.Avalonia
+* **项目详细介绍：** https://mp.weixin.qq.com/s/UXjXPubmCqctduMxpQeqeQ
+
+### Caly
+* **项目简介：** Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行。
+* **项目源码地址：** https://github.com/CalyPdf/Caly
+* **项目详细介绍：** https://mp.weixin.qq.com/s/UFMcp-O0Ij1daFI_mN-y5Q
+
+### Rubyer WPF
+* **项目简介：** Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包。
+* **项目源码地址：** https://gitee.com/wuyanxin1028/rubyer-wpf
+* **项目详细介绍：** https://mp.weixin.qq.com/s/SNf3slPwLbOBOhJ6yGZPew
+
+### MASA Blazor
+* **项目简介：** MASA Blazor 是一个遵循 Material Design 设计规范、开源免费（MIT License）的 Blazor 组件库。它提供如布局、弹框标准、Loading、全局异常处理等标准场景的预置组件，从更多实际场景出发，满足更多用户和场景的需求，最大的减少开发者的时间成本。缩短开发周期提高开发效率。
+* **项目源码地址：** https://github.com/masastack/MASA.Blazor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zjwzr0KZQGp1HoJtWjmp7g
+
+### TradingSystem
+* **项目简介：** TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，功能丰富且易于扩展。无论是日常交易管理、会员管理，还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。
+* **项目源码地址：** https://github.com/oybab/TradingSystem
+* **项目详细介绍：** https://mp.weixin.qq.com/s/WvBebsd_guMnLcH8yX22cA
+
+### BulmaRazor
+* **项目简介：** BulmaRazor 是一套基于 Bulma 和 Blazor 的开源（MIT）、免费、轻量级组件库。它利用 Blazor 框架的优势，使用 C# 代替 JavaScript 来创建丰富的交互式 UI，并共享使用 .NET 编写的服务器端和客户端应用逻辑。通过封装 Bulma 样式，BulmaRazor 提供了一组稳定、功能丰富且易用的 UI 组件，助力开发者快速构建现代化的 Web 应用。
+* **项目源码地址：** https://gitee.com/loogn/bulmarazor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/5wxpO36Q4cW3eechNd6p1g
+
+### Dorisoy.SIOT
+* **项目简介：** Dorisoy.SIOT 一款利用 .NET 8.0 和 MAUI 框架打造的跨平台牙科治疗机物联网移动端应用，实现了对水温Speedometer监测、高速手机转速RadialGauge显示、电动马达功率检测以及光纤灯光亮度调节等功能的数据采集与仪表盘实时展示，同时支持数据可视化检测和远程操控管理。
+* **项目源码地址：** https://github.com/dorisoy/Dorisoy.SIOT
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Cul1-FH-ecyCb7a1dUn_Sw
+
+### SerialDebug
+* **项目简介：** SerialDebug是一款基于 C# 的串口调试助手，支持进制转换，可编辑发送队列，支持XModem、YModem传输协议。
+* **项目源码地址：** https://gitee.com/mcuxmx/SerialDebug
+* **项目详细介绍：** https://mp.weixin.qq.com/s/VY1pdPRiC8Y1RbrXpDNPZQ
+
+### OSDA
+* **项目简介：** OSDA是一个基于 C# 开源（MIT License）的串口调试助手，其功能包括基础功能（打开、关闭、接收、发送、清接收区、清发送区和清空计数）、十六进制（HEX）接收，十六进制（HEX）发送、流控制（握手协议、控制协议）等。
+* **项目源码地址：** https://gitee.com/leven9/OSDA
+* **项目详细介绍：** https://mp.weixin.qq.com/s/VY1pdPRiC8Y1RbrXpDNPZQ
+
+
 ## 6月
 ### 公众号6月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年6月简报：** https://mp.weixin.qq.com/s/LwsQCMAJWsln_Sxw-0NkJA
@@ -1132,11 +1197,6 @@
 * **项目简介：** Panuon.WPF.UI 是一个适用于定制个性化UI界面的组件库。它能帮助你快速完成样式和控件的UI设计，而不必深入了解WPF的 ControlTemplate 、 Storyboard 等知识。
 * **项目源码地址：** https://github.com/Panuon/Panuon.WPF.UI
 * **项目详细介绍：** https://mp.weixin.qq.com/s/nhiJK5ERi0y1mrf6U4ekuw
-
-### OpenAuth.Net
-* **项目简介：** .Net权限管理及快速开发框架、最好用的权限工作流系统。源于Martin Fowler企业级应用开发思想及最新技术组合（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer等）。核心模块包括：角色授权、代码生成、智能打印、表单设计、工作流、定时任务等。架构易扩展，是中小企业的首选。
-* **项目源码地址：** https://gitee.com/dotnetchina/OpenAuth.Net
-* **项目详细介绍：** https://mp.weixin.qq.com/s/U01_i2_F0Knk-jcURm96TA
 
 ### DotnetSpider
 * **项目简介：** 一个轻量、灵活、高性能、跨平台的分布式网络爬虫框架（可以帮助 .NET 工程师快速的完成爬虫的开发）。
