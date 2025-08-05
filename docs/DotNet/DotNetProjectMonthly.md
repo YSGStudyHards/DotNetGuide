@@ -14,7 +14,7 @@
 # 2025年
 ## 7月
 ### 公众号7月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年7月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年7月简报：** https://mp.weixin.qq.com/s/CgGgGD1Ct74xbPHPoJLVPg
 
 ### OpenAuth.Net
 * **项目简介：** OpenAuth.Net 是一个基于 .NET 开源免费（Apache-2.0 License）的权限管理及快速开发框架，.NET 开源最好用的权限工作流系统。它源于 Martin Fowler 的企业级应用开发思想，并结合了最新的技术组合，如 SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、Vue2/3、Element-ui/plus、IdentityServer 等。该项目架构易于扩展，文档齐全且免费，特别适合中小企业使用。
