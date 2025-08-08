@@ -294,9 +294,16 @@
 |  3  | [SignalR](https://github.com/SignalR/SignalR) | SignalR 是一个实时网络通信框架，可以进行服务器到客户端和客户端到客户端的双向通信。它支持 WebSocket、Server-Sent Events 和 Long Polling 等传输协议，适用于实时聊天、实时推送等场景。 | https://learn.microsoft.com/zh-cn/aspnet/core/signalr/introduction?view=aspnetcore-7.0 |
 |  4  | [BeetleX](https://github.com/beetlex-io/BeetleX) | BeetleX是一个开源的高性能 .NET Core网络库，提供了TCP、UDP、HTTP和WebSocket协议的支持。它的设计目标是简单易用、高性能、可扩展性强，并支持大规模并发连接。BeetleX基于.NET Core实现，支持跨平台运行，可以运行在Windows、Linux和macOS等系统上。 | https://github.com/beetlex-io/BeetleX |
 |  5  | [NetCoreServer](https://github.com/chronoxor/NetCoreServer) | NetCoreServer是一个.NET开源、免费（MIT License）、快速、低延迟的异步套接字服务器和客户端库。它支持多种协议，包括 TCP、SSL、UDP、Unix Domain Socket、HTTP、HTTPS 和 WebSocket，并且能够处理高达10K并发连接。通过提供对多种协议的支持和优化的网络 I/O 操作，它使开发人员能够轻松创建响应迅速且可扩展的网络应用程序。 | https://github.com/chronoxor/NetCoreServer |
-|  6  |  |  |  |
-|  7  |  |  |  |
-|  8  |  |  |  |
+|  6  | [websocket-sharp](https://github.com/sta/websocket-sharp) | WebSocket 协议客户端和服务器的一个 C# 实现库。 | https://github.com/sta/websocket-sharp |
+|  7  | [SuperSocket](https://github.com/kerryjiang/SuperSocket) | SuperSocket 是一个高性能、可扩展的.NET 套接字服务器应用程序框架。它提供了一个强大的架构，用于构建自定义网络通信应用程序，支持多种协议，包括 TCP、UDP 和 WebSocket。 | https://github.com/kerryjiang/SuperSocket |
+|  8  | [weaving-socket](https://gitee.com/dotnetchina/weaving-socket) | weaving-socket，已.net core 为基础，设计基于TCP通信的交互框架。是编写物联网，消息队列，websocket应用，移动通信应用，IM等完美的选择。 可规范先后台交互处理，可支持，B/C,C/S,手机移动标准化的通信方式。 | https://gitee.com/dotnetchina/weaving-socket |
+|  9  | [LiteNetLib](https://github.com/RevenantX/LiteNetLib) | LiteNetLib 是一个适用于.NET Standard 2.0（Mono、.NET Core、.NET Framework）的高可靠性 UDP 库。 | https://github.com/RevenantX/LiteNetLib |
+|  10 | [NModbus4](https://github.com/NModbus4/NModbus4) | NModbus4 是 Modbus 协议的 C# 实现。提供与 Modbus 从设备兼容的设备和应用程序的连接。支持串行 ASCII、串行 RTU、TCP 和 UDP 协议，该项目已归档。 | https://github.com/NModbus4/NModbus4 |
+|  11 | [NModbus](https://github.com/NModbus/NModbus) | NModbus 是 Modbus 协议的 C# 实现。提供与 Modbus 从设备兼容的设备和应用程序的连接。支持串行 ASCII、串行 RTU、TCP 和 UDP 协议。 | https://github.com/NModbus/NModbus |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
