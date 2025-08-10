@@ -18,6 +18,81 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 8月
+### 第 49 期（2025年8.1-8.10）
+#### 使用 ScottPlot 在 .NET WinForms 中快速实现大型数据集的交互式显示！
+- **文章简介：** 在.NET应用开发中数据集的交互式显示是一个非常常见的功能，如需要创建折线图、柱状图、饼图、散点图等不同类型的图表将数据呈现出来，帮助人们更好地理解数据、发现规律，并支持决策和沟通。本文我们将一起来学习一下如何使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示。
+- **文章地址：** https://mp.weixin.qq.com/s/_uOfCNYb8yKDNyx5mxVNFg
+
+#### .NET 和 .NET Framework 2025 年 8 月服务更新
+- **文章简介：** 欢迎来到我们 2025 年 8 月的.NET 服务更新。让我们深入了解.NET 和.NET Framework 的最新版本，以下是我们的服务更新中新增内容的简要概述。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates
+
+#### 5 个 Copilot Chat 提示 .NET 开发者今天应该偷学
+- **文章简介：** 人工智能正迅速成为现代.NET 开发者工具箱中的关键部分。通过 GitHub Copilot Chat，只需提出正确的问题，你就能节省无数小时、消除障碍，并解锁新的创造力水平。但具体应该问些什么呢？以下是每个.NET 开发者现在都应该使用的五个 GitHub Copilot Chat 提示！
+- **文章地址：** https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/
+
+#### 基于 .NET 开源、功能齐全的分布式作业调度系统
+- **文章简介：** Sundial 是一个基于 .NET 开源（MIT License）、功能齐全的分布式作业调度系统，它可从最小的应用程序到大型企业系统使用。
+- **文章地址：** https://mp.weixin.qq.com/s/36EH7J5DUZPaymPTTofs3w
+
+#### C# 14 新增功能实操！
+- **文章简介：** 今天咱们一起来看看在 C# 14 中新增的几个功能特性，是否给我们日常编码带了来便利。
+- **文章地址：** https://mp.weixin.qq.com/s/jrp8MFRmgApV-dFSfh9MAQ
+
+#### 【开源力荐】一款基于 .NET 构建的小巧、免费、美观的桌面管理工具
+- **文章简介：** GeekDesk（极客桌面）是一款专为高效工作与个性化需求打造的桌面管理工具，基于 .NET 平台构建，集免费、小巧、美观、高度自定义于一体。它不仅能够有效整理凌乱的桌面图标，还集成了强大的Everything搜索功能，实现应用程序的快速启动与文件夹的便捷管理，旨在为用户提供一个更加整洁、高效的工作环境。
+- **文章地址：** https://mp.weixin.qq.com/s/Mpc9xOrsmFyUie21cj8DAA
+
+#### 一款基于 .NET + Vue 编写的仿钉钉的开源低代码工作流引擎，支持多种数据库，开箱即用！
+- **文章简介：** AntFlow.NET 是一款基于 .NET + Vue + FreeSql + Natasha 编写的仿钉钉的开源（Apache-2.0）低代码工作流引擎，支持多种数据库，让工作流开发像普通 CURD 一样简单，即使没有流程开发经验的程序员也能快速开发流程，效率提升利器。
+- **文章地址：** https://mp.weixin.qq.com/s/K_LhxrveXVVNATN45YbArw
+
+#### 【开源力荐】一款轻量、友好、跨平台的 .NET SDK 管理工具
+- **文章简介：** Dots 是一款轻量、友好、跨平台的 .NET SDK 管理工具，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。
+- **文章地址：** https://mp.weixin.qq.com/s/BRwlLQm8gHrA7U6SO9F2Qw
+
+#### 【开源力荐】一套使用 .NET WPF 实现的 ToDo 应用，WPF 入门学习实用项目！
+- **文章简介：** wpf-mstodo 是一套使用 .NET WPF 实现的 ToDo 应用（模仿 Microsoft ToDo 应用），旨在为用户提供一个直观、高效的任务管理解决方案，是一个非常值得推荐的 WPF 入门学习实用项目！
+- **文章地址：** https://mp.weixin.qq.com/s/1VU4NY0gE4ljGGySuMpgtw
+
+#### 新的 Dependabot NuGet 更新器：使用原生.NET，速度提升 65%
+- **文章简介：** 如果你曾经不耐烦地等待 Dependabot 更新你的.NET 依赖项，或者更糟，目睹它因神秘的错误而失败，我们有一些好消息。在过去的一年里，Dependabot 团队对 NuGet 更新器进行了重构，结果令人印象深刻。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/
+
+#### 探索.NET AI 应用程序的新代理质量和 NLP 评估器
+- **文章简介：** 在构建 AI 应用时，全面的评估对于确保您的系统能够提供准确、可靠且符合上下文的响应至关重要。我们很高兴宣布 Microsoft.Extensions.AI.Evaluation 库的关键增强，新增的评估器在两个关键领域扩展了评估能力：代理质量评估和自然语言处理（NLP）指标。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/
+
+#### 基于C#+avalonia ui实现的跨平台点胶机灌胶监控控制上位机软件
+- **文章简介：** 设计目标为与外购设备协同作业，完成传感器灌胶操作。涉及到的部分包括，一次点胶，一次旋转固化，点催化剂，点灭火剂这些步骤，上位机控制部分实现比较简单， 作为控制的中转核心，与各个控制执行器交互通信，实时监测各部分状态。主要实现 读取控制执行器状态信号，向控制执行器下发程控电源控制配方方案。上位机实现电源控制，与执行器之间，PC作为主站，电源控制执行器作为从站，两者之间通过modbus进行通信，物理接口为RS485。可跨平台运行在Linux系统，支持打包为deb安装包安装。
+- **文章地址：** https://www.cnblogs.com/flykai/p/19027992
+
+#### 那些被推迟的 C# 14 特性及其背后的故事
+- **文章简介：** C# 14 带着 .NET 10 一同发布了，带来了一系列诸如扩展成员、field 关键字、空条件赋值等不错的“生活质量”改进。但说实话，对于我们这些老鸟来说，社区的期待往往是更高的。每年我们都盼着语言能来点“核弹级”更新，结果发现，真正让我们心痒痒的那些大特性，却在官方的“工作集”和“积压项”里徘徊，成了 C# 14 的“幽灵”。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19026035/unimplemented-csharp-14-features
+
+#### 分析C#项目的单元测试覆盖率，提高代码质量
+- **文章简介：** 分析C#项目的单元测试覆盖率，提高代码质量。
+- **文章地址：** https://www.cnblogs.com/deali/p/19026074/csharp-unit-test-coverage-analysis
+
+#### 纯 C#实现+AOT 打造的多功能图片处理工具 ImageGlider
+- **文章简介：** 纯 C#实现+AOT 打造的多功能图片处理工具 ImageGlider。
+- **文章地址：** https://www.cnblogs.com/deali/p/19024294/csharp-aot-imageglider
+
+#### 一个被BCL遗忘的高性能集合：C# CircularBuffer<T>深度解析
+- **文章简介：** 一个被BCL遗忘的高性能集合：C# CircularBuffer<T>深度解析。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19019424/csharp-circular-buffer
+
+#### 抽象与性能：从 LINQ 看现代 .NET 的优化之道
+- **文章简介：** 大家好，在我们的日常开发中，LINQ (Language Integrated Query) 是一个绕不开的话题。然而，关于它的争议也从未停止，我们经常听到这样的声音：“LINQ 太慢了”、“LINQ 就是个语法糖”、“LINQ 是性能杀手”、“LINQ 是过度抽象”…… 但这些标签，很可能都是源于长久以来的误解。今天，我想通过一个简单的例子，和大家一起探讨一个更深层次的话题：编程语言的抽象与性能，真的是一对不可调和的矛盾吗？
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19013541/linq-abstraction-and-perf-modern-programming-language
+
+#### 记一次 .NET 某智能视觉软件 句柄爆高分析
+- **文章简介：** 记一次 .NET 某智能视觉软件 句柄爆高分析。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19016621
+
+
 ## 7月
 ### 第 48 期（2025年7.21-7.27）
 #### 一款基于 .NET 开源免费、轻量快速、跨平台的 PDF 阅读器
