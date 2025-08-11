@@ -768,12 +768,17 @@
 |  7  | [Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) | 一个基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI。不依赖数据库,只需在界面做简单配置。 | https://github.com/cq-panda/Quartz.NetUI |
 |  8  | [GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | 一个基于Quartz的轻量级,注入化的UI组件。 | https://github.com/l2999019/GZY.Quartz.MUI |
 |  9  | [SilkierQuartz](https://github.com/maikebing/SilkierQuartz) | SilkierQuartz可以作为Quartz.NET插件在现有应用程序中使用，并自动创建嵌入式Web服务器，使用起来非常方便。 | https://github.com/maikebing/SilkierQuartz |
-|  10  | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 一个基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
+|  10 | [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) | 一个基于Hangfire开发的一个组件、一个调度器（调度服务），这个调度器启动后你可以在管理面板上添加作业(让你通过web请求的方式去调度你的作业)。 | https://github.com/yuzd/Hangfire.HttpJob |
 |  11 | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) | 这是一个针对.NET平台的自动化作业调度器，它提供了易于操作的流畅接口。可以用它来自动地安排和执行各种任务，让工作变得更加高效、方便。 | https://github.com/fluentscheduler/FluentScheduler |
 |  12 | [FreeScheduler](https://github.com/2881099/FreeScheduler) | 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。 | https://github.com/2881099/FreeScheduler |
-|  13 | [Sundial](https://gitee.com/dotnetchina/Sundial) | .NET 功能齐全的开源分布式作业调度系统，可从最小的应用程序到大型企业系统使用。 | https://gitee.com/dotnetchina/Sundial |
-|  14 |  |  |  |
+|  13 | [Sundial](https://gitee.com/dotnetchina/Sundial) | Sundial 是一个基于 .NET 开源（MIT License）、功能齐全的分布式作业调度系统，它可从最小的应用程序到大型企业系统使用。 | https://gitee.com/dotnetchina/Sundial |
+|  14 | [Gofer.NET](https://github.com/brthor/Gofer.NET) | Gofer.NET 是一个适用于 .NET Core 的分布式后台任务/作业。 | https://github.com/brthor/Gofer.NET |
 |  15 |  |  |  |
+|  16 |  |  |  |
+|  17 |  |  |  |
+|  18 |  |  |  |
+|  19 |  |  |  |
+|  20 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
