@@ -1419,8 +1419,8 @@
 |  3  | [Notepads](https://github.com/0x7c13/Notepads) | Notepads是一个.NET开源、免费（MIT License）、现代、轻量级、具有极简主义设计的文本编辑器。 | https://github.com/0x7c13/Notepads |
 |  4  | [CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、易于使用的 CSV 文本编辑器应用程序，使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 | https://github.com/WildGums/CsvTextEditor |
 |  5  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
-|  6  |  |  |  |
-|  7  |  |  |  |
+|  6  | [MdXaml](https://github.com/whistyun/MdXaml) | MdXaml 是一款基于 WPF 开源（MIT license）、免费、轻量级的 Markdown 编辑器，旨在为用户提供一个直观、高效的 Markdown 编辑环境。 | https://github.com/whistyun/MdXaml |
+|  7  | [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) | Markdown.Avalonia 是 MdXaml 的 Avalonia UI 版本， 开源（MIT license）、免费、轻量级的 Markdown 编辑器。 | https://github.com/whistyun/Markdown.Avalonia |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
