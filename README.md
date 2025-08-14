@@ -874,9 +874,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [程序员写简历必须要注意的技术词汇拼写](https://github.com/StartInterview/Awesome-Tech-Words)
 * [程序员应该有的一些好习惯+面试必知事项](https://github.com/CodingDocs/advanced-programmer#%E9%9D%A2%E8%AF%95%E5%BF%85%E7%9F%A5)
 * [互联网寒冬下，如何写好一份.NET求职简历？](https://mp.weixin.qq.com/s/R6QtYjKYoeHNRAJv96qmgw)
+* [面试第一步，先准备一份简洁、优雅的简历模板](https://mp.weixin.qq.com/s/nnlV8pgOw4xRlyeHjgd5FA)
 * [面试常见的10个问题(成功率高达90%的回答技巧)](https://mp.weixin.qq.com/s/VxL7Lr_FCr37gJu_vGZNCw)
 * [专科学历的程序员想要面试获胜必须要做的两个点](https://mp.weixin.qq.com/s/HrbIlWDY7oqFOWDonKD89A)
-* [面试第一步，先准备一份简洁、优雅的简历模板！](https://mp.weixin.qq.com/s/nnlV8pgOw4xRlyeHjgd5FA)
 * [程序员面试时该如何做好自我介绍？附带介绍样板示例！](https://mp.weixin.qq.com/s/86Jyvfxl5Kl24lGa4858kA)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
