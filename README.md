@@ -867,7 +867,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [牛客网面试经验](https://www.nowcoder.com/interview/center?entranceType=%25E9%259D%25A2%25E8%25AF%2595%25E7%25BB%258F%25E9%25AA%258Ctab)
 * [牛客网AI模拟面试](https://www.nowcoder.com/interview/ai/index?entranceType=AI%25E6%25A8%25A1%25E6%258B%259F%25E9%259D%25A2%25E8%25AF%2595tab)
 * [程序员面试都需要准备什么?](https://zhuanlan.zhihu.com/p/137490246)
-* [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
+* [技术面试最后反问面试官的一些话](https://mp.weixin.qq.com/s/KLgrShenAhRA-7nGwju1lQ)
 * [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 * [大厂面试，面试官看了直呼想要的简历](https://www.cnblogs.com/aobing/p/12117044.html)
 * [程序员求职面试，顺利通关的25个步骤](https://zhuanlan.zhihu.com/p/337182098)
