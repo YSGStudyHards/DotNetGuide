@@ -19,6 +19,72 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 8月
+### 第 50 期（2025年8.11-8.17）
+#### 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！
+- **文章简介：** 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！
+- **文章地址：** https://mp.weixin.qq.com/s/OKH9TDT9WD505iN1dGQL6Q
+
+#### .NET 10 Preview 7 现已发布！
+- **文章简介：** 今天，我们很高兴宣布 .NET 10 的第七个预览版本发布，涵盖了 .NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面的改进。请查看下方链接的完整发布说明，并立即开始使用。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/
+
+#### 宣布 NuGet MCP 服务器预览
+- **文章简介：** 上个月，我们宣布支持使用.NET 构建自定义 MCP 服务器，并将其发布到 NuGet。在此基础上，今天我们正式宣布 NuGet MCP 服务器，它使您能够将实时 NuGet 包信息和管理工具直接集成到您的 AI 驱动开发工作流程中。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/
+
+#### 一款基于 WPF 开源、轻量级的 Markdown 编辑器
+- **文章简介：** Markdown 作为一种轻量级标记语言，因其简洁易读的语法和强大的文档处理能力，受到了广大开发者和内容创作者的青睐。今天大姚给大家分享一款基于 WPF 开源、轻量级的 Markdown 编辑器：MdXaml。
+- **文章地址：** https://mp.weixin.qq.com/s/wad9ACh8iPfSxPq_HHMOxQ
+
+#### 【开源力荐】基于 .NET WinForm 开发的中小型酒店管理系统
+- **文章简介：** 在现如今发展迅速的酒店行业，随着酒店的日常工作增加，已经很难用人工去进行处理，一些繁琐的数据也可能会因为人工的失误而造成酒店的一些损失，因此很需要一款可以协助酒店进行内部管理的管理软件。今天宝藏哥给大家分享一款基于 .NET WinForm 开发的中小型酒店管理系统。
+- **文章地址：** https://mp.weixin.qq.com/s/Sr21vHCu52zcvsPb6QWilA
+
+#### 推荐一种 .NET 程序崩溃闪退或卡死的分析方法
+- **文章简介：** 在实际开发中，经常遇到程序崩溃闪退或者卡死的问题，在遇到这种问题的时候，往往很难捕捉异常，且日志也无法正常记录到问题发生的位置。在Windows操作系统中，dump文件就可以记录并保存程序崩溃时的快照，今天我们通过一个小例子，简述一种生成dump文件的方法，仅供学习分享使用，如有不足之处，还请指正。
+- **文章地址：** https://mp.weixin.qq.com/s/GHmDj5RySkEsf2ExEXx97A
+
+#### 如何正确实现一个后台（定时）任务
+- **文章简介：** 相信大家都知道如何在 .NET 中执行后台（定时）任务。首先我们会选择实现 IHostedService 接口或者继承BackgroundService 来实现后台任务。然后注册到容器内，然后注册到容器内，之后这些后台任务 service 就会自动被 触发（trigger）。本文不是初级的入门教程，而是试图告诉读者一些容易被忽略的细节。
+- **文章地址：** https://mp.weixin.qq.com/s/sm4HE8bTSLQnxrso7OWDBg
+
+#### Grid 动态横向动画显示 Item
+- **文章简介：** Grid 动态横向动画显示 Item。
+- **文章地址：** https://mp.weixin.qq.com/s/hUjta_ZJeaoWEwcW-AASHw
+
+#### 【开源力荐】一款基于 .NET + Vue 开发、可商用的极简进销存管理系统
+- **文章简介：** TulingMember 是一款使用 .NET 6 开发，基于 Furion 框架与 ViewUI 构建的极简进销存管理系统。该项目旨在为企业提供一套轻量级、易扩展、易维护的进销存解决方案，帮助企业高效管理商品、销售、采购、库存及财务等核心业务。
+- **文章地址：** https://mp.weixin.qq.com/s/_FMpo53ahk52G4x6siFVzw
+
+#### C# OnnxRuntime Yolov8 纸箱检测
+- **文章简介：** C# OnnxRuntime Yolov8 纸箱检测。
+- **文章地址：** https://mp.weixin.qq.com/s/ZllA1eX7eB2ltVZCOLyveg
+
+#### WPF Stylet可以如何实现导航功能？
+- **文章简介：** WPF Stylet可以如何实现导航功能。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19039195
+
+#### C#中的多级缓存架构设计与实现深度解析
+- **文章简介：** 在现代分布式应用架构中，缓存已成为提升系统性能和用户体验的关键技术组件。随着业务规模的不断扩大和并发量的持续增长，单一级别的缓存往往无法满足复杂的性能需求。多级缓存架构通过在不同层次构建缓存体系，能够显著提升数据访问效率，降低数据库负载，并提供更好的系统可扩展性。
+- **文章地址：** https://www.cnblogs.com/token-ai/p/19034487
+
+#### WPF优秀项目推荐：Stylet 一个非常轻量但强大的 ViewModel-First MVVM 框架
+- **文章简介：** Stylet 是一个小型但功能强大的 ViewModel 优先的 MVVM 框架，适用于 WPF (.NET 4.5.2+ 和 .NET Core 3.0+)，它允许您编写易于测试的可维护和可扩展的代码。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19033566
+
+#### 记一次 .NET 某汽车控制焊接软件 卡死分析
+- **文章简介：** 前些天有位朋友找到我，说他们开发的在客户工厂里的窗体程序出现了卡死情况，并且 Ctrl+C 也退不出来，自己分析了下也没找出是什么原因，后来在网络上就找到了我，让我帮忙看下怎么回事？ 毕竟我在这一块是专业的。。。 哈哈，既然有dump，那就拿出来分析一下。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19033409
+
+#### AES 加密模式演进：从 ECB、CBC 到 GCM 的 C# 深度实践
+- **文章简介：** 在当今这个数字化的世界里，数据安全至关重要。无论是网上银行、即时通讯还是云存储，我们都依赖于强大的加密技术来保护我们的信息不被窃取或篡改。在这众多加密技术中，高级加密标准（AES）无疑是现代对称加密的基石。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19032244/aes-encryption-modes-evolution-ecb-cbc-gcm-csharp
+
+#### C# WPF 内置解码器实现 GIF 动图控件
+- **文章简介：** C# WPF 内置解码器实现 GIF 动图控件。
+- **文章地址：** https://www.cnblogs.com/BluePointLilac/p/19029227
+
+
 ### 第 49 期（2025年8.1-8.10）
 #### 使用 ScottPlot 在 .NET WinForms 中快速实现大型数据集的交互式显示！
 - **文章简介：** 在.NET应用开发中数据集的交互式显示是一个非常常见的功能，如需要创建折线图、柱状图、饼图、散点图等不同类型的图表将数据呈现出来，帮助人们更好地理解数据、发现规律，并支持决策和沟通。本文我们将一起来学习一下如何使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示。
