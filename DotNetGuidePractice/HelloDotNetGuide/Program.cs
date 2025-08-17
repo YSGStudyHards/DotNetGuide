@@ -13,6 +13,14 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region ParallelExample
+
+            //ParallelExample.ParallelForExample();
+            //ParallelExample.ParallelForEachExample();
+            //ParallelExample.ParallelForCounterexample();
+
+            #endregion
+
             #region ConstAndReadonlyExercise
 
             //ConstAndReadonlyExercise.UpdateApplicationNameValue();
@@ -54,7 +62,7 @@ namespace HelloDotNetGuide
             //LinqExercise.CountByExample();
             //LinqExercise.AggregateByExample();
             //LinqExercise.IndexExample();
-            LinqExercise.CommonMethodsInLINQ();
+            //LinqExercise.CommonMethodsInLINQ();
 
             #endregion
 
