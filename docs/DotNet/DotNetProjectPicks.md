@@ -108,6 +108,7 @@
   * [文件搜索工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
   * [开源画图工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%94%BB%E5%9B%BE%E5%B7%A5%E5%85%B7)
   * [发布部署工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%91%E5%B8%83%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7)
+  * [图片查看工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1514,6 +1515,19 @@
 |  1  | [AntDeploy](https://github.com/yuzd/AntDeploy) | AntDeploy 是一款由 .NET 开源、实用的 Visual Studio 发布部署插件，支持部署 Docker、IIS、Windows 和 Linux 服务，同时支持 .NET Framework 和 .NET Core，支持回滚和增量部署，在支持 Visual Studio 2019 和 2022 中使用。 | https://github.com/yuzd/AntDeploy |
 |  2  | [.NET Deployment Tools](https://github.com/dotnet/deployment-tools) | .NET Deployment Tools 包含用于构建所有支持平台的.NET 部署工具和安装器的代码，以及.NET 部署工具的源代码。 | https://github.com/dotnet/deployment-tools |
 |  3  | [aws-dotnet-deploy](https://github.com/aws/aws-dotnet-deploy) | 一个功能强大的 AWS .NET 部署工具，简化.NET应用程序部署到AWS的过程。 | https://github.com/aws/aws-dotnet-deploy |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 图片查看工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [ImageGlass](https://github.com/d2phap/ImageGlass) | ImageGlass 是一款轻量级、跨格式、功能丰富的开源图像查看器，专为 Windows 平台设计，旨在为用户提供简洁、直观且高效的图像浏览体验。该项目由开发者 d2phap 主导维护，采用现代 .NET 技术栈构建，支持超过 88 种常见图像格式，包括 WEBP、GIF、SVG、PNG、JXL、HEIC 等，广泛适用于个人用户、设计师及开发人员。 | https://github.com/d2phap/ImageGlass |
+|  2  |  |  |  |
+|  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
