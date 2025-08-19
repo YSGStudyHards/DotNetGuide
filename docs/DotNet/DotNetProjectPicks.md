@@ -1422,9 +1422,9 @@
 |  5  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  6  | [MdXaml](https://github.com/whistyun/MdXaml) | MdXaml 是一款基于 WPF 开源（MIT license）、免费、轻量级的 Markdown 编辑器，旨在为用户提供一个直观、高效的 Markdown 编辑环境。 | https://github.com/whistyun/MdXaml |
 |  7  | [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) | Markdown.Avalonia 是 MdXaml 的 Avalonia UI 版本， 开源（MIT license）、免费、轻量级的 Markdown 编辑器。 | https://github.com/whistyun/Markdown.Avalonia |
-|  8  |  |  |  |
+|  8  | [PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor 是一款基于 .NET 构建、功能强大的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。 | https://github.com/PixiEditor/PixiEditor |
 |  9  |  |  |  |
-|  10  |  |  |  |
+|  10 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
