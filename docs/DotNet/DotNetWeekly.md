@@ -19,6 +19,76 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 8月
+### 第 51 期（2025年8.18-8.24）
+#### 2025 年全面的 C#/.NET/.NET Core 学习路线集合，学习不迷路！
+- **文章简介：** C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity等相关技术的学习、工作路线集合（持续更新）！！！
+- **文章地址：** https://mp.weixin.qq.com/s/Zysj-0u369yAFTHo0V2L-Q
+
+#### .NET 使用 MethodTimer 进行运行耗时统计提升代码的整洁性与可维护性！
+- **文章简介：** 在 .NET 开发中，我们经常需要对关键方法进行耗时监控，以识别性能瓶颈。虽然 Stopwatch 是实现这一目标的常见选择，但其使用方式高度侵入：必须手动添加开始、结束和日志记录代码。当这类计时逻辑遍布项目各处时，不仅造成大量重复代码，还让业务逻辑变得混乱不堪，极大影响了代码的整洁性与可维护性。
+- **文章地址：** https://mp.weixin.qq.com/s/Txn9cNZsgEnnzxs1_4C1IQ
+
+#### 一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库
+- **文章简介：** AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。
+- **文章地址：** https://mp.weixin.qq.com/s/QMjNkb-YQXAfHKKLaH23tQ
+
+#### 一款基于 .NET 开源、功能强大的 Windows 搜索工具
+- **文章简介：** dnGrep 是一款基于 .NET 开源、功能强大的 Windows 搜索工具，它支持在多个文件中进行搜索，并以易于阅读的结果呈现。你可以通过文本、正则表达式、XPath 和语音查询搜索文本文件、Word 和 Excel 文档、PDF 文件以及存档文件中进行搜索。dnGrep 还提供了搜索和替换、整文件预览、在文件资源管理器中右键搜索等更多功能。
+- **文章地址：** https://mp.weixin.qq.com/s/2LFsMAEdj8i0QVZJmFWsjA
+
+#### C# 为什么不推荐用非泛型集合？泛型集合到底强在哪？
+- **文章简介：** 在 C# 里，我们常用的集合主要分两类：泛型集合 和 非泛型集合。那问题来了：为啥推荐用非泛型集合？这两者有啥区别？什么时候该用哪个？会不会影响性能？代码写起来麻不麻烦？别急，咱们一步步讲清楚，让你以后选集合不再纠结。
+- **文章地址：** https://mp.weixin.qq.com/s/tBj1nwlbYL7ZDZJOzVQwGQ
+
+#### WPF 引用 ASP.NET Core 的 AOT 版本！
+- **文章简介：** 现在 ASP.NET Core 早已支持 AOT 发布了，只是绝大部分教程都是教大家将其作为应用发布。在本文里面，咱将尝试进行类库发布，发布之后是一个 DLL 文件。通过 UnmanagedCallersOnly 导出函数被其他应用程序所使用混合 WPF 和 ASP.NET Core 两个框架到一个进程里面是比较舒服的事情，让 WPF 负责界面显示逻辑和一些交互控制，让 ASP.NET Core 负责提供 HTTP 服务，各干各的，各自发挥优势。
+- **文章地址：** https://mp.weixin.qq.com/s/XTqrk9N9KozTDRIpcB6ctA
+
+#### 记一次 .NET 某光谱检测软件 内存暴涨分析
+- **文章简介：** 记一次 .NET 某光谱检测软件 内存暴涨分析。
+- **文章地址：** https://mp.weixin.qq.com/s/hYldmySeP-m5F1yU_OJskA
+
+#### 开源DCWriterLite，一个类似MS WORD的开源文书编辑器
+- **文章简介：**  不同于TinyMCE/CKEditor等基于HTML DOM的文书编辑器，DCWriterLite实现了自定义的DOM结构，使用CANVAS来绘制文档内容，为扩展应用提供了无限的可能。这个项目还展示了将WinForm.NET代码移植到Blazor WASM的编程技巧。
+- **文章地址：** https://www.cnblogs.com/xdesigner/p/19046252/dcwriterlite
+
+#### 【EF Core】使用外部 Model
+- **文章简介：** 对于模型的配置，98.757%的情况下，我们使用“数据批注”特性类，或者 Fluent API （重写 DbContext 类的 OnModelCreating 方法）进行配置即可。但在少数情况下，可能会考虑在 DbContext 之外配置模型。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19054696
+
+#### CSGRAFEQ:用C#实现一个几何画板
+- **文章简介：** CsGrafeq是一项用C# AvaloniaUI实现的开源几何画板，支持AOT发布, 无需安装 .NET Core 运行时，无需携带大量动态链接库。
+- **文章地址：** https://www.cnblogs.com/StuLittleLi/p/19055095
+
+#### WPF中使用 using prism.region 报错
+- **文章简介：** 在 WPF 项目中使用 Prism（9.0+版本）时，当尝试使用 using Prism.Regions 时会出现编译错误，提示找不到 Regions 命名空间。
+- **文章地址：** https://www.cnblogs.com/SpikeWang/p/19052176
+
+#### 纯 C#实现+AOT 打造的智能PDF目录提取工具 PdfTocExtractor
+- **文章简介：** 纯 C#实现+AOT 打造的智能PDF目录提取工具 PdfTocExtractor。
+- **文章地址：** https://www.cnblogs.com/deali/p/19048154/csharp-pdf-toc-extractor
+
+#### 深入理解 C# 异步编程：同步、Task.Wait () 与 await 的本质区别及实践指南
+- **文章简介：** 在 C# 异步编程中，同步方法、Task.Wait() 和 await 是处理耗时操作（如数据库查询、网络请求）的三种常见方式。它们看似相似，实则在线程利用、性能和适用场景上存在本质差异。本文将从原理到实践，详细解析三者的区别，探讨 await 的核心价值，并总结异步编程中的常见问题与最佳实践。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19048634
+
+#### 如何做一个纯净版的ABP vNext 脚手架
+- **文章简介：** 今天想和分享的是如何基于一套自定义的模版，用来快速搭建项目的脚手架。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19047483
+
+#### C#实现屏幕墙：同时监控多个电脑桌面（支持Windows、信创Linux、银河麒麟、统信UOS）
+- **文章简介：** 最近有不少的客户提到了安防监控等场景，需要满足跨平台、高实时性的多个屏幕的监控需求，用户可在监控端实时查看多个被监控电脑屏幕的内容，即类似屏幕墙的需求。于是，我用C#实现了一个屏幕墙Demo分享给大家。该Demo解决方案一共包括2个项目：服务端、PC客户端，都是基于.NET Core 3.1 。 
+- **文章地址：** https://www.cnblogs.com/zhuweisky/p/19046370
+
+#### C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-下篇）
+- **文章简介：** 本节将演示如何使用 Visual Studio 构建控制台应用。若您没有 Windows 设备或希望使用 VS Code，可以跳过本节（代码完全一致，仅开发体验不同）。但建议您阅读本节内容，其中解释了部分代码实现和顶级程序的工作原理，这些知识适用于所有代码编辑器。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19046660
+
+#### C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-上篇）
+- **文章简介：** C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-上篇）。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19045297
+
+
 ### 第 50 期（2025年8.11-8.17）
 #### 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！
 - **文章简介：** 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！
