@@ -223,7 +223,7 @@
 |  1  | [MassTransit](https://github.com/MassTransit/MassTransit) | MassTransit 是一个免费的、开源的.NET 分布式应用程序框架。 MassTransit 可以轻松创建利用基于消息的松散耦合异步通信来实现更高可用性、可靠性和可扩展性的应用程序和服务。 | https://github.com/MassTransit/MassTransit |
 |  2  | [orleans](https://github.com/dotnet/orleans) | Orleans 是一个用于构建稳健、可扩展的分布式应用程序的跨平台框架。它是由微软研究院开发的开源项目，旨在简化分布式系统的开发过程（Orleans 提供了一种编程模型，使开发人员可以使用面向对象的方式来构建分布式应用程序）。 | https://github.com/dotnet/orleans |
 |  3  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://github.com/NewLifeX/Stardust |
-|  4  |  |  |  |
+|  4  | [Foundatio](https://github.com/FoundatioFx/Foundatio) | Foundatio 是基于 .NET 开源免费（Apache-2.0 license）、插件式、松耦合的一套用于构建分布式应用的程序基础库，出自于Exceptionless团队。 | https://github.com/FoundatioFx/Foundatio |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -482,9 +482,9 @@
 #### 开源缓存框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
-|  2  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching是一个.NET开源的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
-|  3  |  |  |  |
+|  1  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache 是一个用于构建高效缓存系统的 .NET 框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
+|  2  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching 是一个 .NET 开源（MIT license）、免费的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
+|  3  | [CacheManager](https://github.com/MichaCo/CacheManager) | CacheManager 是一个用 C# 编写的.NET 开源（Apache-2.0 license）缓存抽象层，它支持多种缓存提供程序并实现了许多高级功能。 | https://github.com/MichaCo/CacheManager |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
