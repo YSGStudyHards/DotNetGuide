@@ -1423,8 +1423,13 @@
 |  6  | [MdXaml](https://github.com/whistyun/MdXaml) | MdXaml 是一款基于 WPF 开源（MIT license）、免费、轻量级的 Markdown 编辑器，旨在为用户提供一个直观、高效的 Markdown 编辑环境。 | https://github.com/whistyun/MdXaml |
 |  7  | [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) | Markdown.Avalonia 是 MdXaml 的 Avalonia UI 版本， 开源（MIT license）、免费、轻量级的 Markdown 编辑器。 | https://github.com/whistyun/Markdown.Avalonia |
 |  8  | [PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor 是一款基于 .NET 构建、功能强大的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。 | https://github.com/PixiEditor/PixiEditor |
-|  9  |  |  |  |
+|  9  | [DCWriterLite](https://github.com/dcsoft-yyf/DCWriterLite) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。 | https://github.com/dcsoft-yyf/DCWriterLite |
 |  10 |  |  |  |
+|  11 |  |  |  |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
