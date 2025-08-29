@@ -647,8 +647,13 @@
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
 |  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
-|  9  |  |  |  |
+|  9  | [UrShop](https://gitee.com/urselect/urshop) | UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。 | https://gitee.com/urselect/urshop |
 |  10 |  |  |  |
+|  11 |  |  |  |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
