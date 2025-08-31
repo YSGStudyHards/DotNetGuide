@@ -19,6 +19,72 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 8月
+### 第 52 期（2025年8.25-8.31）
+#### 精选 2 款 .NET 开源、实用的缓存框架，帮助开发者更轻松地处理系统缓存！
+- **文章简介：** 缓存技术作为提升应用响应速度、减轻数据库负载的重要手段，在各类应用场景中发挥着不可替代的作用。对于 .NET 开发者而言，选择一款功能强大且易于集成的缓存框架，能够显著提升开发效率和应用性能。今天大姚给大家分享 2 款 .NET 开源、实用的缓存框架，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/gV2gd6voIc0_tMwzTyi4ig
+
+#### 一个 .NET 开源、功能强大的在线文档编辑器，类似于 Microsoft Word，支持信创！
+- **文章简介：** DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。
+- **文章地址：** https://mp.weixin.qq.com/s/NkCdPxovI7DqdCgjJu5LXA
+
+#### 一款基于 .NET 开源、功能全面的微信小程序商城系统
+- **文章简介：** UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。
+- **文章地址：** https://mp.weixin.qq.com/s/ArLHsMB2eBJMadQkjaPehw
+
+#### 上位机开发之假装有设备，使用 C# 模拟串口设备
+- **文章简介：** 这次的需求很简单，用 C# 模拟一个设备协议，实现不用去现场对接设备，也能先开发和调试上位机程序。实际设备是用 RS-485 标准进行通信，模拟跑通之后，到现场只需要把RS-485 总线（A/B 差分线）插到 USB-RS485 转换器上就可以实现数据读取和指令下发了。
+- **文章地址：** https://mp.weixin.qq.com/s/_b-ge-sIvpsKGxneqaR2lA
+
+#### 很强！一款基于 .NET 构建、功能强大、通用的 2D 图形编辑器
+- **文章简介：** PixiEditor 是一款基于 .NET 构建、开源（LGPL-3.0 license）、功能强大、通用的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。
+- **文章地址：** https://mp.weixin.qq.com/s/Bx7NvrlZ-Vx9BZyMyWHdpw
+
+#### 聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集
+- **文章简介：** 最近在分析一个崩溃dump时，发现祸首和AssemblyLoadContext有关，说实话这东西我也比较陌生，后来查了下大模型，它主要奔着替代 .NetFrameWork 时代的 AppDomain 的，都是用来做晚期加卸载，实现对宿主程序的可插拔，AppDomain.Create 是在AppDomain级别上，后者是在 Assembly 级别上。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19065688
+
+#### MauiReactor：面向 .NET MAUI 的 MVU 架构方案
+- **文章简介：** 我是一名来自意大利的全栈开发者，主要专注于微软技术栈，涵盖从基于.NET MAUI的跨平台应用到部署在Azure上的ASP.NET Core后端服务。我是MauiReactor的创建者——这款面向.NET MAUI的UI库将模型-视图-更新（MVU）模式引入跨平台开发领域。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/
+
+#### EFCore.Visualizer – 在 Visual Studio 中查看 Entity Framework Core 查询计划
+- **文章简介：** Entity Framework Core 是一个功能强大、特性丰富的 ORM，为当今许多应用程序提供支持。通过 EF Core，开发者编写强类型 LINQ 查询，该框架将其转换为针对目标数据库的 SQL 查询。凭借包括嵌套集合和懒加载等高级功能，Entity Framework Core 使开发者摆脱了编写样板数据访问代码的负担。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/
+
+#### 开始使用 Aspire CLI
+- **文章简介：** Aspire CLI 是一款强大的跨平台工具，旨在简化应用系统的开发、管理和部署。无论您是在构建一个简单的网站，还是企业级的分布式微服务应用（包含队列和数据库），Aspire CLI 都提供以交互为先的体验，帮助您轻松创建、运行和发布项目。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/
+
+#### 使用c#强大的SourceGenerator现对象的深克隆
+- **文章简介：** 去年的时候写了一篇用使用c#强大的表达式树实现对象的深克隆. 最近又看到园子里的另外一篇吐槽automapper性能的文章。正好闲来无事，就想着看如果用Source Generator来实现深克隆，性能上会不会比表达式树更强劲呢，于是有了这篇文章。
+- **文章地址：** https://www.cnblogs.com/gmmy/p/19064599
+
+#### C# SIMD编程实践：工业数据处理性能优化案例
+- **文章简介：** 想象一下这样的场景：一台精密的工业扫描设备每次检测都会产生200万个浮点数据，需要我们计算出最大值、最小值、平均值和方差来判断工件是否合格。使用传统的C#循环处理，每次计算需要几秒钟时间，严重影响生产线效率。但是，通过SIMD优化后，同样的计算只需要几十毫秒！这不是魔法，这是现代CPU并行计算能力的体现。今天，我们就来揭秘这个性能奇迹背后的技术原理。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19062068
+
+#### 记一次 .NET 某放射治疗光学定位软件 卡死分析
+- **文章简介：** 前段时间微信上有位非调试训练营学员找到我，说他们的医疗软件有点问题，有时候卡了一会就好了，有时候卡了很久，让我帮忙看下怎么回事，我让这位朋友在卡的时候抓一个dump给我，我分析看看。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19061454
+
+#### 【译】模型上下文协议（MCP）现已在 Visual Studio 中正式发布
+- **文章简介：** 模型上下文协议（MCP）是一种开放标准，它能让人工智能 Agent 轻松连接外部工具和服务 —— 可以把它想象成 HTTP，但适用于支持人工智能的开发者工作流。无需为每个工具构建自定义集成，MCP 让您能够通过一种一致、安全的协议，接入数据库、代码搜索、部署流水线等强大的服务器端点。随着 Visual Studio 中正式发布的支持，您将找到连接、配置和控制 MCP 服务器的新方法，此外还有一系列不断增加的功能，让设置过程更加无缝且具备企业级可用性。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19057008
+
+#### 【译】增强 Visual Studio 聊天中的代码库感知能力
+- **文章简介：** 在我们最新的 17.14.11 版本中，我们在代码探索以获取有意义的上下文方面取得了重大飞跃。我们新的远程语义搜索集成能帮助您比以往更快、更精准地找到所需内容。通过将远程语义搜索直接嵌入到 Visual Studio Copilot 的代码搜索体验中，我们将传统关键词搜索（BM25）的优势与尖端 AI 模型的深度上下文理解能力相结合。这意味着您的搜索不再局限于匹配词语，还能理解搜索查询背后的概念和意图。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19054437
+
+#### 免费SSL申请并使用Yarp实现支持内网穿透
+- **文章简介：** FastGateway 新版本进行了重大架构升级，不再依赖 SQLite 数据库，改为使用轻量级的配置文件管理，同时移除了请求日志记录功能，实现了更加轻量级、高性能的网关解决方案。
+- **文章地址：** https://www.cnblogs.com/token-ai/p/19056197
+
+#### .NET 10 预览版 7 增强 ASP.NET Core、Blazor 和 MAUI，并实现 C# 14 的全部功能
+- **文章简介：** 2025 年 8 月 12 日，微软发布了.NET 10 预览版7。这次更新在 ASP.NET Core、C#、.NET MAUI 和 Windows Forms 等方面带来了广泛的改进，标志着向最终版本又迈进了一步。
+- **文章地址：** https://news.cnblogs.com/n/799586/
+
+
 ### 第 51 期（2025年8.18-8.24）
 #### 2025 年全面的 C#/.NET/.NET Core 学习路线集合，学习不迷路！
 - **文章简介：** C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity等相关技术的学习、工作路线集合（持续更新）！！！
