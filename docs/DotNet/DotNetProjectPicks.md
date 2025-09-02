@@ -75,6 +75,7 @@
   * [酒店管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [阅读应用系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F)
   * [开源交易系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F)
+  * [论文查重系统]()
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -1078,6 +1079,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Lean](https://github.com/QuantConnect/Lean) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。它允许开发者直接从终端管理项目、运行回测、部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 | https://github.com/QuantConnect/Lean |
 |  2  | [TradingSystem](https://github.com/oybab/TradingSystem) | TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，功能丰富且易于扩展。无论是日常交易管理、会员管理，还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。 | https://github.com/oybab/TradingSystem |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 论文查重系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [paper_checking_system](https://github.com/tianlian0/paper_checking_system) | 一个基于C#和C++开发的文本查重/论文查重系统，一亿字次级论文库秒级查重。关联：查重算法、数据去重、文档查重、文本去重、标书查重、辅助防串标、作业查重、duplicate check。 | https://github.com/tianlian0/paper_checking_system |
+|  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -2289,11 +2303,15 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
-|  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
+|  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程，动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
 |  3  | [SolutionsDesign/Algorithmia](https://github.com/SolutionsDesign/Algorithmia) | Algorithmia是一个针对.NET 4.5.2+及更高版本和.NET Standard 2.0+的算法和数据结构库。它包含了多种复杂的算法和数据结构，如图论、优先队列、命令模式、撤销重做等。 | https://github.com/SolutionsDesign/Algorithmia |
-|  4  |  |  |  |
-|  5  |  |  |  |
-|  6  |  |  |  |
+|  4  | [LinHowe_GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm) | 基于Unity简单地实现游戏开发中常用的算法。 | https://github.com/IceLanguage/LinHowe_GameAlgorithm |
+|  5  | [Algorithms-4th-Edition in C#](https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp) | 算法（第四版）习题题解 C# 版。 | https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp |
+|  6  | [Algorithm](https://github.com/iwiniwin/Algorithm) | 《剑指Offer》，《程序员代码面试指南》，Leetcode等算法题目集合。基于.net core的控制台程序，C#实现，包含每道题目的完整描述，多种解法AC代码，以及解题思路，所有题目均可直接运行以查看输出结果。常用算法汇总中每个算法同样有测试用例，可运行。 | https://github.com/iwiniwin/Algorithm |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
