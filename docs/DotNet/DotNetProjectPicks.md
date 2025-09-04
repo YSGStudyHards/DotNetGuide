@@ -174,7 +174,7 @@
 |  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | JsonApiDotNetCore是一个用于构建符合JSON:API标准的RESTful API的框架，基于ASP.NET和Entity Framework Core，旨在通过提供排序、过滤、分页等现成功能来最大限度地减少样板代码，使开发者只需关注资源定义和业务逻辑实现，且其基于依赖注入的设计使扩展变得非常容易。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
 |  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
 |  9  | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) |
-|  10  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin是基于NET8搭建DDD-微服务-现代化Saas企业级WebAPI架构支持：IDS4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AISemanticKernel集成、OCR验证码识别、API多版本兼容、单元集成测试 | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin)  |
+|  10  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin是一个基于.NET8搭建DDD-微服务-现代化Saas企业级WebAPI架构，支持：IDS4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AISemanticKernel集成、OCR验证码识别、API多版本兼容、单元集成测试。 | https://github.com/junkai-li/NetCoreKevin  |
 |  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
