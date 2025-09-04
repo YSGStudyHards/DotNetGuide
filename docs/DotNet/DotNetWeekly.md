@@ -19,6 +19,142 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 8月
+### 第 52 期（2025年8.25-8.31）
+#### 精选 2 款 .NET 开源、实用的缓存框架，帮助开发者更轻松地处理系统缓存！
+- **文章简介：** 缓存技术作为提升应用响应速度、减轻数据库负载的重要手段，在各类应用场景中发挥着不可替代的作用。对于 .NET 开发者而言，选择一款功能强大且易于集成的缓存框架，能够显著提升开发效率和应用性能。今天大姚给大家分享 2 款 .NET 开源、实用的缓存框架，希望可以帮助到有需要的同学。
+- **文章地址：** https://mp.weixin.qq.com/s/gV2gd6voIc0_tMwzTyi4ig
+
+#### 一个 .NET 开源、功能强大的在线文档编辑器，类似于 Microsoft Word，支持信创！
+- **文章简介：** DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。
+- **文章地址：** https://mp.weixin.qq.com/s/NkCdPxovI7DqdCgjJu5LXA
+
+#### 一款基于 .NET 开源、功能全面的微信小程序商城系统
+- **文章简介：** UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。
+- **文章地址：** https://mp.weixin.qq.com/s/ArLHsMB2eBJMadQkjaPehw
+
+#### 上位机开发之假装有设备，使用 C# 模拟串口设备
+- **文章简介：** 这次的需求很简单，用 C# 模拟一个设备协议，实现不用去现场对接设备，也能先开发和调试上位机程序。实际设备是用 RS-485 标准进行通信，模拟跑通之后，到现场只需要把RS-485 总线（A/B 差分线）插到 USB-RS485 转换器上就可以实现数据读取和指令下发了。
+- **文章地址：** https://mp.weixin.qq.com/s/_b-ge-sIvpsKGxneqaR2lA
+
+#### 很强！一款基于 .NET 构建、功能强大、通用的 2D 图形编辑器
+- **文章简介：** PixiEditor 是一款基于 .NET 构建、开源（LGPL-3.0 license）、功能强大、通用的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。
+- **文章地址：** https://mp.weixin.qq.com/s/Bx7NvrlZ-Vx9BZyMyWHdpw
+
+#### 聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集
+- **文章简介：** 最近在分析一个崩溃dump时，发现祸首和AssemblyLoadContext有关，说实话这东西我也比较陌生，后来查了下大模型，它主要奔着替代 .NetFrameWork 时代的 AppDomain 的，都是用来做晚期加卸载，实现对宿主程序的可插拔，AppDomain.Create 是在AppDomain级别上，后者是在 Assembly 级别上。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19065688
+
+#### MauiReactor：面向 .NET MAUI 的 MVU 架构方案
+- **文章简介：** 我是一名来自意大利的全栈开发者，主要专注于微软技术栈，涵盖从基于.NET MAUI的跨平台应用到部署在Azure上的ASP.NET Core后端服务。我是MauiReactor的创建者——这款面向.NET MAUI的UI库将模型-视图-更新（MVU）模式引入跨平台开发领域。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/
+
+#### EFCore.Visualizer – 在 Visual Studio 中查看 Entity Framework Core 查询计划
+- **文章简介：** Entity Framework Core 是一个功能强大、特性丰富的 ORM，为当今许多应用程序提供支持。通过 EF Core，开发者编写强类型 LINQ 查询，该框架将其转换为针对目标数据库的 SQL 查询。凭借包括嵌套集合和懒加载等高级功能，Entity Framework Core 使开发者摆脱了编写样板数据访问代码的负担。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/
+
+#### 开始使用 Aspire CLI
+- **文章简介：** Aspire CLI 是一款强大的跨平台工具，旨在简化应用系统的开发、管理和部署。无论您是在构建一个简单的网站，还是企业级的分布式微服务应用（包含队列和数据库），Aspire CLI 都提供以交互为先的体验，帮助您轻松创建、运行和发布项目。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/
+
+#### 使用c#强大的SourceGenerator现对象的深克隆
+- **文章简介：** 去年的时候写了一篇用使用c#强大的表达式树实现对象的深克隆. 最近又看到园子里的另外一篇吐槽automapper性能的文章。正好闲来无事，就想着看如果用Source Generator来实现深克隆，性能上会不会比表达式树更强劲呢，于是有了这篇文章。
+- **文章地址：** https://www.cnblogs.com/gmmy/p/19064599
+
+#### C# SIMD编程实践：工业数据处理性能优化案例
+- **文章简介：** 想象一下这样的场景：一台精密的工业扫描设备每次检测都会产生200万个浮点数据，需要我们计算出最大值、最小值、平均值和方差来判断工件是否合格。使用传统的C#循环处理，每次计算需要几秒钟时间，严重影响生产线效率。但是，通过SIMD优化后，同样的计算只需要几十毫秒！这不是魔法，这是现代CPU并行计算能力的体现。今天，我们就来揭秘这个性能奇迹背后的技术原理。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19062068
+
+#### 记一次 .NET 某放射治疗光学定位软件 卡死分析
+- **文章简介：** 前段时间微信上有位非调试训练营学员找到我，说他们的医疗软件有点问题，有时候卡了一会就好了，有时候卡了很久，让我帮忙看下怎么回事，我让这位朋友在卡的时候抓一个dump给我，我分析看看。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19061454
+
+#### 【译】模型上下文协议（MCP）现已在 Visual Studio 中正式发布
+- **文章简介：** 模型上下文协议（MCP）是一种开放标准，它能让人工智能 Agent 轻松连接外部工具和服务 —— 可以把它想象成 HTTP，但适用于支持人工智能的开发者工作流。无需为每个工具构建自定义集成，MCP 让您能够通过一种一致、安全的协议，接入数据库、代码搜索、部署流水线等强大的服务器端点。随着 Visual Studio 中正式发布的支持，您将找到连接、配置和控制 MCP 服务器的新方法，此外还有一系列不断增加的功能，让设置过程更加无缝且具备企业级可用性。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19057008
+
+#### 【译】增强 Visual Studio 聊天中的代码库感知能力
+- **文章简介：** 在我们最新的 17.14.11 版本中，我们在代码探索以获取有意义的上下文方面取得了重大飞跃。我们新的远程语义搜索集成能帮助您比以往更快、更精准地找到所需内容。通过将远程语义搜索直接嵌入到 Visual Studio Copilot 的代码搜索体验中，我们将传统关键词搜索（BM25）的优势与尖端 AI 模型的深度上下文理解能力相结合。这意味着您的搜索不再局限于匹配词语，还能理解搜索查询背后的概念和意图。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19054437
+
+#### 免费SSL申请并使用Yarp实现支持内网穿透
+- **文章简介：** FastGateway 新版本进行了重大架构升级，不再依赖 SQLite 数据库，改为使用轻量级的配置文件管理，同时移除了请求日志记录功能，实现了更加轻量级、高性能的网关解决方案。
+- **文章地址：** https://www.cnblogs.com/token-ai/p/19056197
+
+#### .NET 10 预览版 7 增强 ASP.NET Core、Blazor 和 MAUI，并实现 C# 14 的全部功能
+- **文章简介：** 2025 年 8 月 12 日，微软发布了.NET 10 预览版7。这次更新在 ASP.NET Core、C#、.NET MAUI 和 Windows Forms 等方面带来了广泛的改进，标志着向最终版本又迈进了一步。
+- **文章地址：** https://news.cnblogs.com/n/799586/
+
+
+### 第 51 期（2025年8.18-8.24）
+#### 2025 年全面的 C#/.NET/.NET Core 学习路线集合，学习不迷路！
+- **文章简介：** C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity等相关技术的学习、工作路线集合（持续更新）！！！
+- **文章地址：** https://mp.weixin.qq.com/s/Zysj-0u369yAFTHo0V2L-Q
+
+#### .NET 使用 MethodTimer 进行运行耗时统计提升代码的整洁性与可维护性！
+- **文章简介：** 在 .NET 开发中，我们经常需要对关键方法进行耗时监控，以识别性能瓶颈。虽然 Stopwatch 是实现这一目标的常见选择，但其使用方式高度侵入：必须手动添加开始、结束和日志记录代码。当这类计时逻辑遍布项目各处时，不仅造成大量重复代码，还让业务逻辑变得混乱不堪，极大影响了代码的整洁性与可维护性。
+- **文章地址：** https://mp.weixin.qq.com/s/Txn9cNZsgEnnzxs1_4C1IQ
+
+#### 一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库
+- **文章简介：** AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。
+- **文章地址：** https://mp.weixin.qq.com/s/QMjNkb-YQXAfHKKLaH23tQ
+
+#### 一款基于 .NET 开源、功能强大的 Windows 搜索工具
+- **文章简介：** dnGrep 是一款基于 .NET 开源、功能强大的 Windows 搜索工具，它支持在多个文件中进行搜索，并以易于阅读的结果呈现。你可以通过文本、正则表达式、XPath 和语音查询搜索文本文件、Word 和 Excel 文档、PDF 文件以及存档文件中进行搜索。dnGrep 还提供了搜索和替换、整文件预览、在文件资源管理器中右键搜索等更多功能。
+- **文章地址：** https://mp.weixin.qq.com/s/2LFsMAEdj8i0QVZJmFWsjA
+
+#### C# 为什么不推荐用非泛型集合？泛型集合到底强在哪？
+- **文章简介：** 在 C# 里，我们常用的集合主要分两类：泛型集合 和 非泛型集合。那问题来了：为啥推荐用非泛型集合？这两者有啥区别？什么时候该用哪个？会不会影响性能？代码写起来麻不麻烦？别急，咱们一步步讲清楚，让你以后选集合不再纠结。
+- **文章地址：** https://mp.weixin.qq.com/s/tBj1nwlbYL7ZDZJOzVQwGQ
+
+#### WPF 引用 ASP.NET Core 的 AOT 版本！
+- **文章简介：** 现在 ASP.NET Core 早已支持 AOT 发布了，只是绝大部分教程都是教大家将其作为应用发布。在本文里面，咱将尝试进行类库发布，发布之后是一个 DLL 文件。通过 UnmanagedCallersOnly 导出函数被其他应用程序所使用混合 WPF 和 ASP.NET Core 两个框架到一个进程里面是比较舒服的事情，让 WPF 负责界面显示逻辑和一些交互控制，让 ASP.NET Core 负责提供 HTTP 服务，各干各的，各自发挥优势。
+- **文章地址：** https://mp.weixin.qq.com/s/XTqrk9N9KozTDRIpcB6ctA
+
+#### 记一次 .NET 某光谱检测软件 内存暴涨分析
+- **文章简介：** 记一次 .NET 某光谱检测软件 内存暴涨分析。
+- **文章地址：** https://mp.weixin.qq.com/s/hYldmySeP-m5F1yU_OJskA
+
+#### 开源DCWriterLite，一个类似MS WORD的开源文书编辑器
+- **文章简介：**  不同于TinyMCE/CKEditor等基于HTML DOM的文书编辑器，DCWriterLite实现了自定义的DOM结构，使用CANVAS来绘制文档内容，为扩展应用提供了无限的可能。这个项目还展示了将WinForm.NET代码移植到Blazor WASM的编程技巧。
+- **文章地址：** https://www.cnblogs.com/xdesigner/p/19046252/dcwriterlite
+
+#### 【EF Core】使用外部 Model
+- **文章简介：** 对于模型的配置，98.757%的情况下，我们使用“数据批注”特性类，或者 Fluent API （重写 DbContext 类的 OnModelCreating 方法）进行配置即可。但在少数情况下，可能会考虑在 DbContext 之外配置模型。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19054696
+
+#### CSGRAFEQ:用C#实现一个几何画板
+- **文章简介：** CsGrafeq是一项用C# AvaloniaUI实现的开源几何画板，支持AOT发布, 无需安装 .NET Core 运行时，无需携带大量动态链接库。
+- **文章地址：** https://www.cnblogs.com/StuLittleLi/p/19055095
+
+#### WPF中使用 using prism.region 报错
+- **文章简介：** 在 WPF 项目中使用 Prism（9.0+版本）时，当尝试使用 using Prism.Regions 时会出现编译错误，提示找不到 Regions 命名空间。
+- **文章地址：** https://www.cnblogs.com/SpikeWang/p/19052176
+
+#### 纯 C#实现+AOT 打造的智能PDF目录提取工具 PdfTocExtractor
+- **文章简介：** 纯 C#实现+AOT 打造的智能PDF目录提取工具 PdfTocExtractor。
+- **文章地址：** https://www.cnblogs.com/deali/p/19048154/csharp-pdf-toc-extractor
+
+#### 深入理解 C# 异步编程：同步、Task.Wait () 与 await 的本质区别及实践指南
+- **文章简介：** 在 C# 异步编程中，同步方法、Task.Wait() 和 await 是处理耗时操作（如数据库查询、网络请求）的三种常见方式。它们看似相似，实则在线程利用、性能和适用场景上存在本质差异。本文将从原理到实践，详细解析三者的区别，探讨 await 的核心价值，并总结异步编程中的常见问题与最佳实践。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19048634
+
+#### 如何做一个纯净版的ABP vNext 脚手架
+- **文章简介：** 今天想和分享的是如何基于一套自定义的模版，用来快速搭建项目的脚手架。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19047483
+
+#### C#实现屏幕墙：同时监控多个电脑桌面（支持Windows、信创Linux、银河麒麟、统信UOS）
+- **文章简介：** 最近有不少的客户提到了安防监控等场景，需要满足跨平台、高实时性的多个屏幕的监控需求，用户可在监控端实时查看多个被监控电脑屏幕的内容，即类似屏幕墙的需求。于是，我用C#实现了一个屏幕墙Demo分享给大家。该Demo解决方案一共包括2个项目：服务端、PC客户端，都是基于.NET Core 3.1 。 
+- **文章地址：** https://www.cnblogs.com/zhuweisky/p/19046370
+
+#### C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-下篇）
+- **文章简介：** 本节将演示如何使用 Visual Studio 构建控制台应用。若您没有 Windows 设备或希望使用 VS Code，可以跳过本节（代码完全一致，仅开发体验不同）。但建议您阅读本节内容，其中解释了部分代码实现和顶级程序的工作原理，这些知识适用于所有代码编辑器。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19046660
+
+#### C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-上篇）
+- **文章简介：** C# 13 与 .NET 9 跨平台开发实战（第一章：开发环境搭建与.NET概述-上篇）。
+- **文章地址：** https://www.cnblogs.com/jackyfei/p/19045297
+
+
 ### 第 50 期（2025年8.11-8.17）
 #### 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！
 - **文章简介：** 精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！

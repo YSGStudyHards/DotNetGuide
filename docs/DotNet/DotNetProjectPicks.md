@@ -75,6 +75,7 @@
   * [酒店管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [阅读应用系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F)
   * [开源交易系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F)
+  * [论文查重系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D%E7%B3%BB%E7%BB%9F)
   * [其他开源项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 * [实用工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
@@ -223,7 +224,7 @@
 |  1  | [MassTransit](https://github.com/MassTransit/MassTransit) | MassTransit 是一个免费的、开源的.NET 分布式应用程序框架。 MassTransit 可以轻松创建利用基于消息的松散耦合异步通信来实现更高可用性、可靠性和可扩展性的应用程序和服务。 | https://github.com/MassTransit/MassTransit |
 |  2  | [orleans](https://github.com/dotnet/orleans) | Orleans 是一个用于构建稳健、可扩展的分布式应用程序的跨平台框架。它是由微软研究院开发的开源项目，旨在简化分布式系统的开发过程（Orleans 提供了一种编程模型，使开发人员可以使用面向对象的方式来构建分布式应用程序）。 | https://github.com/dotnet/orleans |
 |  3  | [NewLife.Stardust](https://github.com/NewLifeX/Stardust) | 一款由新生命开发团队开源的.NET轻量级分布式服务框架，星尘是一个轻量级分布式服务框架。它的功能包含配置中心、集群管理、远程自动发布、服务治理、服务自动注册和发现、负载均衡、动态伸缩、故障转移、性能监控。 | https://github.com/NewLifeX/Stardust |
-|  4  |  |  |  |
+|  4  | [Foundatio](https://github.com/FoundatioFx/Foundatio) | Foundatio 是基于 .NET 开源免费（Apache-2.0 license）、插件式、松耦合的一套用于构建分布式应用的程序基础库，出自于Exceptionless团队。 | https://github.com/FoundatioFx/Foundatio |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
@@ -482,9 +483,9 @@
 #### 开源缓存框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache是一个用于构建高效缓存系统的.NET框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
-|  2  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching是一个.NET开源的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
-|  3  |  |  |  |
+|  1  | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache 是一个用于构建高效缓存系统的 .NET 框架（基于MIT License协议开源、强大、易于使用），旨在提供简单易用、高性能和可靠的缓存解决方案。支持内存缓存、分布式缓存、http 缓存、CDN、浏览器缓存、离线缓存等等。 | https://github.com/ZiggyCreatures/FusionCache |
+|  2  | [EasyCaching](https://github.com/dotnetcore/EasyCaching) | EasyCaching 是一个 .NET 开源（MIT license）、免费的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。 | https://github.com/dotnetcore/EasyCaching |
+|  3  | [CacheManager](https://github.com/MichaCo/CacheManager) | CacheManager 是一个用 C# 编写的.NET 开源（Apache-2.0 license）缓存抽象层，它支持多种缓存提供程序并实现了许多高级功能。 | https://github.com/MichaCo/CacheManager |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
@@ -647,8 +648,13 @@
 |  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
 |  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
 |  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
-|  9  |  |  |  |
+|  9  | [UrShop](https://gitee.com/urselect/urshop) | UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。 | https://gitee.com/urselect/urshop |
 |  10 |  |  |  |
+|  11 |  |  |  |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1081,6 +1087,19 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 论文查重系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [paper_checking_system](https://github.com/tianlian0/paper_checking_system) | 一个基于C#和C++开发的文本查重/论文查重系统，一亿字次级论文库秒级查重。关联：查重算法、数据去重、文档查重、文本去重、标书查重、辅助防串标、作业查重、duplicate check。 | https://github.com/tianlian0/paper_checking_system |
+|  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 其他开源项目
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
@@ -1422,9 +1441,14 @@
 |  5  | [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。 | https://github.com/Code52/DownmarkerWPF |
 |  6  | [MdXaml](https://github.com/whistyun/MdXaml) | MdXaml 是一款基于 WPF 开源（MIT license）、免费、轻量级的 Markdown 编辑器，旨在为用户提供一个直观、高效的 Markdown 编辑环境。 | https://github.com/whistyun/MdXaml |
 |  7  | [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) | Markdown.Avalonia 是 MdXaml 的 Avalonia UI 版本， 开源（MIT license）、免费、轻量级的 Markdown 编辑器。 | https://github.com/whistyun/Markdown.Avalonia |
-|  8  |  |  |  |
-|  9  |  |  |  |
-|  10  |  |  |  |
+|  8  | [PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor 是一款基于 .NET 构建、开源（LGPL-3.0 license）、功能强大、通用的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。 | https://github.com/PixiEditor/PixiEditor |
+|  9  | [DCWriterLite](https://github.com/dcsoft-yyf/DCWriterLite) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。 | https://github.com/dcsoft-yyf/DCWriterLite |
+|  10 |  |  |  |
+|  11 |  |  |  |
+|  12 |  |  |  |
+|  13 |  |  |  |
+|  14 |  |  |  |
+|  15 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1488,7 +1512,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [EverythingToolbar](https://github.com/srwi/EverythingToolbar) | EverythingToolbar 是一款基于 .NET 开源（MIT License）、免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、更快速的搜索体验。 | https://github.com/srwi/EverythingToolbar |
 |  2  | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | Flow Launcher是一款.NET开源（MIT License）、免费、功能强大的Windows快速文件搜索和应用程序启动器，能够帮助你快速查找文件、启动应用程序和执行系统操作，提高工作效率和操作便利性。并且生态完善，有插件商店，你可以查看完整的插件列表，或通过"设置"中的"插件商店"菜单快速安装插件。 | https://github.com/Flow-Launcher/Flow.Launcher |
-|  3  |  |  |  |
+|  3  | [dnGrep](https://github.com/dnGrep/dnGrep) | dnGrep 是一款基于 .NET 开源、功能强大的 Windows 搜索工具，它支持在多个文件中进行搜索，并以易于阅读的结果呈现。你可以通过文本、正则表达式、XPath 和语音查询搜索文本文件、Word 和 Excel 文档、PDF 文件以及存档文件中进行搜索。dnGrep 还提供了搜索和替换、整文件预览、在文件资源管理器中右键搜索等更多功能。 | https://github.com/dnGrep/dnGrep |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
@@ -2214,21 +2238,26 @@
 #### Avalonia UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
-|  2  | [AtomUI](https://github.com/chinware/AtomUI) | 一个基于Ant Design 5.0和Avalonia技术的跨平台UI控件库。 | https://github.com/chinware/AtomUI |
-|  3  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | 一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
-|  4  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | 一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
-|  5  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | 一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
-|  6  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
-|  7  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
-|  8  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
-|  9  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
-|  10  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
-|  11  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
-|  12  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
-|  13  | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 | https://github.com/BAndysc/Classic.Avalonia |
+|  1  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
+|  2  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
+|  3  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | 提供了大量的Avalonia UI控件的库。 | https://github.com/PieroCastillo/Aura.UI |
+|  4  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
+|  5  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
+|  6  | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 | https://github.com/BAndysc/Classic.Avalonia |
+|  7  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
+|  8  | [AtomUI](https://github.com/chinware/AtomUI) | AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。 | https://gitee.com/chinware/atomui |
+|  9  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | Avalonia.ExtendedToolkit 是一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
+|  10  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | avalonia-aero-theme 是一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
+|  11  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | Citrus.Avalonia 是一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
+|  12  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
+|  13  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
 |  14  |  |  |  |
 |  15  |  |  |  |
+|  16  |  |  |  |
+|  17  |  |  |  |
+|  18  |  |  |  |
+|  19  |  |  |  |
+|  20  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -2274,11 +2303,15 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) | 一个C#实现的各种算法集合，这些算法涵盖了计算机科学、数学和统计学、数据科学、机器学习、工程等多个领域。这些实现及其相关文档旨在为教育工作者和学生提供学习资源。因此，可能会找到针对同一目标使用不同算法策略和优化的多种实现。 | https://github.com/TheAlgorithms/C-Sharp |
-|  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程,动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
+|  2  | [Hello算法](https://github.com/krahets/hello-algo) | 一个支持C#的开源免费、新手友好的数据结构与算法入门教程，动画图解、一键运行的数据结构与算法教程。 | https://github.com/krahets/hello-algo |
 |  3  | [SolutionsDesign/Algorithmia](https://github.com/SolutionsDesign/Algorithmia) | Algorithmia是一个针对.NET 4.5.2+及更高版本和.NET Standard 2.0+的算法和数据结构库。它包含了多种复杂的算法和数据结构，如图论、优先队列、命令模式、撤销重做等。 | https://github.com/SolutionsDesign/Algorithmia |
-|  4  |  |  |  |
-|  5  |  |  |  |
-|  6  |  |  |  |
+|  4  | [LinHowe_GameAlgorithm](https://github.com/IceLanguage/LinHowe_GameAlgorithm) | 基于Unity简单地实现游戏开发中常用的算法。 | https://github.com/IceLanguage/LinHowe_GameAlgorithm |
+|  5  | [Algorithms-4th-Edition in C#](https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp) | 算法（第四版）习题题解 C# 版。 | https://github.com/ikesnowy/Algorithms-4th-Edition-in-Csharp |
+|  6  | [Algorithm](https://github.com/iwiniwin/Algorithm) | 《剑指Offer》，《程序员代码面试指南》，Leetcode等算法题目集合。基于.net core的控制台程序，C#实现，包含每道题目的完整描述，多种解法AC代码，以及解题思路，所有题目均可直接运行以查看输出结果。常用算法汇总中每个算法同样有测试用例，可运行。 | https://github.com/iwiniwin/Algorithm |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 

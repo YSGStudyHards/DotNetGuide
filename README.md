@@ -517,8 +517,8 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 ### 设计模式推荐学习教程
 * [大话设计模式](http://www.ddooo.com/softdown/109592.htm)
 * [图说设计模式](https://github.com/me115/design_patterns)
-* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q)
 * [设计模式之禅（第2版）](https://www.kancloud.cn/sstd521/design/193489)
+* [C#设计模式入门实战教程](https://mp.weixin.qq.com/s/9XqcJUdfFgbUkKclfHGz7Q)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
 * [免费在线学习代码重构和设计模式](https://refactoringguru.cn/)
