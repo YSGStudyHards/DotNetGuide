@@ -171,7 +171,7 @@
 * [GitHub 汉化神器，2步快速解锁中文化 GitHub 界面！](https://mp.weixin.qq.com/s/z9vQKyMk_m5vtk6GKEG6GQ)
 * [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
-* [Zread：智谱 AI 推出的 Github 项目阅读神器，一键生成超详细项目文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
+* [Zread：智谱AI推出的 Github 项目阅读神器，一键生成超详细中文文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
