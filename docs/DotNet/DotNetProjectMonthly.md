@@ -12,6 +12,61 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 8月
+### 公众号8月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年8月简报：** 
+
+### AtomUI
+* **项目简介：** AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。
+* **项目源码地址：** https://gitee.com/chinware/atomui
+* **项目详细介绍：** https://mp.weixin.qq.com/s/QMjNkb-YQXAfHKKLaH23tQ
+
+### dnGrep
+* **项目简介：** dnGrep 是一款基于 .NET 开源、功能强大的 Windows 搜索工具，它支持在多个文件中进行搜索，并以易于阅读的结果呈现。你可以通过文本、正则表达式、XPath 和语音查询搜索文本文件、Word 和 Excel 文档、PDF 文件以及存档文件中进行搜索。dnGrep 还提供了搜索和替换、整文件预览、在文件资源管理器中右键搜索等更多功能。
+* **项目源码地址：** https://github.com/dnGrep/dnGrep
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2LFsMAEdj8i0QVZJmFWsjA
+
+### UrShop
+* **项目简介：** UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。
+* **项目源码地址：** https://gitee.com/urselect/urshop
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ArLHsMB2eBJMadQkjaPehw
+
+### EasyCaching
+* **项目简介：** EasyCaching 是一个 .NET 开源（MIT license）、免费的缓存库，包含了缓存的基本用法和一些高级用法，可以帮助开发者更轻松地处理缓存。
+* **项目源码地址：** https://github.com/dotnetcore/EasyCaching
+* **项目详细介绍：** https://mp.weixin.qq.com/s/gV2gd6voIc0_tMwzTyi4ig
+
+### PixiEditor
+* **项目简介：** PixiEditor 是一款基于 .NET 构建、开源（LGPL-3.0 license）、功能强大、通用的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。
+* **项目源码地址：** https://github.com/PixiEditor/PixiEditor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Bx7NvrlZ-Vx9BZyMyWHdpw
+
+### DCWriterLite
+* **项目简介：** DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。
+* **项目源码地址：** https://github.com/dcsoft-yyf/DCWriterLite
+* **项目详细介绍：** https://mp.weixin.qq.com/s/NkCdPxovI7DqdCgjJu5LXA
+
+### AntFlow.NET
+* **项目简介：** AntFlow.NET 是一款基于 .NET + Vue + FreeSql + Natasha 编写的仿钉钉的开源（Apache-2.0）低代码工作流引擎，支持多种数据库，让工作流开发像普通 CURD 一样简单，即使没有流程开发经验的程序员也能快速开发流程，效率提升利器。
+* **项目源码地址：** https://gitee.com/antswarm/antflowcore
+* **项目详细介绍：** https://mp.weixin.qq.com/s/K_LhxrveXVVNATN45YbArw
+
+### MdXaml
+* **项目简介：** MdXaml 是一款基于 WPF 开源（MIT license）、免费、轻量级的 Markdown 编辑器，旨在为用户提供一个直观、高效的 Markdown 编辑环境。
+* **项目源码地址：** https://github.com/whistyun/MdXaml
+* **项目详细介绍：** https://mp.weixin.qq.com/s/wad9ACh8iPfSxPq_HHMOxQ
+
+### Sundial
+* **项目简介：** Sundial 是一个基于 .NET 开源（MIT License）、功能齐全的分布式作业调度系统，它可从最小的应用程序到大型企业系统使用。
+* **项目源码地址：** https://gitee.com/dotnetchina/Sundial
+* **项目详细介绍：** https://mp.weixin.qq.com/s/36EH7J5DUZPaymPTTofs3w
+
+### TulingMember
+* **项目简介：** TulingMember 是一款使用 .NET 6 开发，基于 Furion 框架与 ViewUI 构建的极简进销存管理系统。该项目旨在为企业提供一套轻量级、易扩展、易维护的进销存解决方案，帮助企业高效管理商品、销售、采购、库存及财务等核心业务。
+* **项目源码地址：** https://gitee.com/a106_admin/tuling-member
+* **项目详细介绍：** https://mp.weixin.qq.com/s/_FMpo53ahk52G4x6siFVzw
+
+
 ## 7月
 ### 公众号7月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年7月简报：** https://mp.weixin.qq.com/s/CgGgGD1Ct74xbPHPoJLVPg
