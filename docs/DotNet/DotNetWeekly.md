@@ -36,10 +36,6 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章简介：** SukiUI 是一个功能丰富、高度可定制的桌面UI库，专为Avalonia设计。它提供了一套完整的UI开发工具，包括主题支持、动画控件、通知系统和对话框等功能。其专注于桌面应用的设计理念、丰富的动画效果和良好的文档支持，使得SukiUI成为构建现代化、跨平台桌面应用的理想选择。
 - **文章地址：** https://mp.weixin.qq.com/s/VW45isjAta7Cv6aKDh1wIg
 
-#### 聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集
-- **文章简介：** 最近在分析一个崩溃dump时，发现祸首和AssemblyLoadContext有关，说实话这东西我也比较陌生，后来查了下大模型，它主要奔着替代 .NetFrameWork 时代的 AppDomain 的，都是用来做晚期加卸载，实现对宿主程序的可插拔，AppDomain.Create 是在AppDomain级别上，后者是在 Assembly 级别上。
-- **文章地址：** https://mp.weixin.qq.com/s/rjwsTg31s_dq7dw3HiJR6w
-
 #### C# Trace实践AOT、跨平台
 - **文章简介：** 在软件开发过程中，调试和诊断应用程序的运行状态是至关重要的步骤。这篇文章将分享Trace对象的使用场景和使用方法，包括在跨平台下的兼容（Windows、Linux）和AOT编译下的使用（完整代码在文章底部链接，如果有帮助希望像雄鹰一下狠狠的点一下star）。
 - **文章地址：** https://mp.weixin.qq.com/s/cqD1AMmUcZkyT_9NQFzNSg
