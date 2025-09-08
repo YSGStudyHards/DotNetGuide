@@ -14,7 +14,7 @@
 # 2025年
 ## 8月
 ### 公众号8月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年8月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年8月简报：** https://mp.weixin.qq.com/s/iRujcDcE0sW6RT22d7rUBQ
 
 ### AtomUI
 * **项目简介：** AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。
