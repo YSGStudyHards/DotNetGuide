@@ -18,6 +18,73 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 9月
+### 第 53 期（2025年9.1-9.7）
+#### .NET 使用 CsvHelper 快速读取和写入 CSV 文件
+- **文章简介：** 在日常开发中使用CSV文件进行数据导入和导出、数据交换是非常常见的需求，今天我们来讲讲在 .NET 中如何使用CsvHelper这个开源库快速实现CSV文件读取和写入。
+- **文章地址：** https://mp.weixin.qq.com/s/oE-nnlYuP5SqkJmdxCTdUQ
+
+#### 精选 4 款基于 C# 开源、实用的工具类库，开发效率提升利器！
+- **文章简介：** 在我们日常工作开发中工具类库是软件开发中不可或缺的一部分，它们通过提供通用功能、实现代码复用、封装复杂逻辑、提升代码质量与可维护性，帮助开发者更高效、更稳定地构建软件应用程序。今天大姚给大家分享 4 款基于 C# 开源、免费、实用的工具类库，希望能帮助到有需要的小伙伴。
+- **文章地址：** https://mp.weixin.qq.com/s/0ae04FPtJTOMi3MP0m6o3A
+
+#### 一款基于 .NET 开源美观、功能丰富的串口调试工具
+- **文章简介：** SuperCom 是一款基于 .NET 开源（GPL-3.0 license）、美观、流畅、高效、功能丰富的串口调试工具，主要用于 Window 串口日志的采集、存储、可视化等功能。
+- **文章地址：** https://mp.weixin.qq.com/s/mkon5HoazmKd2iQLgq-Ivg
+
+#### 一个 .NET Avalonia 开源、免费的桌面 UI 库
+- **文章简介：** SukiUI 是一个功能丰富、高度可定制的桌面UI库，专为Avalonia设计。它提供了一套完整的UI开发工具，包括主题支持、动画控件、通知系统和对话框等功能。其专注于桌面应用的设计理念、丰富的动画效果和良好的文档支持，使得SukiUI成为构建现代化、跨平台桌面应用的理想选择。
+- **文章地址：** https://mp.weixin.qq.com/s/VW45isjAta7Cv6aKDh1wIg
+
+#### 聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集
+- **文章简介：** 最近在分析一个崩溃dump时，发现祸首和AssemblyLoadContext有关，说实话这东西我也比较陌生，后来查了下大模型，它主要奔着替代 .NetFrameWork 时代的 AppDomain 的，都是用来做晚期加卸载，实现对宿主程序的可插拔，AppDomain.Create 是在AppDomain级别上，后者是在 Assembly 级别上。
+- **文章地址：** https://mp.weixin.qq.com/s/rjwsTg31s_dq7dw3HiJR6w
+
+#### C# Trace实践AOT、跨平台
+- **文章简介：** 在软件开发过程中，调试和诊断应用程序的运行状态是至关重要的步骤。这篇文章将分享Trace对象的使用场景和使用方法，包括在跨平台下的兼容（Windows、Linux）和AOT编译下的使用（完整代码在文章底部链接，如果有帮助希望像雄鹰一下狠狠的点一下star）。
+- **文章地址：** https://mp.weixin.qq.com/s/cqD1AMmUcZkyT_9NQFzNSg
+
+#### 让 Copilot 编码代理处理繁重工作
+- **文章简介：** GitHub Copilot Coding Agent 改变了.NET 开发人员的工作方式。除了内联建议外，它还可以分析您的仓库，规划多步骤任务，创建问题和拉取请求，并在云中跨项目传输更改。在本文中，我们将使用 eShopLite 示例展示两个具体场景：自动创建缺失的单元测试以及从 PRD 开始实现新功能。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/
+
+#### 【EF Core】实体类的依赖注入
+- **文章简介：** 在使用外部模型那篇水文中，有大伙伴提出：老周，你那个 Ultraman 类和 Speciality 类的的关系是不是有问题，外键不应该在 Speciality 类上吗，怎么会跑到 Ultraman 类上？因为它们是一对一关系，在配置的时候你也可以反过来，主要区别是谁引用谁的问题，由于是一对一引用，所以反过来也可以的。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19077173
+
+#### 微软.net表达式编译居然有bug?
+- **文章简介：** 微软.net表达式编译问题困扰本人很久了，为此我整理了以下case给大家分享。
+- **文章地址：** https://www.cnblogs.com/xiangji/p/19077209
+
+#### 教你如何用GPT-5来分析你的dump文件定位内存泄漏问题——避免无效加班必备神器
+- **文章简介：** 最近这半年，智能体很火，vibe coding也很火，相信很多园子里的小伙伴也都用上了各种AI智能体辅助编程。之前的文章《ChatGPT Codex试用心得，码农的可靠助手or失业号角？》中我也介绍过openai推出的沙盒Codex，恰逢前段时间codex-cli推出了cli版本（实际上很早就有了，但是之前的版本只能用烧api token而不是像claude code那样可以用plus账号授权使用所以一直没下载）新版本可以集成gpt-5。所以进行了尝试，有plus账号的小伙伴可以移步https://developers.openai.com/codex/cli下载安装，过程很简单，不再赘述。
+- **文章地址：** https://www.cnblogs.com/gmmy/p/19075444
+
+#### 关于.net9发布单体exe程序无法打开问题详解
+- **文章简介：** 某天，开开心心的使用了最新的.net9开发了一个winform程序，在发布成x64架构的单文件exe后，在电脑上面竟然打不开，经过多次尝试后发现x86版本的在本地电脑上测试没有问题，但是一发布成x64模式则会进行报错。
+- **文章地址：** https://www.cnblogs.com/sc-Free-Die/p/19075260
+
+#### 聊一聊 .NET 中的 CancellationTokenSource
+- **文章简介：** 在.NET高级调试中，我们需要知道很多的C#底层细节，如果搞不清这些底层细节，那与之相关的故障可能就搞不定，所以调试这个东西需要我们有一个比较广的知识面，痛苦哈，比如这篇跟大家聊到的 CancellationTokenSource 。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19075037
+
+#### WPF依赖属性学习
+- **文章简介：** WPF 依赖属性（Dependency Property）是 WPF 框架的核心基础设施之一，它扩展了传统 .NET 属性的能力，为 WPF 提供数据绑定、动画、样式、继承值、属性值变更通知等高级功能。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19074134
+
+#### 记一次 .NET 某CRM物流行业管理系统 崩溃分析
+- **文章简介：** 微信上有位朋友找到我，说他们部署在linux上的 .net 程序会隔几天崩溃一次，一直找不到原因，让我帮忙看下怎么回事，让朋友用 procdump 抓了一个dump下来，然后就是正式的分析啦。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19072958
+
+#### 【EF Core】优化后的模型
+- **文章简介：** 本文所讲述内容，大伙伴们不必要完全掌握，毕竟，dotnet ef 工具会帮助咱们生成相关代码。不过，为了让各位能够真正了解它，老周会做一次纯手搓代码。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19067778
+
+#### 一个基于 .NET MAUI 的开箱即用的 UI 组件库，可快速搭建面向业务的应用程序界面！
+- **文章简介：** V-Control 是一个基于 .NET MAUI 框架开发的开源（MIT License）UI 组件库，专为快速构建跨平台（Windows/macOS/iOS/Android）业务应用程序而设计。项目通过提供标准化、高可定制的 UI 控件，显著降低企业级应用开发成本，同时保持原生性能体验。
+- **文章地址：** https://mp.weixin.qq.com/s/E1qXdsr4mZs9ay0YLK6NjQ
+
+
 ## 8月
 ### 第 52 期（2025年8.25-8.31）
 #### 精选 2 款 .NET 开源、实用的缓存框架，帮助开发者更轻松地处理系统缓存！
