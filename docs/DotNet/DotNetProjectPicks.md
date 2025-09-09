@@ -1389,14 +1389,16 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [LLCOM](https://github.com/chenxuuu/llcom) | LLCOM是一个.NET开源的、功能强大的串口调试工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能。 | https://github.com/chenxuuu/llcom |
 |  2  | [Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) | Wu.CommTool是一款基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具（支持Modbus RTU、MQTT调试，界面色彩丰富）。 | https://github.com/Monika1313/Wu.CommTool |
-|  3  | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。 | https://github.com/SmallRob/PLC-CommunTools |
-|  4  | [BYSerial](https://gitee.com/LvYiWuHen/byserial) | BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。 | https://gitee.com/LvYiWuHen/byserial |
-|  5  | [OSDA](https://gitee.com/leven9/OSDA) | OSDA是一个基于 C# 开源（MIT License）的串口调试助手，其功能包括基础功能（打开、关闭、接收、发送、清接收区、清发送区和清空计数）、十六进制（HEX）接收，十六进制（HEX）发送、流控制（握手协议、控制协议）等。 | https://gitee.com/leven9/OSDA |
-|  6  | [SerialDebug](https://gitee.com/mcuxmx/SerialDebug) | SerialDebug是一款基于 C# 的串口调试助手，支持进制转换，可编辑发送队列，支持XModem、YModem传输协议。 | https://gitee.com/mcuxmx/SerialDebug |
-|  7  |  |  |  |
+|  3  | [SuperCom](https://github.com/SuperStudio/SuperCom) | SuperCom 是一款基于 .NET 开源（GPL-3.0 license）、美观、流畅、高效、功能丰富的串口调试工具，主要用于 Window 串口日志的采集、存储、可视化等功能。 | https://github.com/SuperStudio/SuperCom |
+|  4  | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，注意还有一部分功能作者还在努力完善中。 | https://github.com/SmallRob/PLC-CommunTools |
+|  5  | [BYSerial](https://gitee.com/LvYiWuHen/byserial) | BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、TCP通讯调试、支持串口接收数据曲线显示等。 | https://gitee.com/LvYiWuHen/byserial |
+|  6  | [OSDA](https://gitee.com/leven9/OSDA) | OSDA是一个基于 C# 开源（MIT License）的串口调试助手，其功能包括基础功能（打开、关闭、接收、发送、清接收区、清发送区和清空计数）、十六进制（HEX）接收，十六进制（HEX）发送、流控制（握手协议、控制协议）等。 | https://gitee.com/leven9/OSDA |
+|  7  | [SerialDebug](https://gitee.com/mcuxmx/SerialDebug) | SerialDebug是一款基于 C# 的串口调试助手，支持进制转换，可编辑发送队列，支持XModem、YModem传输协议。 | https://gitee.com/mcuxmx/SerialDebug |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
