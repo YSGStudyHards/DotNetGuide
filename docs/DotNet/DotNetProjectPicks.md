@@ -1278,7 +1278,7 @@
 |  1  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 一款小巧、便携、智能、免费的Windows内存清理工具，使用Windows原生功能优化内存空间。 | https://github.com/IgorMundstein/WinMemoryCleaner |
 |  2  | [Optimizer](https://github.com/hellzerg/optimizer) | Optimizer是一款功能强大的Windows系统优化工具，可帮助用户提高计算机性能、加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，如关闭不必要的Windows服务、停止Windows自动更新、卸载UWP应用、清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。此外，Optimizer还提供了硬件检测工具、IP连通性和延迟测试工具、快速更改DNS服务器、编辑HOSTS文件、识别和终止文件锁定句柄等实用工具。 | https://github.com/hellzerg/optimizer |
 |  3  | [SophiApp](https://github.com/Sophia-Community/SophiApp) | SophiApp 是一个基于 .NET 开源、免费的应用程序，专为微调 Windows 10 和 Windows 11 系统而设计。它提供了一个现代的用户界面（UI/UX），包含了超过 130 项独特的调整选项，展示了如何在不影响 Windows 系统稳定性的前提下对其进行配置和优化。 | https://github.com/Sophia-Community/SophiApp |
-|  4  |  |  |  |
+|  4  | [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize) | ZyperWin++ 是一个基于 .NET + SunnyUI 开源、轻便、简洁美观的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理、资源管理器管理、安全设置、隐私设置、更新设置、Appx管理策略优化等操作，还支持系统激活和Office快速安装。 | https://github.com/ZyperWave/ZyperWinOptimize |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
