@@ -19,6 +19,68 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 9月
+### 第 54 期（2025年9.8-9.14）
+#### C#/.NET/.NET Core优秀项目和框架2025年8月简报
+- **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享。
+- **文章地址：** https://mp.weixin.qq.com/s/iRujcDcE0sW6RT22d7rUBQ
+
+#### Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！
+- **文章简介：** 2025 年 9 月 9 日微软 Visual Studio 团队正式推出了 Visual Studio 2026 预览体验版（Visual Studio 2026 Insiders），此次发布标志着 Visual Studio 迎来一个全新的时代，它将人工智能深度集成到平台中，基础功能更强大，性能也得到进一步提升。
+- **文章地址：** https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg
+
+#### 精选 4 款基于 .NET 开源、功能强大的 Windows 系统优化工具
+- **文章简介：** 今天大姚给大家推荐 4 款基于 .NET 开源、功能强大的 Windows 系统优化工具，希望可以帮助你轻松提升 Windows 系统性能与使用体验。
+- **文章地址：** https://mp.weixin.qq.com/s/Tf8sOVMp-VDnTwOvP4rRTg
+
+#### C#/.NET/.NET Core编程技巧练习集，配套详细的文章教程讲解！
+- **文章简介：** DotNetGuide专栏C#/.NET/.NET Core编程技巧练习集：包含C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+- **文章地址：** https://mp.weixin.qq.com/s/8km0hJpDilWjpsF_eEtY9w
+
+#### Microsoft 推出 .NET 10 RC 1
+- **文章简介：** 北京时间2025.09.09 晚上 Microsoft 宣布推出 .NET 10 RC 1，这是.NET 10的一个重要里程碑，使开发人员能够自信地在其生产应用程序中使用最新版本。此RC版本包括跨各个领域的多项显著功能和改进，包括加密增强功能、UTF-8 支持以及张量（tensor）和span改进。.NET 10 RC版本 1 还带来了 ASP.NET Core 和 Blazor、.NET MAUI、Windows 窗体、实体框架核心和容器映像的更新，确保具有增强功能的稳定开发环境。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19084372
+
+#### 一个基于 .NET 开源、轻便的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化！
+- **文章简介：** 今天大姚给大家分享一个基于 .NET + SunnyUI 开源、轻便、简洁美观的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化：ZyperWin++。
+- **文章地址：** https://mp.weixin.qq.com/s/ndD-06WHiI5z0P9VQGpyEw
+
+#### 一个开源、轻量级、快速的 .NET 程序集混淆工具，帮助你保护你的版权！
+- **文章简介：** JIEJIE.NET 是一个功能强大、轻量级、快速的 .NET 程序集混淆工具，适用于需要保护其软件版权的开发者。通过提供多种混淆和保护功能，JIEJIE.NET 可以有效防止软件被破解和非法复制，保障开发者的经济利益。同时，作为开源工具，JIEJIE.NET 可以免费使用和修改，适合各种规模的开发者使用。
+- **文章地址：** https://mp.weixin.qq.com/s/C2sIvJAohKXuRKiycy3Rrw
+
+#### 【EF Core】再谈普通实体关系与 Owned 关系的区别
+- **文章简介：** 在很多个世纪前，老周曾写过实体之间普通关系（一对一，一对多，多对多）与 Owned 关系的区别。不过，那次写得比较粗浅，逼格不够高，于是，老周厚着脸皮地决定重新写一下。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19089005
+
+#### 能涨薪水30%的.NET 微服务面试题 35 道（带答案）
+- **文章简介：** 能涨薪水30%的.NET 微服务面试题 35 道（带答案）。
+- **文章地址：** https://mp.weixin.qq.com/s/qoCYAfBh-inQmcHwrNDkUA
+
+#### .NET 和 .NET Framework 2025 年 9 月服务更新
+- **文章简介：** .NET 和 .NET Framework 2025 年 9 月服务更新。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/
+
+#### .NET 10 性能改进
+- **文章简介：** .NET 10 性能改进一览。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/
+
+#### 记一次 .NET 某企业ECM内容管理系统 内存暴涨分析
+- **文章简介：** 这个dump是去年一个朋友发给我的，让我帮忙分析下为什么内存暴涨，当时由于相关知识的缺乏，分析了一天也没找出最后的原因，最后就不了了之的，直到最近我研究了下 CancellationToken 和 CompositeChangeToken 的底层玩法，才对这个问题有了新的视角，这篇就算是迟来的解读吧。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19085403
+
+#### 记一次 .NET 某跨境物流系统 内存暴涨分析
+- **文章简介：** 分享了几篇崩溃，这一篇跟大家分享一例内存暴涨，训练营里有位学员朋友找到我，说他们的软件存在内存暴涨，让我帮忙看下怎么回事，dump也抓到了。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19083547
+
+#### 如何评价 Visual Studio 2026？
+- **文章简介：** 如何评价 Visual Studio 2026？
+- **文章地址：** https://www.zhihu.com/question/1949061195031118812
+
+#### 聊一聊 .NET 中的 CompositeChangeToken
+- **文章简介：** 上一篇跟大家聊到了 CancellationTokenSource，今天跟大家聊到的是另一个话题叫组合变更令牌 CompositeChangeToken，当前我所有的研究都是基于dump分析之用，所以偏重的点自然就不一样，如果纯纯的研究源码那可能就是入门到放弃。。。接下来说下 CompositeChangeToken是干什么用的，你可以理解成观察者模式，举例：如果一个房子里面有几颗炸弹，只要任何一颗炸弹爆炸，房子都会塌掉，任何关注这个房子的人都会有所变化（跑，叫，哭）... ，其中 CompositeChangeToken 就是观察者集合，有了这个概念之后写一段简单的代码。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19079389
+
+
 ### 第 53 期（2025年9.1-9.7）
 #### .NET 使用 CsvHelper 快速读取和写入 CSV 文件
 - **文章简介：** 在日常开发中使用CSV文件进行数据导入和导出、数据交换是非常常见的需求，今天我们来讲讲在 .NET 中如何使用CsvHelper这个开源库快速实现CSV文件读取和写入。
