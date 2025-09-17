@@ -98,12 +98,13 @@
 
 ## 🏹编程效率提升技巧集
 ### .NET相关开发环境
-* [所有.NET版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
-* [.NET Framework版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
-* [.NET 和 ASP.NET Core官方映像](https://hub.docker.com/_/microsoft-dotnet)
+* [所有 .NET 版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
+* [.NET Framework 版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
+* [.NET 和 ASP.NET Core 官方映像](https://hub.docker.com/_/microsoft-dotnet)
 * [下载本地化的 .NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
 
 ### Visual Studio
+* [Visual Studio 2026下载](https://visualstudio.microsoft.com/insiders/?rwnlp=zh-hans)
 * [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
 * [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
