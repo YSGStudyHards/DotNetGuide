@@ -867,10 +867,10 @@
 #### 进销存管理系统
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Dorisoy.POS](https://github.com/dorisoy/Dorisoy.POS) | 使用.Net7 + Angular4开发的一套新零售快消进销存管理系统，带库存管理的高级轻量级POS，具有闪电般的性能和开箱即用的页面加载速度。 | https://github.com/dorisoy/Dorisoy.POS |
-|  2  | [Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | 这是一个示例项目，采用Asp.Net Core Mvc实现了库存订单管理系统。该系统包括仓库、产品、供应商、客户、采购订单、销售订单、出货、收货等功能。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
-|  3  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | 使用.NET 6，基于 Furion +viewui开发的一套极简的进销存管理系统。 | https://gitee.com/a106_admin/tuling-member |
-|  4  | [jxc](https://gitee.com/wkjerry_admin/jxc) | 基础数据,入库管理，出库管理，库存管理，统计报表，往来帐款，系统设置。使用CS架构客户端使用winform开发并使用UI框架Devexpress。服务端使用.net6.0 webapi开发。客户端和服务端通过http接口交互。使用Mysql数据库，ORM框架sqlsugar使用ioc容器对对象管理使用.net内置过滤器对异常和权限进行统一处理。 | https://gitee.com/wkjerry_admin/jxc |
+|  1  | [WHMS](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) | WHMS 是一个采用 Clean Architecture、CQRS 及 MediatR 技术打造，是一款超高速、完全无头API。包含基于ASP.NET Core Razor Pages实现的库存订单管理系统，结合Vue.js构建动态响应式UI，强大的仓库管理系统解决方案。 | https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System |
+|  2  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | TulingMember 是一款使用 .NET 6 开发，基于 Furion 框架与 ViewUI 构建的极简进销存管理系统。该项目旨在为企业提供一套轻量级、易扩展、易维护的进销存解决方案，帮助企业高效管理商品、销售、采购、库存及财务等核心业务。 | https://gitee.com/a106_admin/tuling-member |
+|  3  | [jxc](https://gitee.com/wkjerry_admin/jxc) | 该项目使用CS架构客户端使用winform开发并使用UI框架Devexpress。服务端使用.net6.0 webapi开发。客户端和服务端通过http接口交互。使用Mysql数据库，ORM框架sqlsugar使用ioc容器对对象管理使用.net内置过滤器对异常和权限进行统一处理。功能包括：基础数据,入库管理，出库管理，库存管理，统计报表，往来帐款，系统设置。 | https://gitee.com/wkjerry_admin/jxc |
+|  4  | [JxcLite](https://gitee.com/known/JxcLite) | JxcLite 是一个基于 Known 框架开发（基于 .NET Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架）、Apache License 开源的简易、轻量级的进销存管理系统。 | https://gitee.com/known/JxcLite |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
