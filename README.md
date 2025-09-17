@@ -144,7 +144,7 @@
 ### .NET开发效率工具
 * [JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s/9lGdDchHgHCQMlfgqpaXQg)
 * [一个强大的在线.NET代码预览与分析利器 - SharpLab](https://sharplab.io)
-* [一个方便易用的在线.NET代码编辑工具 - .NET Fiddle](https://mp.weixin.qq.com/s/4TOZQC45EOEznbnjDjiJUw)
+* [一个方便易用的在线.NET代码编辑工具 - .NET Fiddle](https://mp.weixin.qq.com/s/jjcFweq6lmX6W9nKNa_diQ)
 
 ### AI辅助编程工具
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
@@ -751,6 +751,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Docker安装MySQL并使用Navicat连接](https://mp.weixin.qq.com/s/zxCPi_CtCVL33jNOZM3hOQ)
 * [Docker安装MongoDB并使用Navicat连接](https://mp.weixin.qq.com/s/jp2qYzeuGxAX-fsDf4JK7g)
 * [Docker初级、中级、高级实战教程和指南](https://github.com/collabnix/dockerlabs)
+* [为什么不建议在 Docker 中跑 MySQL？](https://mp.weixin.qq.com/s/l_TPbUwO3tt9mxEsRPtZgA)
 * [推荐 5 款实用的 Docker 可视化管理工具](https://mp.weixin.qq.com/s/3U0dqQqaP3yE3m9TmL9wyA)
 * [十本你不容错过的Docker入门到精通书籍推荐](https://mp.weixin.qq.com/s/JCJXjq6RYS80Q2E9nbVOkg)
 * [Docker安装MS SQL Server并使用Navicat远程连接](https://mp.weixin.qq.com/s/YFsGGnQPQ5JYCKEoJ0S0Rw)
