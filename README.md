@@ -97,6 +97,21 @@
 
 
 ## 🏹编程效率提升技巧集
+### AI实用编程工具
+* [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
+* [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
+* [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
+* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
+* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
+* [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
+* [新一代AI开发编程助手：Trae](https://www.trae.cn)
+* [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
+* [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
+* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
+* [AI 时代的智能编程伙伴：CodeBuddy](https://copilot.tencent.com)
+* [重新定义 AI 编程体验：Qoder](https://qoder.com)
+
 ### .NET相关开发环境
 * [所有 .NET 版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
 * [.NET Framework 版本下载](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
@@ -147,21 +162,7 @@
 * [一个强大的在线.NET代码预览与分析利器 - SharpLab](https://sharplab.io)
 * [一个方便易用的在线.NET代码编辑工具 - .NET Fiddle](https://mp.weixin.qq.com/s/jjcFweq6lmX6W9nKNa_diQ)
 
-### AI辅助编程工具
-* [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
-* [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
-* [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
-* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
-* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
-* [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
-* [新一代AI开发编程助手：Trae](https://www.trae.cn)
-* [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
-* [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
-* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
-* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
-* [AI 时代的智能编程伙伴：CodeBuddy](https://copilot.tencent.com)
-
-### GitHub
+### GitHub使用指南
 * [GitHub漫游指南](https://github.com/phodal/github)
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
@@ -523,17 +524,47 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 
 ## 🤖AIGC&AI赋能
+### AI实用编程工具
+* [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
+* [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
+* [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
+* [强大的AI编码助手：Fynix](https://www.fynix.ai/)
+* [AI编程工具：CodeWhisperer](https://aws.amazon.com/cn/pm/codewhisperer)
+* [AI辅助神器：GitHub Copilot](https://docs.github.com/zh/copilot/quickstart)
+* [新一代AI开发编程助手：Trae](https://www.trae.cn)
+* [智能编码助手：Baidu Comate](https://comate.baidu.com/zh)
+* [高效的AI代码编辑助手：Cursor](https://www.cursor.com)
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue)
+* [免费好用的AI编程助手：Fitten Code](https://code.fittentech.com)
+* [AI 时代的智能编程伙伴：CodeBuddy](https://copilot.tencent.com)
+* [重新定义 AI 编程体验：Qoder](https://qoder.com)
+
+### AI对话聊天助手
 * [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
-* [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s/T9VIEm-9UGRXv01QLjKAcA)
-* [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
-* [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
-* [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg)
 * [分享 5 个在微信中使用 DeepSeek 的方法，建议收藏！](https://mp.weixin.qq.com/s/D62jLkvDqxiIOiaxan80qA)
+* [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
+* [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s/xl5_WgfYf1QynT5pVqWNvg)
+* [一个免费、快速、无限量使用的满血 DeepSeek R1 模型，支持深度思考和联网搜索！](https://mp.weixin.qq.com/s/-l4Jih7Ua3cXcf4RL4YXRw)
+
+### AI实用效率工具
 * [DeepSeek 官方推出的实用集成工具百宝箱，建议收藏！](https://mp.weixin.qq.com/s/mtdtty99MGIlcOv9rJLRnQ)
+* [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s/KCiqOvJ6KF4gz1sr4B5XRg)
 * [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 * [Zread：智谱AI推出的 Github 项目阅读神器，一键生成超详细中文文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
+* [Doubao Seedream 4.0 爆火：多图融合 + 多样玩法，解锁 AI 图像创作新境界！](https://mp.weixin.qq.com/s/FWOLXAgeWfiwD6-KRpNO4A)
+
+### AI提示词大全
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
+* [2025年最好的AI提示词合集：ChatGPT、Claude、Gemini 提示词大全](https://github.com/holmquistc407/ai-tishici)
+* [PromptPilot：一款由字节跳动推出的AI提示词优化, 提示词生成实用工具](https://promptpilot.volcengine.com/home)
+* [WayToAGI：精选高效的AI提示词库，助力创作者和开发者解锁人工智能的潜力](https://www.waytoagi.com/zh/prompts)
+* [PromptHub提供免费AI提示词大全，包含ChatGPT、Claude、Midjourney等主流AI工具的优质提示词模板](https://www.prompthub.xin/)
+
+### AI实战从入门到精通
+* [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s/T9VIEm-9UGRXv01QLjKAcA)
+* [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s/F5GF_ISFRQucs9aETJwmeQ)
+* [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
 * [北京大学DeepSeek系列教程：《DeepSeek与AIGC应用》](https://mp.weixin.qq.com/s/r901bHIDrsd77B0yRI1Nuw)
 * [北京大学DeepSeek系列教程：《DeepSeek提示词工程和落地场景》](https://mp.weixin.qq.com/s/Cj3T1DR57w4rx7_QGq0CQg)
 * [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s/b94N2WSSNydwAlJiZineUw)
@@ -542,10 +573,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [清华大学推出第四讲使用 DeepSeek + DeepResearch 让科研像聊天一样简单！](https://mp.weixin.qq.com/s/3inmjt8omsZFBXsjtoVn1A)
 * [清华大学推出第五讲《DeepSeek与AI幻觉》，避免你的AI一本正经地胡说八道！](https://mp.weixin.qq.com/s/HtYVzjDGb2HhV4IuP0_SEw)
 * [清华大学推出第六讲：使用DeepSeek赋能家庭教育，开启智能育儿新时代！](https://mp.weixin.qq.com/s/KT3P-L1SNtF8rSjGOF2edA)
-* [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s/xl5_WgfYf1QynT5pVqWNvg)
-* [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s/XNVeUE_kgLgF_0INcs5d6Q)
 * [我的公众号接入了DeepSeek-R1模型，成为了一个会深度思考的强大.NET AI智能体！](https://mp.weixin.qq.com/s/K1SJGSHLxDS_Qa17wo43EA)
-* [一个免费、快速、无限量使用的满血 DeepSeek R1 模型，支持深度思考和联网搜索！](https://mp.weixin.qq.com/s/-l4Jih7Ua3cXcf4RL4YXRw)
 * [⾄顶 AI 实验室推出的 DeepSeek 完全实用手册（207页包含技术原理，使用技巧，部署进展）](https://mp.weixin.qq.com/s/hsBr9gRiMMLqf-QKQ4oDDQ)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
