@@ -49,7 +49,7 @@
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🏆C#/.NET/.NET Core技术前沿周刊](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A)
 * [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
-* [🌍Web前端开发指南]()
+* [🌍Web前端开发指南](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
 * [🤖AIGC&AI赋能](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#aigcai%E8%B5%8B%E8%83%BD)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
@@ -486,6 +486,40 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
+## 🌍Web前端开发指南
+### Web前端学习路线和教程
+* [Vue官网](https://v3.cn.vuejs.org/)
+* [前端进阶之道](https://yuchengkai.cn/)
+* [大圣编程自学网](https://shengxinjing.cn/)
+* [前端学习路线图](https://github.com/CurrentVastStars/front-end-roadmap)
+* [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
+* [HTML/CSS菜鸟教程](https://www.runoob.com/)
+* [TypeScript使用教程](https://wangdoc.com/typescript/intro)
+* [MDN Web前端学习路线图](https://developer.mozilla.org/zh-CN/docs/learn/Front-end_web_developer)
+
+### Web前端面试宝典和常见面试题
+* [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
+* [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
+* [前端3+1面试题库](https://github.com/haizlin/fe-interview)
+* [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
+* [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://segmentfault.com/a/1190000016496448)
+* [最新前端面试中常见的面试题（附答案）](https://blog.csdn.net/Jet_Lover/article/details/115637795)
+* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
+* [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
+* [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
+* [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.cn/post/6844903776512393224)
+* [经典面试题：在浏览器地址栏输入一个URL后回车，背后发生了什么?](https://www.cnblogs.com/cswiki/p/14429730.html)
+
+### Web前端优质资源和文章汇总
+* [适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
+* [开源实用的大屏数据展示模板](https://mp.weixin.qq.com/s/Aky1uQe3FnSlEy3YwjEWTw)
+* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
+* [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+* [全网最全！1500+ 免费、美观的前端网页模板](https://mp.weixin.qq.com/s/vkw_N10cYi58tK_fho6lmQ)
+
+[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
+
+
 ## 🤖AIGC&AI赋能
 * [一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
 * [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s/T9VIEm-9UGRXv01QLjKAcA)
@@ -793,40 +827,6 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Bamboo](https://www.atlassian.com/zh/software/bamboo)
 * [Github Actions](https://github.com/features/actions)
 * [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
-
-[🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
-
-
-## 🌍Web前端开发指南
-### Web前端学习路线和教程
-* [Vue官网](https://v3.cn.vuejs.org/)
-* [前端进阶之道](https://yuchengkai.cn/)
-* [大圣编程自学网](https://shengxinjing.cn/)
-* [前端学习路线图](https://github.com/CurrentVastStars/front-end-roadmap)
-* [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
-* [HTML/CSS菜鸟教程](https://www.runoob.com/)
-* [TypeScript使用教程](https://wangdoc.com/typescript/intro)
-* [MDN Web前端学习路线图](https://developer.mozilla.org/zh-CN/docs/learn/Front-end_web_developer)
-
-### Web前端面试宝典和常见面试题
-* [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
-* [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
-* [前端3+1面试题库](https://github.com/haizlin/fe-interview)
-* [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
-* [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://segmentfault.com/a/1190000016496448)
-* [最新前端面试中常见的面试题（附答案）](https://blog.csdn.net/Jet_Lover/article/details/115637795)
-* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
-* [中高级前端面试-JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
-* [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
-* [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.cn/post/6844903776512393224)
-* [经典面试题：在浏览器地址栏输入一个URL后回车，背后发生了什么?](https://www.cnblogs.com/cswiki/p/14429730.html)
-
-### Web前端优质资源和文章汇总
-* [适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
-* [开源实用的大屏数据展示模板](https://mp.weixin.qq.com/s/Aky1uQe3FnSlEy3YwjEWTw)
-* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
-* [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
-* [全网最全！1500+ 免费、美观的前端网页模板](https://mp.weixin.qq.com/s/vkw_N10cYi58tK_fho6lmQ)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
