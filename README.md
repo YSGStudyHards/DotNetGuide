@@ -488,14 +488,14 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 🌍Web前端开发指南
 ### Web前端学习路线和教程
-* [Vue官网](https://v3.cn.vuejs.org/)
-* [前端进阶之道](https://yuchengkai.cn/)
+* [Vue官网](https://cn.vuejs.org/)
 * [大圣编程自学网](https://shengxinjing.cn/)
 * [前端学习路线图](https://github.com/CurrentVastStars/front-end-roadmap)
 * [千古前端图文教程](https://web.qianguyihao.com/#%E5%89%8D%E8%A8%80)
 * [HTML/CSS菜鸟教程](https://www.runoob.com/)
 * [TypeScript使用教程](https://wangdoc.com/typescript/intro)
-* [MDN Web前端学习路线图](https://developer.mozilla.org/zh-CN/docs/learn/Front-end_web_developer)
+* [MDN Web前端学习路线图](https://developer.mozilla.org/zh-CN/docs/Learn_web_development)
+* [2025 最新 Web 前端开发系统学习图文教程](https://www.arryblog.com/guide/web-learning-route.html)
 
 ### Web前端面试宝典和常见面试题
 * [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
