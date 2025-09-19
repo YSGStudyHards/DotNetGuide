@@ -49,6 +49,7 @@
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🏆C#/.NET/.NET Core技术前沿周刊](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A)
 * [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
+* [🌍Web前端开发指南]()
 * [🤖AIGC&AI赋能](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#aigcai%E8%B5%8B%E8%83%BD)
 * [🧱设计模式](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 * [🛠️数据结构](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
@@ -60,7 +61,6 @@
 * [🛰️计算机网络](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 * [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
 * [🧰DevOps&CI&CD](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
-* [🌍Web前端开发](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
 * [🧲版本控制工具](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%B7%A5%E5%85%B7)
 * [📨面试经验分享](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
@@ -797,7 +797,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## 🌍Web前端开发
+## 🌍Web前端开发指南
 ### Web前端学习路线和教程
 * [Vue官网](https://v3.cn.vuejs.org/)
 * [前端进阶之道](https://yuchengkai.cn/)
