@@ -532,6 +532,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [DeepSeek 官方推出的实用集成工具百宝箱，建议收藏！](https://mp.weixin.qq.com/s/mtdtty99MGIlcOv9rJLRnQ)
 * [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
+* [Zread：智谱AI推出的 Github 项目阅读神器，一键生成超详细中文文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
 * [北京大学DeepSeek系列教程：《DeepSeek与AIGC应用》](https://mp.weixin.qq.com/s/r901bHIDrsd77B0yRI1Nuw)
 * [北京大学DeepSeek系列教程：《DeepSeek提示词工程和落地场景》](https://mp.weixin.qq.com/s/Cj3T1DR57w4rx7_QGq0CQg)
