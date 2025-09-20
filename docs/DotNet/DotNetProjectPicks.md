@@ -2277,7 +2277,7 @@
 |  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
 |  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | AlohaKit是一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
 |  10  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
-|  11  |  |  |  |
+|  11  | [Syncfusion.Maui.Toolkit](https://github.com/syncfusion/maui-toolkit) | Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、macOS 和 Windows 跨平台应用开发。通过使用此工具包，开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，同时确保跨平台的无缝和引人入胜的用户体验。 | https://github.com/syncfusion/maui-toolkit |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
