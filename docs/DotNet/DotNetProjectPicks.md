@@ -1475,7 +1475,7 @@
 |  2  | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 一款.NET开源（MIT License）、免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载。 | https://github.com/nilaoda/N_m3u8DL-RE |
 |  3  | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | 蓝猫KoKo下载器（BlueCatKoKo）是一个基于C#语言编写的、免登录、简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。 | https://github.com/K12f/BlueCatKoKo |
 |  4  | [downkyi](https://github.com/leiurayer/downkyi) | downkyi（哔哩下载姬）是一款基于 .NET 开源、简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，并输出mp4格式的文件。采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。 | https://github.com/leiurayer/downkyi |
-|  5  |  |  |  |
+|  5  | [BBDown](https://github.com/nilaoda/BBDown) | BBDown 是一款基于 .NET 开源（MIT license）、免费、命令行式的哔哩哔哩视频内容下载工具。它支持从哔哩哔哩平台下载普通视频、番剧、课程、合集、收藏夹等多类型内容，具备强大的解析能力、灵活的配置选项和高度可扩展性。 | https://github.com/nilaoda/BBDown |
 |  6  |  |  |  |
 |  7  |  |  |  |
 |  8  |  |  |  |
