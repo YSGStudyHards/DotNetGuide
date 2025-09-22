@@ -175,7 +175,7 @@
 |  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
 |  9  | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) |
 |  10  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin是一个基于.NET8搭建DDD-微服务-现代化Saas企业级WebAPI架构，支持：IDS4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AISemanticKernel集成、OCR验证码识别、API多版本兼容、单元集成测试。 | https://github.com/junkai-li/NetCoreKevin  |
-|  11  |  |  |  |
+|  11  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个开源的、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
@@ -705,8 +705,11 @@
 |  11 | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 |  12  | [Cofoundry](https://github.com/cofoundry-cms/cofoundry) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。 | https://github.com/cofoundry-cms/cofoundry |
 |  13  | [FluentCMS](https://github.com/fluentcms/FluentCMS) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），它基于强大的 ASP.NET Core + Blazor技术构建。FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），使其非常适合各种数字应用场景。 | https://github.com/fluentcms/FluentCMS |
-|  14  |  |  |  |
+|  14  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个开源的、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  15  |  |  |  |
+|  16  |  |  |  |
+|  17  |  |  |  |
+|  18  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
