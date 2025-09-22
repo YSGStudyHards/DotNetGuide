@@ -19,6 +19,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 9月
+### 第 55 期（2025年9.15-9.21）
+#### 一款基于 .NET 开源、免费、命令行式的哔哩哔哩视频内容下载工具
+- **文章简介：** BBDown 是一款基于 .NET 开源（MIT license）、免费、命令行式的哔哩哔哩视频内容下载工具。它支持从哔哩哔哩平台下载普通视频、番剧、课程、合集、收藏夹等多类型内容，具备强大的解析能力、灵活的配置选项和高度可扩展性。
+- **文章地址：** https://mp.weixin.qq.com/s/fBnf0UgT8mQXPrO_DCnGSA
+
+#### 一套开源、美观、高性能的跨平台 .NET MAUI 控件库，助力轻松构建美观且功能丰富的应用程序！
+- **文章简介：** Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、macOS 和 Windows 跨平台应用开发。通过使用此工具包，开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，同时确保跨平台的无缝和引人入胜的用户体验。
+- **文章地址：** https://mp.weixin.qq.com/s/oA4LBFr3Tr0vlblenu5liw
+
+#### C#/.NET/.NET Core推荐学习书籍（25年9月更新）
+- **文章简介：** 古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。
+- **文章地址：** https://mp.weixin.qq.com/s/Kj8i9RPNol-KqPo5vZU1RA
+
+#### 一个基于 .NET 开源、简易、轻量级的进销存管理系统
+- **文章简介：** JxcLite 是一个基于 Known 框架开发（基于 .NET Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架）、Apache License 开源的简易、轻量级的进销存管理系统。
+- **文章地址：** https://mp.weixin.qq.com/s/ROkptFQUo6m4mwG1ZADHMw
+
+#### GitHub 访问下载不再龟速，一个开源、免费、跨平台的 GitHub 访问下载加速神器！
+- **文章简介：** Watt Toolkit (原名 Steam++)是一个.NET开源（遵循GPL-3.0开源协议）、免费、跨平台的多功能 Steam 工具箱，并且还包含GitHub访问下载加速功能，让你不在为打不开GitHub而苦恼。
+- **文章地址：** https://mp.weixin.qq.com/s/Mn6BxXrGT2V4ChSi-XGtRA
+
+#### .NET Fiddle：一个方便易用的在线.NET代码编辑工具
+- **文章简介：** .NET Fiddle 是一个在线的.NET代码编辑工具，可以帮助 .NET 开发人员在浏览器中编写、运行和共享 .NET 代码。它提供了一个简单易用的界面和丰富的代码编辑功能（如代码高亮、智能提示、多框架版本支持、NuGet 包引用等），让用户可以直接在浏览器中编写和测试.NET代码，而无需安装本地的开发环境。
+- **文章地址：** https://mp.weixin.qq.com/s/jjcFweq6lmX6W9nKNa_diQ
+
+#### C# 2025年6-9月TIOBE排名增长及未来展望
+- **文章简介：** C# 2025年6-9月TIOBE排名增长及未来展望。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19100079
+
+#### 一行特性，让C#方法快10%
+- **文章简介：** 一个相对小众但强大的工具就是 [MethodImpl(MethodImplOptions.AggressiveInlining)] 特性。本文将介绍 什么是内联（Inlining）、为什么重要，以及如何在 .NET 应用中有效使用 [MethodImpl]。
+- **文章地址：** https://mp.weixin.qq.com/s/UDGcAc9rp7cBF-hYOGq9kw
+
+#### 聊一聊 .NET超高内存故障分析方法 的反思
+- **文章简介：** 前几周分析了一个 40G+ 大内存的dump，这个程序平时最多不到30G，但不知道为啥最近会涨到40G，所以让我帮忙分析下怎么回事，像这种大内存dump，如果用传统的方式分析将会是一场灾难，这篇就来详细的说一说。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19098323
+
+#### Runtime Async - 步入高性能异步时代
+- **文章简介：** 一般而言，代码可分为同步与异步两类。两者同样需要等待操作完成：同步会阻塞当前线程，直至操作结束后再继续执行后续逻辑；异步则不阻塞当前线程，而是在发起操作时预先注册完成后的处理逻辑，待操作完成时由操作本身或外部机制触发该逻辑。
+- **文章地址：** https://www.cnblogs.com/hez2010/p/19097937/runtime-async
+
+#### .NET 10 是微软 AI 战略的技术承重墙
+- **文章简介：** 微软于2025年1月成立的新部门 CoreAI - Platform and Tools（简称CoreAI），是其AI战略升级的核心举措，旨在整合内部资源、加速AI基础设施与工具开发，推动“以模型为中心”的应用变革。CoreAI是微软AI战略的“中枢神经”，通过整合开发工具、云平台与研究资源，构建覆盖全场景的AI开发生态。其主导的GitHub深度整合与代理技术栈革新，不仅加速微软从“云服务商”向“AI工厂”的跃迁，更将重塑全球开发者的工作范式。在此背景下，.NET 10 作为微软开发工具链的核心载体，其与 AI 功能的深度融合体现了以下战略定位。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19096157
+
+#### .NET驾驭Word之力：理解Word对象模型核心 (Application, Document, Range)
+- **文章简介：** 在使用MudTools.OfficeInterop.Word库进行Word文档自动化处理时，深入理解Word对象模型的核心组件是至关重要的。Word对象模型提供了一套层次化的结构，使开发者能够通过编程方式控制Word应用程序、文档以及文档内容。本章将详细介绍Word对象模型中最核心的三个对象：Application、Document和Range。
+- **文章地址：** https://www.cnblogs.com/mudtools/p/19094912
+
+#### GZY.Quartz.MUI(基于Quartz的UI可视化操作组件) 2.8.0发布 新增仪表盘和检索功能
+- **文章简介：** GZY.Quartz.MUI(基于Quartz的UI可视化操作组件) 2.8.0发布 新增仪表盘和检索功能。
+- **文章地址：** https://www.cnblogs.com/GuZhenYin/p/19093054
+
+#### .NET驾驭Word之力：COM组件二次开发全攻略之连接Word与创建你的第一个自动化文档
+- **文章简介：** 面向具有一定C#和.NET基础的开发者，本文将带你进入Word文档自动化处理的世界。通过本系列教程，你将掌握使用.NET操作Word文档的各种技巧，实现文档的自动化生成、处理和操作。
+- **文章地址：** https://www.cnblogs.com/mudtools/p/19092776
+
+
 ### 第 54 期（2025年9.8-9.14）
 #### C#/.NET/.NET Core优秀项目和框架2025年8月简报
 - **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享。
