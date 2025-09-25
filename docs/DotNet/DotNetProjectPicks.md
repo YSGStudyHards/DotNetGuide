@@ -175,7 +175,7 @@
 |  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
 |  9  | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) |
 |  10  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin是一个基于.NET8搭建DDD-微服务-现代化Saas企业级WebAPI架构，支持：IDS4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AISemanticKernel集成、OCR验证码识别、API多版本兼容、单元集成测试。 | https://github.com/junkai-li/NetCoreKevin  |
-|  11  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个开源的、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
+|  11  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
@@ -693,19 +693,19 @@
 |  ✍   |                   项目名称和地址                    |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）           |
 | :--: | :-------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [ShenNiusModularity](https://gitee.com/shenniu_code_group/shen-nius.-modularity) | ShenNiusModularity是一款基于 .NET Core 框架研发的、开源、免费的自媒体内容管理系统。项目秉承大道至简的原则开发，坚持业务模块最低复杂度复用，代码方面追求简单、高效、实用。适合小白入门进阶，同样适用老手上路干活。 | https://gitee.com/shenniu_code_group/shen-nius.-modularity |
-|  2  | [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS是一个针对 .NET 8 和 Entity Framework Core 构建的解耦式、跨平台 CMS。它具有模块化和可扩展的架构，支持多种托管和部署方案。 | https://github.com/PiranhaCMS/piranha.core |
+|  2  | [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) | Piranha CMS 是一个针对 .NET 8 和 Entity Framework Core 构建的解耦式、跨平台 CMS。它具有模块化和可扩展的架构，支持多种托管和部署方案。 | https://github.com/PiranhaCMS/piranha.core |
 |  3  | [ZKEACMS](https://github.com/SeriaWei/ZKEACMS) | ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统。 | https://github.com/SeriaWei/ZKEACMS |
 |  4  | [Oqtane Framework](https://github.com/oqtane/oqtane.framework) | Blazor 和 .NET MAUI 的 CMS & 应用程序框架。 | https://github.com/oqtane/oqtane.framework |
 |  5  | [EasyCms](https://github.com/aprilyush/EasyCMS) | EasyCms是一个基于ASP.NET Core的后台快速开发框架，内容管理系统（建站CMS系统）。 | https://github.com/aprilyush/EasyCMS |
 |  6  | [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) | Umbraco CMS是一个基于.NET开源、免费（MIT License）、功能强大、灵活易用的内容管理系统。它能够帮助你创建美观现代的网站，并与最新的.NET技术和各种服务集成。无论你是个人开发者还是企业客户，Umbraco CMS都是一个值得考虑的选择。 | https://github.com/umbraco/Umbraco-CMS |
 |  7  | [JR-CMS](https://github.com/ixre/cms) | 基于.NET + DDD 构建的跨平台多站点开源内容管理系统，同时支持ASP.NET 4.x和.NET6.0，可以运行在Windows,Linux,MacOSX等操作系统，支持Docker容器。 | https://github.com/ixre/cms |
-|  8  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个采用 ASP.NET Core 构建的开源模块化多租户应用程序框架，也是一个建立在该框架之上的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
+|  8  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
 |  9  | [FytSoaCms](https://gitee.com/feiyit/FytSoaCms) | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 | https://gitee.com/feiyit/FytSoaCms |
 |  10  | [lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) | 基于.NET 7+FreeSql实现的简单实用的CMS，前后端分离、Docker部署、OAtuh2授权登录、QQ、Github、Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4。 | https://github.com/luoyunchong/lin-cms-dotnetcore |
 |  11 | [SSCMS](https://github.com/siteserver/cms) | SSCMS是一个基于.NET Core开源的、能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。 | https://github.com/siteserver/cms |
 |  12  | [Cofoundry](https://github.com/cofoundry-cms/cofoundry) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，专注于代码优先的开发模式、无侵入的集成方式、可扩展且灵活的架构以及简单且用户友好的内容管理。 | https://github.com/cofoundry-cms/cofoundry |
 |  13  | [FluentCMS](https://github.com/fluentcms/FluentCMS) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），它基于强大的 ASP.NET Core + Blazor技术构建。FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），使其非常适合各种数字应用场景。 | https://github.com/fluentcms/FluentCMS |
-|  14  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core 是一个开源的、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
+|  14  |  |  |  |
 |  15  |  |  |  |
 |  16  |  |  |  |
 |  17  |  |  |  |
