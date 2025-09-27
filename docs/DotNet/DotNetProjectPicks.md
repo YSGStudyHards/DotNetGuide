@@ -2198,15 +2198,15 @@
 |  8  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  9  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
 |  10 | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
-|  11 | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | Fluent.Ribbon 是一个库，用于为 Windows Presentation Foundation （WPF） 实现类似 Office 的用户界面。它提供了 RibbonTabControl、Backstage、Gallery、QuickAccessToolbar、ScreenTip 等控件。 | https://github.com/fluentribbon/Fluent.Ribbon |
-|  12 | [CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI) | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，以简化WPF应用程序的开发过程。 | https://gitee.com/CookCSharp/CookPopularUI |
+|  11 | [CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI) | CookPopularUI 是一款开源免费（MIT License）、组件丰富的 WPF UI 控件库，提供了 100 多款常用控件，同时支持 .NET 4.6.2+、.NET Core 3.1、.NET 6.0+。 | https://gitee.com/CookCSharp/CookPopularUI |
+|  12 | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | Fluent.Ribbon 是一个库，用于为 Windows Presentation Foundation （WPF） 实现类似 Office 的用户界面。它提供了 RibbonTabControl、Backstage、Gallery、QuickAccessToolbar、ScreenTip 等控件。 | https://github.com/fluentribbon/Fluent.Ribbon |
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
 |  14 | [Adonis UI](https://github.com/benruehl/adonis-ui) | 一款为WPF应用程序提供的轻量级UI工具包，提供经典且增强的窗口视觉效果。 | https://github.com/benruehl/adonis-ui |
 |  15 | [LayUI-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) | 一个WPF版的LayUI前端UI样式库，该控件库参考了Web版本的LayUI风格，利用该控件库可以完成现代化UI客户端程序，让你的客户端看起来更加简洁丰富又不失美感。 | https://github.com/Layui-WPF-Team/Layui-WPF |
 |  16 | [PanuonUI.Silver](https://gitee.com/panuon/PanuonUI.Silver) | Panuon.UI的优化版本，一个漂亮的、使用样式与附加属性的WPF UI控件库。 | https://gitee.com/panuon/PanuonUI.Silver |
 |  17 | [Extended.Wpf.Toolkit](https://github.com/xceedsoftware/wpftoolkit) | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 | https://github.com/xceedsoftware/wpftoolkit |
 |  18 | [WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | WPF-ControlBase 是一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库。 | https://github.com/HeBianGu/WPF-ControlBase |
-|  19 | [Rubyer WPF](https://gitee.com/wuyanxin1028/rubyer-wpf) | Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包。 | https://gitee.com/wuyanxin1028/rubyer-wpf |
+|  19 | [Rubyer WPF](https://gitee.com/wuyanxin1028/rubyer-wpf) | Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包，支持目标框架 .NET Framework 4.6、.NET Core 3.1、.NET 6、 .NET 8、.NET 9。 | https://gitee.com/wuyanxin1028/rubyer-wpf |
 |  20 |  |  |  |
 |  21 |  |  |  |
 |  22 |  |  |  |
