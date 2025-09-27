@@ -1194,7 +1194,7 @@
 #### 文件管理工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Files](https://github.com/files-community/Files)  |  Files 是一款基于 .NET 开发的现代化文件管理工具，基于 MIT license 协议开源，专为 Windows 平台设计，旨在帮助用户高效地整理文件与文件夹，致力于打造最佳用户体验。        | https://github.com/files-community/Files |
+|  1  | [Files](https://github.com/files-community/Files)  |  Files 是一款基于 .NET 开发的现代化文件管理工具，基于 MIT license 协议开源，专为 Windows 平台设计，旨在帮助用户高效的整理文件与文件夹，致力于打造最佳用户体验。        | https://github.com/files-community/Files |
 |  2  | [QuickLook](https://github.com/QL-Win/QuickLook) | QuickLook 是一款 .NET 开源（GPL-3.0 license）的在 Windows 操作系统上的实用工具，它提供了一种快速预览文件内容的方式。通过使用QuickLook，用户可以在不打开文件的情况下，直接在文件资源管理器中快速查看文件的内容。 | https://github.com/QL-Win/QuickLook |
 |  3  | [QTTabBar](https://github.com/indiff/qttabbar) | QTTabBar 是一款基于 .NET 开发的可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，还有给力的文件夹预览功能，大大提高了你工作的效率。就像 IE 7 和 Firefox、Opera 那样的。QTTabBar 还提供了一些功能插件，如：文件操作工具、树型目录、显示状态栏等等。 | https://github.com/indiff/qttabbar |
 |  4 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter 是一款基于 .NET 开发的免费（GPL-3.0 license）、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
