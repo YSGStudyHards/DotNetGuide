@@ -2274,17 +2274,17 @@
 #### MAUI UI库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls) | 一个开源、免费的UI工具包，适用于.NET MAUI，它提供了一组控件和实用程序来构建现代移动的应用程序。 | https://github.com/FreakyAli/Maui.FreakyControls |
-|  2  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
-|  3  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
-|  4  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
-|  5  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
-|  6  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
-|  7  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
-|  8  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium是一个.NET MAUI开源免费的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
-|  9  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | AlohaKit是一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
-|  10  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
-|  11  | [Syncfusion.Maui.Toolkit](https://github.com/syncfusion/maui-toolkit) | Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、macOS 和 Windows 跨平台应用开发。通过使用此工具包，开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，同时确保跨平台的无缝和引人入胜的用户体验。 | https://github.com/syncfusion/maui-toolkit |
+|  1  | [UraniumUI](https://github.com/enisn/UraniumUI) | Uranium 是一个 .NET MAUI 开源免费（Apache-2.0 license）的UI工具包。它提供了一组用于构建现代应用程序的控件和实用程序，它构建在.NET MAUI基础架构之上，并提供一组控件和布局来构建现代UI。它还提供了用于在其上构建自定义控件和主题的基础设施。 | https://github.com/enisn/UraniumUI |
+|  2  | [Syncfusion.Maui.Toolkit](https://github.com/syncfusion/maui-toolkit) | Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、macOS 和 Windows 跨平台应用开发。通过使用此工具包，开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，同时确保跨平台的无缝和引人入胜的用户体验。 | https://github.com/syncfusion/maui-toolkit |
+|  3  | [AlohaKit](https://github.com/jsuarezruiz/AlohaKit.Controls) | AlohaKit 是一组.NET MAUI绘制的开源、免费（MIT License）UI控件库。 | https://github.com/jsuarezruiz/AlohaKit.Controls |
+|  4  | [V-Control](https://github.com/jevonsflash/V-Control) | V-Control 是一个适用于 .NET MAUI 的开源(MIT license)、免费的 UI 组件库，它提供了一组开箱即用的 UI 控件，可快速搭建面向业务的应用程序界面。 | https://github.com/jevonsflash/V-Control |
+|  5  | [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls) | 一个开源、免费的UI工具包，适用于.NET MAUI，它提供了一组控件和实用程序来构建现代移动的应用程序。 | https://github.com/FreakyAli/Maui.FreakyControls |
+|  6  | [MauiEx](https://github.com/dotMorten/MauiEx) | 一个开源的.NET MAUI控件库。 | https://github.com/dotMorten/MauiEx |
+|  7  | [Material.Components.Maui](https://github.com/mdc-maui/mdc-maui) | 一个基于Material Design的.NET MAUI控件库。 | https://github.com/mdc-maui/mdc-maui |
+|  8  | [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) | SimpleToolkit是一个.NET MAUI库，其中包含辅助工具和简单易用、完全可自定义的控件，比如SimpleShell - 自定义Shell实现，允许你创建独特的导航体验。 | https://github.com/RadekVyM/SimpleToolkit |
+|  9  | [Maui.VirtualListView](https://github.com/Redth/Maui.VirtualListView) | 一个为 .NET MAUI 创建虚拟化 ListView 控件的实验，通过不添加太多花哨功能并使用适配器模式数据源来支持简单、快速、多模板、不均匀项目大小的列表。 | https://github.com/Redth/Maui.VirtualListView |
+|  10  | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Plugin.Maui.Calendar 是一个.NET MAUI 版本的 XF 日历插件，它是 lilcodelab 的 Xamarin.Forms 日历插件的一个移植版本。 | https://github.com/yurkinh/Plugin.Maui.Calendar |
+|  11  | [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects) | FreakyEffects 是一个为 .NET MAUI 提供的效果工具包，它提供一组效果和实用工具，用于构建现代移动应用程序。 | https://github.com/FreakyAli/Maui.FreakyEffects |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
