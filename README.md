@@ -449,8 +449,9 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 > 欢迎投稿、推荐或自荐优质文章、项目、学习资源等。
 
-- [📰C#/.NET/.NET Core技术前沿周刊汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
 - [🏆C#/.NET/.NET Core技术前沿周刊Issues](https://github.com/YSGStudyHards/DotNetGuide/issues/44)
+- [📰C#/.NET/.NET Core技术前沿周刊Gitee汇总](https://gitee.com/ysgdaydayup/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
+- [📰C#/.NET/.NET Core技术前沿周刊GitHub汇总](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetWeekly.md)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
