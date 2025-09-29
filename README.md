@@ -15,19 +15,19 @@
 
 > 欢迎关注作者（DotNetGuide官方公众号：**[追逐时光者](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=1881849804402589699#wechat_redirect)**），与大姚一起沟通、交流学习、共同进步。
 
-* [🤖强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
-* [🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)  
-* [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
+* **[🤖强大的.NET AI智能体](https://yuanqi.tencent.com/agent/RsFcawDgQn9a)**
+* **[🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)**
+* **[😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)**
+* **[👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)**
 
 <a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" width="58%"/></a>
 
 
 ## 🎉Issues宝藏存库
-🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
+🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见(**[💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7)**)。
 如果DotNetGuide知识库对大家有帮助的话记得给作者一个星星哟⭐(您的小星星就是对我最大的肯定和鼓励)！
 
-> 点击下面的图片，前往[Issues](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)留下您压箱底的大宝藏👇：
+> 点击下面的图片，前往 **[Issues](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)** 留下您压箱底的大宝藏👇：
 
 [![DotNetGuide宝藏收集地](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2138171/o_7116bc4a.png "宝藏存库")](https://github.com/YSGStudyHards/DotNetGuide/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc)
 
