@@ -12,6 +12,51 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 9月
+### 公众号9月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年9月简报：** 
+
+### OrchardCore
+* **项目简介：** OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。
+* **项目源码地址：** https://github.com/OrchardCMS/OrchardCore
+* **项目详细介绍：** https://mp.weixin.qq.com/s/NbiaY9kjQauPkM_Qi9yPrg
+
+### Syncfusion.Maui.Toolkit
+* **项目简介：** Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、macOS 和 Windows 跨平台应用开发。通过使用此工具包，开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，同时确保跨平台的无缝和引人入胜的用户体验。
+* **项目源码地址：** https://github.com/syncfusion/maui-toolkit
+* **项目详细介绍：** https://mp.weixin.qq.com/s/oA4LBFr3Tr0vlblenu5liw
+
+### ZyperWin++
+* **项目简介：** ZyperWin++ 是一个基于 .NET + SunnyUI 开源、轻便、简洁美观的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理、资源管理器管理、安全设置、隐私设置、更新设置、Appx管理策略优化等操作，还支持系统激活和Office快速安装。
+* **项目源码地址：** https://github.com/ZyperWave/ZyperWinOptimize
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ndD-06WHiI5z0P9VQGpyEw
+
+### SuperCom
+* **项目简介：** SuperCom 是一款基于 .NET 开源（GPL-3.0 license）、美观、流畅、高效、功能丰富的串口调试工具，主要用于 Window 串口日志的采集、存储、可视化等功能。
+* **项目源码地址：** https://github.com/SuperStudio/SuperCom
+* **项目详细介绍：** https://mp.weixin.qq.com/s/mkon5HoazmKd2iQLgq-Ivg
+
+### Fluent.Ribbon
+* **项目简介：** Fluent.Ribbon 一个为 Windows Presentation Foundation（WPF）实现类 Office 开源（MIT license）、免费的用户界面控件库，提供了诸如 RibbonTabControl（功能区选项卡控件）、Backstage（后台视图）、Gallery（画廊控件）、QuickAccessToolbar（快速访问工具栏）、ScreenTip（屏幕提示）等控件。
+* **项目源码地址：** https://github.com/fluentribbon/Fluent.Ribbon
+* **项目详细介绍：** https://mp.weixin.qq.com/s/3eWhAepiyoRpa7d2cNYNtA
+
+### BBDown
+* **项目简介：** BBDown 是一款基于 .NET 开源（MIT license）、免费、命令行式的哔哩哔哩视频内容下载工具。它支持从哔哩哔哩平台下载普通视频、番剧、课程、合集、收藏夹等多类型内容，具备强大的解析能力、灵活的配置选项和高度可扩展性。
+* **项目源码地址：** https://github.com/nilaoda/BBDown
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fBnf0UgT8mQXPrO_DCnGSA
+
+### JxcLite
+* **项目简介：** JxcLite 是一个基于 Known 框架开发（基于 .NET Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架）、Apache License 开源的简易、轻量级的进销存管理系统。
+* **项目源码地址：** https://gitee.com/known/JxcLite
+* **项目详细介绍：** https://mp.weixin.qq.com/s/ROkptFQUo6m4mwG1ZADHMw
+
+### CookPopularUI
+* **项目简介：** CookPopularUI 是一款开源免费（MIT License）、组件丰富的 WPF UI 控件库，提供了 100 多款常用控件，同时支持 .NET 4.6.2+、.NET Core 3.1、.NET 6.0+。
+* **项目源码地址：** https://gitee.com/CookCSharp/CookPopularUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zIM0NxsLwY1GqEo7_LIT4Q
+
+
 ## 8月
 ### 公众号8月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年8月简报：** https://mp.weixin.qq.com/s/iRujcDcE0sW6RT22d7rUBQ
