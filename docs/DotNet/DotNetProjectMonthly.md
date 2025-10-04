@@ -14,7 +14,7 @@
 # 2025年
 ## 9月
 ### 公众号9月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年9月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年9月简报：** https://mp.weixin.qq.com/s/pY4aQDwGY-bjuBHFStoSHA
 
 ### OrchardCore
 * **项目简介：** OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。
