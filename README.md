@@ -664,7 +664,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [推荐几个不错的数据库设计工具](https://mp.weixin.qq.com/s/m7nUv_z-THQC-y-D9IoCIw)
 * [一个不错的 SQL 编码风格的指南](https://mp.weixin.qq.com/s/OcE2zgKOqUkg6fdjNwstxA)
 * [SQL 中的各种连接 JOIN 的区别总结](https://mp.weixin.qq.com/s/CWyIZA5Gy-OJspPPYQituA)
-* [精选 4 款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s/beQsQ0eKnm4ha0GX17ITAg)
+* [JetBrains 宣布 DataGrip 面向非商业用途免费！](https://mp.weixin.qq.com/s/nrcqcVK9gv3yiB7LwOQjsg)
+* [Navicat平替工具，一款免费开源的通用数据库工具](https://mp.weixin.qq.com/s/Iu45spN8r6qjhmKT6PX1Lg)
+* [好消息！数据库管理神器 Navicat 推出免费精简版](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA)
 
 ### MySQL
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
