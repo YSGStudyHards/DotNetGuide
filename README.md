@@ -694,7 +694,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 ### Microsoft SQL Server
 * [SQL Server教程](https://www.w3cschool.cn/sqlserver/sqlserver-1p6728kn.html)
 * [Microsoft SQL文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
-* [SQL Server 技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
+* [SQL Server技术文档](https://docs.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver15)
 * [SQL Server文章目录](https://www.cnblogs.com/CareySon/archive/2012/05/08/2489748.html)
 * [SSMS管理工具快速入门](https://docs.microsoft.com/zh-cn/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver15)
 
