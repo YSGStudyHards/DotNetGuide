@@ -20,6 +20,97 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [51CTO](https://blog.51cto.com/ysgdaydayup/category1)
 
 # 2025年
+## 10月
+### 第 57 期（2025年10.1-10.12）
+#### C#/.NET/.NET Core优秀项目和框架2025年9月简报
+- **文章简介：** C#/.NET/.NET Core优秀项目和框架2025年9月简报。
+- **文章地址：** https://mp.weixin.qq.com/s/pY4aQDwGY-bjuBHFStoSHA
+
+#### AutoMapper 收费了，.NET 开发者速来拥抱 Mapster，现代免费的对象映射库！
+- **文章简介：** 作为在 .NET 生态中深耕多年的开发者，我们对对象映射（Object Mapping）的需求从未减弱。长期以来，AutoMapper 一直是社区的首选工具，以其简洁的配置和强大的功能赢得了无数开发者的青睐。
+- **文章地址：** https://mp.weixin.qq.com/s/MxaYoVv4vtu-wPHSujK7kQ
+
+#### 精选 4 款开源免费、美观实用的 MAUI UI 组件库，助力轻松构建美观且功能丰富的应用程序！
+- **文章简介：** 一套优秀的 UI 组件库不仅能大幅提升开发效率，还能显著增强应用的视觉体验与交互质感。今天大姚给大家分享 4 款开源免费、美观实用的 MAUI UI 组件库，助你轻松打造专业级的跨平台应用程序。
+- **文章地址：** https://mp.weixin.qq.com/s/P5_aP5H_DXDla8HARyNSjA
+
+#### 斩获 9.9 K星 !!! 一个 .NET 开源免费、功能强大的任务调度框架
+- **文章简介：** 在现代软件开发中，任务调度是构建高效、可靠系统的关键环节。今天为大家推荐一款斩获 9.9K+ GitHub 星星的 .NET 开源项目一个免费免费、功能强大且高度灵活的任务调度框架。它不仅支持丰富的调度策略，还具备良好的扩展性和易用性，适用于从简单定时任务到复杂分布式作业的各种场景，深受 .NET 开发者青睐。
+- **文章地址：** https://mp.weixin.qq.com/s/qgB7iPt0pD4QkGqEQ0tPHA
+
+#### .NET Aspire到底牛在哪？一站式搞定服务发现、配置、可观测
+- **文章简介：** 本文将带你深入.NET Aspire的内核，从架构设计到实战应用，从技术原理到最佳实践，全方位解析这个可能改变.NET开发者命运的框架。
+- **文章地址：** https://mp.weixin.qq.com/s/K2I-whlKljDkmE4qX3rOyw
+
+#### 推荐 12 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！
+- **文章简介：** 今天大姚给大家分享 12 款开源美观、简单易用、主题控件齐全的 WPF UI 控件库，帮助大家轻松打造现代化 WPF 桌面应用，提升开发效率与视觉体验！
+- **文章地址：** https://mp.weixin.qq.com/s/0tzlTe-7fZvGr5YsZntwPg
+
+#### Everything替代工具，一款基于 .NET 开源免费、高效且用户友好文件搜索工具！
+- **文章简介：** TDS 是一款基于 .NET 开源免费（MIT license）、高效且用户友好的文件搜索工具，使用 Avalonia UI 技术并完美支持 AOT 编译，实现并优化了如 USN 读取/近实时更新，索引磁盘缓存，索引增强搜索，多关键字匹配，多线程搜索，Avalonia UI 实现(虚拟化,全局热键,系统托盘)等功能，具有轻量高效、界面美观、交互舒适等特性。该项目以 MIT 协议开源免费，可供学习参考或自定义扩展。
+- **文章地址：** https://mp.weixin.qq.com/s/RBu3nCNkMN76bPdjc-h5Gg
+
+#### 开发者与 AI 代码审查员：在.NET 中审查 AI 生成的代码
+- **文章简介：** 通过承担审查 AI 生成代码的责任，开发者的角色得到了转变。你成为高级 AI 工具（如 GitHub Copilot）生成代码的质量、可靠性和可维护性的关键把关人。虽然代码审查量可能会增加，但同时也提供了提升团队产出标准的机会。本文探讨了如何通过审查 AI 生成代码来提高生产力和效率，并提供了应对常见审查挑战的实用建议。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet
+
+#### C# 的小惊喜：ValueTuple，让多返回值更优雅，性能更强
+- **文章简介：** C# 的小惊喜：ValueTuple，让多返回值更优雅，性能更强。
+- **文章地址：** https://mp.weixin.qq.com/s/6MkIGETc4Wm2nHTYCyoebw
+
+#### 准备 .NET 10 GC (DATAS)
+- **文章简介：** 在 .NET 9 中，我们默认启用了 DATAS。但 .NET 9 不是长期支持版本，因此对于许多人来说，当他们升级到 .NET 10 时，将首次接触到 DATAS。这是一个艰难的决定，因为 GC 功能通常不需要用户干预——但 DATAS 有些不同。这就是为什么这篇文章的标题是“准备”而不是“有什么新内容” 😊 。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc
+
+#### C# SIMD向量索引实战：从理论到高性能实现
+- **文章简介：** C# SIMD向量索引实战：从理论到高性能实现。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19132692
+
+#### 打造.NET平台的Lombok：实现构造函数注入、日志注入、构造者模式代码生成等功能
+- **文章简介：** 在.NET生态系统中，虽然没有直接等价于Lombok的官方库，但我们可以通过Roslyn源代码生成器来实现类似甚至更强大的功能。本文将介绍如何在.NET平台上构建一个类似Lombok的代码生成工具，实现构造函数注入、日志注入、构造者模式等代码生成功能。
+- **文章地址：** https://www.cnblogs.com/mudtools/p/19132382
+
+#### C# 弃元模式：从语法糖到性能利器的深度解析
+- **文章简介：** 在 C# 的语法演进中，“弃元（Discard）” 以一个简单的下划线 _ 成为了既提升代码可读性，又优化性能的 “双料特性”。它并非单纯的语法简化，而是编译器层面对 “有意忽略的值” 的深度优化 —— 通过明确 “忽略” 的意图，不仅让代码更简洁，更能减少内存分配、降低性能开销。本文将从使用场景、核心优势、性能验证到底层实现，全面解析弃元模式的价值。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19131402
+
+#### WPF应用最小化到系统托盘
+- **文章简介：** 在现代桌面应用开发中，系统托盘（System Tray）功能已经成为用户体验的重要组成部分。特别是对于需要长时间运行的应用程序，如即时通讯工具、音乐播放器、系统监控工具等，最小化到系统托盘不仅可以节省任务栏空间，还能让应用在后台持续运行，随时为用户提供服务。本文以Rouyan这个WPF应用为例，说明在WPF中如何实现最小化到系统托盘。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19130874
+
+#### 微软开源 Microsoft Agent Framework = Semantic Kernel + AutoGen
+- **文章简介：** 随着Agentic AI 的最新进展，Microsoft 正在改进其相关开发工具，整合  Semantic Kernel 和 AutoGen 的功能，提供新的开源 Microsoft Agent Framework，以简化 AI Agent和Multi-Agent工作流程的构建、编排和部署，支持 Python 和 .NET。Microsoft 在 10 月 1 日的一篇博文[1]中表示: “开发人员问我们：为什么我们不能同时拥有 AutoGen 的创新和语义内核的信任和稳定性，在一个统一的框架中？ 这正是我们构建 Microsoft Agent Framework[2]的原因。”
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19130347
+
+#### 一款专门为 WPF 打造的开源 Office 风格用户界面控件库
+- **文章简介：** Fluent.Ribbon 一个为 Windows Presentation Foundation（WPF）实现类 Office 开源（MIT license）、免费的用户界面控件库，提供了诸如 RibbonTabControl（功能区选项卡控件）、Backstage（后台视图）、Gallery（画廊控件）、QuickAccessToolbar（快速访问工具栏）、ScreenTip（屏幕提示）等控件。
+- **文章地址：** https://www.cnblogs.com/Can-daydayup/p/19119494
+
+#### C#造个轮子--GIF录制工具
+- **文章简介：** 在以往几篇文章里面，大家都可以看到各种录制的GIF效果图，把gif放在文章开始，不仅可以减少很多冗余的解释白话文，更可以让读者一览无余看到文章大概要义。以往都是使用“LicEcap”来录制的，那么我们是否能自己实现一个这样的工具呢？一方面国庆假期结束，练练代码手感，另一方面可以根据自己需求扩展需要的功能。
+- **文章地址：** https://www.cnblogs.com/axing/p/19128750
+
+#### 【EF Core】通过 DbContext 选项扩展框架
+- **文章简介：** EF Core 内部使用了 IoC 容器，使其支持依赖注入，理论上也很容易扩展。不过，框架有缓存自己的服务列表，咱们无法直接访问服务容器。目前阶段，EF Core 还不能传递咱们自己的 App Services——初始化时它会直接改为 null。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19127370
+
+#### 用纯.NET开发并制作一个智能桌面机器人（六）：使用.NET开发一个跨平台功能完善的AI语音对话客户端
+- **文章简介：** 用纯.NET开发并制作一个智能桌面机器人（六）：使用.NET开发一个跨平台功能完善的AI语音对话客户端。
+- **文章地址：** https://www.cnblogs.com/GreenShade/p/19125465
+
+#### Github Copilot 实战: 使用 Copilot AI + Blazor 编一个五子棋游戏
+- **文章简介：** Github Copilot 实战: 使用 Copilot AI + Blazor 编一个五子棋游戏。
+- **文章地址：** https://www.cnblogs.com/densen2014/p/19124794
+
+#### DeploySharp开源发布：让C#部署深度学习模型更加简单
+- **文章简介：** DeploySharp 是一个专为 C# 开发者设计的跨平台模型部署框架，提供从模型加载、配置管理到推理执行的端到端解决方案。其核心架构采用模块化命名空间设计，显著降低了 C# 生态中深度学习模型的集成复杂度。
+- **文章地址：** https://www.cnblogs.com/guojin-blogs/p/19124118
+
+#### Microsoft Agent Framework：让每位开发者都能轻松构建 AI 智能体
+- **文章简介：** 构建 AI 智能体不应该是火箭科学。然而，许多开发者发现自己正在与复杂的编排逻辑作斗争，努力连接多个 AI 模型，或者花费数周时间构建托管基础设施，只是为了将一个简单的智能体投入生产。
+- **文章地址：** https://mp.weixin.qq.com/s/fGvZ_hxtPNJdO5D-jF67GA
+
+
 ## 9月
 ### 第 56 期（2025年9.22-9.28）
 #### 10 分钟使用 OrchardCore 快速构建 .NET 内容管理系统（CMS)
