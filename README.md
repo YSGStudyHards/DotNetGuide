@@ -130,6 +130,7 @@
 * [Visual Studio 2022 Git多存储库管理](https://mp.weixin.qq.com/s/-X04QR3rgXAubCnMVGJosQ)
 * [Visual Studio 2022进行文件差异比较](https://mp.weixin.qq.com/s/7eiN_RAf_DfPXM86pQOuuw)
 * [Visual Studio中的四款代码格式化工具](https://mp.weixin.qq.com/s/AhQq4IJLEUiTuRqsjTGG_w)
+* [Visual Studio IDE 详细介绍&使用文档](https://learn.microsoft.com/zh-cn/visualstudio/ide/?view=vs-2022)
 * [在Visual Studio中查看EF Core查询计划](https://mp.weixin.qq.com/s/m0UKt78brvZVx5-GODlIKA)
 * [Visual Studio 2022版本17.8中的实用功能](https://mp.weixin.qq.com/s/YnW9ifsHluV69HLnu4mc7A)
 * [Visual Studio文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg)
