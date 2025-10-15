@@ -144,8 +144,8 @@
 * [Visual Studio使用Web Deploy发布应用到指定服务器的IIS中](https://mp.weixin.qq.com/s/Z_nZ31j7X_fgGH4NG2sFBg)
 * [一款实用的 Visual Studio 发布部署插件，助力提高部署效率！](https://mp.weixin.qq.com/s/U0oq-6jq0NCBMmZ81sZj-Q)
 * [Visual Studio 2022 中的 EF Core 反向工程和模型可视化工具](https://mp.weixin.qq.com/s/nnJndy3C1VwZz5Yu1yPd_A)
-* [Visual Studio现已支持新的、更简洁的解决方案文件（slnx）格式](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
 * [使用 Visual Studio 快速创建 NuGet 程序包并发布到 NuGet 官网](https://mp.weixin.qq.com/s/bvTwu8aiKq2U3WoJ0zMkjw)
+* [Visual Studio现已支持新的、更简洁的解决方案文件（slnx）格式](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
 * [Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！](https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg)
 
 ### Visual Studio Code
