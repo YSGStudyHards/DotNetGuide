@@ -459,7 +459,7 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 
 ## ⚔C#/.NET/.NET Core编程技巧练习集
-C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
+C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程和代码示例，助力快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
 
 * **DotNetExercises源码仓库地址：** https://github.com/YSGStudyHards/DotNetExercises
 * **想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：** https://github.com/YSGStudyHards/DotNetGuide/issues/42
