@@ -286,17 +286,20 @@
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（7）-Blazor UI框架选型](https://www.cnblogs.com/Can-daydayup/p/17439106.html)
 * [MongoDB从入门到实战之.NET Core使用MongoDB开发ToDoList系统（8）-Ant Design Blazor前端框架搭建](https://www.cnblogs.com/Can-daydayup/p/17453162.html)
 
-### 七天.NET 8操作SQLite入门到实战详细教程
+### .NET 9操作SQLite入门到实战详细教程
 #### 选型、开发详细教程
-* [第一天 SQLite 简介](https://mp.weixin.qq.com/s/wCKjqDv2hpvsu-01meSMNA)
-* [第二天 在 Windows 上配置 SQLite环境](https://mp.weixin.qq.com/s/fbsLOfE1gQLG3OPpz3UZMA)
-* [第三天SQLite快速入门](https://mp.weixin.qq.com/s/wgMDqIdaQsMfOuiLl07ggw)
-* [第四天EasySQLite前后端项目框架搭建](https://mp.weixin.qq.com/s/RTqRsTrzn7LdTBcMmBtkVw)
-* [第五天引入 SQLite-net ORM 并封装常用方法](https://mp.weixin.qq.com/s/RIT7HnPlrLg5KFtJ6a_Biw)
-* [第六天后端班级管理相关接口完善和Swagger自定义配置](https://mp.weixin.qq.com/s/dI6tb7WtOyB6p1iqYraH5g)
-* [第七天BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
-* [第七天Blazor班级管理页面编写和接口对接（2）](https://mp.weixin.qq.com/s/lpXu5Hx_3F7nf970iBo-5A)
-* [第七天Blazor学生管理页面编写和接口对接（3）](https://mp.weixin.qq.com/s/9a6y8Lw1kGSjfddLQhQRoQ)
+* [第一天、SQLite 简介](https://mp.weixin.qq.com/s/wCKjqDv2hpvsu-01meSMNA)
+* [第二天、在 Windows 上配置 SQLite环境](https://mp.weixin.qq.com/s/fbsLOfE1gQLG3OPpz3UZMA)
+* [第三天、SQLite快速入门](https://mp.weixin.qq.com/s/wgMDqIdaQsMfOuiLl07ggw)
+* [第四天、EasySQLite前后端项目框架搭建](https://mp.weixin.qq.com/s/RTqRsTrzn7LdTBcMmBtkVw)
+* [第五天、引入 SQLite-net ORM 并封装常用方法](https://mp.weixin.qq.com/s/RIT7HnPlrLg5KFtJ6a_Biw)
+* [第六天、后端班级管理相关接口完善和Swagger自定义配置](https://mp.weixin.qq.com/s/dI6tb7WtOyB6p1iqYraH5g)
+* [第七天、BootstrapBlazor UI组件库引入（1）](https://mp.weixin.qq.com/s/UIeKSqym8ibLRvDwra8aww)
+* [第七天、Blazor班级管理页面编写和接口对接（2）](https://mp.weixin.qq.com/s/lpXu5Hx_3F7nf970iBo-5A)
+* [第七天、Blazor学生管理页面编写和接口对接（3）](https://mp.weixin.qq.com/s/9a6y8Lw1kGSjfddLQhQRoQ)
+* [第八天、将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
+* [第九天、在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
+* [第十天、将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://mp.weixin.qq.com/s/fNYD9GgbRik4gicn8DDT9g)
 
 ####  发布部署详细教程
 * [Windows10 IIS Web服务器安装配置](https://mp.weixin.qq.com/s/oaqypmpHOTLA9_5sF6-W7Q)
@@ -306,6 +309,7 @@
 * [10款值得推荐的Blazor UI组件库](https://mp.weixin.qq.com/s/HHqkwpXIi7p3K5eUnTcLTw)
 * [全面的ASP.NET Core Blazor简介和快速入门](https://mp.weixin.qq.com/s/hcZBhbTab02HqWqryB_oEA)
 * [.NET中使用BootstrapBlazor组件库Table实操篇](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
+* [ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
 
 ### .NET微信网页开发相关文章教程
 * [微信网页开发官方详细文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/iOS_WKWebview.html)
