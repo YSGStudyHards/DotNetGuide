@@ -38,45 +38,61 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - **文章简介：** YiShaAdmin 是一个基于.NET Core的Web开发框架，它借鉴了众多开源项目的优点，旨在简化Web管理系统和移动端Api的开发过程。
 - **文章地址：** https://mp.weixin.qq.com/s/h0jY8RVMMEOhvEje-Cchrg
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET运行时核心仓库的治理架构解析：责任分配与协作机制
+- **文章简介：** .NET运行时核心仓库的治理架构解析责任分配与协作机制。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19150635
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### WPF/C#：使用Microsoft Agent Framework框架创建一个带有审批功能的终端Agent
+- **文章简介：** 最近新出了一个Microsoft Agent Framework框架，我感觉还挺有意思的，就通过它的那个Using function tools with human in the loop approvals例子，做了一个终端助手Agent。我觉得使用这个作为学习人在环上这个例子蛮合适的，因为对于需要执行敏感操作（如系统命令）的场景，人工审批机制显得尤为重要。本文以Rouyan为例，说明如何使用Microsoft Agent Framework创建一个能够执行终端命令并具备人工审批功能的WPF应用。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19149202
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 使用Scalar.AspNetCore来管理你的OpenApi
+- **文章简介：** 使用Scalar.AspNetCore来管理你的OpenApi。
+- **文章地址：** https://www.cnblogs.com/wangbin5542/p/19148516
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 从零开始:C# 解析docx提取文本-无需安装office软件且完美支持aot
+- **文章简介：** 从零开始:C# 解析docx提取文本-无需安装office软件且完美支持aot。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19147754
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 为 .NET 10 GC（DATAS）做准备
+- **文章简介：** 在 .NET 9 中，我们默认启用了 DATAS。但 .NET 9 并不是长期支持（LTS）版本，因此很多人会在升级到 .NET 10 时首次获得 DATAS。这是一个很艰难的决定，因为 GC 功能通常是不需要用户干预的 —— 但 DATAS 有些不一样。这也是为什么本文标题是“做准备”，而不是单纯的“新功能介绍”。
+- **文章地址：** https://www.cnblogs.com/InCerry/p/19146679
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### 从零开始：如何用 C# 开发一款媲美 “AnyTxt” 的文件内容搜索工具
+- **文章简介：** 说起文件内容搜索工具，那么不得不提到“AnyTxt”，号称本地知识库检索的终极答案。唯一的不足可能就是索引更新机制，不能实时监视文件更改从而更新索引，最小定期更新间隔为半小时，容易导致cpu占用率高，毕竟是全盘全文件类型索引。很多时候,其实我们对文件内容的搜索，是一个简单文档管理需求，我们期望能的是快速定位文件，而不仅仅是信息。这时候对文件夹以及文件类型的限制就很重要了。还有就是有可能我们会对比如CAD图纸(.dwg、.dxf)的图签或者文件数据库(.db)的表名等特殊文件格式的自定义内容感兴趣。这时候就需要自己来实现扩展了。再加上很多时候，磁盘的信息都是敏感数据，一定要保证软件程序的安全。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19145746
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### WPF应用绑定系统快捷键
+- **文章简介：** 在现代桌面应用开发中，全局快捷键功能是提升用户体验的重要手段。用户无需将焦点切换到应用窗口，就能通过特定的键盘组合快速触发应用功能。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19145116
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET 10中GC（垃圾收集器）默认启用DATAS
+- **文章简介：** .NET GC的大总管Maoni发了一篇新文章《准备 .NET 10 GC》,准备 .NET 10 GC” 并非单一动作，而是 “代码优化（减少 GC 压力）+ 配置预留（适配新特性）+ 环境兼容（保障运行基础） ” 的组合：核心是基于 .NET GC 的演进规律，提前消除 “性能瓶颈” 和 “兼容性风险”，确保 .NET 10 发布后，应用能直接享受到新版本 GC 的低延迟、高内存效率优势。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19144782
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### ASP.NET Core Blazor简介和快速入门一（基础篇）
+- **文章简介：** Blazor 是由Microsoft开发的一款基于.NET的开源交互式Web UI框架。Blazor使开发人员能够使用C#和HTML建立全堆栈的单页应用程序，并避免使用JavaScript。Blazor基于组件模型，该模型提供了以具有强类型的符合Razor标准的页面和组件的形式构建用户界面的能力。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19142586
 
-#### 
-- **文章简介：** 
-- **文章地址：** 
+#### .NET 10 Release Candidate 2（RC2）发布
+- **文章简介：** .NET 团队在官方博客上发布了.NET 10 RC2[1], .NET 10 作为继 .NET 9 后的长期支持版本（LTS），提供3年官方支持。RC2 是正式版（GA）前的最终候选版本，已具备生产环境可用性（Go-Live License），支持企业级部署。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19142462
+
+#### 【EF Core】FromExpression 方法有什么用？
+- **文章简介：** 比 90% 的人细心的大伙伴一定发现了 DbContext 类有一个方法叫 FromExpression，它到底干吗用的？官方文档中没有专门的介绍（只在表值函数映射的例子中看到）。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19136951
+
+#### WPF 调用 ChangeWindowMessageFilterEx 修改指定窗口 (UIPI) 消息筛选器的用户界面特权隔离
+- **文章简介：** WPF 调用 ChangeWindowMessageFilterEx 修改指定窗口 (UIPI) 消息筛选器的用户界面特权隔离。
+- **文章地址：** https://www.cnblogs.com/wuty/p/19142059
+
+#### 记录一下 WPF进程 SendMessage 发送窗口消息进行进程间通信，存在进程权限无法接受消息的问题
+- **文章简介：** 最近在接手一个同事写的WPF项目，是使用.NetFramwork 开发的，使用的进程间通信没有使用我们之前封装的基于WebSocket的封装组件的，而是使用Win32的方式：发送端用的Windows Api：SendMessage ，接受端使用的是 钩子监听windows 的消息回传。相信很多做桌面应用的，这种通信应该都是很常用，并且见怪不怪的。可是可能很多没有注意到进程权限的情况，这种通信存在有坑，并且这个坑还埋的挺深的。
+- **文章地址：** https://www.cnblogs.com/wuty/p/19137419
+
+#### .NET 和 .NET Framework 2025 年 10 月服务更新
+- **文章简介：** 欢迎来到我们 2025 年 10 月的.NET 服务更新。让我们深入了解.NET 和.NET Framework 的最新版本，以下是我们的服务更新中新增内容的简要概述。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates
 
 
 ### 第 57 期（2025年10.1-10.12）
