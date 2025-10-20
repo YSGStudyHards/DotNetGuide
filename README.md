@@ -300,6 +300,7 @@
 * [第八天、将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
 * [第九天、在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
 * [第十天、将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://mp.weixin.qq.com/s/fNYD9GgbRik4gicn8DDT9g)
+* [第十一天、在 .NET 9 中使用 Mapster 快速、高效的实现对象映射](https://mp.weixin.qq.com/s/QFEbHE2EWzzZN9VvnUwD4A)
 
 ####  发布部署详细教程
 * [Windows10 IIS Web服务器安装配置](https://mp.weixin.qq.com/s/oaqypmpHOTLA9_5sF6-W7Q)
