@@ -237,7 +237,7 @@
 |  1  | [Ocelot](https://github.com/ThreeMammals/Ocelot) | Ocelot 是一个 .NET API 网关。该项目面向使用 .NET 运行微服务/面向服务架构的人，他们需要一个统一的入口点进入他们的系统。但是，它适用于任何使用 HTTP 的内容并在 ASP.NET Core 支持的任何平台上运行。 | https://github.com/ThreeMammals/Ocelot |
 |  2  | [JMSFramework](https://github.com/simpleway2016/JMS) | JMSFramework是一个基于.NET的微服务开源框架，它可以快速构建支持分布式事务的微服务。支持服务发现、服务注册、限流、容错和故障转移、负载均衡、双机热备、分布式锁、零代码支持分布式事务等特性。 | https://github.com/simpleway2016/JMS |
 |  3  | [ADNC](https://github.com/AlphaYu/Adnc) | ADNC 是一个基于 .NET 平台的分布式/微服务开源框架，采用现代化的架构设计和最佳实践，同时也适用于单体架构系统的开发。它提供了一系列的工具和库，帮助开发人员快速构建和部署微服务应用程序，包括服务注册/发现、配置中心、链路跟踪、负载均衡、熔断、容错、分布式事务、分布式缓存、消息队列、RPC调用(http/grpc)、认证授权、读写分离、日志记录等，同时也提供了完善的文档和示例代码，方便开发人员使用和学习。 | https://github.com/AlphaYu/Adnc |
-|  4  | [Viper](https://github.com/duyanming/Viper) | Viper 是一个基于Anno微服务引擎开发的Dashboard示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等。 | https://github.com/duyanming/Viper |
+|  4  | [Anno.Core](https://github.com/duyanming/Anno.Core) | Anno.Core 是一个基于 .NET 开源、功能强大的分布式微服务开发框架，致力于简化分布式、微服务系统的构建。框架原生支持 gRPC 和 Thrift 两种高性能 RPC 通信协议，自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、插件化开发等。 | https://github.com/duyanming/Anno.Core |
 |  5  | [Wing](https://gitee.com/linguicheng/Wing) | Wing致力于打造一个功能强大、最接地气的.NET微服务框架，支持.NET Core 3.1+运行平台。支持Consul服务注册与发现，服务间通讯支持http和grpc调用，内置负载均衡器。支持服务策略配置，服务异常降级处理。支持 Saga分布式事务，支持三种恢复策略：向前恢复、向后恢复、先前再后。自带配置中心，服务配置可以在线集中统一管理。支持http/grpc/sql链路追踪APM及耗时分析统计。内置服务网关，支持全局服务策略和个性化服务策略配置。支持RabbitMQ事件总线，自带人性化的Dashboard管理界面。 | https://linguicheng.gitee.io/wing/ |
 |  6  | [Surging](https://github.com/fanliang11/surging) | surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，RPC可以选择采用netty或thrift框架，采用异步非阻塞传输。 | https://github.com/fanliang11/surging  |
 |  7 |  |  |  |
