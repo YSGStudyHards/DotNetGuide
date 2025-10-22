@@ -1110,8 +1110,12 @@
 |  2  | [ParallelCollectionMonitoring](https://github.com/bitkylin/ParallelCollectionMonitoring) | 一个.NET开源的数据采集及云端监控系统，使用数十个.NET客户端控制硬件设备进行工作，采集数据并进行处理，管理人员通过 Android 应用实时控制各设备的工作。 | https://github.com/bitkylin/ParallelCollectionMonitoring |
 |  3  | [Apollo ERP](https://gitee.com/aerphouse/ApolloERP) | Apollo ERP是一款.NET开源（MIT License）、免费的基于O2O新零售的互联网养车连锁平台开发框架，类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、洗车等汽车后市场连锁企业。 | https://gitee.com/aerphouse/ApolloERP |
 |  4  | [蜀味正道](https://gitee.com/kbzapp/foodApp) | 蜀味正道是一款基于 .NET 开源、美观、全面高效的桌面端餐饮管理系统，该系统是专门针对餐饮行业开发的桌面应用程序，旨在提供高效、便捷的餐饮管理服务。 | https://gitee.com/kbzapp/foodApp |
-|  5  |  |  |  |
+|  5  | [Viper](https://github.com/duyanming/Viper) | Viper 是一个基于 Anno.Core 微服务引擎开发的 Dashboard 项目、示例项目。 | https://github.com/duyanming/Viper |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
