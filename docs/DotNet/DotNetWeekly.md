@@ -21,6 +21,64 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 10月
+### 第 59 期（2025年10.20-10.26）
+#### 在 .NET 9 中使用 Mapster 快速、高效的实现对象映射
+- **文章简介：** 在日常开发中，我们常常需要将一个对象映射到另一个对象，比如将数据库实体转换为数据传输对象（DTO），或将请求模型映射为领域模型。这个过程通常涉及大量重复性代码，如果每次都手动编写，不仅严重影响开发效率，而且随着项目规模不断增长，还容易出现错误（如：属性遗漏、手写时写错或复制粘贴失误等）。本文我们的主要内容就是讲解如何在 ASP.NET Core 9.0 Web API 项目中使用 Mapster 快速、高效的实现对象映射。
+- **文章地址：** https://mp.weixin.qq.com/s/QFEbHE2EWzzZN9VvnUwD4A
+
+#### 一个基于 .NET 开源、功能强大的分布式微服务开发框架
+- **文章简介：** Anno.Core 是一个基于 .NET 开源、功能强大的分布式微服务开发框架，致力于简化分布式、微服务系统的构建。框架原生支持 gRPC 和 Thrift 两种高性能 RPC 通信协议，自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、插件化开发等。
+- **文章地址：** https://mp.weixin.qq.com/s/fVITS8MjAyM9mLdtSN0rcg
+
+#### 一个开源免费、功能强大的 .NET 反编译神器
+- **文章简介：** 在.NET开发领域，源代码的丢失或不可访问性有时会成为开发者面临的棘手问题。而ILSpy，这款开源免费、功能强大的.NET反编译工具，正是为解决此类难题而生。它不仅能够将编译后的.NET程序集反编译为可读的C#代码，还提供了丰富的搜索、导航和元数据探索功能，成为开发者学习、调试和分析代码的得力助手。
+- **文章地址：** https://mp.weixin.qq.com/s/PNyXyNSK9VE2X6_YYUgxcQ
+
+#### 全面的 C#/.NET 图表构建解决方案，助力快速实现图表开发需求！
+- **文章简介：** 今天大姚给大家分享 9 款基于 .NET 开源、高效、功能强大图表库，这些库旨在助力快速实现图表开发需求，提升项目效率与质量。
+- **文章地址：** https://mp.weixin.qq.com/s/SEa7zjoi_StTrWdhEQHmoQ
+
+#### 一个基于 .NET 8 + Vue3 实现的极简 RABC 权限管理系统
+- **文章简介：** Purest Admin 是一个基于 .NET 8 + Vue3 实现的前后端分离、极简 RABC 权限管理系统，基于 LGPL-3.0 协议开源，后端在 ABP 框架的设计上进行了精简和改良，前端基于 vue-pure-admin，前端极强的表格框架 vxe-table，旨在为 .NET 开发者提供一套简洁、高效、可扩展的快速开发解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/osVxMjuhGeAyr7V8V6mRFw
+
+#### 从性能瓶颈到提速40%：EF Core编译查询优化实战
+- **文章简介：** 本文将分享我如何定位问题根源，发现EF Core编译查询，最终实现40%性能提升的全过程。包含心路历程、基准测试、踩坑经验，以及如何在你的API中复现这种优化。
+- **文章地址：** https://mp.weixin.qq.com/s/k67erlDgrbBix302VGtrpQ
+
+#### 一款由 .NET 开源免费、多功能 Windows 工具箱
+- **文章简介：** 在 Windows 系统日常使用与开发过程中，一款集多功能于一体的工具箱往往能极大提升效率与体验。今天大姚给大家分享一款由 .NET 开源免费、多功能 Windows 工具箱：PowerToolbox。
+- **文章地址：** https://mp.weixin.qq.com/s/prSiGEeFPFvtTCXFfhRROQ
+
+#### ASP.NET Core Blazor简介和快速入门三（布局和路由）
+- **文章简介：** 本文介绍了Blazor中的布局、路由和条件渲染功能。在布局方面，详细讲解了如何创建和应用布局组件（继承LayoutComponentBase），包括默认布局MainLayout的使用、嵌套布局的实现方式以及如何控制特定页面不应用布局（如登录页）。在路由和导航部分，简要提及了基本配置方法。最后，重点阐述了条件渲染（@if语句）和循环渲染（@foreach等）的语法和实际应用场景，通过学生信息列表等示例展示了数据绑定和动态UI生成的实现方式。这些核心功能共同构成了Blazor组件化开发的基础框架。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19165809
+
+#### Microsoft Agent Framework/C#：了解Workflows的几种不同模式
+- **文章简介：** 最近有空的时候在学习Microsoft Agent Framework，在这个框架中目前Workflows分为了Sequential、Concurrent、Handoffs以及Groupchat四种模式，今天让我们来了解一下这四种不同的模式。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19161043
+
+#### 从零开始: C#轻松预览PDF文件-支持跨平台AOT友好
+- **文章简介：** 本项目对PdfiumViewer库进行了改写，对其pdf解析部分的核心功能进行了分离和精简，使其支持任意程序调用生成渲染后图片。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19160879
+
+#### 记一次 .NET 某光放测试系统 崩溃分析
+- **文章简介：** 记一次 .NET 某光放测试系统 崩溃分析。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19160157
+
+#### 在您的 .NET AI 聊天应用中升级 Microsoft Agent Framework
+- **文章简介：** AI 应用模板让您在几分钟内就能搭建一个功能齐全的聊天应用程序，包括 AI 集成、自定义数据输入以及所有开始所需的组件。这是一个酷炫且坚实的基础。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app
+
+#### WPF/C#：使用Stylet中的IWindowManager用于显示等待窗体、对话框与消息框
+- **文章简介：** 在创建WPF应用的时候，如果我们要执行一个耗时的操作，那么给用户显示一个等待窗体是很常见的需求，通过显示一个等待窗体让用户明白运行的这个软件并没有崩溃，能有效消除用户的焦虑与不确定性，同时能极大提升用户体验，展示软件的专业性和品质，将无聊的等待转化为可预期的、安心的过程。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19157515
+
+#### .NET驾驭Word之力：基于规则自动生成及排版Word文档
+- **文章简介：** MudTools.OfficeInterop 是一个针对 Microsoft Office 应用程序（Excel、Word、PowerPoint、VBE）的 .NET 封装库，旨在简化对 Office COM 组件的操作。它提供现代化、面向对象的 API 接口，使得开发者可以更轻松地处理 Office 文档。其中 Word 模块专门用于操作 Microsoft Word 应用程序，提供了完整的 Word 文档操作接口。
+- **文章地址：** https://www.cnblogs.com/mudtools/p/19152884
+
+
 ### 第 58 期（2025年10.13-10.19）
 #### 将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx
 - **文章简介：** EasySQLite 是一个 .NET 9 操作 SQLite 入门到实战详细教程，主要是对学校班级，学生信息进行管理维护。本文的主要内容是将 EasySQLite 项目解决方案文件格式从 .sln 格式升级为更简洁的 .slnx 格式。
