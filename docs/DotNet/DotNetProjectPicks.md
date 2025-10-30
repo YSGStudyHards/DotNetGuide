@@ -2262,7 +2262,7 @@
 |  9  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | Avalonia.ExtendedToolkit 是一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
 |  10  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | avalonia-aero-theme 是一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
 |  11  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | Citrus.Avalonia 是一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
-|  12  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | Avalonia ColorPicker 控件。 | https://github.com/wieslawsoltes/ColorPicker |
+|  12  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | ColorPicker 是一款适用于 WPF 和 AvaloniaUI 的可定制颜色选择器控件，支持 RGB、HSV、HSL 等多种色彩模式，能够轻松集成到你的 .NET 桌面应用中，为用户提供流畅精准的选色体验。 | https://github.com/wieslawsoltes/ColorPicker |
 |  13  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
 |  14  |  |  |  |
 |  15  |  |  |  |
