@@ -12,6 +12,51 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 10月
+### 公众号10月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年10月简报：
+
+### Mapster
+* **项目简介：** Mapster 是一个开源免费（MIT license）、快速、高性能、灵活且易于使用的 .NET 对象映射库，用于在 .NET 用程序中进行对象之间的转换和映射操作，大幅减少手动赋值带来的重复代码、人为错误和维护成本。
+* **项目源码地址：** https://github.com/MapsterMapper/Mapster
+* **项目详细介绍：** https://mp.weixin.qq.com/s/QFEbHE2EWzzZN9VvnUwD4A
+
+### TDS
+* **项目简介：** TDS 是一款基于 .NET 开源免费（MIT license）、高效且用户友好的文件搜索工具，使用 Avalonia UI 技术并完美支持 AOT 编译，实现并优化了如 USN 读取/近实时更新，索引磁盘缓存，索引增强搜索，多关键字匹配，多线程搜索，Avalonia UI 实现(虚拟化,全局热键,系统托盘)等功能，具有轻量高效、界面美观、交互舒适等特性。该项目以 MIT 协议开源免费，可供学习参考或自定义扩展。
+* **项目源码地址：** https://github.com/LdotJdot/TDS
+* **项目详细介绍：** https://mp.weixin.qq.com/s/RBu3nCNkMN76bPdjc-h5Gg
+
+### Purest Admin
+* **项目简介：** Purest Admin 是一个基于 .NET 8 + Vue3 实现的前后端分离、极简 RABC 权限管理系统，基于 LGPL-3.0 协议开源，后端在 ABP 框架的设计上进行了精简和改良，前端基于 vue-pure-admin，前端极强的表格框架 vxe-table，旨在为 .NET 开发者提供一套简洁、高效、可扩展的快速开发解决方案。
+* **项目源码地址：** https://github.com/dymproject/purest-admin
+* **项目详细介绍：** https://mp.weixin.qq.com/s/osVxMjuhGeAyr7V8V6mRFw
+
+### Anno.Core
+* **项目简介：** Anno.Core 是一个基于 .NET 开源、功能强大的分布式微服务开发框架，致力于简化分布式、微服务系统的构建。框架原生支持 gRPC 和 Thrift 两种高性能 RPC 通信协议，自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、插件化开发等。
+* **项目源码地址：** https://github.com/duyanming/Anno.Core
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fVITS8MjAyM9mLdtSN0rcg
+
+### Viper
+* **项目简介：** Viper 是一个基于 Anno.Core 微服务引擎开发的 Dashboard 项目、示例项目。
+* **项目源码地址：** https://github.com/duyanming/Viper
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fVITS8MjAyM9mLdtSN0rcg
+
+### ColorPicker
+* **项目简介：** ColorPicker 是一款适用于 WPF 和 AvaloniaUI 的可定制颜色选择器控件，支持 RGB、HSV、HSL 等多种色彩模式，能够轻松集成到你的 .NET 桌面应用中，为用户提供流畅精准的选色体验。
+* **项目源码地址：** https://github.com/PixiEditor/ColorPicker
+* **项目详细介绍：** https://mp.weixin.qq.com/s/MgcbJG9BkFfTp9Pc5oduTg
+
+### PowerToolbox 
+* **项目简介：** PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。
+* **项目源码地址：** https://github.com/Gaoyifei1011/PowerToolbox
+* **项目详细介绍：** https://mp.weixin.qq.com/s/prSiGEeFPFvtTCXFfhRROQ
+
+### Aura.UI
+* **项目简介：** Aura.UI 是一个开源免费（MIT license）、轻量级的 Avalonia UI 控件库。
+* **项目源码地址：** https://github.com/PieroCastillo/Aura.UI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/CNrat3lg7t8_ii_jrHe_xQ
+
+
 ## 9月
 ### 公众号9月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年9月简报：** https://mp.weixin.qq.com/s/pY4aQDwGY-bjuBHFStoSHA
