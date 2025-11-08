@@ -167,6 +167,7 @@
 ### GitHub使用指南
 * [GitHub漫游指南](https://github.com/phodal/github)
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
+* [GitHub官方使用文档](https://docs.github.com/zh)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
 * [如何给GitHub上的开源项目提交PR?](https://mp.weixin.qq.com/s/YJwW9AFPoEKuU_MXqL_Pcg)
 * [我找回了我喜欢的GitHub Old Feed](https://mp.weixin.qq.com/s/liXDb4MGXlSrAryRDSkcbw)
