@@ -20,6 +20,89 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [51CTO](https://blog.51cto.com/ysgdaydayup/category1)
 
 # 2025年
+## 11月
+### 第 60 期（2025年11.1-11.9）
+#### C#/.NET/.NET Core优秀项目和框架2025年10月简报
+- **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。
+- **文章地址：** https://mp.weixin.qq.com/s/DB1UBuiS2BvZjf7VlH0_MQ
+
+#### 事半功倍：.NET 开发者的 Visual Studio 效率技巧！
+- **文章简介：** 本文大姚将为你分享一些 Visual Studio 的使用技巧和建议，旨在帮助 .NET 开发者更加高效地利用 Visual Studio 进行编程开发工作。无论你是 .NET 初学者还是经验丰富的 .NET 开发者，这些技巧都将有助于提升你的工作效率，让你能够更快地编写出高质量的代码。
+- **文章地址：** https://mp.weixin.qq.com/s/yHAK0VvcOR8bqZVqOBizXQ
+
+#### 【拾遗补漏】.NET 常见术语集
+- **文章简介：** .NET 常见术语集旨在为 .NET 初学者提供一份清晰的入门指引，也为经验丰富的 .NET 开发者提供一份便捷的参考，帮助大家更准确地表达、更高效地学习、更深入地探索 .NET 的强大功能（有遗漏的欢迎文末留言）。
+- **文章地址：** https://www.cnblogs.com/Can-daydayup/p/19193323
+
+#### 一款基于 .NET WinForm 开源、轻量且功能强大的节点编辑器
+- **文章简介：** STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。
+- **文章地址：** https://mp.weixin.qq.com/s/fMG3iAu1Y0Fkmf6d-fcgiA
+
+#### 一款 .NET 开源（GPL-3.0 license）、免费、现代的远程会话管理和启动器
+- **文章简介：** 1Remote 是一个现代化的个人远程会话管理和启动器，适用于需要管理多种不同协议远程会话的用户。无论是系统管理员、开发人员还是IT支持人员，都可以通过1Remote在一个集中的地方管理他们的所有远程连接，提高工作效率和便利性。
+- **文章地址：** https://mp.weixin.qq.com/s/4PIKVLGLkOsvSJJO9InvXA
+
+#### ASP.NET Core 部署进化史：从 Windows IIS 到 Docker，再到国产 Linux 容器化实践
+- **文章简介：** ASP.NET Core 部署进化史：从 Windows IIS 到 Docker，再到国产 Linux 容器化实践。
+- **文章地址：** https://mp.weixin.qq.com/s/qxBAzom3He-Lk7hQr7T7bQ
+
+#### 深入探索C# Channels：高级模式与实战指南
+- **文章简介：** 我们已经介绍了基础知识，包括类型、循环，甚至一些实际应用场景。现在，您应该对生产者、消费者、完成和取消操作感到熟悉了。但 Channels 就像一座冰山；您目前所见的仅是冰山一角。其底层隐藏着高级模式，如果能够恰当地运用（或避免使用），它们能让您的系统发挥出卓越的性能。
+- **文章地址：** https://mp.weixin.qq.com/s/jhu0IEk_4D1n-cJocPLMbA
+
+#### 一个开源、精美的 WPF 用户界面
+- **文章简介：** WPFUIDemo 是一个专注于 WPF（Windows Presentation Foundation）用户界面设计与开发的示例项目。该项目旨在为开发者提供一个全面、实用的参考范例，帮助他们快速掌握 WPF 应用开发的核心技巧和最佳实践，提升开发效率与界面设计水平。通过丰富的功能模块和代码示例，开发者可以深入了解 WPF 的强大特性，并将其灵活应用于实际项目中。
+- **文章地址：** https://mp.weixin.qq.com/s/15oTrGmLzGl4AAUV6maIgw
+
+#### 一款基于 .NET 8 + Vue 前后端分离的快速开发框架，解决 70% 的重复工作！
+- **文章简介：** ZrAdminNetCore 是一款基于前后端分离架构、跨平台部署的通用权限管理后台系统，采用 RBAC（Role-Based Access Control） 权限模型设计，支持多租户、动态菜单、细粒度权限控制等功能。项目以 .NET Core 为后端技术栈，结合现代化前端框架构建，适用于企业级中后台管理系统快速开发。
+- **文章地址：** https://mp.weixin.qq.com/s/ilK-HScDVxb9tBykwgP_JQ
+
+#### 【译】Avalonia UI与谷歌Flutter团队合作将Impeller渲染引擎引入.NET
+- **文章简介：** 我们激动地宣布阿瓦洛尼亚在渲染技术道路上迎来一个重要里程碑。我们的团队正与谷歌Flutter工程师合作，将其下一代"GPU优先"渲染器Impeller引入.NET开发者生态。这项技术合作旨在突破跨平台性能边界，展现开源社区如何通过协作创造更大价值。
+- **文章地址：** https://mp.weixin.qq.com/s/BQz1GrnknYqlAMujSJQ55A
+
+#### 一款 .NET 开源免费、功能全面的串口调试神器，工控必备效率工具！
+- **文章简介：** BYSerial 是一款功能全面、用户友好的串口调试工具，适用于工控领域、物联网开发、嵌入式系统开发等多种场景。项目开源免费（MIT License），支持多语言切换、自动更新、自定义快捷命令等功能，是工控领域必备的效率工具。
+- **文章地址：** https://mp.weixin.qq.com/s/6aJr_eT1kFCgvBvILXHkXQ
+
+#### .NET 搞 AI 不行？
+- **文章简介：** 今天，我要告诉你一个被严重低估的事实：.NET开发者不仅能做AI，而且可能是最适合把AI落地到生产环境的那群人。
+- **文章地址：** https://www.cnblogs.com/sheng-jie/p/19200934
+
+#### 从零开始:C#与C++函数传参——调包侠秘籍
+- **文章简介：** 在日常开发中，C# 和 C++ 都是非常强大的编程语言。C# 有着简洁的语法和强大的框架支持，而 C++ 在性能和底层操作上有着独特的优势。有时候，我们可能需要在 C# 项目中调用 C++ 编写的高性能函数，比如处理复杂的图像算法、调用底层硬件接口等，还有就是可以更多的丰富咱们的代码库，因为很多性能好、实用、跨平台的库都是C++写的，可以极大扩展咱们程序的应用场景。但对于初学者来说，第一大难题就是方法/函数的调用。接下来我们举例说明一下C#调用C++动态链接库函数的详细实现（以windows系统为例）。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19199730
+
+#### ASP.NET Core Blazor 核心功能三：Blazor与JavaScript互操作——让Web开发更灵活
+- **文章简介：** 今天我们来聊聊Blazor中C#与JavaScript互操作。我知道很多同学在听到"Blazor"和"JavaScript"要一起工作时会有点懵，但别担心，我会用最简单的方式带你掌握这个技能！
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19194651
+
+#### ASP.NET Core Blazor 核心功能二：Blazor表单和验证
+- **文章简介：** 本文介绍了Blazor中EditForm组件的使用及表单验证方案。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19189573
+
+#### 【EF Core】“多对多”关系与跳跃导航
+- **文章简介：** “多对多”关系不像“一对多”那么“单纯”，它内部涉及到“连接实体”（Join Entity）的概念。咱们先放下这个概念不表，来了解一下多对多数据表为什么需要一个“辅助表”来建立关系。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19184567
+
+#### LVGLSharp：LVGL的C#绑定库介绍
+- **文章简介：** 在嵌入式系统和图形用户界面（GUI）开发领域，LVGL（Light and Versatile Graphics Library）是一个广受欢迎的开源图形库，它提供了丰富的UI组件和高效的渲染能力，适用于各种资源受限的设备。而LVGLSharp则是LVGL的一个C#绑定库，它使得.NET开发者能够更方便地利用LVGL的强大功能，在C#环境中创建出美观且高效的图形界面。本文将详细介绍LVGLSharp及其特点。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19185046
+
+#### Copilot Studio 如何使用 .NET 和 WebAssembly 实现性能和创新
+- **文章简介：** Microsoft Copilot Studio 处于对话式 AI 和自动化的最前沿，使组织能够为各种企业场景构建、自定义和管理智能助手和机器人。随着平台的发展，支撑它的技术也在不断发展。Copilot Studio 创新的核心是它与 .NET 的深度集成，包括在 WebAssembly （WASM） 上使用 .NET。这篇文章探讨了 Copilot Studio 如何利用 .NET、平台升级带来的好处，以及由此带来的性能、成本和生产力改进。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/
+
+#### .NET Conf 2025即将开始
+- **文章简介：** .NET Conf 2025 仅几天后就要开始了，参加11 月 11 日至 13 日的这场免费三日虚拟会议，了解 .NET 平台、开源项目和开发者工具的最新进展—包括 .NET 10 的正式发布，以及对 Visual Studio 2026 的深度探讨。今年的会议特别聚焦使用 Aspire 进行云原生开发、快速地将现有应用升级到 .NET 10，以及使用 AI 构建智能应用，包括全新的 Microsoft Agent Framework 和 Model Context Protocol (MCP) 支持。
+- **文章地址：** https://mp.weixin.qq.com/s/GqLWiGQ77EZ4MTUFhwGqUA
+
+#### AI 时代，.NET 开发者向左还是向右？
+- **文章简介：** AI 时代，.NET 开发者向左还是向右？ MAF vs LangChain 1.0 —— 一场关乎未来的技术选择。
+- **文章地址：** https://mp.weixin.qq.com/s/XBYYsjkmhuDEq3gyTvSmmQ
+
+
 ## 10月
 ### 第 59 期（2025年10.20-10.26）
 #### 在 .NET 9 中使用 Mapster 快速、高效的实现对象映射
