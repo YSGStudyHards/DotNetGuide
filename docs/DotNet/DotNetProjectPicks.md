@@ -174,8 +174,8 @@
 |  7  | [JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) | JsonApiDotNetCore是一个用于构建符合JSON:API标准的RESTful API的框架，基于ASP.NET和Entity Framework Core，旨在通过提供排序、过滤、分页等现成功能来最大限度地减少样板代码，使开发者只需关注资源定义和业务逻辑实现，且其基于依赖注入的设计使扩展变得非常容易。 | https://github.com/json-api-dotnet/JsonApiDotNetCore |
 |  8  | [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) | FastEndpoints是一个轻量级的REST API开发框架，适用于ASP.NET 6及更高版本，旨在简化API开发过程，提高性能和可维护性。 | https://github.com/FastEndpoints/FastEndpoints |
 |  9  | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | netcorepal-cloud-framework 是一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架。框架核心特性，领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 | [netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) |
-|  10  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin是一个基于.NET8搭建DDD-微服务-现代化Saas企业级WebAPI架构，支持：IDS4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AISemanticKernel集成、OCR验证码识别、API多版本兼容、单元集成测试。 | https://github.com/junkai-li/NetCoreKevin  |
-|  11  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
+|  10  | [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | OrchardCore 是一个开源的（BSD-3-Clause license）、模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。同时，它也是一个基于该框架的内容管理系统（CMS）。 | https://github.com/OrchardCMS/OrchardCore |
+|  11  |  |  |  |
 |  12  |  |  |  |
 |  13  |  |  |  |
 |  14  |  |  |  |
@@ -240,7 +240,7 @@
 |  4  | [Anno.Core](https://github.com/duyanming/Anno.Core) | Anno.Core 是一个基于 .NET 开源、功能强大的分布式微服务开发框架，致力于简化分布式、微服务系统的构建。框架原生支持 gRPC 和 Thrift 两种高性能 RPC 通信协议，自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、插件化开发等。 | https://github.com/duyanming/Anno.Core |
 |  5  | [Wing](https://gitee.com/linguicheng/Wing) | Wing致力于打造一个功能强大、最接地气的.NET微服务框架，支持.NET Core 3.1+运行平台。支持Consul服务注册与发现，服务间通讯支持http和grpc调用，内置负载均衡器。支持服务策略配置，服务异常降级处理。支持 Saga分布式事务，支持三种恢复策略：向前恢复、向后恢复、先前再后。自带配置中心，服务配置可以在线集中统一管理。支持http/grpc/sql链路追踪APM及耗时分析统计。内置服务网关，支持全局服务策略和个性化服务策略配置。支持RabbitMQ事件总线，自带人性化的Dashboard管理界面。 | https://linguicheng.gitee.io/wing/ |
 |  6  | [Surging](https://github.com/fanliang11/surging) | surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，RPC可以选择采用netty或thrift框架，采用异步非阻塞传输。 | https://github.com/fanliang11/surging  |
-|  7 |  |  |  |
+|  7  | [NetCoreKevin](https://github.com/junkai-li/NetCoreKevin) | NetCoreKevin 是一个基于 .NET 8 + DDD 搭建的模块化微服务框架，其模块化设计使得每个功能都可以独立引用，非常适合大型企业级应用的开发。框架支持IdentityServer4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AI 集成 SemanticKernel、MCP 服务、OCR验证码识别、API多版本兼容、单元集成测试。 | https://github.com/junkai-li/NetCoreKevin  |
 |  8  |  |  |  |
 |  9  |  |  |  |
 |  10  |  |  |  |
