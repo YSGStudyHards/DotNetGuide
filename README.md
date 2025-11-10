@@ -263,7 +263,7 @@
 
 
 ## 🕹C#/.NET/.NET Core学习路线集合
-> **C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity等相关技术的学习、工作路线集合（持续更新）！！！**
+C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity 等相关技术学习、工作路线集合，无论你是 .NET 初学者还是希望进阶的 .NET 开发者，都能在这里找到清晰的学习路线与实用资源。内容将持续更新，助力 .NET 开发者高效掌握技术要点，少走弯路，稳步进阶！
 
 * **C#/.NET/.NET Core学习路线集合地址：** [https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr👉](https://www.yuque.com/ysgstudyhard/lg56l0/ub8s6b0re9h26epr)
 
