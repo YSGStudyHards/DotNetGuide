@@ -45,7 +45,7 @@
 * [🥇C#/.NET/.NET Core开发实战教程](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B)
 * [✋C#/.NET/.NET Core疑难问题答疑](https://github.com/YSGStudyHards/DotNetGuide/issues/23)
 * [📚C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
-* [📺C#/.NET/.NET Core学习视频汇总](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB)
+* [📺C#/.NET/.NET Core学习视频大全]()
 * [🏗️C#/.NET/.NET Core优秀项目框架](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#%EF%B8%8Fcnetnet-core%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6)
 * [🏆C#/.NET/.NET Core技术前沿周刊](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A)
 * [⚔C#/.NET/.NET Core编程技巧练习集](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file#cnetnet-core%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E7%BB%83%E4%B9%A0%E9%9B%86)
@@ -424,10 +424,12 @@
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 
-## 📺C#/.NET/.NET Core学习视频汇总
-收集、汇总网上一些比较好的C#/.NET/.NET Core这方面的学习视频，希望能够帮助到有需要的小伙伴们。当然假如小伙伴们有更好的学习资源视频推荐可以在我的文章下面留言，该篇文章会持续更新同时也欢迎大家一起来完善和贡献自己觉得不错的C#/.NET/.NET Core学习视频资源。
+## 📺C#/.NET/.NET Core学习视频大全
+精选 C#、.NET、.NET Core、Blazor、WPF、WinForm、Avalonia 等核心技术优质学习视频大全，助力 .NET 开发者高效入门与进阶，内容将持续更新同时也欢迎大家一起来完善和贡献自己觉得不错的 C#/.NET/.NET Core 学习视频资源！！！
 
-* [🧀最全面的C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
+> 关注微信公众号《[追逐时光者](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)》回复关键字：《学习视频》获取C#/.NET/.NET Core学习视频大全在线查阅地址。
+
+![C#/.NET/.NET Core学习视频大全](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2481259/o_251110163805_DotNet%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E5%A4%A7%E5%85%A8.png "C#/.NET/.NET Core学习视频大全")
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
