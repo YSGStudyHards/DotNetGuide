@@ -119,8 +119,8 @@
 * [下载本地化的 .NET IntelliSense](https://dotnet.microsoft.com/zh-cn/download/intellisense)
 
 ### Visual Studio
-* [Visual Studio 2026下载](https://visualstudio.microsoft.com/insiders/?rwnlp=zh-hans)
-* [Visual Studio 2022下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
+* [Visual Studio 2026下载](https://visualstudio.microsoft.com/zh-hans/downloads/)
+* [Visual Studio 2022下载](https://learn.microsoft.com/zh-cn/visualstudio/releases/2022/release-history#evergreen-bootstrappers)
 * [Visual Studio for Mac下载](https://visualstudio.microsoft.com/zh-hans/vs/mac/)
 * [Visual Studio常用快捷键](https://mp.weixin.qq.com/s/6Ekqufb4r2VvQGd9TifpEg)
 * [Visual Studio的奇淫技巧](https://mp.weixin.qq.com/s/4vo2OvWdj9fMrKCIKi70Dg)
