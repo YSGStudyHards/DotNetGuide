@@ -627,7 +627,7 @@
 |  32  | [Platform](https://gitee.com/Jesai/platform)  | Platform 是一套基于 .NET + Ant Design Vue 开源（MIT License）、免费的低代码、权限、工作流、动态接口平台。 | https://gitee.com/Jesai/platform |
 |  33  | [AntFlow.NET](https://gitee.com/antswarm/antflowcore) | AntFlow.NET 是一款基于 .NET + Vue + FreeSql + Natasha 编写的仿钉钉的开源（Apache-2.0）低代码工作流引擎，支持多种数据库，让工作流开发像普通 CURD 一样简单，即使没有流程开发经验的程序员也能快速开发流程，效率提升利器。 | https://gitee.com/antswarm/antflowcore |
 |  34  | [Bridge](https://gitee.com/zhengwei1219/bridge) | Bridge 是一个基于 ABP-VNext 开发的用户权限管理系统，集成模块包含：用户权限管理、微信公众号、工作流、定时任务等。 | https://gitee.com/zhengwei1219/bridge |
-|  35  |  |  |  |
+|  35  | [WenAntdUI-Admin](https://gitee.com/AntdUI/wen-antd-ui) | WenAntdUI-Admin 是一个基于 AntdUI 构建、基础、现代化的 WinForm 管理系统，基于 Apache-2.0 License 开源，项目包含：AOT发布、字典管理、用户管理、菜单管理、权限管理、用户设置等功能。内部封装了很多常用组件，包含AdminTable等通用组件。 | https://gitee.com/AntdUI/wen-antd-ui |
 |  36  |  |  |  |
 |  37  |  |  |  |
 |  38  |  |  |  |
