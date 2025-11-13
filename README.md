@@ -70,6 +70,8 @@
 
 
 ## 🏷️优质学习资料收录栈
+* [📝.NET的发展简史](https://www.yuque.com/ysgstudyhard/da6e0c/zvfr2h5wen2l6kz2)
+* [🌟.NET中的新增功能](https://www.yuque.com/ysgstudyhard/da6e0c/hbm1b9h05g5z7qe6)
 * [🥇高质量付费学习课程推荐](https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7)
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [📚.NET应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
