@@ -20,6 +20,60 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2025年
 ## 11月
+### 第 61 期（2025年11.10-11.16）
+#### 大会第一波议题超前剧透｜.NET Conf China 2025 更多精彩等你现场解锁！
+- **文章简介：** 改变世界，改变自己——第七届 .NET 中国峰会 .NET Conf China 2025 将于 11月30日 在上海举办。本次大会将聚焦性能跃升、AI 融合、跨平台开发三大核心方向，为开发者提供实战洞见与未来视野，推动开源技术和社区协作的发展。通过一系列精彩的主题演讲、技术分享，我们希望与与会者共同探讨如何在现代开发中充分利用 .NET 的强大功能，提升开发效率与应用性能。
+- **文章地址：** https://mp.weixin.qq.com/s/HPz7IQohy5faG8OR3TC1bw
+
+#### DotNetGuide 突破了 9.5K + Star，一份全面的C#/.NET/.NET Core学习、工作、面试指南知识库！
+- **文章简介：** DotNetGuide是一个专注于C#/.NET/.NET Core学习、工作、面试指南的 GitHub 知识库，该知识库记录、收集和总结了C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。
+- **文章地址：** https://mp.weixin.qq.com/s/e43W9dqTWnmwI2STQREolw
+
+#### 好消息，.NET 10 正式发布，更智能、更安全、更高性能的统一开发平台！
+- **文章简介：** 好消息，.NET 团队于 2025 11 月 11 日宣布 .NET 10 正式发布，这是迄今为止最高效、最现代、最安全、最智能且性能最高的 .NET 版本。
+- **文章地址：** https://mp.weixin.qq.com/s/FkjY6oyDkEma3OQ0yuqXng
+
+#### 一个基于 .NET 8 + DDD 搭建的模块化微服务框架
+- **文章简介：** NetCoreKevin 是一个基于 .NET 8 + DDD 搭建的模块化微服务框架，其模块化设计使得每个功能都可以独立引用，非常适合大型企业级应用的开发。框架支持IdentityServer4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AI 集成 SemanticKernel、MCP 服务、OCR验证码识别、API多版本兼容、单元集成测试。
+- **文章地址：** https://mp.weixin.qq.com/s/xGM9SLna-ihK1Qe228TRFQ
+
+#### C#/.NET 相关技术栈的学习心得和路线
+- **文章简介：** 双十一当天为了庆祝 [DotNetGuide](https://mp.weixin.qq.com/s/e43W9dqTWnmwI2STQREolw) 在 GitHub 中的 Star 数突破 9.5k+，大姚发起了在评论区留下你学习 C#、.NET、WPF、WinForm、Avalonia 等 .NET 相关技术栈的学习心得和路线（字数不少于 200 字），点赞数前五的小伙伴可以免费领取DotNetGuide编程学院知识星球会员。感谢大家的积极参与和分享，下面一起来揭秘一下获奖的小伙伴（记得微信私聊我邀你进星球），并且一起看看小伙伴们的 C#/.NET 相关技术栈的学习心得和路线。
+- **文章地址：** https://mp.weixin.qq.com/s/Rl9hcbNtU3hHxi_9ShXzEQ
+
+#### 一款简单且漂亮的 WPF UI 组件库，开源免费！
+- **文章简介：** AduSkin 是一个追求极致、永臻完美的 WPF（Windows Presentation Foundation）控件 UI 库，提供了丰富的 UI 控件和美观的界面设计，适用于开发简单漂亮的 WPF 应用程序，基于 GPL-3.0 license 开源免费。
+- **文章地址：** https://mp.weixin.qq.com/s/oNs2MUifMYBj3lZwYN3xcA
+
+#### 宇宙神器.NET 10 发布！C# 14 新特性全解析
+- **文章简介：** 2025 年 11 月 11 日.NET 10（LTS）和 C# 14 正式发布！ 作为长期支持版本（LTS），.NET 10 的支持周期将持续到 2028 年 11 月 14 日。  本文将以“代码为主导”的方式，带你快速了解本次在运行时、语言特性、ASP.NET Core 和 EF Core 方面的关键更新。
+- **文章地址：** https://mp.weixin.qq.com/s/SKnLajdrusVrIad8tP9CtA
+
+#### .NET10 新版本前瞻：C# 扩展成员、空条件赋值等重磅特性解析
+- **文章简介：** 不久之后，.NET 的新版本即将发布，让我们先睹为快，看看它将包含哪些新功能。
+- **文章地址：** https://mp.weixin.qq.com/s/5kGceaQN0RWvxoEY4DSpWA
+
+#### 一个基于 .NET WPF 开源的本地硬盘千万级图库以图搜图小工具！
+- **文章简介：** ImageSearch 是一个基于 .NET WPF 开源、免费（MIT license）、轻量的本地硬盘千万级图库以图搜图小工具，该项目灵感来源于市面上的重复文件、目录查找与清理的系统工具 DuplicateCleaner。
+- **文章地址：** https://mp.weixin.qq.com/s/iRDW0KvDDBT5x9lotbR_2Q
+
+#### 几款开源且功能丰富的 WinForm UI 控件库
+- **文章简介：** WinForm（Windows Forms）是微软.NET Framework平台上的桌面应用程序开发技术，主要用于创建Windows平台的图形用户界面（GUI）程序。
+- **文章地址：** https://mp.weixin.qq.com/s/dgpZk3I97Ff2ZpRJfuZR0w
+
+#### 一种更安全、可控的 EF Core 自动迁移方案：模块化架构下的工程化实践
+- **文章简介：** 在现代应用开发中，数据库迁移已经成为不可或缺的工程环节。特别是在 模块化架构、分布式系统、多团队协作 的背景下，传统 EF Core 迁移虽然足够灵活，但在工程化落地方面仍存在一些现实挑战。
+- **文章地址：** https://www.cnblogs.com/daibitx/p/19229309
+
+#### 从 .NET Core1.0 到 .NET 10：.NET + C# 演进全景
+- **文章简介：** 本文回顾微软 .NET 与 C# 语言从跨平台起步到统一平台、再到现代化性能优化的全过程。每个版本都配有简明 Demo 代码，便于开发者快速掌握特性变化与实践。
+- **文章地址：** https://www.cnblogs.com/chenyishi/p/19219260
+
+#### .NET 10性能突破：持续优化才是质变关键
+- **文章简介：** 2025年11月12日，微软在.NET Conf 2025正式发布了.NET 10。 作为一个长期支持（LTS）版本，它将获得为期三年的官方安全补丁与服务支持，直至 2028 年 11 月 10 日， 官方称其为“迄今为止最高效、最现代、最安全、最智能、性能最高的 .NET 版本”。让我们一起来看看.NET 10 的性能相对于上一代版本 .NET 9 有哪些地方的提高吧。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19214674
+
+
 ### 第 60 期（2025年11.1-11.9）
 #### C#/.NET/.NET Core优秀项目和框架2025年10月简报
 - **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。
