@@ -2209,7 +2209,7 @@
 |  7  | [DMSkin](https://github.com/944095635/DMSkin) | DMSkin WPF 样式 UI 框架 、WPF Borderless Window 、 Custom Controls & Styles 、 MVVM Support。 | https://github.com/944095635/DMSkin |
 |  8  | [HandyControl](https://github.com/handyOrg/HandyControl) | HandyControl是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件（正逐步增加）。 | https://github.com/handyOrg/HandyControl |
 |  9  | [Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI) | Panuon.WPF.UI 是一个开源的WPF UI 控件库，它提供了丰富的可重用的UI控件和样式，简化了WPF应用程序的开发过程。 | https://github.com/Panuon/Panuon.WPF.UI |
-|  10 | [AduSkin](https://github.com/aduskin/AduSkin) | 一款简单漂亮的WPF UI，融合多个开源框架组件，为个人定制的UI，可供学者参考和使用。 | https://github.com/aduskin/AduSkin |
+|  10 | [AduSkin](https://github.com/aduskin/AduSkin) | AduSkin 是一个追求极致、永臻完美的 WPF（Windows Presentation Foundation）控件 UI 库，提供了丰富的 UI 控件和美观的界面设计，适用于开发简单漂亮的 WPF 应用程序，基于 GPL-3.0 license 开源免费。 | https://github.com/aduskin/AduSkin |
 |  11 | [CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI) | CookPopularUI 是一款开源免费（MIT License）、组件丰富的 WPF UI 控件库，提供了 100 多款常用控件，同时支持 .NET 4.6.2+、.NET Core 3.1、.NET 6.0+。 | https://gitee.com/CookCSharp/CookPopularUI |
 |  12 | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | Fluent.Ribbon 是一个库，用于为 Windows Presentation Foundation （WPF） 实现类似 Office 的用户界面。它提供了 RibbonTabControl、Backstage、Gallery、QuickAccessToolbar、ScreenTip 等控件。 | https://github.com/fluentribbon/Fluent.Ribbon |
 |  13 | [WpfOfficeTheme](https://github.com/TanyaPristupova/WpfOfficeTheme) | 一款开源的Office风格的WPF主题。 | https://github.com/TanyaPristupova/WpfOfficeTheme |
