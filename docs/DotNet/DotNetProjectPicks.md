@@ -339,7 +339,7 @@
 |  9  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
 |  10  | [AntSK](https://github.com/AIDotNet/AntSK)  | 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据。  | https://github.com/AIDotNet/AntSK |
 |  11  | [OllamaSharp](https://github.com/awaescher/OllamaSharp) | OllamaSharp旨在通过提供.NET绑定，使得开发者能够轻松地在.NET应用程序中使用Ollama API。简化了 .NET 与 Ollama 的本地和远程交互。 | https://github.com/awaescher/OllamaSharp |
-|  12  |  |  |  |
+|  12  | [agent-framework](https://github.com/microsoft/agent-framework) | agent-framework 是一个用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。 | https://github.com/microsoft/agent-framework |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
