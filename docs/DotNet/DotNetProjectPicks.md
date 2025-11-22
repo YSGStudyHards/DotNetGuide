@@ -1610,10 +1610,15 @@
 |  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 | https://github.com/Klocman/Bulk-Crap-Uninstaller |
 |  30  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 | https://github.com/x-nas/WinsockPacketEditor |
 |  31  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence |
-|  32  |  |  |  |
+|  32  | [better-genshin-impact](https://github.com/babalae/better-genshin-impact) | better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。 | https://github.com/babalae/better-genshin-impact |
 |  33  |  |  |  |
 |  34  |  |  |  |
 |  35  |  |  |  |
+|  36  |  |  |  |
+|  37  |  |  |  |
+|  38  |  |  |  |
+|  39  |  |  |  |
+|  40  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
