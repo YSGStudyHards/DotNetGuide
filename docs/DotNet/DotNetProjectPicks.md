@@ -1111,7 +1111,7 @@
 |  3  | [Apollo ERP](https://gitee.com/aerphouse/ApolloERP) | Apollo ERP是一款.NET开源（MIT License）、免费的基于O2O新零售的互联网养车连锁平台开发框架，类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、洗车等汽车后市场连锁企业。 | https://gitee.com/aerphouse/ApolloERP |
 |  4  | [蜀味正道](https://gitee.com/kbzapp/foodApp) | 蜀味正道是一款基于 .NET 开源、美观、全面高效的桌面端餐饮管理系统，该系统是专门针对餐饮行业开发的桌面应用程序，旨在提供高效、便捷的餐饮管理服务。 | https://gitee.com/kbzapp/foodApp |
 |  5  | [Viper](https://github.com/duyanming/Viper) | Viper 是一个基于 Anno.Core 微服务引擎开发的 Dashboard 项目、示例项目。 | https://github.com/duyanming/Viper |
-|  6  |  |  |  |
+|  6  | [WPFUIDemo](https://gitee.com/zhang-sleepyhead/WPFUIDemo) | WPFUIDemo 是一个专注于 WPF（Windows Presentation Foundation）用户界面设计与开发的示例项目。该项目旨在为开发者提供一个全面、实用的参考范例，帮助他们快速掌握 WPF 应用开发的核心技巧和最佳实践，提升开发效率与界面设计水平。通过丰富的功能模块和代码示例，开发者可以深入了解 WPF 的强大特性，并将其灵活应用于实际项目中。 | https://gitee.com/zhang-sleepyhead/WPFUIDemo |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
