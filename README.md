@@ -780,6 +780,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 * [微服务：从设计到部署](https://github.com/DocsHome/microservices)
 * [浅谈6种流行的API架构风格](https://mp.weixin.qq.com/s/HXi2SBQcjjAk-WExmiXyCA)
+* [一个值得推荐的图解系统设计学习知识库](https://github.com/ByteByteGoHq/system-design-101)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
