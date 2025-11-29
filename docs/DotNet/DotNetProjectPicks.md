@@ -328,21 +328,24 @@
 #### AI和LLM框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [LangChain .NET](https://github.com/tryAGI/LangChain) | 一个开源、免费的C#版本的LangChain，尽可能保持与原始版本相似的抽象，同时开放新实体和第三方库的使用。 | https://github.com/tryAGI/LangChain |
+|  1  | [agent-framework](https://github.com/microsoft/agent-framework) | Microsoft Agent Framework 是一个面向 .NET 和 Python 的开源开发套件，用于构建 AI 智能体及多智能体工作流。它融合并扩展了 Semantic Kernel 与 AutoGen 项目的核心理念，在结合两者优势的基础上，进一步引入了全新能力。该框架由原班团队打造，将成为未来构建 AI 智能体的统一基础平台。 | https://github.com/microsoft/agent-framework |
 |  2  | [Kernel Memory](https://github.com/microsoft/kernel-memory) | Kernel Memory（KM）是一种多模态AI服务，RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。 | https://github.com/microsoft/kernel-memory |
-|  3  | [openai-dotnet](https://github.com/openai/openai-dotnet) | 一个适用于 .NET 稳定的官方OpenAI库，旨在为 .NET 开发者提供方便的接口来访问 OpenAI 的 REST API。  | https://github.com/openai/openai-dotnet |
-|  4  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen是一个开源编程框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
-|  5  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
-|  6  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
-|  7  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
-|  8  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问（非官方）。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
-|  9  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
-|  10  | [AntSK](https://github.com/AIDotNet/AntSK)  | 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据。  | https://github.com/AIDotNet/AntSK |
-|  11  | [OllamaSharp](https://github.com/awaescher/OllamaSharp) | OllamaSharp旨在通过提供.NET绑定，使得开发者能够轻松地在.NET应用程序中使用Ollama API。简化了 .NET 与 Ollama 的本地和远程交互。 | https://github.com/awaescher/OllamaSharp |
-|  12  | [agent-framework](https://github.com/microsoft/agent-framework) | agent-framework 是一个用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。 | https://github.com/microsoft/agent-framework |
+|  3  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Semantic Kernel 是一个开源的软件开发工具包（SDK），旨在将大型语言模型（LLM）如OpenAI、Azure OpenAI和Hugging Face与传统的编程语言如C#、Python和Java集成。这个项目通过提供插件系统，允许开发者轻松地创建能够调用这些大型语言模型的应用程序。 | https://github.com/microsoft/semantic-kernel |
+|  4  | [AutoGen](https://github.com/microsoft/autogen) | AutoGen 是一个开源编程框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。 | https://github.com/microsoft/autogen |
+|  5  | [BotSharp](https://github.com/SciSharp/BotSharp) | BotSharp 是一个面向企业级 LLM 应用的开源 AI 框架，旨在促进智能机器人助手在面向业务系统中的开发和应用。该项目涉及自然语言理解、计算机视觉和音频处理技术，并旨在推动智能机器人助手在企业级系统中的开发和应用。BotSharp 提供了开箱即用的机器学习算法，使普通程序员能够更快、更轻松地开发人工智能应用程序。 | https://github.com/SciSharp/BotSharp |
+|  6  | [LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp 是一个跨平台库，用于在本地设备上运行LLaMA/LLaVA模型（以及其他模型）。它基于llama.cpp，能够在CPU和GPU上高效进行推理。通过提供高级API和RAG支持，LLamaSharp使得在应用程序中部署大型语言模型（LLM）变得方便。 | https://github.com/SciSharp/LLamaSharp |
+|  7  | [AntSK](https://github.com/AIDotNet/AntSK)  | AntSK 是一个基于 .NET 9 和 Blazor 技术栈构建的企业级AI知识库和智能体平台，集成了 Semantic Kernel 和 Kernel Memory，提供完整的AI应用开发解决方案。  | https://github.com/AIDotNet/AntSK |
+|  8  | [OllamaSharp](https://github.com/awaescher/OllamaSharp) | OllamaSharp 旨在通过提供.NET绑定，使得开发者能够轻松地在.NET应用程序中使用Ollama API。简化了 .NET 与 Ollama 的本地和远程交互。 | https://github.com/awaescher/OllamaSharp |
+|  9  | [LangChain .NET](https://github.com/tryAGI/LangChain) | LangChain .NET 一个开源、免费的 C# 版本的LangChain，尽可能保持与原始版本相似的抽象，同时开放新实体和第三方库的使用。旨在通过组合性构建基于大型语言模型（LLMs）的应用程序。 | https://github.com/tryAGI/LangChain |
+|  10  | [Betalgo.OpenAI](https://github.com/betalgo/openai) | OpenAI .NET SDK其中包括了Azure OpenAI、ChatGPT、Whisper 和 DALL-E。 | https://github.com/betalgo/openai |
+|  11  | [OpenAI DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet)| 一个简单的.NET客户端库，用于通过OpenAI的RESTful API进行访问（非官方）。 | https://github.com/RageAgainstThePixel/OpenAI-DotNet |
+|  12 | [openai-dotnet](https://github.com/openai/openai-dotnet) | 一个适用于 .NET 稳定的官方OpenAI库，旨在为 .NET 开发者提供方便的接口来访问 OpenAI 的 REST API。  | https://github.com/openai/openai-dotnet |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
+|  16  |  |  |  |
+|  17  |  |  |  |
+|  18  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
