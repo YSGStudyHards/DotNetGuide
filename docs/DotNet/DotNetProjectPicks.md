@@ -2224,7 +2224,7 @@
 |  17 | [Extended.Wpf.Toolkit](https://github.com/xceedsoftware/wpftoolkit) | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，专为打造新一代 Windows 应用程序而设计。它能帮助开发者构建经典且外观专业的 WPF 应用程序，对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 | https://github.com/xceedsoftware/wpftoolkit |
 |  18 | [WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | WPF-ControlBase 是一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库。 | https://github.com/HeBianGu/WPF-ControlBase |
 |  19 | [Rubyer WPF](https://gitee.com/wuyanxin1028/rubyer-wpf) | Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包，支持目标框架 .NET Framework 4.6、.NET Core 3.1、.NET 6、 .NET 8、.NET 9。 | https://gitee.com/wuyanxin1028/rubyer-wpf |
-|  20 |  |  |  |
+|  20 | [DataGridFilter](https://github.com/macgile/DataGridFilter) | DataGridFilter 是一款开源（MIT License）、多语言的 WPF 可筛选 DataGrid 控件，旨在通过轻量级集成帮助开发者快速构建高效、灵活的数据展示管理界面。 | https://github.com/macgile/DataGridFilter |
 |  21 |  |  |  |
 |  22 |  |  |  |
 |  23 |  |  |  |
