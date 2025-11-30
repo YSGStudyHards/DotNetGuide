@@ -12,6 +12,71 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 11月
+### 公众号11月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年11月简报：** 
+
+### STNodeEditor
+* **项目简介：** STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。
+* **项目源码地址：** https://github.com/DebugST/STNodeEditor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fMG3iAu1Y0Fkmf6d-fcgiA
+
+### WenAntdUI-Admin
+* **项目简介：** WenAntdUI-Admin 是一个基于 AntdUI 构建、基础、现代化的 WinForm 管理系统，基于 Apache-2.0 License 开源，项目包含：AOT发布、字典管理、用户管理、菜单管理、权限管理、用户设置等功能。内部封装了很多常用组件，包含AdminTable等通用组件。
+* **项目源码地址：** https://gitee.com/AntdUI/wen-antd-ui
+* **项目详细介绍：** https://mp.weixin.qq.com/s/VTBcoZZ2mNyuyV_s4fzsPA
+
+### NetCoreKevin
+* **项目简介：** NetCoreKevin 是一个基于 .NET 8 + DDD 搭建的模块化微服务框架，其模块化设计使得每个功能都可以独立引用，非常适合大型企业级应用的开发。框架支持IdentityServer4单点登录、多缓存、自动任务、分布式、一库多租户、日志、授权和鉴权、CAP集成事件、SignalR、领域事件、ESL、MCP协议服务、IOC模块化注入、Cors、Quartz自动任务、多短信集成、AI智能体、AI 集成 SemanticKernel、MCP 服务、OCR验证码识别、API多版本兼容、单元集成测试。
+* **项目源码地址：** https://github.com/junkai-li/NetCoreKevin
+* **项目详细介绍：** https://mp.weixin.qq.com/s/xGM9SLna-ihK1Qe228TRFQ
+
+### ImageSearch
+* **项目简介：** ImageSearch 是一个基于 .NET WPF 开源、免费（MIT license）、轻量的本地硬盘千万级图库以图搜图小工具，该项目灵感来源于市面上的重复文件、目录查找与清理的系统工具 DuplicateCleaner。
+* **项目源码地址：** https://github.com/ldqk/ImageSearch
+* **项目详细介绍：** https://mp.weixin.qq.com/s/iRDW0KvDDBT5x9lotbR_2Q
+
+### better-genshin-impact
+* **项目简介：** better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。
+* **项目源码地址：** https://github.com/babalae/better-genshin-impact
+* **项目详细介绍：** https://mp.weixin.qq.com/s/wZ4d9baOO2RXsb6VCdSxHQ
+
+### DataGridFilter
+* **项目简介：** DataGridFilter 是一款开源（MIT License）、多语言的 WPF 可筛选 DataGrid 控件，旨在通过轻量级集成帮助开发者快速构建高效、灵活的数据展示管理界面。
+* **项目源码地址：** https://github.com/macgile/DataGridFilter
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zrU7sivEvJrU090TF6TN3w
+
+### Microsoft Agent Framework
+* **项目简介：** Microsoft Agent Framework 是一个面向 .NET 和 Python 的开源开发套件，用于构建 AI 智能体及多智能体工作流。它融合并扩展了 Semantic Kernel 与 AutoGen 项目的核心理念，在结合两者优势的基础上，进一步引入了全新能力。该框架由原班团队打造，将成为未来构建 AI 智能体的统一基础平台。
+* **项目源码地址：** https://github.com/microsoft/agent-framework
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA
+
+### AutoGen
+* **项目简介：** AutoGen 是一个开源编程框架，它通过多个代理进行对话以解决任务，从而实现 LLM 应用的开发。AutoGen 代理可定制、可对话，并且能够无缝地允许人类参与。它们可以在不同的模式下运行，使用 LLM、人类输入和工具的组合。
+* **项目源码地址：** https://github.com/microsoft/autogen
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA
+
+### Kernel Memory
+* **项目简介：** Kernel Memory（KM）是一种多模态AI服务，RAG 架构，使用 LLM 和自然语言索引和查询任何数据、跟踪来源、显示引用、异步内存模式。该存储库提供了特定 AI 和 LLMs 应用场景中内存的最佳实践和参考架构。
+* **项目源码地址：** https://github.com/microsoft/kernel-memory
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA
+
+### AntSK
+* **项目简介：** AntSK 是一个基于 .NET 9 和 Blazor 技术栈构建的企业级AI知识库和智能体平台，集成了 Semantic Kernel 和 Kernel Memory，提供完整的AI应用开发解决方案。
+* **项目源码地址：** https://github.com/AIDotNet/AntSK
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA
+
+### OllamaSharp
+* **项目简介：** OllamaSharp 旨在通过提供.NET绑定，使得开发者能够轻松地在.NET应用程序中使用Ollama API。简化了 .NET 与 Ollama 的本地和远程交互。
+* **项目源码地址：** https://github.com/awaescher/OllamaSharp
+* **项目详细介绍：** https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA
+
+### WPFUIDemo
+* **项目简介：** WPFUIDemo 是一个专注于 WPF（Windows Presentation Foundation）用户界面设计与开发的示例项目。该项目旨在为开发者提供一个全面、实用的参考范例，帮助他们快速掌握 WPF 应用开发的核心技巧和最佳实践，提升开发效率与界面设计水平。通过丰富的功能模块和代码示例，开发者可以深入了解 WPF 的强大特性，并将其灵活应用于实际项目中。
+* **项目源码地址：** https://gitee.com/zhang-sleepyhead/WPFUIDemo
+* **项目详细介绍：** https://mp.weixin.qq.com/s/15oTrGmLzGl4AAUV6maIgw
+
+
 ## 10月
 ### 公众号10月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年10月简报：** https://mp.weixin.qq.com/s/DB1UBuiS2BvZjf7VlH0_MQ
