@@ -14,7 +14,7 @@
 # 2025年
 ## 11月
 ### 公众号11月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年11月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年11月简报：** https://mp.weixin.qq.com/s/FVrkrvqPYiVjOyPgZK9HRg
 
 ### STNodeEditor
 * **项目简介：** STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。
