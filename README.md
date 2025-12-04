@@ -183,6 +183,7 @@
 * [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表](https://mp.weixin.qq.com/s/OXNjmjC2xvaoAln2NkrwgA)
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 * [Zread：智谱AI推出的 Github 项目阅读神器，一键生成超详细中文文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
+* [一个免费且实用的 GitHub 工具，可将 GitHub 的 README 翻译成多种语言！](https://mp.weixin.qq.com/s/UDmh8oFYYktQeQ5iCKeuBA)
 
 ### Git管理工具
 * [GitHub Desktop使用教程](https://docs.github.com/zh/desktop)
