@@ -573,8 +573,10 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Doubao Seedream 4.0 爆火：多图融合 + 多样玩法，解锁 AI 图像创作新境界！](https://mp.weixin.qq.com/s/FWOLXAgeWfiwD6-KRpNO4A)
 
 ### AI提示词大全
+* [LangGPT 结构化提示词知识库](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
 * [2025年最好的AI提示词合集：ChatGPT、Claude、Gemini 提示词大全](https://github.com/holmquistc407/ai-tishici)
+* [Prompt Optimizer：一款开源免费、功能强大的 AI 提示词优化神器](https://mp.weixin.qq.com/s/_98HOWPaFvHXb8dU8EtTVw)
 * [PromptPilot：一款由字节跳动推出的AI提示词优化, 提示词生成实用工具](https://promptpilot.volcengine.com/home)
 * [WayToAGI：精选高效的AI提示词库，助力创作者和开发者解锁人工智能的潜力](https://www.waytoagi.com/zh/prompts)
 * [PromptHub提供免费AI提示词大全，包含ChatGPT、Claude、Midjourney等主流AI工具的优质提示词模板](https://www.prompthub.xin/)
