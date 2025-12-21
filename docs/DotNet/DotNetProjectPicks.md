@@ -2252,7 +2252,7 @@
 |  9  | [XiaoCai.WinformUI](https://github.com/aganqin/XiaoCai.WinformUI) | XiaoCai.WinformUI 主要是解决用户界面和布局的套件，能够快速进行合理性布局，美化用户界面。 | https://github.com/aganqin/XiaoCai.WinformUI |
 |  10  | [winforms-modernui](https://github.com/peters/winforms-modernui) | winforms-modernui 项目是一个将Windows 8的现代UI（Metro UI）风格引入到.NET Windows Forms应用程序中的开源项目，通过MetroFramework库提供丰富的现代UI控件和组件。 | https://github.com/peters/winforms-modernui |
 |  11  | [CxFlatUI](https://github.com/HuJinguang/CxFlatUI) | CxFlatUI 是一款开源（Apache License）、现代化的 WinForm UI 控件库，值得大家参考学习使用。 | https://github.com/HuJinguang/CxFlatUI |
-|  12  |  |  |  |
+|  12  | [PowerLib](https://github.com/muxiang/PowerLib) | PowerLib 是一个开源、简单的 WinForm UI 界面库。 | https://github.com/muxiang/PowerLib |
 |  13  |  |  |  |
 |  14  |  |  |  |
 |  15  |  |  |  |
