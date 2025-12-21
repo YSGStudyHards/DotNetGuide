@@ -19,6 +19,129 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2025年
+## 12月
+### 第 64 期（2025年12.1-12.21）
+#### 精选 8 个 .NET 开发实用的类库，效率提升利器！
+- **文章简介：** 精选 8 个 .NET 开发实用的类库，.NET 开发效率提升利器！
+- **文章地址：** https://mp.weixin.qq.com/s/hzHCwM3BaUyZO9HCqODIEQ
+
+#### Visual Studio 2026 正式版下载与安装详细教程（附带产品密钥）！
+- **文章简介：** 最近发现很多小伙伴反馈 Visual Studio 2026 安装占用磁盘空间较大，今天大姚出一期 Visual Studio 2026 正式版下载与安装详细教程，我们可以通过仅选择所需的工作负荷、组件、语言包来节省安装时间和磁盘空间，希望可以帮助到有需要的小伙伴！
+- **文章地址：** https://mp.weixin.qq.com/s/wbZiTPjhKlFOeU3MgIbq0A
+
+#### 一个 .NET 开源免费、功能强大的 UI 自动化库
+- **文章简介：** FlaUI 是一个 .NET 开源免费（MIT license）、功能强大 的 UI 自动化库，专为 Windows 桌面应用程序（如 Win32、WinForms、WPF、Store Apps 等应用）的自动化测试而设计。该项目基于 Microsoft 的原生 UI Automation 库构建，并作为这些库的封装器，提供了丰富的功能和灵活的 API，以便开发者能够高效地编写自动化测试脚本。
+- **文章地址：** https://mp.weixin.qq.com/s/PE4S-fUyeG7U8Z78NYu6Rw
+
+#### Newtonsoft.Json 与 System.Text.Json 多态反序列化的安全性差异解析
+- **文章简介：** 多态反序列化是处理继承结构对象序列化的常见需求，但不同 JSON 序列化库的实现机制差异会带来显著的安全风险。微软 CA2326 规则明确警示：避免使用非安全的 JsonSerializerSettings 配置（如 Newtonsoft.Json 的 TypeNameHandling 非 None 值），否则可能引发类型注入攻击。本文将对比 Newtonsoft.Json 与 System.Text.Json 在多态反序列化中的实现差异，重点分析安全性问题，并通过代码实例验证两者的安全表现。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19366736
+
+#### .NET 和 .NET Framework 2025 年 12 月服务发布更新
+- **文章简介：** 欢迎来到我们 2025 年 12 月的联合.NET 服务更新。让我们进入.NET 和.NET Framework 的最新版本，这里简要介绍一下我们服务版本中的新内容。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/
+
+#### 如何构建带有.NET MAUI 的 iOS 小部件
+- **文章简介：** 我是一名.NET 开发者，主要专注于.NET MAUI 到 ASP.NET 后端服务。因为我最近大量接触小部件，遇到了许多障碍和极其有限的文档，我决定写这篇文章，展示用 .NET MAUI 构建完整小部件是完全可能的。而且还能以类似原生开发环境的专业方式完成，不用担心每次新构建或更新都会让一切崩溃。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui
+
+#### .NET 10 网络改进
+- **文章简介：** 和每次版本一样，我们会发布一篇关于.NET 网络领域新颖有趣变化和新增内容的博客文章。这次，我们将讨论 HTTP 改进、新的 Web 套接字 API、 安全变更以及许多网络原语的独特新增内容。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/
+
+#### 分享 4 款基于 C# 编写、实用、开源的 Visual Studio 扩展插件
+- **文章简介：** EFCore.Visualizer 是一款可以直接在 Visual Studio 中查看 EF Core 查询计划调试器可视化工具（帮助开发者分析和优化数据库查询性能），目前，该可视化工具支持 SQL Server、PostgreSQL、SQLite、MySQL 和 Oracle。
+- **文章地址：** https://mp.weixin.qq.com/s/DTX-UAZhle9dxnD4MjebCw
+
+#### 完美复刻！一个基于 C# 和 WPF 开源的网易云音乐客户端
+- **文章简介：** MusicApp 是一个基于 C# 和 WPF 技术开发的模仿网易云音乐界面的音乐应用项目。该项目旨在通过实践学习 WPF 开发，非常适合 WPF 入门学习者作为入门参考项目，本项目已实现基本音乐播放功能。
+- **文章地址：** https://mp.weixin.qq.com/s/CIWd7qx-S95Xv02pZCBpgw
+
+#### 一款基于 .NET 和 Quartz.NET 开源的任务调度 Web 界面管理
+- **文章简介：** quartzui 是一款基于 Quartz.NET 3.0（后升级至3.2.4）的任务调度 Web 界面管理工具，专为简化任务调度管理而设计。该项目支持通过 Web 界面进行任务调度配置、监控及管理，极大地提高了任务调度的便捷性和效率。
+- **文章地址：** https://mp.weixin.qq.com/s/qByA7G0EFVY0S2J5l9in1A
+
+#### 一个 WPF 开源、免费的 SVG 图像查看控件
+- **文章简介：** SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。
+- **文章地址：** https://mp.weixin.qq.com/s/69x0B6jhYja58Ze0NSi9ew
+
+#### 一个基于 .NET + Vue3 开源、免费、精美的通用业务型后台管理系统
+- **文章简介：** SimpleAdmin 是一个基于 .NET + Vue3 开发的通用业务型后台管理系统，适用于各类需要后台管理功能的企业级应用、网站后台、数据监控平台等场景。它提供了丰富的功能模块和精美的用户界面，能够帮助开发者快速搭建起稳定、高效的后台管理系统，提升开发效率和管理水平。
+- **文章地址：** https://mp.weixin.qq.com/s/QV2B3et6Df9FrU3RzYDWrQ
+
+#### 精选 6 款开源的 WinForm UI 控件库，轻松让你的老牌 WinForm 应用焕然一新！
+- **文章简介：** 今天大姚给大家分享 6 款开源的 WinForm UI 控件库，轻松让你的老牌 WinForm 应用焕然一新！
+- **文章地址：** https://mp.weixin.qq.com/s/l4ccmjKzodcwhxYDRTdukg
+
+#### 全面支持国产化！C# 开源跨平台 UI 框架，支持 Windows、Mac、Linux
+- **文章简介：** CPF（Cross-Platform Framework） 是一款基于 C# 开发的开源跨平台 UI 框架，专注于国产化适配与全平台支持（Windows/macOS/Linux）。项目采用模块化设计，提供高性能的渲染引擎与丰富的控件库，旨在解决国产操作系统生态中缺乏成熟 C# UI 解决方案的痛点，同时兼容主流国际平台。
+- **文章地址：** https://mp.weixin.qq.com/s/qbmUS5gT1be6ZWpYm0FRPw
+
+#### 一个基于 .NET 开源、高性能、可扩展的套接字服务器应用程序框架
+- **文章简介：** SuperSocket 是一个用于 .NET 的高性能、可扩展的套接字服务器应用程序框架。它为开发者提供了构建自定义网络通信应用程序的强大架构，支持包括 TCP、UDP 和 WebSocket 在内的多种协议。
+- **文章地址：** https://mp.weixin.qq.com/s/oNA-dDh80e-WI__9Itf2JA
+
+#### C#AI系列(7):从零开始LLM之Tokenizer实现
+- **文章简介：** LLM只做一个事情，就是吃掉token吐出token，token是LLM（大语言模型）的基本元素。token与LLM的关系，相当于乐高积木与乐高工厂，我的世界方块与我的世界游戏。那么token到底是什么呢？有人翻译成令牌，有人翻译成词源。我们不妨换个概念理解，token就是最小操作、最小信息单元的意思。这个最小是相对于LLM要处理的原始文本来说的。举个栗子，当一个句子文本输入到电脑中，天然就就具有字符级别的切分。如果不打算继续拆分或组合，我们可以通过一个映射关系，将现有这些字符转换为整数数组，称为编码过程。编码后数组内的元素就是token，元素取值就等于token取值。LLM可以吃掉这个token数组，并吐出新数组。对这个新数组按前前述的映射进行逆转换，称为解码过程。解码后我们就能得到人类可以理解的文本了。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19378939
+
+#### .NET10 New feature 新增功能介绍-JIT编译器改进
+- **文章简介：** 首先.NET10是一个LTS版本，微软官方支持3年，所以作为最新的主力版本，可以尽快升级使用。今天我们详细介绍一下.NET 10的一些新功能-JIT编译器改进。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19378803
+
+#### .Net通过EFCore和仓储模式实现统一数据权限管控并且相关权限配置动态生成
+- **文章简介：** .Net通过EFCore和仓储模式实现统一数据权限管控并且相关权限配置动态生成。
+- **文章地址：** https://www.cnblogs.com/net-kevin-li/p/19368351
+
+#### OpenCVSharp：HOG行人检测
+- **文章简介：** HOG行人检测是一种基于方向梯度直方图特征的计算机视觉目标检测技术，它通过计算图像局部区域的梯度方向直方图来描述目标的外观形状特征。该算法首先将图像分割为小的连通区域（细胞单元），计算每个单元内像素的梯度方向并生成直方图，然后将相邻的细胞单元组合成块并对块内的直方图进行归一化处理，最终形成能够有效描述行人轮廓和形状的特征向量。这些特征向量被输入到预先训练好的SVM分类器中，判断图像区域是否包含行人，并通过多尺度扫描策略在不同大小的窗口中搜索目标，从而实现对图像中行人的准确检测和定位。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19365183
+
+#### OpenCVSharp：学习人脸检测例子
+- **文章简介：** OpenCVSharp关于人脸检测提供了两个例子，一个是使用级联分类器另一个是使用DNN模型。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19363129
+
+#### Aspire 13：从.NET 编排工具到真正的多语言云原生应用平台
+- **文章简介：** Aspire 13 的发布标志着微软云原生开发工具链的一个决定性转折点。通过正式去除 ".NET" 前缀并更名为 "Aspire"，该平台已从一个以.NET 为中心的编排器演变为一个广泛的、多语言通用的应用平台 1。这一战略转变的核心在于将 Python 和 JavaScript (Node.js) 提升为与.NET 同等的一等公民，彻底解决了现代分布式系统开发中跨语言协作的碎片化痛点 2。本文将深入剖析 Aspire 13 的架构变革，重点阐述其如何通过标准化的 "AppHost" 模型来统一管理异构微服务的生命周期。我们将详细探讨新增的 Aspire.Hosting.Python 包及其对 Python 生态系统（如 uv 包管理器、ASGI 标准、虚拟环境）的深度集成；分析基于 OpenTelemetry (OTLP) 的统一可观测性架构如何消除语言间的监控壁垒；并揭示 Aspire 13 如何通过智能化的环境变量注入和自动化的 Dockerfile 生成，重塑了从本地开发到生产部署的完整工作流 1。此外，本文还将审视这一版本对底层基础设施的要求，包括对.NET 10 SDK 的依赖以及全新的生命周期管理工具 aspire do 的引入 2。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19360467
+
+#### 用 .NET 最小化 API 构建高性能 API
+- **文章简介：** 在当今快速发展的应用开发领域，构建快速、可扩展且可维护的API已成为现代应用的关键要求。随着.NET技术的不断演进，微软推出了最小化API(Minimal APIs)这一创新架构，旨在简化API开发流程同时显著提升性能。最小化API通过减少模板代码、优化启动时间，让开发者能够专注于业务逻辑而非框架复杂性，为构建高性能API提供了全新的解决方案。本文将深入探讨如何利用.NET中的最小化API架构构建高性能API，通过简洁的代码示例和实用建议，帮助开发者掌握这一现代API开发方法。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19360421
+
+#### 2025年 WebTransport 生态深度研究：JavaScript 客户端与.NET 10 SignalR 的演进与融合
+- **文章简介：** 在实时网络通信领域，2025年标志着从传统的基于 TCP 的 WebSocket 协议向基于 UDP 和 QUIC 的下一代传输协议——WebTransport 的关键转型期。本报告旨在针对 WebTransport 在 JavaScript 客户端生态系统中的支持现状，以及微软.NET 10 框架下 ASP.NET Core SignalR 对该协议的服务端实现能力，进行详尽的基准测试与架构分析。研究显示，截至 2025 年第四季度，WebTransport 的生态呈现出显著的“两极分化”特征。在客户端方面，以 Chrome 和 Firefox 为代表的浏览器阵营已经实现了高度成熟且稳定的支持，不仅完全遵循 W3C 标准，更在流控制和拥塞管理上表现优异；然而，Apple 的 WebKit 内核（Safari）依旧是普及的最大阻碍，仅在实验性版本中有限度开放。在服务端方面，随着.NET 10 的发布，ASP.NET Core SignalR 将 WebTransport 从“实验性预览”正式推进至“生产就绪”阶段，尽管其对底层操作系统（如 Windows Server 2022/2025 和特定 Linux 发行版）的依赖依然构成了部署门槛。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19355053
+
+#### OpenCVSharp：了解几种特征检测
+- **文章简介：** 前面已经介绍过了OpenCVSharp中封装的几个特征检测算法，其实里面还有很多特征检测算法，不再一篇一篇地介绍了，其它的都放在这一篇，简单过一下，有点印象即可。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19352075
+
+#### C#AI系列(6): C#离线实现高效OCR 
+- **文章简介：** 实现OCR，我们直接从Tesseract（Apache 2.0，star 71.4K）开始。Tesseract 是目前最活跃、最精确的开源 OCR（光学字符识别）引擎之一，由 Google 维护。它能把图片中的印刷或手写文字转换成可编辑的纯文本、PDF、HTML 等多种格式，支持包括中文等 100 多种语言。Tesseract 4 以后引入基于深度学习的 LSTM 神经网络模型，对整行文字进行识别，准确率大幅提升。
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19346320
+
+#### OpenCVSharp：学习连通性检测的使用
+- **文章简介：** 连通性检测是计算机视觉中的一种基础图像处理技术，用于识别和标记二值图像中相互连接的像素区域。简单来说，它能够找出图像中所有独立的"连通区域"（即像素之间相互连接形成的区域）。
+- **文章地址：** https://www.cnblogs.com/mingupupu/p/19344713
+
+#### WPF个人文档（一）—— 基础语法&组件篇
+- **文章简介：** WPF个人文档（一）—— 基础语法&组件篇。
+- **文章地址：** https://www.cnblogs.com/leaf-7-scouts/p/19336808
+
+#### .Net微服务网关注册和管理（基于Consul + Nginx实现）
+- **文章简介：** 在微服务架构中，API网关作为请求入口，负责路由转发、负载均衡、认证鉴权等核心功能。Consul提供服务注册与发现能力，Nginx作为高性能反向代理，二者结合可实现动态网关管理。
+- **文章地址：** https://www.cnblogs.com/net-kevin-li/p/19332353
+
+#### .NET 10 网络改进：HTTP、安全与网络原语的全面升级
+- **文章简介：** 随着.NET 10的发布，微软在网络技术栈上带来了一系列令人兴奋的改进和新增功能。这些改进覆盖了HTTP协议处理、WebSockets API、安全增强以及网络基础原语等多个方面。本文将深入探讨这些技术改进，帮助开发者更好地理解和利用.NET 10在网络编程方面的最新能力。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19330426
+
+#### C#实现三菱MC通讯协议库（4C帧-格式1）
+- **文章简介：** 根据三菱的 Melsec 通讯协议(本文称MC协议)手册内容，使用串口实现了 PC 与 PLC 的通讯，能够通过QnA兼容4C帧的格式1实现 PC 读写 PLC 的软元件存储器内容(异步方法)，最后用一个 C#控制台项目测试了通讯库功能。
+- **文章地址：** https://www.cnblogs.com/dragonet-Z/p/19318911
+
+
 ## 11月
 ### 第 63 期（2025年11.24-11.30）
 #### C# 中 ?、??、??=、?: 、?. 、?[] 各种问号的用法和说明
