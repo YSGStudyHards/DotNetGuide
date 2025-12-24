@@ -643,14 +643,14 @@
 #### 商城项目系统（Shop）
 |  ✍   |                       项目名称和地址                       |                           项目简介                           |                   项目详细介绍（文档、文章、源码地址）                    |
 | :--: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | nopCommerce是一个.NET开源功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) ，具备商城该有的各种功能和特性。| https://github.com/nopSolutions/nopCommerce |
-|  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall是一个.NET ABP框架开发、开源、免费（MIT License）的多租户多商户多应用社交电商商城平台。 | https://github.com/jerrytang67/SoMall |
-|  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | CoreShop完整开源、无封装无加密、商用免费、支持跨平台、多数据库支持，基于 Asp.Net 8.0、Uni-App开发、支持可视化布局的商城系统；前后端分离，支持跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能；支持一键发布到微信小程序、H5、安卓APP、苹果APP。 | https://github.com/CoreUnion/CoreShop |
+|  1  | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | nopCommerce 是一个.NET开源功能丰富、免费、灵活且可定制的开源电子商务解决方案(大家假如有商城需求可以直接使用该项目进行二次开发，省时省力) ，具备商城该有的各种功能和特性。| https://github.com/nopSolutions/nopCommerce |
+|  2  | [SoMall](https://github.com/jerrytang67/SoMall) | SoMall 是一个.NET ABP框架开发、开源、免费（MIT License）的多租户多商户多应用社交电商商城平台。 | https://github.com/jerrytang67/SoMall |
+|  3  | [CoreShop](https://github.com/CoreUnion/CoreShop) | CoreShop 是一个完整开源、无封装无加密、商用免费、支持跨平台、多数据库支持，基于 Asp.Net 8.0、Uni-App开发、支持可视化布局的商城系统；前后端分离，支持跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能；支持一键发布到微信小程序、H5、安卓APP、苹果APP。 | https://github.com/CoreUnion/CoreShop |
 |  4  | [QShop](https://gitee.com/qiushuochina/QShop) | QShop商城是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。 | https://gitee.com/qiushuochina/QShop |
-|  5  | [eShop](https://github.com/dotnet/eShop) | eShop是一款由.NET官方开源的，基于.NET Aspire构建的用于参考学习的服务架构电子商务系统，旨在展示如何利用.NET框架及其相关技术栈构建一个现代化的电子商务网站。该项目采用服务架构，将应用程序分解为多个独立的服务，每个服务都可以独立开发、部署和扩展。 | https://github.com/dotnet/eShop |
-|  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | 基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
-|  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
-|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | 一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。 | https://github.com/trueai-org/module-shop |
+|  5  | [eShop](https://github.com/dotnet/eShop) | eShop 是一款由.NET官方开源的，基于.NET Aspire构建的用于参考学习的服务架构电子商务系统，旨在展示如何利用.NET框架及其相关技术栈构建一个现代化的电子商务网站。该项目采用服务架构，将应用程序分解为多个独立的服务，每个服务都可以独立开发、部署和扩展。 | https://github.com/dotnet/eShop |
+|  6  | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | SimplCommerce 是一个基于 .NET Core 开源的简单、跨平台、模块化电子商务系统。 | https://github.com/simplcommerce/SimplCommerce |
+|  7  | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) | SmartStoreNET 是一个ASP.NET MVC开源的企业电子商务购物车解决方案。 | https://github.com/smartstore/SmartStoreNET |
+|  8  | [Module Shop](https://github.com/trueai-org/module-shop) | ModuleShop 是一个基于 .NET 8.0 构建的开源免费（MIT License）、简单、跨平台、模块化的商城系统。该项目旨在提供一个灵活、可扩展的电子商务解决方案。 | https://github.com/trueai-org/module-shop |
 |  9  | [UrShop](https://gitee.com/urselect/urshop) | UrShop 是一款基于原生微信小程序 + .NET Core + Layui 技术构建、开源（GPL-3.0）、功能全面的微信小程序商城系统，项目包微信小程序端和后台管理端。 | https://gitee.com/urselect/urshop |
 |  10 |  |  |  |
 |  11 |  |  |  |
@@ -1570,7 +1570,7 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [ImageGlass](https://github.com/d2phap/ImageGlass) | ImageGlass 是一款轻量级、跨格式、功能丰富的开源图像查看器，专为 Windows 平台设计，旨在为用户提供简洁、直观且高效的图像浏览体验。该项目由开发者 d2phap 主导维护，采用现代 .NET 技术栈构建，支持超过 88 种常见图像格式，包括 WEBP、GIF、SVG、PNG、JXL、HEIC 等，广泛适用于个人用户、设计师及开发人员。 | https://github.com/d2phap/ImageGlass |
-|  2  |  |  |  |
+|  2  | [SVGImage](https://github.com/dotnetprojects/SVGImage) | SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。 | https://github.com/dotnetprojects/SVGImage |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
@@ -1713,7 +1713,7 @@
 #### .NET UI自动化库
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [FlaUI](https://github.com/FlaUI/FlaUI) | FlaUI是一个.Net的UI自动化库，用于自动化测试Windows应用程序（包括Win32、WinForms、WPF、Store Apps等）。它基于Microsoft的原生UI自动化库，并在其周围提供了一层封装。FlaUI几乎包含了UI自动化库中的所有功能，并在有特殊需求（目前尚未覆盖）的情况下提供了原生对象。 | https://github.com/FlaUI/FlaUI |
+|  1  | [FlaUI](https://github.com/FlaUI/FlaUI) | FlaUI 是一个 .NET 开源免费（MIT license）、功能强大 的 UI 自动化库，专为 Windows 桌面应用程序（如 Win32、WinForms、WPF、Store Apps 等应用）的自动化测试而设计。该项目基于 Microsoft 的原生 UI Automation 库构建，并作为这些库的封装器，提供了丰富的功能和灵活的 API，以便开发者能够高效地编写自动化测试脚本。 | https://github.com/FlaUI/FlaUI |
 |  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
