@@ -63,6 +63,8 @@ namespace HelloDotNetGuide
             //LinqExercise.AggregateByExample();
             //LinqExercise.IndexExample();
             //LinqExercise.CommonMethodsInLINQ();
+            //LinqExercise.ToDictionaryExamples();
+            //LinqExercise.ToLookupExamples();
 
             #endregion
 

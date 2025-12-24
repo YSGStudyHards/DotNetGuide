@@ -77,26 +77,26 @@ namespace HelloDotNetGuide.CSharp语法
 
         static List<Course> courses = new List<Course>()
         {
-          new Course
-          {
-            CourseID =  101,
-            CourseName = "语文"
-          },
-          new Course
-          {
-            CourseID =  102,
-            CourseName = "数学"
-          },
-          new Course
-          {
-            CourseID =  103,
-            CourseName = "地理"
-          },
-          new Course
-          {
-            CourseID =  104,
-            CourseName = "历史"
-          }
+           new Course
+           {
+             CourseID =  101,
+             CourseName = "语文"
+           },
+           new Course
+           {
+             CourseID =  102,
+             CourseName = "数学"
+           },
+           new Course
+           {
+             CourseID =  103,
+             CourseName = "地理"
+           },
+           new Course
+           {
+             CourseID =  104,
+             CourseName = "历史"
+           }
         };
 
         static List<StudentInfo> students = new List<StudentInfo>
@@ -377,5 +377,114 @@ namespace HelloDotNetGuide.CSharp语法
         }
 
         #endregion
+
+        #region ToDictionary 和 ToLookup
+
+        public static void ToDictionaryExamples()
+        {
+            var employeeList = new List<Employee>
+            {
+                new Employee { Id = 101, Name = "大姚", Department = "研发部", Salary = 15000, Age = 28, City = "北京" },
+                new Employee { Id = 102, Name = "小米", Department = "研发部", Salary = 18000, Age = 32, City = "上海" },
+                new Employee { Id = 103, Name = "王敏", Department = "销售部", Salary = 12000, Age = 26, City = "北京" }
+                // 如需演示重复键，可解除下面注释
+                //new Employee { Id = 103, Name = "王敏", Department = "销售部", Salary = 12000, Age = 26, City = "北京" }
+            };
+
+            // 最基础：键=Id，值=元素本身
+            // 如果存在重复 Id，会在此抛 System.ArgumentException:“An item with the same key has already been added. Key: 103”
+            Dictionary<int, Employee> dict1 = employeeList.ToDictionary(e => e.Id);
+
+            //System.Collections.Generic.KeyNotFoundException:“The given key '999' was not present in the dictionary.”
+            //var queryData = dict1[999];
+
+            // 安全取值方式：TryGetValue 避免 KeyNotFoundException
+            if (dict1.TryGetValue(101, out var emp101))
+            {
+                Console.WriteLine($"找到员工 101：{emp101.Name}");
+            }
+            else
+            {
+                Console.WriteLine("未找到员工 101");
+            }
+
+            //值修改
+            dict1[101].Name = "大姚修改名称";
+
+            // 指定键选择器 + 值选择器
+            Dictionary<int, string> dict2 = employeeList.ToDictionary(
+                e => e.Id,     // 键：Id
+                e => e.Name    // 值：姓名
+            );
+
+            // 指定比较器（如不区分大小写的姓名作为键）
+            var dictByNameIgnoreCase = employeeList.ToDictionary(
+                e => e.Name,
+                e => e,
+                StringComparer.OrdinalIgnoreCase);//不区分大小写
+
+            // 防重复键写法：先 GroupBy 再取 First()
+            // 若源数据可能有重复 Id，用此方式避免抛异常
+            var dictMerged = employeeList
+                .GroupBy(e => e.Id)
+                .ToDictionary(
+                    g => g.Key,
+                    g => g.First()  // 或自定义合并逻辑
+                );
+        }
+
+        public static void ToLookupExamples()
+        {
+            var employeeList = new List<Employee>
+            {
+                new Employee { Id = 101, Name = "大姚", Department = "研发部", Salary = 15000, Age = 28, City = "北京" },
+                new Employee { Id = 102, Name = "小米", Department = "研发部", Salary = 18000, Age = 32, City = "上海" },
+                new Employee { Id = 103, Name = "王敏", Department = "销售部", Salary = 12000, Age = 26, City = "北京" },
+                new Employee { Id = 101, Name = "大姚", Department = "研发部", Salary = 15000, Age = 28, City = "北京" },
+                new Employee { Id = 102, Name = "小米", Department = "研发部", Salary = 18000, Age = 32, City = "上海" },
+                new Employee { Id = 103, Name = "王敏", Department = "销售部", Salary = 12000, Age = 26, City = "北京" }
+            };
+
+            // ToLookup：天然一对多分组；键重复不会抛异常
+            var lookupByDept = employeeList.ToLookup(
+                e => e.Department, // 键：部门
+                e => e             // 值：元素本身（可省略，默认元素本身）
+            );
+
+            var lookupById = employeeList.ToLookup(
+                e => e.Id, // 键：部门
+                e => e             // 值：元素本身（可省略，默认元素本身）
+            );
+
+            // 访问：查不到键时返回空序列，不抛异常
+            foreach (var emp in lookupByDept["研发部"])
+            {
+                Console.WriteLine($"研发部成员：{emp.Name}");
+            }
+
+            // 查一个不存在的键，不会抛异常，只是 foreach 不会进入
+            foreach (var emp in lookupByDept["不存在的部门"])
+            {
+                // 不会执行
+            }
+
+            // ToLookup 也可指定比较器
+            var lookupByCityIgnoreCase = employeeList.ToLookup(
+                e => e.City,
+                e => e.Name,
+                StringComparer.OrdinalIgnoreCase);//不区分大小写
+        }
+
+        #endregion
+    }
+
+    public class Employee
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Department { get; set; }
+        public decimal Salary { get; set; }
+        public int Age { get; set; }
+        public string City { get; set; }
     }
 }
