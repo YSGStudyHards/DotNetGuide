@@ -581,9 +581,9 @@
 #### 其他开源框架
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [PluginCore](https://github.com/yiyungent/PluginCore) | 一个ASP.NET Core开源的、轻量级插件框架，一分钟集成Vue.js frontend、JavaScript SDK。 | https://github.com/yiyungent/PluginCore |
+|  1  | [PluginCore](https://github.com/yiyungent/PluginCore) | PluginCore 是一个 ASP.NET Core 开源的、轻量级插件框架，一分钟集成Vue.js frontend、JavaScript SDK。 | https://github.com/yiyungent/PluginCore |
 |  2  | [xamarin-macios](https://github.com/xamarin/xamarin-macios) | xamarin-macios 是 Xamarin 项目中用于开发 .NET for iOS、Mac Catalyst、macOS 和 tvOS 应用程序的主要仓库。这些 SDK 允许开发者使用 C# 语言和 .NET Base Class Library (BCL) 的功能，结合 Visual Studio 或 Visual Studio Code 等现代 IDE，来创建原生的跨平台应用程序。这些 SDK 提供了与 Objective-C 和 Xcode 相似的 UI 控件，但提供了更灵活和现代的编程体验。 | https://github.com/xamarin/xamarin-macios |
-|  3  | [CsGo](https://gitee.com/hamasm/CsGo) | CsGo是一个功能强大、易于使用的C#并发流程控制框架和运动控制框架，适用于工业自动化、机器视觉等多个领域。通过提供灵活的并发控制机制和高效的任务处理能力，它能够帮助开发者构建稳定可靠的工业自动化和机器视觉系统。 | https://gitee.com/hamasm/CsGo |
+|  3  | [CsGo](https://gitee.com/hamasm/CsGo) | CsGo 是一个基于 C# 编写的并发流程控制框架和运动控制框架，适用于工业自动化、机器视觉等多个领域。通过提供灵活的并发控制机制和高效的任务处理能力，它能够帮助开发者构建稳定可靠的工业自动化和机器视觉系统。 | https://gitee.com/hamasm/CsGo |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
