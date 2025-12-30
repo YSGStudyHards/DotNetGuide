@@ -571,6 +571,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s/QpISCYltDePhgj_QBtZCfg)
 * [Zread：智谱AI推出的 Github 项目阅读神器，一键生成超详细中文文档！](https://mp.weixin.qq.com/s/hv3EPiLV2e8YL4590EDESg)
 * [Doubao Seedream 4.0 爆火：多图融合 + 多样玩法，解锁 AI 图像创作新境界！](https://mp.weixin.qq.com/s/FWOLXAgeWfiwD6-KRpNO4A)
+* [沉浸式翻译：一款免费的（原文/译文）AI 双语对照网页翻译插件，信息获取效率飙升！](https://mp.weixin.qq.com/s/9oRCNuhapNg1IVoCbLJlvA)
 
 ### AI提示词大全
 * [LangGPT 结构化提示词知识库](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
