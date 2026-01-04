@@ -1804,7 +1804,7 @@
 |  9 | [MiniExcel](https://github.com/MiniExcel/MiniExcel) | MiniExcel是一个简单高效的.NET操作Excel工具（处理Excel查、写、填充数据），旨在避免OOM（内存溢出）问题。目前主流框架大多需要将数据全载入到内存方便操作，但这会导致内存消耗问题，MiniExcel 尝试以 Stream 角度写底层算法逻辑，能让原本1000多MB占用降低到几MB，避免内存不够情况。 | https://github.com/MiniExcel/MiniExcel |
 |  10 | [npoi](https://github.com/nissl-lab/npoi) | npoi是一个.NET平台下的开源库，用于读写和操作Office文件，提供了便捷的处理Office文件格式的功能，Apache POI移植版本。 | https://github.com/nissl-lab/npoi |
 |  11 | [Sylvan.Data.Excel](https://github.com/MarkPflug/Sylvan.Data.Excel) | 用于读取和写入 Excel 数据文件的跨平台 .NET 库。最常用的格式：.xlsx、.xlsb 和 .xls 支持读取，而 .xlsx 和 .xlsb 格式支持写入。 | https://github.com/MarkPflug/Sylvan.Data.Excel |
-|  12 |  |  |  |
+|  12 | [OfficeInterop](https://gitee.com/mudtools/OfficeInterop) | OfficeInterop 是一个针对 Microsoft Office 应用程序的 .NET 封装库，其核心目标是简化 Office COM 组件的使用，使开发者能够更方便、更高效地在 .NET 环境中操作 Office 应用程序，如 Excel、Word 等。 | https://gitee.com/mudtools/OfficeInterop |
 |  13 |  |  |  |
 |  14 |  |  |  |
 |  15 |  |  |  |
@@ -2160,7 +2160,7 @@
 |  16  | [aws-sdk-net](https://github.com/aws/aws-sdk-net) | 适用于 .NET 的 AWS 开发工具包使 .NET 开发人员能够轻松使用 Amazon Web Services，并使用 Amazon S3、Amazon DynamoDB、Amazon Glacier 等构建可扩展的解决方案。 | https://github.com/aws/aws-sdk-net |
 |  17  | [Sqids](https://github.com/sqids/sqids-dotnet) | Sqids 是一个基于 C# 编写、开源的轻量级工具库，它允许你从数字生成类似 YouTube 的 ID。它可以将数字（如 127）编码为字符串（如 yc3），然后你可以将这些字符串解码回原始数字。当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。 | https://github.com/sqids/sqids-dotnet |
 |  18  | [Hashids](https://github.com/ullmark/hashids.net) | 一个用于从一个或多个数字生成类似 YouTube 的哈希的小型 .NET 包。当您不想将数据库 ID 显示给用户时，可以使用 Hashids。 | https://github.com/ullmark/hashids.net |
-|  19  |  |  |  |
+|  19  | [TypedSql](https://github.com/hez2010/TypedSql) | TypedSQL 是一个小型实验性类 SQL 查询引擎，其执行计划依赖于 C# 类型系统。每个查询都变成由 `Where / Select / Stop` 节点构建的封闭泛型类型，完全通过静态方法运行，因此热路径中没有虚拟派遣或表达式树解释。 | https://github.com/hez2010/TypedSql |
 |  20  |  |  |  |
 |  21  |  |  |  |
 |  22  |  |  |  |
