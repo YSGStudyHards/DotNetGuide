@@ -12,6 +12,46 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2025年
+## 12月
+### 公众号12月简报
+* **C#/.NET/.NET Core优秀项目和框架2025年12月简报：** 
+
+### FlaUI
+* **项目简介：** FlaUI 是一个 .NET 开源免费（MIT license）、功能强大 的 UI 自动化库，专为 Windows 桌面应用程序（如 Win32、WinForms、WPF、Store Apps 等应用）的自动化测试而设计。该项目基于 Microsoft 的原生 UI Automation 库构建，并作为这些库的封装器，提供了丰富的功能和灵活的 API，以便开发者能够高效地编写自动化测试脚本。
+* **项目源码地址：** https://github.com/FlaUI/FlaUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/PE4S-fUyeG7U8Z78NYu6Rw
+
+### RuYiAdmin
+* **项目简介：** RuYiAdmin 一款基于 .NET 9 构建的企业级、前后端分离、开源（Apache License） Web RBAC 快速开发框架，具有灵活的架构设计和强大的功能，适用于快速开发高性能的企业级应用，具有低代码、跨平台、分布式、多线程和高性能等特色。
+* **项目源码地址：** https://gitee.com/pang-mingjun/RuYiAdmin
+* **项目详细介绍：** https://mp.weixin.qq.com/s/XCcbLiV8Dhb9pfp8wi-Teg
+
+### CxFlatUI
+* **项目简介：** CxFlatUI 是一款开源（Apache License）、现代化的 WinForm UI 控件库，值得大家参考学习使用。
+* **项目源码地址：** https://github.com/HuJinguang/CxFlatUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/g1O4ngtrrFpS8yrDWbYz5A
+
+### TypedSql
+* **项目简介：** TypedSQL 是一个小型实验性类 SQL 查询引擎，其执行计划依赖于 C# 类型系统。每个查询都变成由 Where / Select / Stop 节点构建的封闭泛型类型，完全通过静态方法运行，因此热路径中没有虚拟派遣或表达式树解释。
+* **项目源码地址：** https://github.com/hez2010/TypedSql
+* **项目详细介绍：** https://mp.weixin.qq.com/s/WkS6qjDslM2UWDdjpQsjuw
+
+### OfficeInterop
+* **项目简介：** OfficeInterop 是一个针对 Microsoft Office 应用程序的 .NET 封装库，其核心目标是简化 Office COM 组件的使用，使开发者能够更方便、更高效地在 .NET 环境中操作 Office 应用程序，如 Excel、Word 等。
+* **项目源码地址：** https://gitee.com/mudtools/OfficeInterop
+* **项目详细介绍：** https://mp.weixin.qq.com/s/SOJdHwrP-X1suv0v8PNEcg
+
+### SuperSocket
+* **项目简介：** SuperSocket 是一个高性能、可扩展的.NET 套接字服务器应用程序框架。它提供了一个强大的架构，用于构建自定义网络通信应用程序，支持多种协议，包括 TCP、UDP 和 WebSocket。
+* **项目源码地址：** https://gitee.com/kerryjiang/SuperSocket
+* **项目详细介绍：** https://mp.weixin.qq.com/s/oNA-dDh80e-WI__9Itf2JA
+
+### SVGImage
+* **项目简介：** SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。
+* **项目源码地址：** https://github.com/dotnetprojects/SVGImage
+* **项目详细介绍：** https://mp.weixin.qq.com/s/69x0B6jhYja58Ze0NSi9ew
+
+
 ## 11月
 ### 公众号11月简报
 * **C#/.NET/.NET Core优秀项目和框架2025年11月简报：** https://mp.weixin.qq.com/s/FVrkrvqPYiVjOyPgZK9HRg
