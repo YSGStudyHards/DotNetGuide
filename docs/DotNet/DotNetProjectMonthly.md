@@ -14,7 +14,7 @@
 # 2025年
 ## 12月
 ### 公众号12月简报
-* **C#/.NET/.NET Core优秀项目和框架2025年12月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2025年12月简报：** https://mp.weixin.qq.com/s/t4Mv4g8WbHbTWeZJjb3tzw
 
 ### FlaUI
 * **项目简介：** FlaUI 是一个 .NET 开源免费（MIT license）、功能强大 的 UI 自动化库，专为 Windows 桌面应用程序（如 Win32、WinForms、WPF、Store Apps 等应用）的自动化测试而设计。该项目基于 Microsoft 的原生 UI Automation 库构建，并作为这些库的封装器，提供了丰富的功能和灵活的 API，以便开发者能够高效地编写自动化测试脚本。
