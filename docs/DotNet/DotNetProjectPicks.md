@@ -2228,7 +2228,7 @@
 |  18 | [WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | WPF-ControlBase 是一个开源免费（MIT license）、功能丰富的 WPF 自定义控件资源库。 | https://github.com/HeBianGu/WPF-ControlBase |
 |  19 | [Rubyer WPF](https://gitee.com/wuyanxin1028/rubyer-wpf) | Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包，支持目标框架 .NET Framework 4.6、.NET Core 3.1、.NET 6、 .NET 8、.NET 9。 | https://gitee.com/wuyanxin1028/rubyer-wpf |
 |  20 | [DataGridFilter](https://github.com/macgile/DataGridFilter) | DataGridFilter 是一款开源（MIT License）、多语言的 WPF 可筛选 DataGrid 控件，旨在通过轻量级集成帮助开发者快速构建高效、灵活的数据展示管理界面。 | https://github.com/macgile/DataGridFilter |
-|  21 |  |  |  |
+|  21 | [PropertyTools](https://github.com/PropertyTools/PropertyTools) | PropertyTools 是一款开源（MIT license）、免费的 WPF 自定义控件集，该控件集涵盖了 PropertyGrid、DataGrid、支持多选的 TreeView、ColorPicker 等常用控件。 | https://github.com/PropertyTools/PropertyTools |
 |  22 |  |  |  |
 |  23 |  |  |  |
 |  24 |  |  |  |
