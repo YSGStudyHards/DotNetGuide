@@ -18,6 +18,90 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=3598502850881585160&scene=126&sessionid=-1990606076#wechat_redirect)
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
+# 2026年
+## 1月
+### 第 65 期（2026年1.1-1.11）
+#### TIOBE 公布 C# 是 2025 年度编程语言
+- **文章简介：** TIOBE 公布的数据显示，C# 以 2.94% 的年度最大涨幅再度获评2025 年度编程语言，在近三年内，C# 第二次被 TIOBE 指数评为年度编程语言。这一荣誉授予了在年度排名中涨幅最大的编程语言，而 C# 正是凭借这一最大增幅获此殊荣。多年来，C# 经历了根本性的变革：从语言设计的角度来看，它常常是主流编程语言中率先采纳新趋势的先行者。与此同时，C# 成功实现了两次重大转型：一是从仅限 Windows 平台转向跨平台支持，二是从微软专属走向开源。C# 总能在关键时刻及时演进，持续保持活力。
+- **文章地址：** https://mp.weixin.qq.com/s/Fd71l1ino3oTWA_ZKyttnA
+
+#### 2026 年 C#中带有大型语言模型的生成式人工智能
+- **文章简介：** 生成式人工智能成为历史上增长最快的消费技术，超过了 Instagram 和 TikTok，在不到两个月的时间内达到了 1 亿用户。2022 年底，OpenAI 发布了 GPT-3.5 的免费预览版，作为对话式聊天客户端 ChatGPT。该模型通过人类反馈强化学习（RLHF）进行了微调，标志着生成式人工智能进入主流认知的时刻。2023 年初，Microsoft 通过推出 Azure OpenAI 服务作出回应，允许开发者在 Azure 管理端点后安全配置和使用兼容 OpenAI 的模型。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/
+
+#### 安全与智能：MongoDB EF Core Provider 中的可查询加密与矢量搜索
+- **文章简介：** MongoDB 实体框架（EF）核心提供者自 2024 年 5 月起已正式发布。自发布以来，我们对 .NET 开发者社区的积极反响以及其在广泛应用中的日益普及感到非常兴奋。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/
+
+#### C#/.NET/.NET Core优秀项目和框架2025年12月简报
+- **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享。
+- **文章地址：** https://mp.weixin.qq.com/s/t4Mv4g8WbHbTWeZJjb3tzw
+
+#### 让 WinForm.NET 再次伟大！一个专门设计用于帮助 WinForms 应用程序迁移到 Blazor WASM 平台的项目
+- **文章简介：** MWGA（Make WinForms Great Again） 是一个专门设计用于帮助 WinForms 应用程序迁移到 Blazor WASM 平台的项目，即使这些 WinForms 应用程序使用 GDI+ 功能，MWGA 项目也预期将对这些程序源码的修改量不超过10%。这极大的降低 WinForms 软件现代化的成本和风险。注意该项目是一个巨大的工程目前还在逐步规划、完善中，当前已开源演示项目，主要用于给大家演示迁移流程与验证兼容性（大家有更好的想法或解决方案欢迎前往开源地址提Issues）。
+- **文章地址：** https://mp.weixin.qq.com/s/2-JM1l6avTtjqhyPjgYr3g
+
+#### 一个基于 C# 编写、多功能的上位机软件，集成了串口助手、虚拟示波器以及摄像头图像显示等多种实用功能！
+- **文章简介：** 逐飞助手是一个基于C#编写的多功能上位机软件。该软件集成了串口助手、虚拟示波器以及摄像头图像显示等多种实用功能，旨在为用户提供便捷、高效的数据调试与监控解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/kIWtt1OsojIg7A5MTO3xXA
+
+#### dotnet 10 run file 支持多文件
+- **文章简介：** dotnet 10 run file 支持多文件。
+- **文章地址：** https://mp.weixin.qq.com/s/p8Za-HrjSLxOhc1Qp5lCuA
+
+#### 一款开源、免费的 WPF 自定义控件集
+- **文章简介：** PropertyTools 是一款开源（MIT license）、免费的 WPF 自定义控件集，该控件集涵盖了 PropertyGrid、DataGrid、支持多选的 TreeView、ColorPicker 等常用控件。
+- **文章地址：** https://mp.weixin.qq.com/s/fLsTZWyY1W7UFJWCmIa4mQ
+
+#### 一个基于 C# 和 Halcon 机器视觉开发的车牌识别工具
+- **文章简介：** halcon_chepai一款基于C#编程语言与Halcon机器视觉库的车牌识别系统。该系统利用Halcon强大的图像处理能力，结合C#的灵活性与易用性，实现了高效、准确的车牌识别功能。识别成功率高达90%。
+- **文章地址：** https://mp.weixin.qq.com/s/Bpz36wWHhK2MPQ9YR6y8TA
+
+#### 精选 10 款 .NET 开源免费、功能强大的 Windows 效率软件
+- **文章简介：** 在当今快节奏的数字工作环境中，效率工具已成为开发者、IT专业人士乃至普通用户提升生产力的关键助力。今天大姚给大家分享 10 款 .NET 开源免费、功能强大的 Windows 效率软件，开发工作提升利器，希望可以帮助到有需要的小伙伴。
+- **文章地址：** https://mp.weixin.qq.com/s/QvF0X_dR85ISeeWJcbSmdg
+
+#### C#中的7种构造函数，你都用过吗？
+- **文章简介：** 在 C# 中，构造函数是对象创建时自动执行的特殊方法，用于初始化实例状态。它不返回值，名称必须与类名一致。根据使用场景不同，C# 支持多种构造函数形式，每种都服务于特定的初始化需求。掌握这些类型，有助于写出更清晰、灵活且可维护的代码。
+- **文章地址：** https://mp.weixin.qq.com/s/C9UazT3ytk-VbGy3qzSYPw
+
+#### 一个针对 Microsoft Office 应用程序的 .NET 封装库，旨在简化 Office COM 组件的使用
+- **文章简介：** OfficeInterop 是一个针对 Microsoft Office 应用程序的 .NET 封装库，其核心目标是简化 Office COM 组件的使用，使开发者能够更方便、更高效地在 .NET 环境中操作 Office 应用程序，如 Excel、Word 等。
+- **文章地址：** https://mp.weixin.qq.com/s/SOJdHwrP-X1suv0v8PNEcg
+
+#### 记一次 .NET 某MES上位机拍照系统 内存暴涨分析
+- **文章简介：** 这是训练营里的一位朋友找到我的，说他们的系统会有偶发的内存暴涨情况，自己也没分析出来，让我帮忙看下怎么回事，拿了一个20G+的dump文件，这文件是够大的，我个人建议一般是不超过10G，不然的话windbg分析起来很吃力。
+- **文章地址：** https://www.cnblogs.com/huangxincheng/p/19450501
+
+#### 【译】Visual Studio 11 月更新 —— Visual Studio 2026、Cloud Agent Preview 及更多内容 
+- **文章简介：** 如果您还没听说这个消息，我们很兴奋地和您分享：Visual Studio 2026 现已全面发布！这个新版本在多项性能改进、重新设计的用户体验以及人工智能驱动的开发方面实现了重大飞跃，能为您提供更好的帮助。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19441728
+
+#### 使用 C# 和 SQL Server 自动化邮件中的用户分配数据处理
+- **文章简介：** 在金融应用领域，通过电子邮件手动管理用户分配数据不仅耗时而且容易出错。传统的人工处理方式需要工作人员每天检查邮件、下载附件、解析数据并更新数据库，这一系列重复性工作既低效又存在数据录入错误的风险。本文将介绍如何利用 C# 和 SQL Server 构建一个自动化解决方案，实现从邮件读取、附件下载到数据库更新的全流程自动化处理。该系统特别适用于处理主题包含"AllotmentsFiles"的邮件，并更新 SQL Server 中的 bidfiledetails 表，显著提高数据处理效率和准确性。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19444281
+
+#### Zenith.NET v0.0.2 发布 🎉 — 统一的 .NET GPU 编程库，支持 DX12/Vulkan + 6 大 UI 框架
+- **文章简介：** Zenith.NET 是一个现代的、跨平台的 .NET 图形与计算库，旨在为 .NET 开发者提供统一的 GPU 编程接口。无论你是要做高性能渲染、图形应用，还是 GPU 通用计算，Zenith.NET 都能帮你屏蔽底层 API 的差异，让代码在不同平台上无缝运行。
+- **文章地址：** https://www.cnblogs.com/xymfblogs/p/19443277
+
+#### .NET 10 New feature 新增功能介绍-WebSocket功能增强
+- **文章简介：** .NET 10 新增了 WebSocketStream一个新的 API，用于简化 .NET 中一些最常见的WebSocket 的流式处理方案。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19439916
+
+#### .NET+AI | 基于 Microsoft Agent Framework 一步步集成 Agent Skills，让你的 AI Agent 更智能 
+- **文章简介：** 随着 AI Agent 技术的快速发展，如何让 Agent 具备可复用、可扩展的专业能力成为一个重要课题。Agent Skills 规范提供了一种标准化的方式来定义和分发 Agent 技能，而 Microsoft Agent Framework (MAF) 则提供了构建 AI Agent 的强大基础设施。本文将深入介绍如何基于 MAF 的上下文扩展（AIContextProvider）实现 Agent Skills 的集成，包括核心架构设计、关键组件实现以及实际应用示例。
+- **文章地址：** https://www.cnblogs.com/sheng-jie/p/19442149
+
+#### 从 TIOBE 2025 年度语言到 2026 年 C# 智能体生态的全面崛起 
+- **文章简介：** 2026 年 1 月，随着 TIOBE 指数正式宣布 C# 为 2025 年度编程语言，全球软件工程领域迎来了一个决定性的转折点。这一荣誉不仅是对 C# 过去一年在搜索热度和开发者活跃度上取得最大增幅的认可，更是一个滞后指标，揭示了底层技术范式的深刻变迁。如果说过去十年是 Python 依靠数据科学和模型训练确立霸权的时代，那么 2025 年的数据表明，行业重心正在从“模型构建”向“系统编排”转移。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19441004
+
+#### 2026：让.NET再次伟大
+- **文章简介：** 2026年，应该考虑一个战略决策——将.NET SDK纳入操作系统，这将对整个开发生态产生深远影响。
+- **文章地址：** https://www.cnblogs.com/msdeveloper/p/19427679/make-dotnet-great-again-2026
+
+
 # 2025年
 ## 12月
 ### 第 64 期（2025年12.1-12.21）
