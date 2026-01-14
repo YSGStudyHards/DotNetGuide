@@ -1614,7 +1614,7 @@
 |  30  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 | https://github.com/x-nas/WinsockPacketEditor |
 |  31  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence |
 |  32  | [better-genshin-impact](https://github.com/babalae/better-genshin-impact) | better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。 | https://github.com/babalae/better-genshin-impact |
-|  33  |  |  |  |
+|  33  | [Codist](https://github.com/wmjordan/Codist) | Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。 | https://github.com/wmjordan/Codist |
 |  34  |  |  |  |
 |  35  |  |  |  |
 |  36  |  |  |  |
