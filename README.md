@@ -152,6 +152,7 @@
 * [Visual Studio现已支持新的、更简洁的解决方案文件（slnx）格式](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
 * [Visual Studio 2026 正式版下载与安装详细教程（附带产品密钥）！](https://mp.weixin.qq.com/s/wbZiTPjhKlFOeU3MgIbq0A)
 * [Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！](https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg)
+* [一个致力于为C#程序员提供更佳的编码体验和效率的Visual Studio扩展插件](https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw)
 
 ### Visual Studio Code
 * [VS Code下载](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
