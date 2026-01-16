@@ -110,6 +110,7 @@
   * [开源画图工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E7%94%BB%E5%9B%BE%E5%B7%A5%E5%85%B7)
   * [发布部署工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8F%91%E5%B8%83%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7)
   * [图片查看工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%B7%A5%E5%85%B7)
+  * [原型设计工具]()
   * [其他工具&软件](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6)
 
 * [实用SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%AE%9E%E7%94%A8sdk%E7%B1%BB%E5%BA%93)
@@ -1571,6 +1572,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [ImageGlass](https://github.com/d2phap/ImageGlass) | ImageGlass 是一款轻量级、跨格式、功能丰富的开源图像查看器，专为 Windows 平台设计，旨在为用户提供简洁、直观且高效的图像浏览体验。该项目由开发者 d2phap 主导维护，采用现代 .NET 技术栈构建，支持超过 88 种常见图像格式，包括 WEBP、GIF、SVG、PNG、JXL、HEIC 等，广泛适用于个人用户、设计师及开发人员。 | https://github.com/d2phap/ImageGlass |
 |  2  | [SVGImage](https://github.com/dotnetprojects/SVGImage) | SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。 | https://github.com/dotnetprojects/SVGImage |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 原型设计工具
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [XAML Studio](https://github.com/dotnet/XAMLStudio) | XAML Studio 是一款专为 WinUI XAML 设计的快速原型设计工具，基于 C# 开源（MIT license），生成的代码可轻松复制到 Visual Studio 中的应用中。XAML Studio 让你实时预览 XAML 代码，并与结果互动，就像它在你自己的应用中运行一样。 | https://github.com/dotnet/XAMLStudio |
+|  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
