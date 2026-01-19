@@ -20,6 +20,68 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 
 # 2026年
 ## 1月
+### 第 66 期（2026年1.12-1.18）
+#### 一个致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展插件
+- **文章简介：** Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。
+- **文章地址：** https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw
+
+#### 如何一步步将 ASP.NET MVC 升级为.NET
+- **文章简介：** 将 ASP.NET MVC 应用从.NET Framework 升级到现代.NET 并不是简单的版本提升。此次迁移代表了运行时、托管模型、配置系统、依赖注入和 HTTP 流水线架构的转变。许多团队低估了这一点，把它当作标准的框架升级，结果在流程后期才发现他们应用中的核心假设已经不再成立。好消息是，Microsoft 提供了明确的指导和模式，使得正确操作时迁移过程可预测。本文介绍了一个实用的逐步策略，如何将基于.NET Framework 构建的 ASP.NET MVC 5 应用迁移到运行在现代.NET 上的 ASP.NET Core，同时最大限度地减少风险和停机时间。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19486260
+
+#### 使用 MCP C# SDK 实现 MCP Tool
+- **文章简介：** MCP是由Anthropic创建的一个开放协议 现在有官方 C# SDK 了，官方 C# SDK 由原来的 mcpdotnet 发展而来，基于 Microsoft.Extensions.AI 实现，截止写文章的时候（2025-4-1）目前最新版本时 0.1.0-preview 4 了，这一版本中增加了 ModelContextProtocol.AspNetCore NuGet 包，使得实现基于 ASP.NET Core SSE 的 Mcp Server 更加简单了，之前的版本中需要将示例中的扩展拷贝到自己项目中去，有了这个 NuGet 包之后就不需要了，McpServer 目前主要的两种实现方式是 Stdio(标准输入输出) 和 SSE（Server Sent Event)，新的规范里提出了基于 Http 的支持，目前暂时还未支持
+- **文章地址：** https://mp.weixin.qq.com/s/JSIbOo17zcQrcuCLVWN4XQ
+
+#### 一款专为 WinUI XAML 设计的快速原型设计工具，生成的代码可轻松复制到Visual Studio中！
+- **文章简介：** XAML Studio 是一款专为 WinUI XAML 设计的快速原型设计工具，基于 C# 开源（MIT license），生成的代码可轻松复制到 Visual Studio 中的应用中。XAML Studio 让你实时预览 XAML 代码，并与结果互动，就像它在你自己的应用中运行一样。
+- **文章地址：** https://mp.weixin.qq.com/s/Kf_MrpoC-I7UbhmUNLusow
+
+#### 如何用 .NET MAUI 构建 Android 小部件
+- **文章简介：** 本博客将介绍之前关于 iOS 小部件的互动小部件的 Android 部分。Android 通常更宽松，作更简单，你可以直接在 Visual Studio 里的 .NET MAUI 项目里构建所有内容。复杂性源于众多可用的任务选项以及需要考虑较旧的安卓版本。就像 iOS 小部件博客里一样，这也不是一步步的教程。相反，它突出显示了你在构建 Android 小部件时通常遇到障碍的顺序中最大且最重要的部分。它从创建一个简单的静态小部件开始，逐步发展成可配置、完全交互的小部件。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/
+
+#### .NET 和 .NET Framework 2026 年 1 月服务发布更新
+- **文章简介：** 欢迎来到我们 2026 年 1 月的联合.NET 服务更新。让我们进入.NET 和.NET Framework 的最新版本，这里简要介绍一下我们服务版本中的新内容。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/
+
+#### 基于NetCorePal Cloud Framework的DDD架构管理系统实践
+- **文章简介：** 前段时间在做一个管理系统的项目，想尝试一下DDD架构在实际项目中的应用。经过一番调研，最终选择了NetCorePal Cloud Framework作为基础框架，结合.NET 10和Vue 3搭建了一套完整的前后端分离架构。今天就想和大家分享一下这个项目的架构设计和技术选型，希望能给正在做类似项目的朋友一些参考。
+- **文章地址：** https://www.cnblogs.com/aishangyipiyema/p/19499381
+
+#### WPF 使用 HLSL + Clip 实现高亮歌词光照效果
+- **文章简介：** 最近在搓一个Lyricify Lite类似物，原本使用渐变画刷实现歌词高亮，但是发现视觉效果与Apple Music相去甚远：单纯使用白色渐变画刷缺乏“高亮”的光照感觉，而Apple Music的歌词高亮则更像是有光线投射在歌词上，形成一种柔和的发光效果。
+- **文章地址：** https://www.cnblogs.com/TwilightLemon/p/19497125
+
+#### 基于.NET和C#构建光伏IoT物模型方案
+- **文章简介：** 本文主要介绍基于.NET和C#构建光伏IoT物模型的方案。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19490649
+
+#### 不服跑个分？.NET 10 大整数计算对阵 Java，结果令人意外
+- **文章简介：** 我对数值计算的执念，来自初中时代烟雾缭绕的网吧。那时玩《伝奇》，最让我着迷的不是打怪爆装备，而是角色面板里那条长长的经验值。看着数字不断跳动、累积，最终“叮”一声升级，那种简单的数值驱动整个世界运转的感觉，实在太奇妙了。
+- **文章地址：** https://www.cnblogs.com/sdcb/p/19484525/20261113-big-integer-dotnet-10-vs-java
+
+#### .NET Aspire 概述 
+- **文章简介：** .NET Aspire 是 Microsoft 在 Build 2024 上推出的一个开源框架，旨在简化使用 .NET 8 及更高版本创建分布式云原生应用的流程。它通过提供一套工具、模板和最佳实践，让开发者能够更专注于业务逻辑而非基础设施的搭建。本文将详细介绍 .NET Aspire 的核心功能、优势以及如何快速上手使用这一创新框架。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19477015
+
+#### 总结归纳.NET 10 中 Minimal APIs 主要应用场景
+- **文章简介：** 本文主要总结归纳.NET 10 中 Minimal APIs 主要应用场景。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19467531
+
+#### C# 14 中的新增功能 
+- **文章简介：** C# 14 引入了多项重要更新，以下是主要功能的详细说明。
+- **文章地址：** https://www.cnblogs.com/net-kevin-li/p/19476883
+
+#### 跨越技术鸿沟：Aspire 赋能 JavaScript 与 Node.js 开发者的深度生态融合
+- **文章简介：** 在云原生应用开发的演进历程中，技术栈的异构性始终是一个核心特征。长期以来，企业级应用开发往往呈现出“双模IT”的特征：后端服务依赖于.NET 生态系统的强类型、高性能和企业级稳健性，而前端交互与部分微服务则广泛采用 JavaScript/TypeScript 生态系统的灵活性与庞大社区资源。这种多语言（Polyglot）架构虽然在功能上互补，但在开发运维（DevOps）的“内循环（Inner Loop）”中却制造了显著的摩擦。开发者常常需要在 Visual Studio 的调试器、复杂的 Docker Compose YAML 文件、散乱的 Shell 脚本以及手动维护的 .env 环境变量文件之间频繁切换。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19474912
+
+#### .NET 磁盘管理-技术方案选型
+- **文章简介：** 在家庭以及企业场景下的网络磁盘产品，使用Iscsi均需要对磁盘进行管理。不同Windows版本、安装第三方软件，导致每个C端用户的运行环境不同，对磁盘的管理带来一定的使用干扰，本文介绍下磁盘管理的几种方案以及存在的一些问题。
+- **文章地址：** https://www.cnblogs.com/kybs0/p/19473484
+
+
 ### 第 65 期（2026年1.1-1.11）
 #### TIOBE 公布 C# 是 2025 年度编程语言
 - **文章简介：** TIOBE 公布的数据显示，C# 以 2.94% 的年度最大涨幅再度获评2025 年度编程语言，在近三年内，C# 第二次被 TIOBE 指数评为年度编程语言。这一荣誉授予了在年度排名中涨幅最大的编程语言，而 C# 正是凭借这一最大增幅获此殊荣。多年来，C# 经历了根本性的变革：从语言设计的角度来看，它常常是主流编程语言中率先采纳新趋势的先行者。与此同时，C# 成功实现了两次重大转型：一是从仅限 Windows 平台转向跨平台支持，二是从微软专属走向开源。C# 总能在关键时刻及时演进，持续保持活力。
