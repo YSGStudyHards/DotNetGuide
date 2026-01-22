@@ -476,6 +476,114 @@ namespace HelloDotNetGuide.CSharp语法
         }
 
         #endregion
+
+        #region SelectMany 和 Select
+
+        /// <summary>
+        /// 演示 SelectMany 和 Select 方法的区别与用法
+        /// </summary>
+        public static void SelectManyAndSelectExamples()
+        {
+            var students = new List<StudentInfo>
+            {
+                new StudentInfo
+                {
+                    StudentID=1,
+                    StudentName="大姚",
+                    Courses = new List<Course>
+                    {
+                        new Course { CourseID = 101, CourseName = "语文" },
+                        new Course { CourseID = 102, CourseName = "数学" }
+                    }
+                },
+                new StudentInfo
+                {
+                    StudentID=2,
+                    StudentName="李四",
+                    Courses = new List<Course>
+                    {
+                        new Course { CourseID = 101, CourseName = "语文" },
+                        new Course { CourseID = 103, CourseName = "地理" }
+                    }
+                }
+            };
+
+            // 使用 SelectMany 展平课程列表（去重可加 Distinct()）
+            var allCourses = students.SelectMany(student => student.Courses).ToList();
+            Console.WriteLine("使用 SelectMany 展平课程列表:");
+            foreach (var course in allCourses)
+            {
+                Console.WriteLine(course.CourseName);
+            }
+
+            // 使用 Select 获取嵌套的课程列表
+            var nestedCourses = students.Select(student => student.Courses).ToList();
+            Console.WriteLine("使用 Select 获取嵌套的课程列表:");
+            foreach (var courseList in nestedCourses)
+            {
+                Console.WriteLine("课程列表:");
+                foreach (var course in courseList)
+                {
+                    Console.WriteLine(course.CourseName);
+                }
+            }
+
+            var nestedLists = new List<List<int>>
+            {
+                new List<int> { 1, 2 },
+                new List<int> { 3, 4, 5 },
+                new List<int> { 6,7,8,9,10 }
+            };
+
+            var flattened = nestedLists.SelectMany(x => x).ToList();
+
+            //  输出结果: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+            Console.WriteLine(string.Join(", ", flattened));
+        }
+
+        /// <summary>
+        /// SelectMany 字符串处理
+        /// </summary>
+        public static void StringProcessingExample()
+        {
+            var sentences = new List<string>
+            {
+                "Hello world",
+                "LINQ is powerful",
+                "SelectMany flattens"
+            };
+
+            var words = sentences
+                .SelectMany(sentence => sentence.Split(' '))
+                .Where(word => !string.IsNullOrEmpty(word))
+                .ToList();
+
+            // 拆分句子为单词
+            // 输出结果: Hello, world, LINQ, is, powerful, SelectMany, flattens
+            Console.WriteLine(string.Join(", ", words));
+        }
+
+        /// <summary>
+        /// SelectMany 生成笛卡尔积(慎用大集合)
+        /// </summary>
+        public static void CartesianProductExample()
+        {
+            var numbers = new[] { 1, 2, 3, 4 };
+            var letters = new[] { "A", "B", "G", "Y" };
+
+            // 所有 (number, letter) 组合
+            var combinations = numbers
+                .SelectMany(
+                    num => letters,
+                    (num, letter) => $"{num}{letter}"
+                )
+                .ToList();
+
+            // 输出结果: 1A, 1B, 1G, 1Y, 2A, 2B, 2G, 2Y, 3A, 3B, 3G, 3Y, 4A, 4B, 4G, 4Y
+            Console.WriteLine(string.Join(", ", combinations));
+        }
+
+        #endregion
     }
 
     public class Employee

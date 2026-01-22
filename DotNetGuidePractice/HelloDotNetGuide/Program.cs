@@ -65,6 +65,9 @@ namespace HelloDotNetGuide
             //LinqExercise.CommonMethodsInLINQ();
             //LinqExercise.ToDictionaryExamples();
             //LinqExercise.ToLookupExamples();
+            //LinqExercise.SelectManyAndSelectExamples();
+            //LinqExercise.StringProcessingExample();
+            //LinqExercise.CartesianProductExample();
 
             #endregion
 
