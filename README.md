@@ -597,6 +597,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [清华大学推出第六讲：使用DeepSeek赋能家庭教育，开启智能育儿新时代！](https://mp.weixin.qq.com/s/KT3P-L1SNtF8rSjGOF2edA)
 * [我的公众号接入了DeepSeek-R1模型，成为了一个会深度思考的强大.NET AI智能体！](https://mp.weixin.qq.com/s/K1SJGSHLxDS_Qa17wo43EA)
 * [⾄顶 AI 实验室推出的 DeepSeek 完全实用手册（207页包含技术原理，使用技巧，部署进展）](https://mp.weixin.qq.com/s/hsBr9gRiMMLqf-QKQ4oDDQ)
+* [微软官方出品的 AI 初学者入门精品课程，21节课程教你构建生成式人工智能应用所需掌握的知识！](https://mp.weixin.qq.com/s/zy16qmxDPbxovRwHvKae6g)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
