@@ -1570,9 +1570,9 @@
 #### 图片查看工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [ImageGlass](https://github.com/d2phap/ImageGlass) | ImageGlass 是一款轻量级、跨格式、功能丰富的开源图像查看器，专为 Windows 平台设计，旨在为用户提供简洁、直观且高效的图像浏览体验。该项目由开发者 d2phap 主导维护，采用现代 .NET 技术栈构建，支持超过 88 种常见图像格式，包括 WEBP、GIF、SVG、PNG、JXL、HEIC 等，广泛适用于个人用户、设计师及开发人员。 | https://github.com/d2phap/ImageGlass |
-|  2  | [SVGImage](https://github.com/dotnetprojects/SVGImage) | SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。 | https://github.com/dotnetprojects/SVGImage |
-|  3  |  |  |  |
+|  1  | [PicView](https://github.com/Ruben2776/PicView) | PicView 是一款基于 .NET Avalonia 的开源免费、快速、可高度定制、跨平台的图片查看器，支持 macOS 和 Windows 10/11 操作系统。它支持几乎所有常见的图像文件类型，包括但不限于 (animated)WEBP、(animated)GIF、SVG、AVIF、HEIC、PSD 等，为用户提供了一个清洁、无干扰且高效的图片浏览体验。 | https://github.com/Ruben2776/PicView |
+|  2  | [ImageGlass](https://github.com/d2phap/ImageGlass) | ImageGlass 是一款轻量级、跨格式、功能丰富的开源图像查看器，专为 Windows 平台设计，旨在为用户提供简洁、直观且高效的图像浏览体验。该项目由开发者 d2phap 主导维护，采用现代 .NET 技术栈构建，支持超过 88 种常见图像格式，包括 WEBP、GIF、SVG、PNG、JXL、HEIC 等，广泛适用于个人用户、设计师及开发人员。 | https://github.com/d2phap/ImageGlass |
+|  3  | [SVGImage](https://github.com/dotnetprojects/SVGImage) | SVGImage 是一个为 WPF（Windows Presentation Foundation）应用程序设计、开源（MIT license）、免费的 SVG（Scalable Vector Graphics）图像查看控件。 | https://github.com/dotnetprojects/SVGImage |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
