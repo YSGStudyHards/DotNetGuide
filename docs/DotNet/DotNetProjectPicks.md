@@ -617,7 +617,7 @@
 |  18  | [WTM](https://github.com/dotnetcore/WTM) | WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。 | https://github.com/dotnetcore/WTM |
 |  19  | [ApeVolo.Admin](https://github.com/xianhc/ApeVolo.Admin) | ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、更适用企业级系统开发，助力快速完成常规业务需求开发。 | https://github.com/xianhc/ApeVolo.Admin |
 |  20  | [HzyAdmin](https://github.com/hzy-6/hzy-admin) | HzyAdmin 是前后端分离权限管理系统基架。 | https://github.com/hzy-6/hzy-admin |
-|  21  | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | 基于Furion/.NET 7实现的通用管理平台（RBAC模式）。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成Sqlsugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、工作流等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
+|  21  | [Magic.NET](https://gitee.com/zhengguojing/magic-net) | Magic.NET 是一个基于 .NET 6、7 实现的通用权限管理平台（RBAC模式），基于 Apache-2.0 协议开源。整合最新技术高效快速开发，前后端分离模式，开箱即用，模块化架构设计，层次清晰。前端基于小诺Vue（antd）框架，整体 RBAC 基础数据结构+API接口风格采用小诺vue版本模式。代码简洁、易扩展，让开发更简单、更通用、更流行！  | https://gitee.com/zhengguojing/magic-net |
 |  22  | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) | Colder.Admin.AntdVue是一个基于.NET5 + Ant Design Vue开源的Web后台快速开发框架。 | https://github.com/Coldairarrow/Colder.Admin.AntdVue |
 |  23  | [Known](https://gitee.com/known/Known) | Known 是一个基于 .NET Blazor 开源（Apache License）的轻量级、跨平台、低代码、易扩展的插件开发框架。它旨在帮助开发者快速构建和扩展应用程序，提供了一整套工具和组件，从前端到后端全栈支持。 | https://gitee.com/known/Known |
 |  24  | [Purest Admin](https://github.com/dymproject/purest-admin) | Purest Admin 是一个基于 .NET 8 + Vue3 实现的前后端分离、极简 RABC 权限管理系统，基于 LGPL-3.0 协议开源，后端在 ABP 框架的设计上进行了精简和改良，前端基于 vue-pure-admin，前端极强的表格框架 vxe-table，旨在为 .NET 开发者提供一套简洁、高效、可扩展的快速开发解决方案。 | https://github.com/dymproject/purest-admin |
@@ -824,7 +824,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [MicroOA](https://github.com/HalngYao/MicroOA) | MicroOA是一款基于.NET开源的OA系统，她不需要您具备专业的开发知识或开发经验，通过页面交互式即可实现动态搭建表单、动态搭建审批流的微型办公自动化系统，画面简洁清爽，功能强大。 | https://gitee.com/shueer/MicroOA |
 |  2  | [OneLotus](https://gitee.com/qikj/QJ_Single) | OneLotus信息化平台基于.NET 架构，能够很大程度上节约企业软件开发成本，用户可以直接使用平台已有功能进行信息化建设，框架提供了完整的用户管理，权限管理，表单引擎，流程引擎，报表引擎和信息管理体系，可以大大减化企业信息化建设成本和业务应用开发难度。 | https://www.yuque.com/yibulianhua/lotus/xx0iqe |
-|  3  |  |  |  |
+|  3  | [SmoONE](https://gitee.com/smobiler/SmoONE) | SmoONE是一个基于 .NET 开源的移动办公自动化（OA）应用，集成了注册、登录、用户信息管理等基本功能，并涵盖了报销、请假、部门管理、成本中心等OA系统中常用的核心功能。 | https://gitee.com/smobiler/SmoONE |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
@@ -878,8 +878,10 @@
 |  2  | [TulingMember](https://gitee.com/a106_admin/tuling-member) | TulingMember 是一款使用 .NET 6 开发，基于 Furion 框架与 ViewUI 构建的极简进销存管理系统。该项目旨在为企业提供一套轻量级、易扩展、易维护的进销存解决方案，帮助企业高效管理商品、销售、采购、库存及财务等核心业务。 | https://gitee.com/a106_admin/tuling-member |
 |  3  | [jxc](https://gitee.com/wkjerry_admin/jxc) | 该项目使用CS架构客户端使用winform开发并使用UI框架Devexpress。服务端使用.net6.0 webapi开发。客户端和服务端通过http接口交互。使用Mysql数据库，ORM框架sqlsugar使用ioc容器对对象管理使用.net内置过滤器对异常和权限进行统一处理。功能包括：基础数据,入库管理，出库管理，库存管理，统计报表，往来帐款，系统设置。 | https://gitee.com/wkjerry_admin/jxc |
 |  4  | [JxcLite](https://gitee.com/known/JxcLite) | JxcLite 是一个基于 Known 框架开发（基于 .NET Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架）、Apache License 开源的简易、轻量级的进销存管理系统。 | https://gitee.com/known/JxcLite |
-|  5  |  |  |  |
+|  5  | [诺ERP](https://gitee.com/molan68/nerp) | 诺ERP 是一套 .NET 开源、通用的 ERP（企业资源计划）解决方案，适用于多种行业和企业规模。 | https://gitee.com/molan68/nerp |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1461,7 +1463,7 @@
 |  8  | [PixiEditor](https://github.com/PixiEditor/PixiEditor) | PixiEditor 是一款基于 .NET 构建、开源（LGPL-3.0 license）、功能强大、通用的 2D 图形编辑器，旨在为您提供满足所有 2D 需求的工具和功能。为您的游戏、动画创建精美的精灵，编辑图片，设计标志。所有功能都集成在一个直观且熟悉的界面中。 | https://github.com/PixiEditor/PixiEditor |
 |  9  | [DCWriterLite](https://github.com/dotNetTreasury/DCWriterLite) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。 | https://github.com/dotNetTreasury/DCWriterLite |
 |  10 | [STNodeEditor](https://github.com/DebugST/STNodeEditor) | STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。 | https://github.com/DebugST/STNodeEditor |
-|  11 |  |  |  |
+|  11 | [简兮编辑器](https://gitee.com/omnc/JianXiEditor) | 简兮编辑器是一个基于WPF开发的代码编辑器，专为Windows 7及以上系统设计。它提供了一系列现代化的编辑功能，旨在提升开发者的编码效率和体验。 | https://gitee.com/omnc/JianXiEditor |
 |  12 |  |  |  |
 |  13 |  |  |  |
 |  14 |  |  |  |
@@ -2261,7 +2263,7 @@
 |  4  | [DarkUI](https://github.com/RobinPerris/DarkUI) | DarkUI 是一个为.NET WinForms开发的深色主题控件和停靠功能库，旨在帮助开发者创建具有现代和专业外观的应用程序界面。 | https://github.com/RobinPerris/DarkUI |
 |  5  | [HZHControls](https://github.com/kwwwvagaa/NetWinformControl) | HZHControls 是一个.NET WinForm自定义控件，对触屏具有更好的操作支持，项目是基于FrameWork4.0，完全原生控件开发，没有使用任何第三方控件，你可以放心的用在你的项目中（注意：基于 MPL2.0 协议开源，源码仅用于交流学习）。 | https://github.com/kwwwvagaa/NetWinformControl |
 |  6  | [SunnyUI](https://github.com/yhuse/SunnyUI) | SunnyUI 是一个基于.NET Framework 4.0+、.NET6、.NET8、.NET9 框架的 C# WinForm UI、开源控件库、工具类库、扩展类库、多页面开发框架（注意：基于GPL-3.0 license开源，个人学习交流免费）。 | https://github.com/yhuse/SunnyUI |
-|  7  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI 是一个开源、免费（MIT License）的 .NET 项目，它适用于希望使用HTML5、CSS3和JavaScript等前端技术来构建Windows窗体应用用户界面的.NET/.NET Core开发人员。 | https://github.com/XuanchenLin/NanUI |
+|  7  | [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI 是一个基于 .NET 平台的开源（MIT License）框架，旨在帮助开发者使用 HTML5、CSS3 和 JavaScript 构建具有现代感的 WinForm 应用程序用户界面。它底层依托于 Xilium.CefGlue 这是 Chromium Embedded Framework（CEF）在 .NET 环境下的官方绑定实现，通过嵌入完整的 Chromium 渲染引擎，使 WinForm 应用能够呈现 Web 技术驱动的富交互界面。 | https://github.com/XuanchenLin/NanUI |
 |  8 | [WinForm.UI](https://github.com/YuanJianTing/WinForm.UI) | WinForm.UI 是一款开源、免费的 WinForm 皮肤，自定义控件。 | https://github.com/YuanJianTing/WinForm.UI |
 |  9  | [XiaoCai.WinformUI](https://github.com/aganqin/XiaoCai.WinformUI) | XiaoCai.WinformUI 主要是解决用户界面和布局的套件，能够快速进行合理性布局，美化用户界面。 | https://github.com/aganqin/XiaoCai.WinformUI |
 |  10  | [winforms-modernui](https://github.com/peters/winforms-modernui) | winforms-modernui 项目是一个将Windows 8的现代UI（Metro UI）风格引入到.NET Windows Forms应用程序中的开源项目，通过MetroFramework库提供丰富的现代UI控件和组件。 | https://github.com/peters/winforms-modernui |
