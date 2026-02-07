@@ -13,6 +13,12 @@ namespace HelloDotNetGuide
         {
             Console.WriteLine("欢迎来到DotNetGuide练习空间！！！");
 
+            #region ExtensionMethodExercise
+
+            //ExtensionMethodExercise.CheckEmail();
+
+            #endregion
+
             #region ParallelExample
 
             //ParallelExample.ParallelForExample();
