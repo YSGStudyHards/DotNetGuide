@@ -11,6 +11,47 @@
 * [🔔C#/.NET/.NET Core优秀项目和框架GitHub精选](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md)
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
+# 2026年
+## 1月
+### 公众号1月简报
+* **C#/.NET/.NET Core优秀项目和框架2026年1月简报：** 
+
+### PicView
+* **项目简介：** PicView 是一款基于 .NET Avalonia 的开源免费、快速、可高度定制、跨平台的图片查看器，支持 macOS 和 Windows 10/11 操作系统。它支持几乎所有常见的图像文件类型，包括但不限于 (animated)WEBP、(animated)GIF、SVG、AVIF、HEIC、PSD 等，为用户提供了一个清洁、无干扰且高效的图片浏览体验。
+* **项目源码地址：** https://github.com/Ruben2776/PicView
+* **项目详细介绍：** https://mp.weixin.qq.com/s/eFQoxqJqbpQAPGpVaXd6Wg
+
+### NanUI
+* **项目简介：** NanUI 是一个基于 .NET 平台的开源（MIT License）框架，旨在帮助开发者使用 HTML5、CSS3 和 JavaScript 构建具有现代感的 WinForm 应用程序用户界面。它底层依托于 Xilium.CefGlue 这是 Chromium Embedded Framework（CEF）在 .NET 环境下的官方绑定实现，通过嵌入完整的 Chromium 渲染引擎，使 WinForm 应用能够呈现 Web 技术驱动的富交互界面。
+* **项目源码地址：** https://gitee.com/dotnetchina/NanUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/2PDN5Q31wX6vEctodVKcig
+
+### Generative-AI-for-beginners-dotnet
+* **项目简介：** Generative-AI-for-beginners-dotnet 是一个微软官方开源且实用课程，教你如何在.NET 中构建生成式人工智能应用。
+* **项目源码地址：** https://github.com/microsoft/Generative-AI-for-beginners-dotnet
+* **项目详细介绍：** https://mp.weixin.qq.com/s/zy16qmxDPbxovRwHvKae6g
+
+### XAML Studio
+* **项目简介：** XAML Studio 是一款专为 WinUI XAML 设计的快速原型设计工具，基于 C# 开源（MIT license），生成的代码可轻松复制到 Visual Studio 中的应用中。XAML Studio 让你实时预览 XAML 代码，并与结果互动，就像它在你自己的应用中运行一样。
+* **项目源码地址：** https://github.com/dotnet/XAMLStudio
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Kf_MrpoC-I7UbhmUNLusow
+
+### Codist
+* **项目简介：** Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。
+* **项目源码地址：** https://github.com/wmjordan/Codist
+* **项目详细介绍：** https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw
+
+### PropertyTools
+* **项目简介：** PropertyTools 是一款开源（MIT license）、免费的 WPF 自定义控件集，该控件集涵盖了 PropertyGrid、DataGrid、支持多选的 TreeView、ColorPicker 等常用控件。
+* **项目源码地址：** https://github.com/PropertyTools/PropertyTools
+* **项目详细介绍：** https://mp.weixin.qq.com/s/fLsTZWyY1W7UFJWCmIa4mQ
+
+### WMES
+* **项目简介：** WMES 是一套基于 ASP.NET 6.0 MVC + SqlSugar + LayUI 的框架，源代码完全开源。该系统旨在帮助企业解决 C#.NET 项目的重复工作，提高开发效率，节省人力成本，同时保持高度的灵活性。系统支持多数据库类型，模块化设计，层次结构清晰，内置一系列企业信息管理的基础功能。
+* **项目源码地址：** https://gitee.com/bzh/wmes
+* **项目详细介绍：** https://mp.weixin.qq.com/s/sYCB90ss0sRiOS17F-fdhg
+
+
 # 2025年
 ## 12月
 ### 公众号12月简报
