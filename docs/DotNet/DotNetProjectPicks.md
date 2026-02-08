@@ -282,9 +282,14 @@
 |  15 | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) | PetaPoco 是一个用于 .NET（4、4.5+、net standard 2.0+）和 Mono 的微型、快速、易于使用的 micro-ORM。由于 PetaPoco 所代表的简单性和易用性，它受到许多人的喜爱。PetaPoco 是首选的微 ORM，也是任何体面的开发人员工具包中必不可少的实用程序。 | https://github.com/CollaboratingPlatypus/PetaPoco |
 |  16 |  [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)  | OrmLite是一个快速、简单、类型化的.NET ORM，OrmLite 的目标是提供一个方便、DRY、无配置、与 RDBMS 无关的类型包装器，该包装器与 SQL 保持高度亲和性，公开直观的 API，生成可预测的 SQL 并干净地映射到断开连接和数据传输对象 (DTO) 友好、普通的旧C# 对象 (POCO)。这种方法更容易推理您的数据访问，从而清楚地知道什么 SQL 在什么时间执行，同时减轻意外行为、隐式 N+1 查询和重对象关系映射器 (ORM) 中普遍存在的泄漏数据访问。 | https://github.com/ServiceStack/ServiceStack.OrmLite |
 |  17 | [NPoco](https://github.com/schotime/NPoco) | NPoco是一个开源、轻量级的.NET ORM（对象关系映射）库，用于简化数据库操作。它通过将数据库中的列名映射到C#对象的属性名来工作，这种映射是大小写不敏感的，因此无需进行额外的映射设置即可执行查询。 | https://github.com/schotime/NPoco |
-|  18 |  |  |  |
-|  19 |  |  |  |
+|  18 | [Bitter.Core](https://github.com/DavidChild/Bitter.Core.Orm.NetCore) | Bitter.Core 是一个开源、简单易用、高效能的 .NET CORE/.NET Framework 数据库持久化框架（ORM）。 | https://github.com/DavidChild/Bitter.Core.Orm.NetCore |
+|  19 | [Tortuga.Chain](https://github.com/TortugaResearch/Tortuga.Chain) | 一个面向 .NET 的流畅 ORM。 | https://github.com/TortugaResearch/Tortuga.Chain |
 |  20 |  |  |  |
+|  21 |  |  |  |
+|  22 |  |  |  |
+|  23 |  |  |  |
+|  24 |  |  |  |
+|  25 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
