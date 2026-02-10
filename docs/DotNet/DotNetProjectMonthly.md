@@ -14,7 +14,7 @@
 # 2026年
 ## 1月
 ### 公众号1月简报
-* **C#/.NET/.NET Core优秀项目和框架2026年1月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2026年1月简报：** [https://mp.weixin.qq.com/s/thrLBkbvKoYTmwwyaZ9c_g](https://mp.weixin.qq.com/s/thrLBkbvKoYTmwwyaZ9c_g)
 
 ### PicView
 * **项目简介：** PicView 是一款基于 .NET Avalonia 的开源免费、快速、可高度定制、跨平台的图片查看器，支持 macOS 和 Windows 10/11 操作系统。它支持几乎所有常见的图像文件类型，包括但不限于 (animated)WEBP、(animated)GIF、SVG、AVIF、HEIC、PSD 等，为用户提供了一个清洁、无干扰且高效的图片浏览体验。
