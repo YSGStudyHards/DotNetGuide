@@ -1226,14 +1226,14 @@
 #### 远程桌面工具
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
-|  1  | [1Remote](https://github.com/1Remote/1Remote) |  1Remote是一款基于 .NET 开源（GPL-3.0 license）、免费、现代的远程会话管理和启动器，它让你能够在任何时候快速开启一个远程会话。目前 PRemoteM 已支持 微软远程桌面(RDP)、VNC、SSH、Telnet、SFTP, FTP, RemoteApp 等协议。| https://github.com/1Remote/1Remote |
-|  2  | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG是一款基于 .NET 开源（GPL-2.0 license）、免费、功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、VNC、SSH 等多种主流协议、并且提供了标签式界面，用户可同时管理和切换多个远程连接。 | https://github.com/mRemoteNG/mRemoteNG |
-|  3  | [Quasar](https://github.com/quasar/Quasar) | Quasar是一个.NET开源、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。 | https://github.com/quasar/Quasar |
-|  4  | [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) | 一款适用于 Windows C# 的开源远程管理工具。 | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp |
-|  5  | [Remotely](https://github.com/immense/Remotely) | 一个基于.NET 8、Blazor和SignalR构建的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
-|  6  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
-|  7  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
-|  8  | [P2P](https://github.com/miroslavpejic85/p2p) | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
+|  1  | [1Remote](https://github.com/1Remote/1Remote) |  1Remote 是一款基于 .NET 开源（GPL-3.0 license）、免费、现代的远程会话管理和启动器，它让你能够在任何时候快速开启一个远程会话。目前 PRemoteM 已支持 微软远程桌面(RDP)、VNC、SSH、Telnet、SFTP, FTP, RemoteApp 等协议。| https://github.com/1Remote/1Remote |
+|  2  | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG 是一款基于 .NET 开源（GPL-2.0 license）、免费、功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、VNC、SSH 等多种主流协议、并且提供了标签式界面，用户可同时管理和切换多个远程连接。 | https://github.com/mRemoteNG/mRemoteNG |
+|  3  | [Quasar](https://github.com/quasar/Quasar) | Quasar 是一个.NET开源（MIT License）、快速、轻量级远程管理工具。使用范围从用户支持到日常管理工作再到员工监控，Quasar 提供高稳定性和易于使用的用户界面，是您完美的远程管理解决方案。 | https://github.com/quasar/Quasar |
+|  4  | [Remotely](https://github.com/immense/Remotely) | Remotely 是一个基于.NET 8、Blazor和SignalR构建、GPL-3.0 license 开源的远程控制和远程脚本解决方案。 | https://github.com/immense/Remotely |
+|  5  | [P2P](https://github.com/miroslavpejic85/p2p) | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，它采用 UDT 协议，并得益于rendezvous 连接技术，能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ | https://github.com/miroslavpejic85/p2p |
+|  6  | [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) | AsyncRAT-C-Sharp 是一款适用于 Windows C# 的开源远程管理工具。 | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp |
+|  7  | [SiMayRemoteMonitorOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS) | SiMay远程控制管理系统是一个Windows远程控制系统，底层基于IOCP的异步通信模型，实时监控海量客户端，目前功能已实现：逐行扫描远程桌面协助、经典的文件管理、实时远程语音、实时摄像头、经典注册表管理、命令行终端、实时系统进程管理、用户桌面视图墙轮播等功能。并且可捕获UAC、WinLogon桌面。系统实现了中间会话服务器，可支持不同平台多主控端同时监控同一被控端。被控服务端支持绿色启动及以系统服务方式安装，项目完全采用C#.NET开发，代码仅供参考，项目不定时更新。 | https://gitee.com/dotnetchina/SiMayRemoteMonitorOS |
+|  8  | [RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) | 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具。 | https://github.com/xunki/RemoteDesktopManage |
 |  9  |  |  |  |
 |  10  |  |  |  |
 |  11  |  |  |  |
