@@ -19,6 +19,113 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2026年
+## 2月
+### 第 67 期（2026年2.01-2.28）
+#### 一款开源、强大、简单易用的 .NET 假数据生成利器
+- **文章简介：** Bogus 是一个基于著名的 faker.js 移植而来的开源（MIT License） .NET 假数据生成库，它为 .NET 开发者提供了一套强大、简单易用的 API，可快速生成各种类型的模拟数据，支持 40+ 种语言区域本地化，广泛应用于单元测试、数据库填充、原型演示以及示例数据生成等场景。
+- **文章地址：** https://mp.weixin.qq.com/s/c5WOKLc9ki02gxNREVNGww
+
+#### 一个基于 .NET + Vue 实现的通用权限管理平台（RBAC模式），前后端分离模式，开箱即用！
+- **文章简介：** Magic.NET 是一个基于 .NET 6、7 实现的通用权限管理平台（RBAC模式），基于 Apache-2.0 协议开源。整合最新技术高效快速开发，前后端分离模式，开箱即用，模块化架构设计，层次清晰。前端基于小诺Vue（antd）框架，整体 RBAC 基础数据结构+API接口风格采用小诺vue版本模式。
+- **文章地址：** https://mp.weixin.qq.com/s/dTQ6WjMoTj86RUSVYrfAwg
+
+#### 一款基于 .NET  Avalonia 开源、功能强大、跨平台的班级大屏课表展示系统
+- **文章简介：** ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/mQXphg3Dws6AH6b20qiKqQ
+
+#### 一款使用 C# 编写专为 Windows 11 打造的文件资源管理器增强工具！
+- **文章简介：** ExplorerTabUtility 是一款使用 C# 编写专为 Windows 11 文件资源管理器设计的增强型工具，开源免费（MIT license），旨在解决原生标签页功能在多窗口管理和工作流组织方面的不足。该工具通过系统级集成与 COM 接口交互，实现了对文件资源管理器窗口行为的精细化控制，显著提升用户在高频文件操作场景下的效率与体验。
+- **文章地址：** https://mp.weixin.qq.com/s/eTfj1kjoRHUd4-wrWVF9bQ
+
+#### C# 中的 Span 和内存：.NET 中的高性能内存处理
+- **文章简介：** 现代 .NET 应用对性能的要求越来越高，尤其是在处理大数据、文件处理、网络通信和实时系统等场景下。传统的基于数组和字符串的内存处理方式常常会产生不必要的内存分配，这不仅增加了内存使用量，还会显著降低应用性能。为了解决这些问题，C# 引入了 Span 和 Memory 这两种类型，它们提供了一种快速高效的内存处理方式，无需进行额外的内存分配。这些类型允许开发者安全高效地操作数据切片，既提升了性能，又减轻了垃圾回收器的压力。本文将深入探讨 Span 和 Memory 的工作原理、关键特性、使用场景以及性能优势，帮助 .NET 开发者更好地理解和运用这些高性能内存处理工具。
+- **文章地址：** https://www.cnblogs.com/powertoolsteam/p/19632396
+
+#### C# 实现简版 Claude Code | Bash 就是一切（1）
+- **文章简介：** 该系列文章基于 github.com/shareAI-lab/learn-claude-code 写就，该仓库以大道至简的风格剖析了Claude Code的核心原理，值得大家学习。由于该仓库是基于Python语言，为方便.NET开发者学习，我已经将代码基于.NET 10的dotnet file 重写，源码已上传至github，源码地址见文末。
+- **文章地址：** https://mp.weixin.qq.com/s/f3-3SP_UEadwo507K86wSQ
+
+#### 使用了两个月VS2026，是什么体验？
+- **文章简介：** 我从VS2008开始使用，期间经历了VS2010、VS2013、VS2015、VS2017、VS2019、VS2022多个版本，再到最新的VS2026。不知不觉使用Visual Studio 2026已经2个多月了，今天跟大家分享一下我的直观感受。
+- **文章地址：** https://mp.weixin.qq.com/s/kqm3KnXfo8HI9glsCMgV7A
+
+#### 将 SignalR 移植到 Esp32 让小智设备无缝连接 .NET 功能拓展 MCP 服务
+- **文章简介：** 将 SignalR 移植到 Esp32 让小智设备无缝连接 .NET 功能拓展 MCP 服务。
+- **文章地址：** https://mp.weixin.qq.com/s/B60oObjrGY21i2pmBHBtgg
+
+#### 深入理解 C# 集合接口：IEnumerable、IEnumerator、ICollection 与 IList 的层次与实战
+- **文章简介：** 在日常开发中，我们几乎每天都在和集合打交道。写 LINQ、传参数、返回结果时，总会看到 IEnumerable<T>、IList<T>、ICollection<T> 这些接口。很多人用得很熟，但一旦被问到：“为什么这里不用 List，而要用 IList？”“LINQ 为什么一定返回 IEnumerable？”，往往就说不太清楚了。
+- **文章地址：** https://mp.weixin.qq.com/s/fZCEFRy7YN7hAn-jWjy4AA
+
+#### 分享 4 款基于 .NET 开源免费的远程桌面控制工具！
+- **文章简介：** 在远程办公和系统运维日益普及的今天，远程桌面控制工具已成为开发者和IT管理员不可或缺的利器。今天大姚给大家分享 4 款基于 .NET 开源且免费的远程桌面控制工具，它们不仅代码开放、功能实用，还支持二次开发与定制，非常适合对安全性、可控性有较高要求的技术团队或个人使用。
+- **文章地址：** https://mp.weixin.qq.com/s/xo1Uh3tA8qVAVAg6U8gdLg
+
+#### .NET 11 Preview 1 发布：全面解析技术更新
+- **文章简介：** 微软于 2026 年 2 月 10 日正式发布 .NET 11 Preview 1，这是继 .NET 10 之后的首个预览版本。本次更新涵盖运行时、库、SDK、语言特性、ASP.NET Core、Blazor、.NET MAUI 和 Entity Framework Core 等多个领域，带来了大量性能优化和新功能。
+- **文章地址：** https://mp.weixin.qq.com/s/TvXVNwxKx3YEZYSBxMiVBQ
+
+#### 精选 5 款基于 .NET 开源的 Visual Studio 实用插件！
+- **文章简介：** 在 .NET 开发过程中，Visual Studio 作为主流集成开发环境（IDE），其强大的扩展能力极大地提升了开发效率与代码质量。今天大姚给大家分享 5 款基于 .NET 开源的 Visual Studio 实用插件。
+- **文章地址：** https://mp.weixin.qq.com/s/YNr8oogJMi5n_6NhYhJ38Q
+
+#### 一套基于 ASP.NET 8.0 MVC + API + SqlSugar + LayUI 的框架，源代码完全开源！
+- **文章简介：** WaterCloud 是一套基于 ASP.NET 8.0 MVC + API + SqlSugar + LayUI 的框架，其源代码完全开源。该框架旨在帮助开发者解决 C#.NET 项目中的重复工作，提高开发效率，降低学习成本，并支持完全的二次开发，使开发更加聚焦于业务逻辑。
+- **文章地址：** https://mp.weixin.qq.com/s/izBoELnOPP8EVpvyADkxZg
+
+#### 一个基于 .NET 构建、功能强大、灵活的跨平台开发框架
+- **文章简介：** Uno Platform 是一个开源的开发者平台，用于构建基于单一代码库的 .NET 应用程序，这些应用程序能够原生运行在 Web、桌面、移动和嵌入式系统上。它利用 WinUI 3 API 表面，使开发者能够重用现有的 C# 和 XAML 技能来覆盖所有平台。Uno Platform 得到了超过 300 名贡献者的信任，并被丰田、微软和 Kahua 等企业客户用于关键任务应用。该项目拥有约 10,000 个 GitHub 星星和超过 1.3 亿次 NuGet 下载，是专业级开发的可靠基础。
+- **文章地址：** https://mp.weixin.qq.com/s/ncVkkq20C9Jo00mEQcLY-A
+
+#### 在 .NET 中使用 Ollama 从图片提取结构化数据
+- **文章简介：** 视觉模型（LLM）能否从杂货店收据中解析出结构化数据？不只是描述图片内容，还要真正提取出商品明细、数量和价格，生成干净的 JSON，并且全部在本地通过 Ollama 和 llama3.2-vision 模型完成。
+- **文章地址：** https://mp.weixin.qq.com/s/O5zWQr1bSL3AJIV-XSi4RA
+
+#### C# 14 新特性：field 关键字实现半自动化属性
+- **文章简介：** C# 14 即将随 .NET 10 一起在 2025 年 11 月发布，其中最令人期待的特性之一就是全新的 field 关键字。这个特性填补了自动属性（auto property）与完整属性（full property）之间的空白，让开发者能够在不显式声明后备字段的情况下为属性访问器添加自定义逻辑。
+- **文章地址：** https://mp.weixin.qq.com/s/1KYTjC21aN3sduMuZulUfg
+
+#### 一个 .NET 开源、免费、功能强大的 PDF 处理神器
+- **文章简介：** PDF 补丁丁（PDFPatcher）是一款功能强大且永久免费的 .NET 开源 PDF 处理工具。它集成了多种 PDF 文档处理功能，旨在为用户提供一站式的 PDF 文档编辑、合并、拆分、转换等解决方案。
+- **文章地址：** https://mp.weixin.qq.com/s/uiA5wxlaveNLC2_SOEnaOA
+
+#### .NET Framework 3.5 在新版本 Windows 中转向独立部署
+- **文章简介：** .NET Framework 3.5 在未来 Windows 版本中的部署模式正在发生变化。从 Windows 11 Insider Preview Build 27965 开始，.NET Framework 3.5 必须作为独立安装程序获得，不再作为可选的 Windows 组件包含。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/
+
+#### .NET 和 .NET Framework 2026 年 2 月的服务更新
+- **文章简介：** 欢迎来到我们 2026 年 2 月的联合.NET 服务更新。让我们进入.NET 和.NET Framework 的最新版本，这里简要介绍一下我们服务版本中的新内容。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/
+
+#### GitHub Copilot Testing for .NET 将 AI 驱动单元测试带入 Visual Studio 2026
+- **文章简介：** GitHub Copilot 为 .NET 测试，使生成高质量单元测试变得更快、更方便，而无需离开你的代码。今天，我们很高兴地宣布，这项功能现已在 Visual Studio 2026 v18.3 中正式可用。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/
+
+#### .NET 中的矢量数据——人工智能构建模块第二部分
+- **文章简介：** 欢迎回到.NET 系列中 AI 的构建模块！ 在第一部分中，我们探讨了 Microsoft Extensions for AI（MEAI）及其如何为大型语言模型提供统一的界面。今天，我们将深入探讨第二个构建模块：Microsoft.Extensions.VectorData。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/
+
+#### 搭建一套.net下能落地的飞书考勤系统 
+- **文章简介：** 去年给公司做 HR 系统选型，最终选择了飞书考勤。但用了两个月后发现——原生功能再强，也架不住企业那些奇奇怪怪的业务规则。比如：我们公司的请假审批要过三级（直属领导→部门负责人→HR），但飞书考勤的审批流只支持两级。还有，我们的薪资系统需要实时同步考勤数据做工资计算，但飞书没有开放这种级别的 API 集成。最后只能自己开发一个中间层，把飞书考勤和内部系统打通。这篇笔记就是这段时间踩坑总结下来的。如果你也在做类似的事情，这篇文章能帮你避开几个坑。
+- **文章地址：** https://www.cnblogs.com/mudtools/p/19644135
+
+#### .NET 10 & C# 14 New Features 新增功能介绍-再看Top Level Program
+- **文章简介：** .NET 10 & C# 14 New Features 新增功能介绍-再看Top Level Program。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19629574
+
+#### .NET 11 预览版 1 中的新兴架构演进：RISC-V 与 LoongArch 支持的深度技术解析与生态展望
+- **文章简介：** 进入 2026 年，全球微处理器指令集架构（ISA）的版图正在经历一场深刻的结构性重塑。长期以来由 x86 和 ARM 主导的计算生态，正面临来自开源标准架构 RISC-V 以及具备完全自主知识产权的 LoongArch（龙架构）的强力挑战。在这一宏观技术背景下，现代应用程序运行时的底层适配策略成为了衡量技术生态生命力的关键指标。微软近期发布的.NET 11 预览版 1（Preview 1）及其相关的开源代码库动态，清晰地展示了通用语言运行时（CoreCLR）向这些新兴硬件架构延伸的技术深度与战略考量。在此次更新中，除了常规的库优化、垃圾回收器（GC）堆硬限制以及基于 WebAssembly 的 CoreCLR 基础工作外，底层架构的赋能成为了最受瞩目的核心议题。本文将通过深度解析.NET 11 Preview 1 的官方发布说明、底层代码库（dotnet/runtime）的里程碑进展、编译范式（JIT 与 Native AOT）的演进，以及底层操作系统的协同生态，全面剖析.NET 在 RISC-V 和 LoongArch 架构上的技术实现与战略影响。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19629862
+
+#### .NET 10 & C# 14 New Features 新增功能介绍-带修饰符的简单 lambda 参数
+- **文章简介：** .NET 10 & C# 14 New Features 新增功能介绍-带修饰符的简单 lambda 参数。
+- **文章地址：** https://www.cnblogs.com/tianqing/p/19623024
+
+#### .NET 11 预览版1：CoreCLR 在 WebAssembly 上的全面集成与性能突破
+- **文章简介：** 随着.NET 11 Preview 1 的正式发布，.NET 生态系统迎来了一次具有分水岭意义的基础架构演进。本次发布的核心亮点在于.NET 的 CoreCLR 运行时现在已经能够原生运行在 WebAssembly (WASM) 平台上。这是一个重大的技术突破，标志着微软在跨平台战略上的全面统一 。在过去的迭代中，浏览器端的 WebAssembly 负载高度依赖于从 Xamarin 收购而来的 Mono 运行时。尽管 Mono 在资源受限的环境中表现出色，但其在处理复杂的高吞吐量企业级应用时，与服务器端使用的 CoreCLR 存在显著的性能差距。相比之前仅支持的 Mono 运行时，此次引入的 CoreCLR 为 WebAssembly 环境提供了更卓越的性能和完整的.NET 功能支持，使得 Blazor WebAssembly 应用程序能够突破历史性能瓶颈，获得接近原生应用程序的执行速度。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19629649
+
+
 ## 1月
 ### 第 66 期（2026年1.12-1.18）
 #### 一个致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展插件
