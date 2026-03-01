@@ -1381,7 +1381,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF 补丁丁（PDFPatcher）是一款.NET开源（AGPL）、免费、功能强大的 PDF 处理工具，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等，旨在为用户提供便捷、高效的 PDF 编辑和管理体验。 | https://github.com/wmjordan/PDFPatcher |
 |  2  | [Caly](https://github.com/CalyPdf/Caly)  | Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行（注意：当前项目目前处于 alpha 阶段）。 | https://github.com/CalyPdf/Caly |
-|  3  |  |  |  |
+|  3  | [PdfiumViewer](https://github.com/bezzad/PdfiumViewer) | PdfiumViewer 是一款基于谷歌 PDFium 移植到 .Net Core WPF 的 PDF 浏览器（Apache-2.0 License）。 | https://github.com/bezzad/PdfiumViewer |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
