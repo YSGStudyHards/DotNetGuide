@@ -1214,7 +1214,7 @@
 |  3  | [QTTabBar](https://github.com/indiff/qttabbar) | QTTabBar 是一款基于 .NET 开发的可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，还有给力的文件夹预览功能，大大提高了你工作的效率。就像 IE 7 和 Firefox、Opera 那样的。QTTabBar 还提供了一些功能插件，如：文件操作工具、树型目录、显示状态栏等等。 | https://github.com/indiff/qttabbar |
 |  4 | [FileConverter](https://github.com/Tichau/FileConverter) | FileConverter 是一款基于 .NET 开发的免费（GPL-3.0 license）、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 | https://github.com/Tichau/FileConverter |
 |  5  | [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) | RX-Explorer 是一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 | https://github.com/zhuxb711/RX-Explorer |
-|  6  |  |  |  |
+|  6  | [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | ExplorerTabUtility 是一款使用 C# 编写专为 Windows 11 文件资源管理器设计的增强型工具，开源免费（MIT license），旨在解决原生标签页功能在多窗口管理和工作流组织方面的不足。该工具通过系统级集成与 COM 接口交互，实现了对文件资源管理器窗口行为的精细化控制，显著提升用户在高频文件操作场景下的效率与体验。 | https://github.com/w4po/ExplorerTabUtility |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
