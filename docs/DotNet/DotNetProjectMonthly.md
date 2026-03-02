@@ -12,6 +12,36 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2026年
+## 2月
+### 公众号2月简报
+* **C#/.NET/.NET Core优秀项目和框架2026年2月简报：** 
+
+### ClassIsland
+* **项目简介：** ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。
+* **项目源码地址：** https://github.com/ClassIsland/ClassIsland
+* **项目详细介绍：** https://mp.weixin.qq.com/s/mQXphg3Dws6AH6b20qiKqQ
+
+### Bogus
+* **项目简介：** Bogus 是一个基于著名的 faker.js 移植而来的开源（MIT License） .NET 假数据生成库，它为 .NET 开发者提供了一套强大、简单易用的 API，可快速生成各种类型的模拟数据，支持 40+ 种语言区域本地化，广泛应用于单元测试、数据库填充、原型演示以及示例数据生成等场景。
+* **项目源码地址：** https://github.com/bchavez/Bogus
+* **项目详细介绍：** https://mp.weixin.qq.com/s/c5WOKLc9ki02gxNREVNGww
+
+### Magic.NET
+* **项目简介：** Magic.NET 是一个基于 .NET 6、7 实现的通用权限管理平台（RBAC模式），基于 Apache-2.0 协议开源。整合最新技术高效快速开发，前后端分离模式，开箱即用，模块化架构设计，层次清晰。前端基于小诺Vue（antd）框架，整体 RBAC 基础数据结构+API接口风格采用小诺vue版本模式。
+* **项目源码地址：** https://gitee.com/zhengguojing/magic-net
+* **项目详细介绍：** https://mp.weixin.qq.com/s/dTQ6WjMoTj86RUSVYrfAwg
+
+### ExplorerTabUtility
+* **项目简介：** ExplorerTabUtility 是一款使用 C# 编写专为 Windows 11 文件资源管理器设计的增强型工具，开源免费（MIT license），旨在解决原生标签页功能在多窗口管理和工作流组织方面的不足。该工具通过系统级集成与 COM 接口交互，实现了对文件资源管理器窗口行为的精细化控制，显著提升用户在高频文件操作场景下的效率与体验。
+* **项目源码地址：** https://github.com/w4po/ExplorerTabUtility
+* **项目详细介绍：** https://mp.weixin.qq.com/s/eTfj1kjoRHUd4-wrWVF9bQ
+
+### RestAirline
+* **项目简介：** RestAirline 是一个基于 EventFlow 框架的经典领域驱动设计（DDD）示例项目，采用CQRS（命令查询职责分离）与事件溯源（ES）架构，提供 Hypermedia API 与通用单元测试体系。项目针对ASP.NET Core 3.1框架开发，支持部署到Docker容器及Kubernetes（K8s）平台。
+* **项目源码地址：** https://github.com/twzhangyang/RestAirline
+* **项目详细介绍：** https://mp.weixin.qq.com/s/QH8vo7YftdZH_inXdlkpfg
+
+
 ## 1月
 ### 公众号1月简报
 * **C#/.NET/.NET Core优秀项目和框架2026年1月简报：** [https://mp.weixin.qq.com/s/thrLBkbvKoYTmwwyaZ9c_g](https://mp.weixin.qq.com/s/thrLBkbvKoYTmwwyaZ9c_g)
