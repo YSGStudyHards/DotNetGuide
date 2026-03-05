@@ -14,7 +14,7 @@
 # 2026年
 ## 2月
 ### 公众号2月简报
-* **C#/.NET/.NET Core优秀项目和框架2026年2月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2026年2月简报：** https://mp.weixin.qq.com/s/CiaSWcnZhuY-DKPFklTK-g
 
 ### ClassIsland
 * **项目简介：** ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。
