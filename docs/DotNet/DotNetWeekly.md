@@ -19,6 +19,69 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2026年
+## 3月
+### 第 68 期（2026年3.01-3.08）
+#### 《上海市卫生健康”信息技术应用创新”白皮书》C#/.NET “A组件”认定事件始末与最终结果
+- **文章简介：** 《上海市卫生健康”信息技术应用创新”白皮书》C#/.NET “A组件”认定事件始末与最终结果。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19665927
+
+#### Slickflow.NET 基于 AI 大模型实现智能客服多轮问答系统
+- **文章简介：** 本文介绍基于 Slickflow.NET 工作流引擎与 AI 大模型 实现的 智能客服多轮问答系统。该系统由前端 aichatapp（基于 React 的单页应用，使用纯 JS + JSX 组件）与后端 aichatbackend（ASP.NET Core WebAPI）组成。
+- **文章地址：** https://www.cnblogs.com/slickflow/p/19669586
+
+#### .NET SqlSugar多线程下SqlSugarClient 的线程安全陷阱
+- **文章简介：** .NET SqlSugar多线程下SqlSugarClient 的线程安全陷阱。
+- **文章地址：** https://www.cnblogs.com/kybs0/p/19674369
+
+#### MAUI项目在Android平台通过U盘实现软件更新
+- **文章简介：** 项目使用MAUI开发的用Android工控机进行相关功能的实现。作为操作设备的屏幕嵌入到仪器中，要使用串口操作实现对仪器的控制。想要实现在有软件更新时，可以通过U盘实现对软件的升级。
+- **文章地址：** https://www.cnblogs.com/sesametech-dotnet/p/19674963
+
+#### C# 驱动的开源无人机机载飞控算法
+- **文章简介：** 在无人机（UAV）及多旋翼飞行器工程的传统发展历程中，飞行控制系统（Flight Control System, FCS）的固件开发几乎完全被 C、C++ 和汇编语言等底层非托管语言所垄断。这是因为飞行控制系统本质上是一个硬实时（Hard Real-Time）系统，要求微控制器能够以微秒级的精度处理传感器中断、执行复杂的姿态解算矩阵运算，并以严格的周期（通常为 100 Hz 至 400 Hz，即每 2.5 到 10 毫秒一次）向电子调速器（ESC）输出脉冲宽度调制（PWM）信号。任何计算周期的延迟或抖动（Jitter）都可能导致飞行器失去空气动力学稳定性并坠毁。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19687343
+
+#### 重塑WPF辉煌？基于DirectX 12的现代.NET UI框架Jalium
+- **文章简介：** 你是否曾经幻想过，如果WPF诞生在今天，它的底层渲染会是什么样子？是依然依赖老旧的MilCore，还是拥抱DirectX 12的极致性能？今天要介绍的Jalium，正是这样一个将WPF的设计哲学与现代图形技术融合的实验性项目——它用DirectX 12重新实现了WPF的核心概念，带来了一个完全自研的、面向.NET 10的Windows桌面UI框架。
+- **文章地址：** https://www.cnblogs.com/ruo1101/p/19664140
+
+#### 【译】Visual Studio 二月更新 
+- **文章简介：** 本月的 Visual Studio 更新继续聚焦于帮助您提升效率、保持流畅的工作状态，在人工智能辅助、调试、测试和现代化方面带来了切实的改进。在 1 月份编辑器更新的良好势头基础上，2 月份的版本带来了更智能的诊断功能，并针对从 WinForms 维护到 C++ 现代化等实际开发场景提供了有针对性的支持。
+- **文章地址：** https://www.cnblogs.com/MeteorSeed/p/19659149
+
+#### 如何通过 C# 实现 PDF 文本提取？
+- **文章简介：** 在日常办公和开发中，从 PDF 文件中提取文本是一项高频需求。手动复制粘贴不仅耗时，而且面对大量文档时效率极低。传统的自动化方案往往依赖 Adobe Reader 等外部组件，不仅部署麻烦，遇到加密或扫描件更是难以处理。本文将介绍如何使用免费库 Free Spire.PDF for .NET ，无需安装任何 PDF 阅读器，轻松实现高精度、高可靠性的 PDF 文本提取。我们将从方案对比开始，逐步讲解环境搭建、核心代码实现以及高级应用技巧，并提供可直接运行的示例。
+- **文章地址：** https://www.cnblogs.com/jazz-z/p/19659783
+
+#### MAUI库推荐五：Maui.PDFView
+- **文章简介：** MAUI库推荐五：Maui.PDFView，用于在Android、iOS、MacOS和Windows平台显示PDF文件的库。
+- **文章地址：** https://www.cnblogs.com/sesametech-dotnet/p/19664866
+
+#### ML.NET 快速入门与实践教程：开源机器学习框架
+- **文章简介：** ML.NET 是微软为 .NET 开发者量身打造的机器学习框架，让你无需离开熟悉的 C# 环境，就能将智能功能集成到应用中。本文将从一个简单的成绩预测案例入手，逐步带你掌握数据加载、模型训练、评估和预测的全流程，后面有时间还会介绍能大幅提升效率的 Model Builder 可视化工具。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19658147
+
+#### 【翻译】MAUI 的.NET 11预览版：使用内联C#表达式简化XAML 
+- **文章简介：** 如果你的 MAUI UI 逻辑根本不需要转换器或额外的 ViewModel 属性会怎么样？.NET 11 预览版的 C# 表达式允许你直接在 XAML 中嵌入小型、安全、强类型的 C# 代码片段，以源代码生成的速度清理格式化、仅 UI 数学运算和条件语句。虽然仍处于实验阶段，但非常适合演示和早期探索。
+- **文章地址：** https://www.cnblogs.com/sesametech-dotnet/p/19655820
+
+#### C#AI系列:从零开始打造自己的OpenClaw
+- **文章简介：** 这个项目是参考OpenClaw的CSharp版控制台智能体助手，Aot发布后主体程序7mb大小，另外的Skills文件夹目前自带了浏览器操作、office文件读取等基础工具。用户可自行动态扩展Skills（描述提供地址及操作方式后，即可学会各种技能，比如登录到公司网络报销发票、请假考勤等。注意：部分网站的DOM可能不易交互导致失败）
+- **文章地址：** https://www.cnblogs.com/luojin765/p/19655952
+
+#### C#上位机实现西门子PLC标签通信
+- **文章简介：** 上位机与西门子PLC进行S7通信时，我们必须取消勾选优化的块访问，然后基于地址寻址来实现数据访问。如果不想取消勾选，能不能实现标签通信呢？答案是可以的，有两种方案，一种是OPCUA通信，另一种是S7CommPlus协议。今天跟大家分享一下如何基于S7CommPlus实现标签通信。
+- **文章地址：** https://mp.weixin.qq.com/s/aD6elbLox3BP4_Qiyhi_Fw
+
+#### 一个专门为 .NET 打造的强大、免费、开源的交互式图表库
+- **文章简介：** Plotly.NET 是一个专为 .NET 平台设计的强大、免费且开源的交互式图表库。它支持 C# 和 F# 编程语言，基于 plotly.js 构建，并提供了多个 API 层，使用户能够轻松创建、样式化和渲染美观的数据可视化图表。Plotly.NET 适用于多种应用场景，包括科学计算、数据分析、业务报告等，能够帮助用户快速将数据转化为直观的图形表示。
+- **文章地址：** https://mp.weixin.qq.com/s/UyDa68lMNbCPjg691EfF_A
+
+#### C# 扩展方法只会写 this 吗？C# 14 新语法直接把扩展方法玩出了花
+- **文章简介：** C# 扩展方法只会写 this 吗？C# 14 新语法直接把扩展方法玩出了花。
+- **文章地址：** https://mp.weixin.qq.com/s/iNBMvPCeANsC6ng8HIEy1g
+
+
 ## 2月
 ### 第 67 期（2026年2.01-2.28）
 #### 一款开源、强大、简单易用的 .NET 假数据生成利器
