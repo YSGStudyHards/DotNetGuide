@@ -576,7 +576,7 @@
 |  2  | [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) | AutoUpdater.NET 是一个 .NET 开源类库，允许.NET 开发者轻松为其传统桌面应用程序项目添加自动更新功能（该库仅适用于 WinForms 或 WPF 应用程序项目）。 | https://github.com/ravibpatel/AutoUpdater.NET |
 |  3  | [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | Squirrel.Windows 是一个开源项目，旨在提供一套工具和库来全面管理 Windows 桌面应用程序的安装和更新。该项目适用于使用 C# 或其他语言（如C++）编写的应用程序。Squirrel 利用 NuGet包来创建安装和更新包，使得开发者能够轻松地创建安装程序并发布更新。 | https://github.com/Squirrel/Squirrel.Windows |
 |  4  | [CheckUpdate.Net](https://gitee.com/xcong/CheckUpdate.Net) | CheckUpdate.Net 是一个基于 WinForm 开发的检查桌面应用程序更新的开源项目，可用于 WinForm、WPF，主要功能包括更新文件、更新程序自身、下载安装包等。主要利用 WebClient 下载服务器网站目录下的文件，安全性暂没有考虑，比较适用于小型项目。 | https://gitee.com/xcong/CheckUpdate.Net |
-|  5  |  |  |  |
+|  5  | [GeneralUpdate](https://github.com/GeneralLibrary/GeneralUpdate) | GeneralUpdate 是一个基于 .NET Standard 2.0 的跨平台应用程序自动升级组件（桌面客户端自动升级解决方案），项目遵循 Apache 2.0 协议开源。该组件不依赖任何 UI 框架，旨在减少更新产生的资源消耗。通过提供一键启动示例，帮助开发者快速理解如何将自动升级功能集成到自己的应用程序中。 | https://github.com/GeneralLibrary/GeneralUpdate |
 |  6  |  |  |  |
 |  7  |  |  |  |
 |  8  |  |  |  |
