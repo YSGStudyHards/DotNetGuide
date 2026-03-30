@@ -638,7 +638,7 @@
 |  34  | [Bridge](https://gitee.com/zhengwei1219/bridge) | Bridge 是一个基于 ABP-VNext 开发的用户权限管理系统，集成模块包含：用户权限管理、微信公众号、工作流、定时任务等。 | https://gitee.com/zhengwei1219/bridge |
 |  35  | [WenAntdUI-Admin](https://gitee.com/AntdUI/wen-antd-ui) | WenAntdUI-Admin 是一个基于 AntdUI 构建、基础、现代化的 WinForm 管理系统，基于 Apache-2.0 License 开源，项目包含：AOT发布、字典管理、用户管理、菜单管理、权限管理、用户设置等功能。内部封装了很多常用组件，包含AdminTable等通用组件。 | https://gitee.com/AntdUI/wen-antd-ui |
 |  36  | [RuYiAdmin](https://gitee.com/pang-mingjun/RuYiAdmin) | RuYiAdmin（如意Admin）一款基于 .NET 9 构建的企业级、前后端分离、开源（Apache License） Web RBAC 快速开发框架，具有灵活的架构设计和强大的功能，适用于快速开发高性能的企业级应用，具有低代码、跨平台、分布式、多线程和高性能等特色。 | https://gitee.com/pang-mingjun/RuYiAdmin |
-|  37  |  |  |  |
+|  37  | [ai-recognition-system](https://gitee.com/libihao520/ai-recognition-system) | ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。 | https://gitee.com/libihao520/ai-recognition-system |
 |  38  |  |  |  |
 |  39  |  |  |  |
 |  40  |  |  |  |
