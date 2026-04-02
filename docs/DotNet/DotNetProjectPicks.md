@@ -284,8 +284,8 @@
 |  17 | [NPoco](https://github.com/schotime/NPoco) | NPoco是一个开源、轻量级的.NET ORM（对象关系映射）库，用于简化数据库操作。它通过将数据库中的列名映射到C#对象的属性名来工作，这种映射是大小写不敏感的，因此无需进行额外的映射设置即可执行查询。 | https://github.com/schotime/NPoco |
 |  18 | [Bitter.Core](https://github.com/DavidChild/Bitter.Core.Orm.NetCore) | Bitter.Core 是一个开源、简单易用、高效能的 .NET CORE/.NET Framework 数据库持久化框架（ORM）。 | https://github.com/DavidChild/Bitter.Core.Orm.NetCore |
 |  19 | [Tortuga.Chain](https://github.com/TortugaResearch/Tortuga.Chain) | 一个面向 .NET 的流畅 ORM。 | https://github.com/TortugaResearch/Tortuga.Chain |
-|  20 |  |  |  |
-|  21 |  |  |  |
+|  20 | [NewLife.XCode](https://github.com/NewLifeX/NewLife.XCode) | NewLife.XCode 是一个开源（MIT license）、高性能 .NET 数据中间件/超级ORM，聚焦“添删改查 + 极致性能 + 海量数据”，内置多级缓存、自动建模/迁移、分表分库、强类型查询、跨库迁移，支持 MySQL / SQLite / SqlServer / Oracle / PostgreSQL / TDengine / InfluxDB / 达梦 / 金仓 / 瀚高 / DB2 等。单表生产实践达百亿级，查询吞吐可达十亿级 QPS（配合缓存策略）。 | https://github.com/NewLifeX/NewLife.XCode |
+|  21 | [mooSQL](https://gitee.com/rainlime/moo-sql) | mooSQL 是一个 .NET 下的轻量级 ORM 库，适用于 .NET Framework 4.5+、.NET 6、.NET 8、.NET 10。核心设计理念是数据库优先和SQL 语义化。与主流 ORM（EFCore）相比，mooSQL 学习门槛低，熟悉 SQL 的开发者能轻松入手。通过"方言"模式设计，能够抹平 SQL 操作数据的常见障碍，如多数据库兼容，通过 SQL 方言层抹平各数据库基础增删改查 SQL 的差异。 | https://gitee.com/rainlime/moo-sql |
 |  22 |  |  |  |
 |  23 |  |  |  |
 |  24 |  |  |  |
