@@ -1846,7 +1846,7 @@
 |  3  | [itext7-dotnet](https://github.com/itext/itext7-dotnet) | iText for .NET 是 iText 库的 .NET 版本，其前身是 iTextSharp。iText 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力。 | https://github.com/itext/itext7-dotnet |
 |  4  | [iTextSharp](https://github.com/itext/itextsharp) | iTextSharp是一个从JAVA项目iText衍生的.Net版本的开源项目。iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档，从而使您可以轻松地向软件项目添加PDF功能。 | https://github.com/itext/itextsharp |
 |  5  | [DocNET](https://github.com/GowenGit/docnet) | DocNET 是一个基于 .NET 开源（MIT license）、跨平台（支持Windows、Linux和macOS平台）的旨在提供快速 PDF 编辑和数据提取的操作库。它是基于 Chromium 所使用的 PDFium C++ 库开发的 .NET Standard 2.0 封装库。 | https://github.com/GowenGit/docnet |
-|  6  |  |  |  |
+|  6  | [PDFiumSharp](https://github.com/ArgusMagnus/PDFiumSharp) | PDFiumSharp 是一个基于 PDFium 库的 C#/.NET 封装库。它使.NET 开发人员能够创建、打开、操作、渲染和保存 PDF 文档。 | https://github.com/ArgusMagnus/PDFiumSharp |
 |  7  |  |  |  |
 |  8  |  |  |  |
 |  9  |  |  |  |
