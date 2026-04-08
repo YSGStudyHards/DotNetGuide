@@ -12,6 +12,46 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2026年
+## 3月
+### 公众号3月简报
+* **C#/.NET/.NET Core优秀项目和框架2026年3月简报：** 
+
+### recognition-system
+* **项目简介：** ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。
+* **项目源码地址：** https://gitee.com/libihao520/ai-recognition-system
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Dvcl5UqyfsS9Ei7hbwfK1Q
+
+### GeneralUpdate
+* **项目简介：** GeneralUpdate 是一个基于 .NET Standard 2.0 的跨平台应用程序自动升级组件（桌面客户端自动升级解决方案），项目遵循 Apache 2.0 协议开源。该组件不依赖任何 UI 框架，旨在减少更新产生的资源消耗。通过提供一键启动示例，帮助开发者快速理解如何将自动升级功能集成到自己的应用程序中。
+* **项目源码地址：** https://github.com/GeneralLibrary/GeneralUpdate
+* **项目详细介绍：** https://mp.weixin.qq.com/s/lWQ3lCSmdPi6Npk5DNNI7w
+
+### CheckUpdate.Net
+* **项目简介：** CheckUpdate.Net 是一个基于 WinForm 开发的检查桌面应用程序更新的开源项目，可用于 WinForm、WPF，主要功能包括更新文件、更新程序自身、下载安装包等。主要利用 WebClient 下载服务器网站目录下的文件，安全性暂没有考虑，比较适用于小型项目。
+* **项目源码地址：** https://gitee.com/xcong/CheckUpdate.Net
+* **项目详细介绍：** https://mp.weixin.qq.com/s/tEDuGlBRJqqCLi-FASaAng
+
+### OpenLum
+* **项目简介：** OpenLum 是一个基于 .NET 的通用智能体 Shell，原生 AOT 发布、零第三方依赖。面向本地/内网部署，支持 OpenAI API 兼容的各类模型（DeepSeek、Ollama、OpenAI 等）。这个项目是参考 OpenClaw 的纯 C# 版控制台智能体助手，Aot发布后主体程序7mb大小，另外的Skills文件夹目前自带了浏览器操作、office文件读取等基础工具。
+* **项目源码地址：** https://github.com/LdotJdot/OpenLum
+* **项目详细介绍：** https://mp.weixin.qq.com/s/Bi9feeq4YuN6Y528NR_iSg
+
+### Wexflow
+* **项目简介：** Wexflow 是一个基于 .NET 开源免费、功能强大的工作流自动化引擎，它支持广泛的任务类型，包括文件操作、系统进程、脚本执行、网络通信等。该项目旨在服务于开发人员和技术用户，满足他们在文件操作、任务调度、警报通知等方面的自动化需求。Wexflow 不仅提供了丰富的内置活动，还允许用户通过创建自定义活动来扩展其功能。
+* **项目源码地址：** https://github.com/aelassas/wexflow
+* **项目详细介绍：** https://mp.weixin.qq.com/s/5qNmqQ7-_LrqSyRGlJdWRQ
+
+### overall-auth2.0-web-api
+* **项目简介：** overall-auth2.0-web-api 是一个基于 .NET 平台开发的开源项目，旨在提供一个简单易懂且功能强大的权限管理与可视化流程管理系统。该项目结合了权限控制与流程管理的核心功能，适用于需要高效管理用户权限及业务流程的企业级应用。
+* **项目源码地址：** https://gitee.com/yangguangchenjie/overall-auth2.0-web-api
+* **项目详细介绍：** https://mp.weixin.qq.com/s/TSrTe4XjPhWuWs_SjAn2LA
+
+### EventFlow
+* **项目简介：** EventFlow 是一个基于 .NET 的轻量级 CQRS + Event Sourcing 框架，提供了完善且合理的默认实现，帮助开发者以较低成本构建事件驱动的领域模型。
+* **项目源码地址：** https://github.com/eventflow/EventFlow
+* **项目详细介绍：** https://mp.weixin.qq.com/s/lU_9ydArwOCZ2OtyaYqThQ
+
+
 ## 2月
 ### 公众号2月简报
 * **C#/.NET/.NET Core优秀项目和框架2026年2月简报：** https://mp.weixin.qq.com/s/CiaSWcnZhuY-DKPFklTK-g
