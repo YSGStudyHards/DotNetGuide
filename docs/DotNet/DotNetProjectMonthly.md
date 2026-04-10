@@ -14,7 +14,7 @@
 # 2026年
 ## 3月
 ### 公众号3月简报
-* **C#/.NET/.NET Core优秀项目和框架2026年3月简报：** 
+* **C#/.NET/.NET Core优秀项目和框架2026年3月简报：** https://mp.weixin.qq.com/s/XreXdpKu9si-OmJrNpy9LA
 
 ### recognition-system
 * **项目简介：** ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。
