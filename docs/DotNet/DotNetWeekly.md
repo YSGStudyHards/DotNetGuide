@@ -19,6 +19,89 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 - [博客园](https://www.cnblogs.com/Can-daydayup/tag/%E3%80%90%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF%E5%91%A8%E5%88%8A%E3%80%91/)
 
 # 2026年
+## 4月
+### 第 69 期（2026年4.01-4.12）
+#### 探索 C# 15 中的联合类型
+- **文章简介：** C# 中经常需要 union 类型，现在它们已经存在。从 .NET 11 Preview 2 开始，C# 15 引入了 union 关键字。union 关键字声明一个值是编译器强制执行的穷尽模式匹配的固定类型集合中的一个。如果你在 F# 或其他语言中使用过区分型 union，那么你就会觉得这里很舒服。 但是，C# 的联合体是为了 C# 的原生体验而设计的：它们是类型联合体，可以组合现有类型，与您已经知道的模式匹配集成在一起，并且与语言的其他部分无缝交互。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/csharp-15-union-types/
+
+#### Avalonia UI 12.0.0 正式发布：架构演进和性能飞跃
+- **文章简介：** 在跨平台用户界面（UI）框架的演进历史中，从底层绘图引擎到高层声明式界面的抽象化一直伴随着性能与兼容性的深度博弈。2026年4月7日，Avalonia UI 12.0.0 版本的正式发布标志着这一生态系统进入了一个具有分水岭意义的成熟期 。作为一个最初旨在为.NET 开发者提供 Windows Presentation Foundation (WPF) 跨平台替代方案的开源项目，Avalonia 现已将其战略版图全面扩展至桌面、移动端、嵌入式系统以及基于 WebAssembly 的浏览器原生渲染领域。
+- **文章地址：** https://www.cnblogs.com/shanyou/p/19852334
+
+#### ASP.NET Core 2.3 支持期结束
+- **文章简介：** 今天，我们宣布 ASP.NET Core 2.3 将于 2027 年 4 月 13 日结束支持。在此日期之后，微软将不再为 ASP.NET Core 2.3 提供安全补丁、错误修复或技术支持。
+- **文章地址：** https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/
+
+#### .NET 高级开发 | http 接口对接和客户端开发技巧
+- **文章简介：** 随着云计算的发展，微服务架构已经成为了许多项目的首选，各个子服务必须协同工作才能对用户提供完整的功能，这就使得子服务间的通信成为开发工作的重要环节。作为网络通讯中最常用的协议，http 是微服务架构下通讯协议的首选，子服务间通过网络通讯请求完成彼此之间的交互，访问网络中的各种静态资源或 API 接口。但是编写 HTTP 客户端代码是一项耗时的工作，并且常常会因为网络等原因出现各种异常情况，开发时还需要考虑到各种情况。因此，在本章中笔者介绍 .NET 中如何使用 HttpClient 请求网络资源，探讨如何定制 HTTP 请求代码，并且借助相关工具的力量，减少重复性劳动，提升工作效率。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/19844636
+
+#### C#/.NET/.NET Core优秀项目和框架2026年3月简报
+- **文章简介：** 公众号每月定期推广和分享的C#/.NET/.NET Core优秀项目和框架（每周至少会推荐两个优秀的项目和框架当然节假日除外），公众号推文中有项目和框架的详细介绍、功能特点、使用方式以及部分功能截图等（打不开或者打开GitHub很慢的同学可以优先查看公众号推文，文末一定会附带项目和框架源码地址）。
+- **文章地址：** https://mp.weixin.qq.com/s/XreXdpKu9si-OmJrNpy9LA
+
+#### CliWrap：.NET 最优雅的命令行交互库
+- **文章简介：** 在 .NET 开发中，调用外部命令行工具是非常常见的需求——执行 git 操作、调用 ffmpeg 转码视频、运行 docker 命令。如果你直接使用过 System.Diagnostics.Process，一定深有体会：重定向输出要手动处理、stdout 和 stderr 同时读取容易死锁、取消和超时逻辑写起来一团糟、参数转义稍有不慎就是安全漏洞。
+- **文章地址：** https://mp.weixin.qq.com/s/9A4UGAYIQuwr8nYDSGEw1A
+
+#### 都是微软亲儿子，WPF凭啥干不掉WinForm？这3个场景说明白了
+- **文章简介：** 前两天有个刚入行的兄弟问我：“现在学桌面开发，是学WinForm还是WPF？我看网上也有人问都是基于.NET平台,WPF能取代Winform吗？”我听完笑了笑。这个问题吧，就跟“C#能不能取代Java”一样，聊起来没完没了。今天我就跟你掏心窝子聊聊这个话题：WPF到底能不能取代WinForm？不整那些虚的，就说说我这六年用下来的真实感受。
+- **文章地址：** https://www.cnblogs.com/shenchuanchao/p/19832001/wpf-vs-winform-why-not-replaced-3-scenarios
+
+#### 在 .NET 中使用 Moonshot Kimi + AgentFramework：从 SDK 到 Agent 的完整实践
+- **文章简介：** 在 .NET 中使用 Moonshot Kimi + AgentFramework：从 SDK 到 Agent 的完整实践。最近我将两个常用的 .NET AI 组件移植为支持 Moonshot Kimi 系列模型的版本，使其可以无缝接入现有的 .NET AI 生态，并与 AgentFramework 直接配合使用。本文介绍这两个库的设计目标、使用方式，以及如何快速构建一个可调用工具函数的 Agent。
+- **文章地址：** https://www.cnblogs.com/view12138/p/19831463
+
+#### avalonia在国产芯片瑞芯微RK3588这么容易就跑起来了？
+- **文章简介：** 我手里有一块瑞芯微RK3588的开发板，之前使用qt在上面跑程序，在windows上开发的话，部署上去需要交叉编译，步骤繁琐。由于之前在ubuntu上跑过avalonia，仅仅发布一下就可以了，这次突发奇想，我在这块RK3588的板子上跑一下试试，没有想到，“发布-执行”，然后就可以了，至少各种依赖缺失的问题都没有让我碰到，以下是操作过程。
+- **文章地址：** https://www.cnblogs.com/tlink/p/19816440
+
+#### .NET 高级开发 | .NET 中的序列化和反序列化
+- **文章简介：** 在 ASP.NET Core 应用中，框架会屏蔽了很多实现序列化和反序列化的细节，我们只需要定义参数模型，ASP.NET Core 会自动将 http 请求的 Body 反序列化为模型对象。但是日常开发中我们会对序列化和反序列化做许多定制配置，比如忽略值为 null 的字段、时间格式处理、忽略大小写、字段类型转换等各种情况。因此笔者单独使用一章讲解序列化框架的使用以及如何进行定制，深入了解 .NET 中序列化和反序列化机制。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/19828051
+
+#### AgileAI - 一个新的 .NET AI 库
+- **文章简介：** 如果把 .NET 生态里的 AI 组件放在一起看，大家最熟悉的通常还是 Semantic Kernel，去年开始微软也在持续推进 Microsoft Agent Framework（MAF）。但在我自己的实践里，这条路线虽然值得关注，却并不总是足够顺手：MAF 长期带着比较明显的 preview / prerelease 色彩，而真正拿它去快速拼一个能跑、能扩展、还能继续往产品层走的东西，体验也没有我期待得那么轻。
+- **文章地址：** https://www.cnblogs.com/kklldog/p/19827135/agile-ai
+
+#### 一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统
+- **文章简介：** ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。
+- **文章地址：** https://www.cnblogs.com/Can-daydayup/p/19821796
+
+#### 【EF Core】直接更新数据
+- **文章简介：** 使用 EF Core 直接更新数据。
+- **文章地址：** https://www.cnblogs.com/tcjiaan/p/19818236
+
+#### 聊聊 ASP.NET Core 中间件和过滤器的区别
+- **文章简介：** 不知道你有没有在面试中遇到过这样的问题："中间件和过滤器的区别是什么？"，或者在平时开发中思考过："一个请求进来，ASP.NET Core 到底是怎么一步步处理它的？"这篇文章就来聊聊，不会涉及太深的源码，主要面向初级开发者，帮你建立一个清晰的认知。
+- **文章地址：** https://www.cnblogs.com/denglei1024/p/19818211
+
+#### .NET 高级开发 | 配置系统原理、实现一个配置中心
+- **文章简介：** ASP.NET Core 模板项目下会有 appsettings.json、appsettings.Development.json 两个配置文件，我们可以通过这两个文件配置 Web 应用的启动端口、是否使用 https 等，大多数第三方框架也都支持在这两个 json 文件中配置。ASP.NET Core 程序默认支持从 json 文件、xml 文件、环境变量等多种配置源注入到内存中，微服务应用一般会使用远程配置中心存储配置以便动态更新到程序中，不管是什么类型的配置源，只需要提供 IConfigurationBuilder 的扩展方法给开发者即可，开发者不必关注配置源本身的实现细节。而 Microsoft.Extensions.Configuration.Abstractions 定义了统一的接口，使用者只需要 注入 IConfiguration 服务即可动态获取配置。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/19815332
+
+#### Microsoft Agent Framework 1.0 正式发布：Agent Skills 补齐后，.NET AI Agent 开发真正进入工程化时代
+- **文章简介：** 如果你最近在关注微软的 AI Agent 技术栈，这次发布值得认真看。Microsoft Agent Framework .NET 1.0.0 正式上线。这不是一次普通的版本升级，而是一个清晰信号：微软正把过去分散在 Semantic Kernel、AutoGen 的能力，收敛为统一的 Agent 开发底座。随着 Agent Skills 这块拼图补齐，框架从“可以演示”走向“可以落地、可以扩展、可以长期维护”。很多人看到 1.0，会先关注“终于 GA 了”。但更重要的是它传达的趋势：
+- **文章地址：** https://www.cnblogs.com/sheng-jie/p/19815306/MAF-v1-releaed
+
+#### .NET 高级开发 | 开发 .NET 诊断工具、链路追踪原理
+- **文章简介：** 在 System.Diagnostics Microsoft.Diagnostics 命名空间中的接口用于诊断 .NET 程序，里面涉及到很多诊断技术，由于个人技术水平限制以及篇幅原因，笔者只介绍比较常用的几种诊断方法，不深入探讨原理。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/19809387
+
+#### Slickflow.NET 与 OpenClaw 结合实践：技术原理、集成方式与 Skill 说明
+- **文章简介：** 本文基于 sfbpmn-project（Slickflow 引擎、设计器、sfdapi 等）与 sfai-project（如 aichatbackend 等 AI 业务后端）的典型架构，说明如何通过 Web API 将 OpenClaw 智能体与 Slickflow 工作流打通。文中 API 路径以通用 REST 风格描述，实际路由请以你仓库中 sfdapi / 业务 WebAPI 的 Controller 为准。
+- **文章地址：** https://www.cnblogs.com/slickflow/p/19807930
+
+#### Zenith.NET v0.0.7：Metal 后端落地，.NET GPU 抽象的跨平台旅程
+- **文章简介：** Zenith.NET 的定位是：一个面向现代图形 API（DirectX 12、Metal 4、Vulkan 1.4）的轻量 GPU 抽象层，只做抽象、不做引擎，让开发者写一次代码、跑在所有平台上。
+- **文章地址：** https://www.cnblogs.com/xymfblogs/p/19805856
+
+#### .NET 高级开发 | 日志系统使用技巧
+- **文章简介：** 日志还有使用技巧？直接写不就行了？这还需要学？实际上，据笔者观察，很多 .NET 开发者都有不良习惯，例如：日志里面大量使用中文编写，日志没统一格式，到处拼接参数、数据，日志没有输出统一格式，导致采集、分析困难，日志喜欢在各类中间件、模块中定义自定义拦截日志，导致性能消耗严重，不知道 .NET 中日志有上下文和作用域，导致多条日志没有串联起来，查找日志困难，不了解日志系统，导致生成、采集的日志价值不大，分析问题低效。根据笔者的带队经验，基于很多 .NET 开发者的习惯，所以写了本文。
+- **文章地址：** https://www.cnblogs.com/whuanle/p/19804900
+
+
 ## 3月
 ### 第 68 期（2026年3.01-3.08）
 #### 《上海市卫生健康”信息技术应用创新”白皮书》C#/.NET “A组件”认定事件始末与最终结果
