@@ -508,7 +508,7 @@
 |  1  | [GameFramework](https://github.com/EllanJiang/GameFramework) | Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。 | https://github.com/EllanJiang/GameFramework |
 |  2  | [ET](https://github.com/egametang/ET) | Unity3D 客户端和 C# 服务器框架。 | https://github.com/egametang/ET |
 |  3  | [MonoGame](https://github.com/MonoGame/MonoGame) | MonoGame是一个简单而强大的.NET框架，使用C#编程语言可以创建桌面PC、视频游戏机和移动设备游戏。 | https://github.com/MonoGame/MonoGame |
-|  4  |  |  |  |
+|  4  | [Foster](https://github.com/FosterFramework/Foster) | Foster 是一个开源（MIT License）、小型跨平台 2D 游戏框架，使用 C# 编程语言。 | https://github.com/FosterFramework/Foster |
 |  5  |  |  |  |
 |  6  |  |  |  |
 
