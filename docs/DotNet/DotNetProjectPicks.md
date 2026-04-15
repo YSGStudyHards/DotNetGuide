@@ -1469,7 +1469,7 @@
 |  9  | [DCWriterLite](https://github.com/dotNetTreasury/DCWriterLite) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、功能强大的在线文档编辑器，与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，例如实时分页、可靠的重做/撤消功能和强大的表单字段。 | https://github.com/dotNetTreasury/DCWriterLite |
 |  10 | [STNodeEditor](https://github.com/DebugST/STNodeEditor) | STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。 | https://github.com/DebugST/STNodeEditor |
 |  11 | [简兮编辑器](https://gitee.com/omnc/JianXiEditor) | 简兮编辑器是一个基于WPF开发的代码编辑器，专为Windows 7及以上系统设计。它提供了一系列现代化的编辑功能，旨在提升开发者的编码效率和体验。 | https://gitee.com/omnc/JianXiEditor |
-|  12 |  |  |  |
+|  12 | [LumNote](https://github.com/LdotJdot/LumNote) | LumNote 是一款基于 AvaloniaUI 的跨平台 Markdown 文档编辑管理器，使用 .NET 10，100% C# 实现，支持 Native AOT 发布。 | https://github.com/LdotJdot/LumNote |
 |  13 |  |  |  |
 |  14 |  |  |  |
 |  15 |  |  |  |
@@ -2250,7 +2250,7 @@
 |  19 | [Rubyer WPF](https://gitee.com/wuyanxin1028/rubyer-wpf) | Rubyer WPF 是一款开源免费（MIT License）、通用的 WPF 主题控件包，支持目标框架 .NET Framework 4.6、.NET Core 3.1、.NET 6、 .NET 8、.NET 9。 | https://gitee.com/wuyanxin1028/rubyer-wpf |
 |  20 | [DataGridFilter](https://github.com/macgile/DataGridFilter) | DataGridFilter 是一款开源（MIT License）、多语言的 WPF 可筛选 DataGrid 控件，旨在通过轻量级集成帮助开发者快速构建高效、灵活的数据展示管理界面。 | https://github.com/macgile/DataGridFilter |
 |  21 | [PropertyTools](https://github.com/PropertyTools/PropertyTools) | PropertyTools 是一款开源（MIT license）、免费的 WPF 自定义控件集，该控件集涵盖了 PropertyGrid、DataGrid、支持多选的 TreeView、ColorPicker 等常用控件。 | https://github.com/PropertyTools/PropertyTools |
-|  22 |  |  |  |
+|  22 | [wpfui.violeta](https://github.com/emako/wpfui.violeta) | WPF UI Violeta 基于 WPF UI，在您熟悉的 WPF 框架中提供流畅的体验。一些新的沉浸式控件，如 Toast、Flyout、ContentDialog、MessageBox 等。 | https://github.com/emako/wpfui.violeta |
 |  23 |  |  |  |
 |  24 |  |  |  |
 |  25 |  |  |  |
