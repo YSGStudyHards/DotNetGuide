@@ -2285,19 +2285,19 @@
 |  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [SukiUI](https://github.com/kikipoulet/SukiUI) | C# Avalonia 开源、免费的桌面UI库。 | https://github.com/kikipoulet/SukiUI |
-|  2  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
-|  3  | [AtomUI](https://github.com/chinware/AtomUI) | AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。 | https://gitee.com/chinware/atomui |
-|  4  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | Aura.UI 是一个开源免费（MIT license）、轻量级的 Avalonia UI 控件库。 | https://github.com/PieroCastillo/Aura.UI |
-|  5  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
-|  6  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
-|  7  | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 | https://github.com/BAndysc/Classic.Avalonia |
-|  8  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
-|  9  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | Avalonia.ExtendedToolkit 是一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
-|  10  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | avalonia-aero-theme 是一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
-|  11  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | Citrus.Avalonia 是一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
-|  12  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | ColorPicker 是一款适用于 WPF 和 AvaloniaUI 的可定制颜色选择器控件，支持 RGB、HSV、HSL 等多种色彩模式，能够轻松集成到你的 .NET 桌面应用中，为用户提供流畅精准的选色体验。 | https://github.com/wieslawsoltes/ColorPicker |
-|  13  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
-|  14  |  |  |  |
+|  2  | [FluentAvalonia](https://github.com/amwx/FluentAvalonia) | FluentAvalonia 一款基于 Fluent Design 和基于 WinUI 的开源免费（MIT license）、现代化的 Avalonia UI 控件库，为开发者提供美观且功能丰富的 Avalonia 界面组件。 | https://github.com/amwx/FluentAvalonia |
+|  3  | [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) | Ursa 是一个 UI 库，用于使用 Avalonia UI 构建跨平台 UI。 | https://github.com/irihitech/Ursa.Avalonia |
+|  4  | [AtomUI](https://github.com/chinware/AtomUI) | AtomUI 是一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库，致力于将 Ant Design 优秀而高效的设计语言和体验带入 Avalonia/.NET 跨平台桌面软件开发领域。 | https://gitee.com/chinware/atomui |
+|  5  | [Aura.UI](https://github.com/PieroCastillo/Aura.UI) | Aura.UI 是一个开源免费（MIT license）、轻量级的 Avalonia UI 控件库。 | https://github.com/PieroCastillo/Aura.UI |
+|  6  | [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) | PanAndZoom 是一个开源项目，提供用于平移和缩放功能的Avalonia控件。 | https://github.com/wieslawsoltes/PanAndZoom |
+|  7  | [Semi Avalonia](https://github.com/irihitech/Semi.Avalonia) | Semi Avalonia是一款开源、免费、独立的 Avalonia UI 原生控件主题库，能够帮助你的 Avalonia UI 应用快速呈现简洁、灵活、现代的视觉风格。 | https://irihitech.github.io/Semi.Avalonia |
+|  8  | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | Classic.Avalonia 是一款 .NET 开源（MIT license）、超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 | https://github.com/BAndysc/Classic.Avalonia |
+|  9  | [Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia) | 一款基于Material Design风格开源、免费（MIT License）的Avalonia UI控件库。 | https://github.com/AvaloniaCommunity/Material.Avalonia |
+|  10  | [Avalonia.ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) | Avalonia.ExtendedToolkit 是一个开源、免费的Avalonia UI扩展控件。 | https://github.com/mameolan/Avalonia.ExtendedToolkit |
+|  11  | [avalonia-aero-theme](https://github.com/Splitwirez/avalonia-aero-theme) | avalonia-aero-theme 是一个Aero主题风格的Avalonia控件库。 | https://github.com/Splitwirez/avalonia-aero-theme |
+|  12  | [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) | Citrus.Avalonia 是一款开源（MIT License）、免费的现代化风格的 Avalonia 控件库。 | https://github.com/AvaloniaUI/Citrus.Avalonia |
+|  13  | [ColorPicker](https://github.com/wieslawsoltes/ColorPicker) | ColorPicker 是一款适用于 WPF 和 AvaloniaUI 的可定制颜色选择器控件，支持 RGB、HSV、HSL 等多种色彩模式，能够轻松集成到你的 .NET 桌面应用中，为用户提供流畅精准的选色体验。 | https://github.com/wieslawsoltes/ColorPicker |
+|  14  | [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) | AvaloniaUI 框架易于使用且可定制的 Neumorphism Design UI主题库。 | https://github.com/flarive/Neumorphism.Avalonia |
 |  15  |  |  |  |
 |  16  |  |  |  |
 |  17  |  |  |  |
