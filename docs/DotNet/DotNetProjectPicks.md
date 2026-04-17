@@ -148,6 +148,7 @@
   * [开源计算机视觉库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%93)
   * [.NET开源深度克隆库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86%E5%BA%93)
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
+  * [.NET假数据生成库]()
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -639,7 +640,7 @@
 |  35  | [WenAntdUI-Admin](https://gitee.com/AntdUI/wen-antd-ui) | WenAntdUI-Admin 是一个基于 AntdUI 构建、基础、现代化的 WinForm 管理系统，基于 Apache-2.0 License 开源，项目包含：AOT发布、字典管理、用户管理、菜单管理、权限管理、用户设置等功能。内部封装了很多常用组件，包含AdminTable等通用组件。 | https://gitee.com/AntdUI/wen-antd-ui |
 |  36  | [RuYiAdmin](https://gitee.com/pang-mingjun/RuYiAdmin) | RuYiAdmin（如意Admin）一款基于 .NET 9 构建的企业级、前后端分离、开源（Apache License） Web RBAC 快速开发框架，具有灵活的架构设计和强大的功能，适用于快速开发高性能的企业级应用，具有低代码、跨平台、分布式、多线程和高性能等特色。 | https://gitee.com/pang-mingjun/RuYiAdmin |
 |  37  | [ai-recognition-system](https://gitee.com/libihao520/ai-recognition-system) | ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。 | https://gitee.com/libihao520/ai-recognition-system |
-|  38  |  |  |  |
+|  38  | [overall-auth2.0-web-api](https://gitee.com/yangguangchenjie/overall-auth2.0-web-api) | overall-auth2.0-web-api 是一个基于 .NET 平台开发的开源项目，旨在提供一个简单易懂且功能强大的权限管理与可视化流程管理系统。该项目结合了权限控制与流程管理的核心功能，适用于需要高效管理用户权限及业务流程的企业级应用。 | https://gitee.com/yangguangchenjie/overall-auth2.0-web-api |
 |  39  |  |  |  |
 |  40  |  |  |  |
 
@@ -1124,7 +1125,7 @@
 |  5  | [Viper](https://github.com/duyanming/Viper) | Viper 是一个基于 Anno.Core 微服务引擎开发的 Dashboard 项目、示例项目。 | https://github.com/duyanming/Viper |
 |  6  | [WPFUIDemo](https://gitee.com/zhang-sleepyhead/WPFUIDemo) | WPFUIDemo 是一个专注于 WPF（Windows Presentation Foundation）用户界面设计与开发的示例项目。该项目旨在为开发者提供一个全面、实用的参考范例，帮助他们快速掌握 WPF 应用开发的核心技巧和最佳实践，提升开发效率与界面设计水平。通过丰富的功能模块和代码示例，开发者可以深入了解 WPF 的强大特性，并将其灵活应用于实际项目中。 | https://gitee.com/zhang-sleepyhead/WPFUIDemo |
 |  7  | [RestAirline](https://github.com/twzhangyang/RestAirline) | RestAirline 是一个基于 EventFlow 框架的经典领域驱动设计（DDD）示例项目，采用CQRS（命令查询职责分离）与事件溯源（ES）架构，提供 Hypermedia API 与通用单元测试体系。项目针对ASP.NET Core 3.1框架开发，支持部署到Docker容器及Kubernetes（K8s）平台。 | https://github.com/twzhangyang/RestAirline |
-|  8  |  |  |  |
+|  8  | [EventFlow](https://github.com/eventflow/EventFlow) | EventFlow 是一个基于 .NET 的轻量级 CQRS + Event Sourcing 框架，提供了完善且合理的默认实现，帮助开发者以较低成本构建事件驱动的领域模型。 | https://github.com/eventflow/EventFlow |
 |  9  |  |  |  |
 |  10  |  |  |  |
 
@@ -1448,7 +1449,7 @@
 |  5  | [OpenAIOnWPF](https://github.com/yt3trees/OpenAIOnWPF) | 一个用于操作 OpenAI API 的 WPF 应用程序。 | https://github.com/yt3trees/OpenAIOnWPF |
 |  6  | [CSharpWpfChatGPT](https://github.com/psun247/CSharpWpfChatGPT) | C# WPF ChatGPT API (GPT-3.5 Turbo) 应用程序。 | https://github.com/psun247/CSharpWpfChatGPT |
 |  7  | [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)  | SwarmUI （原 StableSwarmUI）是一个基于 .NET 开源（MIT license）、模块化 AI 图像生成 Web 用户界面，注重让强大工具易于访问、高性能及可扩展性。支持 AI 图像模型（如Stable Diffusion、Flux等），以及AI视频模型（如LTX-V、Hunyuan Video、Cosmos、Wan等）。 | https://github.com/mcmonkeyprojects/SwarmUI |
-|  8  |  |  |  |
+|  8  | [OpenLum](https://github.com/LdotJdot/OpenLum) | OpenLum 是一个基于 .NET 的通用智能体 Shell，原生 AOT 发布、零第三方依赖。面向本地/内网部署，支持 OpenAI API 兼容的各类模型（DeepSeek、Ollama、OpenAI 等）。这个项目是参考 OpenClaw 的纯 C# 版控制台智能体助手，Aot发布后主体程序7mb大小，另外的Skills文件夹目前自带了浏览器操作、office文件读取等基础工具。 | https://github.com/LdotJdot/OpenLum |
 |  9  |  |  |  |
 |  10  |  |  |  |
 
@@ -1636,7 +1637,7 @@
 |  31  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence |
 |  32  | [better-genshin-impact](https://github.com/babalae/better-genshin-impact) | better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。 | https://github.com/babalae/better-genshin-impact |
 |  33  | [Codist](https://github.com/wmjordan/Codist) | Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。 | https://github.com/wmjordan/Codist |
-|  34  |  |  |  |
+|  34  | [ClassIsland](https://github.com/ClassIsland/ClassIsland) | ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。 | https://github.com/ClassIsland/ClassIsland |
 |  35  |  |  |  |
 |  36  |  |  |  |
 |  37  |  |  |  |
@@ -2152,6 +2153,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | Swashbuckle.AspNetCore 是一个流行的 .NET 库，它使得在 ASP.NET Core 项目中自动生成 Swagger 文档变得简单。Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的Web服务。 | https://github.com/domaindrivendev/Swashbuckle.AspNetCore |
 |  2  | [Scalar](https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore) | Scalar 是一个功能强大、易于使用的 API 客户端和文档生成工具，适用于各种规模的 API 项目，支持多种编程语言和平台。 | https://github.com/scalar/scalar/tree/main/packages/scalar.aspnetcore |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET假数据生成库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [Bogus](https://github.com/bchavez/Bogus) | Bogus 是一个基于著名的 faker.js 移植而来的开源（MIT License） .NET 假数据生成库，它为 .NET 开发者提供了一套强大、简单易用的 API，可快速生成各种类型的模拟数据，支持 40+ 种语言区域本地化，广泛应用于单元测试、数据库填充、原型演示以及示例数据生成等场景。 | https://github.com/bchavez/Bogus |
+|  2  |  |  |  |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
