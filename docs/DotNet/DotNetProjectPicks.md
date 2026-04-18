@@ -1450,7 +1450,7 @@
 |  6  | [CSharpWpfChatGPT](https://github.com/psun247/CSharpWpfChatGPT) | C# WPF ChatGPT API (GPT-3.5 Turbo) 应用程序。 | https://github.com/psun247/CSharpWpfChatGPT |
 |  7  | [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)  | SwarmUI （原 StableSwarmUI）是一个基于 .NET 开源（MIT license）、模块化 AI 图像生成 Web 用户界面，注重让强大工具易于访问、高性能及可扩展性。支持 AI 图像模型（如Stable Diffusion、Flux等），以及AI视频模型（如LTX-V、Hunyuan Video、Cosmos、Wan等）。 | https://github.com/mcmonkeyprojects/SwarmUI |
 |  8  | [OpenLum](https://github.com/LdotJdot/OpenLum) | OpenLum 是一个基于 .NET 的通用智能体 Shell，原生 AOT 发布、零第三方依赖。面向本地/内网部署，支持 OpenAI API 兼容的各类模型（DeepSeek、Ollama、OpenAI 等）。这个项目是参考 OpenClaw 的纯 C# 版控制台智能体助手，Aot发布后主体程序7mb大小，另外的Skills文件夹目前自带了浏览器操作、office文件读取等基础工具。 | https://github.com/LdotJdot/OpenLum |
-|  9  |  |  |  |
+|  9  | [Everywhere](https://github.com/DearVa/Everywhere) | Everywhere是一款具备采集能力的交互式AI助手，拥有简洁的现代用户界面和强大的集成屏幕功能。与传统的AI工具不同，Everywhere能够即时采集并理解您上的任何内容。所需截图、复制或切换应用——只需按下键盘，即可在当前位置获得所需帮助，实现无缝的AI助手支持。| https://github.com/DearVa/Everywhere |
 |  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
@@ -1499,7 +1499,7 @@
 |  3  | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | 蓝猫KoKo下载器（BlueCatKoKo）是一个基于C#语言编写的、免登录、简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。 | https://github.com/K12f/BlueCatKoKo |
 |  4  | [downkyi](https://github.com/leiurayer/downkyi) | downkyi（哔哩下载姬）是一款基于 .NET 开源、简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，并输出mp4格式的文件。采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。 | https://github.com/leiurayer/downkyi |
 |  5  | [BBDown](https://github.com/nilaoda/BBDown) | BBDown 是一款基于 .NET 开源（MIT license）、免费、命令行式的哔哩哔哩视频内容下载工具。它支持从哔哩哔哩平台下载普通视频、番剧、课程、合集、收藏夹等多类型内容，具备强大的解析能力、灵活的配置选项和高度可扩展性。 | https://github.com/nilaoda/BBDown |
-|  6  |  |  |  |
+|  6  | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | YoutubeDownloader是一款可以下载 YouTube 视频的应用程序。您可以复制粘贴任何视频、播放列表或频道的 URL，并直接以您选择的格式下载。它还支持关键词搜索，如果您想快速查找和下载视频，这将非常有用。 | https://github.com/Tyrrrz/YoutubeDownloader |
 |  7  |  |  |  |
 |  8  |  |  |  |
 
