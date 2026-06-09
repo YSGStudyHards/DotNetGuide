@@ -1170,8 +1170,13 @@
 |  6 | [SuperTextToolBox](https://github.com/QiBowen2008/SuperTextToolBox) | C#开源的一个免费的文字处理工具箱（功能包括OCR识别、文字转语音、词云生成、文字转拼音、翻译、分词等功能（除了翻译功能均可以离线使用））。 | https://github.com/QiBowen2008/SuperTextToolBox |
 |  7  | [WindowsToolbox](https://github.com/Gaoyifei1011/WindowsToolbox) | 一款由C#编写的 Windows 工具箱，集成了多个小功能。 | https://github.com/Gaoyifei1011/WindowsToolbox |
 |  8  | [PowerToolbox](https://github.com/Gaoyifei1011/PowerToolbox) | PowerToolbox 是一款由 .NET 开源免费（MIT License）、轻量、界面简洁、多功能 Windows 工具箱，包含摸鱼工具、文件工具、资源工具、个性化工具、系统工具等多个功能。 | https://github.com/Gaoyifei1011/PowerToolbox |
-|  9  |  |  |  |
+|  9  | [CodeWF.Toolbox](https://github.com/dotnet9/CodeWF.Toolbox) | 码匠工具箱是一个基于 Avalonia + Prism 的模块化桌面工具箱，面向开发者日常效率场景。项目将主程序、公共服务与功能模块解耦，方便后续继续扩展新的工具页，而不会把应用演化成一个难维护的大窗体工程。 | https://github.com/dotnet9/CodeWF.Toolbox |
 |  10  |  |  |  |
+|  11  |  |  |  |
+|  12  |  |  |  |
+|  13  |  |  |  |
+|  14  |  |  |  |
+|  15  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1501,7 +1506,7 @@
 |  11 | [简兮编辑器](https://gitee.com/omnc/JianXiEditor) | 简兮编辑器是一个基于WPF开发的代码编辑器，专为Windows 7及以上系统设计。它提供了一系列现代化的编辑功能，旨在提升开发者的编码效率和体验。 | https://gitee.com/omnc/JianXiEditor |
 |  12 | [LumNote](https://github.com/LdotJdot/LumNote) | LumNote 是一款基于 AvaloniaUI 的跨平台 Markdown 文档编辑管理器，使用 .NET 10，100% C# 实现，支持 Native AOT 发布。 | https://github.com/LdotJdot/LumNote |
 |  13 | [WoWDatabaseEditor](https://github.com/BAndysc/WoWDatabaseEditor) | WoWDatabaseEditor 是一个基于 .NET 与 Avalonia 构建的开源 WoW 数据库编辑器，主要面向 TrinityCore 服务端的数据编辑与 Smart Scripts 开发。项目采用 MIT License，是 Visual SAI Studio 的延续版本，但底层实现已经从零开始重写。 | https://github.com/BAndysc/WoWDatabaseEditor |
-|  14 |  |  |  |
+|  14 | [Vex](https://github.com/dotnet9/Vex) | Vex（维刻）是一个基于 .NET 11 与 Avalonia 12 构建的跨平台 Markdown 编辑器，面向日常写作、技术文档整理、自媒体排版和多格式文档导出。 | https://github.com/dotnet9/Vex |
 |  15 |  |  |  |
 |  16 |  |  |  |
 |  17 |  |  |  |
