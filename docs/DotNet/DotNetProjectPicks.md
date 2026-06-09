@@ -1500,9 +1500,14 @@
 |  10 | [STNodeEditor](https://github.com/DebugST/STNodeEditor) | STNodeEditor 是一款基于 .NET WinForm 开源免费（MIT License）、轻量且功能强大的节点编辑器，采用纯 GDI+ 绘制无任何依赖库仅仅100+Kb，提供了丰富的属性以及事件，可以非常方便的完成节点之间数据的交互及通知，编辑器内置了大量虚函数，供开发者根据需求进行重写，赋予了极高的自由度和定制能力。 | https://github.com/DebugST/STNodeEditor |
 |  11 | [简兮编辑器](https://gitee.com/omnc/JianXiEditor) | 简兮编辑器是一个基于WPF开发的代码编辑器，专为Windows 7及以上系统设计。它提供了一系列现代化的编辑功能，旨在提升开发者的编码效率和体验。 | https://gitee.com/omnc/JianXiEditor |
 |  12 | [LumNote](https://github.com/LdotJdot/LumNote) | LumNote 是一款基于 AvaloniaUI 的跨平台 Markdown 文档编辑管理器，使用 .NET 10，100% C# 实现，支持 Native AOT 发布。 | https://github.com/LdotJdot/LumNote |
-|  13 |  |  |  |
+|  13 | [WoWDatabaseEditor](https://github.com/BAndysc/WoWDatabaseEditor) | WoWDatabaseEditor 是一个基于 .NET 与 Avalonia 构建的开源 WoW 数据库编辑器，主要面向 TrinityCore 服务端的数据编辑与 Smart Scripts 开发。项目采用 MIT License，是 Visual SAI Studio 的延续版本，但底层实现已经从零开始重写。 | https://github.com/BAndysc/WoWDatabaseEditor |
 |  14 |  |  |  |
 |  15 |  |  |  |
+|  16 |  |  |  |
+|  17 |  |  |  |
+|  18 |  |  |  |
+|  19 |  |  |  |
+|  20 |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
