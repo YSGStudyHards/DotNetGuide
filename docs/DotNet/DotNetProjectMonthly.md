@@ -12,6 +12,66 @@
 * [📰C#/.NET/.NET Core优秀项目和框架公众号月刊](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectMonthly.md)
 
 # 2026年
+## 5月
+### 公众号5月简报
+* **C#/.NET/.NET Core优秀项目和框架2026年5月简报：** 
+
+### Winhance
+* **项目简介：** Winhance 一款基于 C# 开发且开源的 Windows 10/11 系统增强工具。它通过图形化界面整合了应用管理、系统优化、隐私设置、桌面定制、常用软件安装、配置导入导出以及自定义安装介质等能力，帮助用户更高效地完成 Windows 环境配置，实现 精简、优化、定制一站完成。
+* **项目源码地址：** https://github.com/memstechtips/Winhance
+* **项目详细介绍：** https://mp.weixin.qq.com/s/8XDxwC8mhJMoR3vJ8BEVKg
+
+### FluentAvalonia
+* **项目简介：** FluentAvalonia 一款基于 Fluent Design 和基于 WinUI 的开源免费（MIT license）、现代化的 Avalonia UI 控件库，为开发者提供美观且功能丰富的 Avalonia 界面组件。
+* **项目源码地址：** https://github.com/amwx/FluentAvalonia
+* **项目详细介绍：** https://mp.weixin.qq.com/s/HLr2NafGrFkDxlgLvPVx_A
+
+### CommunityToolkit.Mvvm
+* **项目简介：** CommunityToolkit.Mvvm （又名 MVVM 工具包，由微软 .NET 基金会维护，基于 MIT License 开源，以前称为 Microsoft.Toolkit.Mvvm）是一个现代、快速和模块化的 MVVM 库，支持 WinUI 3、UWP、WinForms、WPF、Xamarin、Uno 等客户端框架。独立于平台和运行时： .NET Standard 2.0、.NET Standard 2.1 和 .NET 6（与 UI 框架无关）。
+* **项目源码地址：** https://github.com/CommunityToolkit/dotnet
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### Prism
+* **项目简介：** Prism 是一个用于开发 WPF、Avalonia、MAUI、Uno Platform 和 WinUI 的 XAML 应用框架，能帮助开发者构建低耦合、易维护、可测试的程序。它内置了 MVVM、依赖注入、命令、事件聚合器等常用模式，并支持多个 .NET 版本。不同平台有各自独立的版本，平台相关功能也会分别实现。
+* **项目源码地址：** https://github.com/PrismLibrary/Prism
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### ReactiveUI
+* **项目简介：** ReactiveUI 是一个适用于所有 .NET 平台的高级 MVVM 框架，基于 MIT license 开源，设计灵活、可组合，并借鉴了函数式响应式编程的思想。它可以帮助你把界面中的状态变化和业务逻辑分开，把一个功能的核心逻辑集中写在更清晰的位置，同时让程序更容易测试。
+* **项目源码地址：** https://github.com/reactiveui/ReactiveUI
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### Caliburn.Micro
+* **项目简介：** Caliburn.Micro 是一个小巧但功能很强的框架，用来开发各种 XAML 平台上的应用，基于 MIT license 开源。它对 MVVM 和其他常见界面开发模式支持很好，能帮助你更快地开发程序，同时又不影响代码质量和可测试性。
+* **项目源码地址：** https://github.com/Caliburn-Micro/Caliburn.Micro
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### Stylet
+* **项目简介：** Stylet 是一个小巧但很实用的 ViewModel-first MVVM 框架，基于 MIT license 开源，专门用于 WPF 开发，支持 .NET 4.5.2 以上和 .NET Core 3.0 以上。它的目标是让你更轻松地写出易维护、可扩展、也容易测试的代码。
+* **项目源码地址：** https://github.com/canton7/Stylet
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### Catel
+* **项目简介：** Catel 是一个面向 .NET 开源（MIT License）的应用开发平台，核心定位是 WPF 上的 MVVM 框架。
+* **项目源码地址：** https://github.com/Catel/Catel
+* **项目详细介绍：** https://mp.weixin.qq.com/s/OwK-NPRd3BZQrJyqGdIGcw
+
+### WoWDatabaseEditor
+* **项目简介：** WoWDatabaseEditor 是一个基于 .NET 与 Avalonia 构建的开源 WoW 数据库编辑器，主要面向 TrinityCore 服务端的数据编辑与 Smart Scripts 开发。项目采用 MIT License，是 Visual SAI Studio 的延续版本，但底层实现已经从零开始重写。
+* **项目源码地址：** https://github.com/BAndysc/WoWDatabaseEditor
+* **项目详细介绍：** https://mp.weixin.qq.com/s/m_glYbjWU6C9hSMsPsPc9Q
+
+### Vex（维刻）
+* **项目简介：** Vex（维刻）是一个基于 .NET 11 与 Avalonia 12 构建的跨平台 Markdown 编辑器，面向日常写作、技术文档整理、自媒体排版和多格式文档导出。
+* **项目源码地址：** https://github.com/dotnet9/Vex
+* **项目详细介绍：** https://mp.weixin.qq.com/s/weBR_IMdsPCZeeYL_y85-Q
+
+### CodeWF.Toolbox
+* **项目简介：** 码匠工具箱是一个基于 Avalonia + Prism 的模块化桌面工具箱，面向开发者日常效率场景。项目将主程序、公共服务与功能模块解耦，方便后续继续扩展新的工具页，而不会把应用演化成一个难维护的大窗体工程。
+* **项目源码地址：** https://github.com/dotnet9/CodeWF.Toolbox
+* **项目详细介绍：** https://mp.weixin.qq.com/s/3K7MkusOV79TP6QIOs3ryA
+
+
 ## 3月
 ### 公众号3月简报
 * **C#/.NET/.NET Core优秀项目和框架2026年3月简报：** https://mp.weixin.qq.com/s/XreXdpKu9si-OmJrNpy9LA
