@@ -901,7 +901,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Git从入门到实战详细教程](https://mp.weixin.qq.com/s/9BKDDndazxW-uFUzxH5Mxg)
 * [工作中必备的12个Git命令](https://mp.weixin.qq.com/s/IKczx06dinmmGOkVKDaN3g)
 * [最全面SourceTree使用教程详解](https://mp.weixin.qq.com/s/thZS99hNOc6dM_pEDa3LMQ)
-* [Git开发、发布、缺陷分离模型概述](https://mp.weixin.qq.com/s/L4YOVenR1QPiftpi8-gy1A)
+* [Git开发、发布、缺陷分离模型概述](https://www.cnblogs.com/Can-daydayup/p/14282848.html)
 * [实际项目中如何使用Git做分支管理](https://mp.weixin.qq.com/s/WxPPZ8QrhR8opcqADlveMQ)
 * [10款实用便捷的Git可视化管理工具](https://mp.weixin.qq.com/s/18J-YoEArJS_rCxkx4-D5w)
 * [TortoiseGit使用教程（图文详细版）](https://mp.weixin.qq.com/s/nWX11NUogNSTAjg-NQJzBQ)
