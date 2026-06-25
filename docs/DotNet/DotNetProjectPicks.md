@@ -660,7 +660,7 @@
 |  36  | [RuYiAdmin](https://gitee.com/pang-mingjun/RuYiAdmin) | RuYiAdmin（如意Admin）一款基于 .NET 9 构建的企业级、前后端分离、开源（Apache License） Web RBAC 快速开发框架，具有灵活的架构设计和强大的功能，适用于快速开发高性能的企业级应用，具有低代码、跨平台、分布式、多线程和高性能等特色。 | https://gitee.com/pang-mingjun/RuYiAdmin |
 |  37  | [ai-recognition-system](https://gitee.com/libihao520/ai-recognition-system) | ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。 | https://gitee.com/libihao520/ai-recognition-system |
 |  38  | [overall-auth2.0-web-api](https://gitee.com/yangguangchenjie/overall-auth2.0-web-api) | overall-auth2.0-web-api 是一个基于 .NET 平台开发的开源项目，旨在提供一个简单易懂且功能强大的权限管理与可视化流程管理系统。该项目结合了权限控制与流程管理的核心功能，适用于需要高效管理用户权限及业务流程的企业级应用。 | https://gitee.com/yangguangchenjie/overall-auth2.0-web-api |
-|  39  | ZrClient | ZrClient 是一个 WPF 桌面应用程序，基于 GPL-2.0 开源，提供现代用户界面交互体验。它集成了模块化功能管理、用户认证和仪表盘数据可视化，适用于构建企业级客户端应用。 | https://gitee.com/SayHelloCat/zrclient |
+|  39  | [ZrClient](https://gitee.com/SayHelloCat/zrclient) | ZrClient 是一个 WPF 桌面应用程序，基于 GPL-2.0 开源，提供现代用户界面交互体验。它集成了模块化功能管理、用户认证和仪表盘数据可视化，适用于构建企业级客户端应用。 | https://gitee.com/SayHelloCat/zrclient |
 |  40  |  |  |  |
 |  41  |  |  |  |
 |  42  |  |  |  |
