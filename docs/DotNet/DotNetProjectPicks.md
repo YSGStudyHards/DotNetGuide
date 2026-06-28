@@ -1627,6 +1627,25 @@
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
 
+#### 音视频管理软件
+|  ✍   |                   项目名称和地址                    |                           项目简介                           | 项目详细介绍（文档、文章、源码地址） |
+| :--: | :-------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
+|  1   |         [Jvedio](https://github.com/hitchao/Jvedio)          | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 |          https://github.com/hitchao/Jvedio           |
+|  2  |       [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)        | 哔哩是一款哔哩哔哩的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 |         https://github.com/Richasy/Bili.Uwp          |
+|  3  |             [KTV](https://github.com/E9C50/KTV)              | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 |             https://github.com/E9C50/KTV             |
+|  4  | [ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) |            网易云音乐-用WPF来做网易云音乐客户端。            |    https://github.com/944095635/DMSkin-CloudMusic    |
+|  5  |   [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)    | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 |       https://github.com/Richasy/Bili.Copilot        |
+|  6   |           [Dopamine](https://github.com/digimezzo/dopamine-windows)                                         |                  Dopamine 是一款音乐播放器，旨在让音乐的组织和播放过程尽可能简单、美观。该软件是用 C#语言编写的，同时使用了 CSCore 音频库来提供音频处理功能。                                            |              https://github.com/digimezzo/dopamine-windows                        |
+|  7   |                                                     |                                                              |                                      |
+|  8   |                                                     |                                                              |                                      |
+|  9   |                                                     |                                                              |                                      |
+|  10  |                                                     |                                                              |                                      |
+|  11  |                                                     |                                                              |                                      |
+|  12  |                                                     |                                                              |                                      |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
 #### 原型设计工具
 |  ✍   |                   项目名称和地址                    |                           项目简介                           | 项目详细介绍（文档、文章、源码地址） |
 | :--: | :-------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------: |
@@ -1645,44 +1664,40 @@
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
 |  1   |         [Kiota](https://github.com/microsoft/kiota)          | Kiota是一个由微软开发的命令行工具，主要用于生成调用任何OpenAPI描述的API的客户端。Kiota API客户端提供了一种强类型的体验，具有您期望从高质量API SDK获得的所有功能，但无需为每个HTTP API学习新的库。 |          https://github.com/microsoft/kiota          |
 |  2   | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) |       C#开源免费的一个纯粹的Windows右键菜单管理工具。        | https://github.com/BluePointLilac/ContextMenuManager |
-|  3   |         [Jvedio](https://github.com/hitchao/Jvedio)          | Jvedio是.NET开源、功能强大的本地视频管理软件，支持扫描本地视频并导入软件，建立视频库，提取出视频的唯一识别码，自动分类视频，添加标签管理视频，使用人工智能识别演员，支持翻译信息，基于FFmpeg截取视频图片，Window桌面端流畅美观的应用软件。Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件。 |          https://github.com/hitchao/Jvedio           |
-|  4   |       [FluentHub](https://github.com/0x5bfa/FluentHub)       | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 |         https://github.com/0x5bfa/FluentHub          |
-|  5   | [FluentTerminal](https://github.com/felixse/FluentTerminal)  | FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的现代化 Windows 终端应用，旨在为用户提供高度可定制、功能丰富的终端体验。通过其强大的自定义主题模块，用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、内置 SSH 和 Mosh 连接支持。 |      https://github.com/felixse/FluentTerminal       |
-|  6   | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 |   https://github.com/AlexanderPro/SmartSystemMenu    |
-|  7   | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 |      https://github.com/yswenli/WebRedisManager      |
-|  8   |  [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP)   | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 |      https://github.com/Coolapk-UWP/Coolapk-UWP      |
-|  9   | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) |        C#开源的一款EF Core查询计划调试器可视化工具。         |     https://github.com/Giorgi/EFCore.Visualizer      |
-|  10  |            [Dots](https://github.com/nor0x/Dots)             | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 |            https://github.com/nor0x/Dots             |
-|  11  |     [Camelotia](https://github.com/reactiveui/Camelotia)     | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 |       https://github.com/reactiveui/Camelotia        |
-|  12  |        [G-Helper](https://github.com/seerge/g-helper)        | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 |          https://github.com/seerge/g-helper          |
-|  13  |       [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)        | 哔哩是一款哔哩哔哩的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统。 |         https://github.com/Richasy/Bili.Uwp          |
-|  14  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 |    https://github.com/RayWangQvQ/BiliBiliToolPro     |
-|  15  |        [ToastFish](https://github.com/Uahh/ToastFish)        |             一个利用Windows通知栏背单词的软件。              |          https://github.com/Uahh/ToastFish           |
-|  16  | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 |  https://github.com/Accelerider/Accelerider.Windows  |
-|  17  |             [KTV](https://github.com/E9C50/KTV)              | KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。 |             https://github.com/E9C50/KTV             |
-|  18  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 |     https://github.com/Yu-Core/SwashbucklerDiary     |
-|  19  | [ DMSkin-CloudMusic](https://github.com/944095635/DMSkin-CloudMusic) |            网易云音乐-用WPF来做网易云音乐客户端。            |    https://github.com/944095635/DMSkin-CloudMusic    |
-|  20  |         [PDFQFZ](https://github.com/flytkgl/PDFQFZ)          |                   PDF加盖骑缝章的小工具。                    |          https://github.com/flytkgl/PDFQFZ           |
-|  21  |         [VPet](https://github.com/LorisYounger/VPet)         | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 |         https://github.com/LorisYounger/VPet         |
-|  22  |            [Tai](https://github.com/Planshit/Tai)            | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 |           https://github.com/Planshit/Tai            |
-|  23  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | RevokeMsgPatcher 是一款基于 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了），通用的微信多开工具，支持最新版微信/QQ/TIM。 |    https://github.com/huiyadanli/RevokeMsgPatcher    |
-|  24  |       [PasteEx](https://github.com/huiyadanli/PasteEx)       | PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。 |        https://github.com/huiyadanli/PasteEx         |
-|  25  |   [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)    | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用。 |       https://github.com/Richasy/Bili.Copilot        |
-|  26  |   [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal)   | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 |      https://gitee.com/zyfalreadyexsit/terminal      |
-|  27  |       [TinyWall](https://github.com/pylorak/TinyWall)        | TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。 |         https://github.com/pylorak/TinyWall          |
-|  28  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 |    https://github.com/genrwoody/vs_file_encoding     |
-|  29  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 |   https://github.com/Klocman/Bulk-Crap-Uninstaller   |
-|  30  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 |     https://github.com/x-nas/WinsockPacketEditor     |
-|  31  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence  |
-|  32  | [better-genshin-impact](https://github.com/babalae/better-genshin-impact) | better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。 |   https://github.com/babalae/better-genshin-impact   |
-|  33  |         [Codist](https://github.com/wmjordan/Codist)         | Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。 |          https://github.com/wmjordan/Codist          |
-|  34  |  [ClassIsland](https://github.com/ClassIsland/ClassIsland)   | ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。 |      https://github.com/ClassIsland/ClassIsland      |
+|  3   |       [FluentHub](https://github.com/0x5bfa/FluentHub)       | 一个.NET开源（MIT License）、免费、时尚、功能强大的 Windows GitHub 客户端。 |         https://github.com/0x5bfa/FluentHub          |
+|  4   | [FluentTerminal](https://github.com/felixse/FluentTerminal)  | FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的现代化 Windows 终端应用，旨在为用户提供高度可定制、功能丰富的终端体验。通过其强大的自定义主题模块，用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、内置 SSH 和 Mosh 连接支持。 |      https://github.com/felixse/FluentTerminal       |
+|  5   | [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) | .NET开源、免费（MIT License）、功能丰富、灵活易用、小巧（不到1M）的 Windows 窗口增强工具。 |   https://github.com/AlexanderPro/SmartSystemMenu    |
+|  6   | [WebRedisManager](https://github.com/yswenli/WebRedisManager) | WebRedisManager是一个.NET开源、免费的Redis可视化工具，这是一个支持在浏览器上进行查看管理 Redis的工具（实现Redis的简便管理功能）。 |      https://github.com/yswenli/WebRedisManager      |
+|  7   |  [Coolapk UWP](https://github.com/Coolapk-UWP/Coolapk-UWP)   | 一款UWP平台开源的第三方酷安（一个泛科技数码社区）客户端应用。 |      https://github.com/Coolapk-UWP/Coolapk-UWP      |
+|  8   | [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) |        C#开源的一款EF Core查询计划调试器可视化工具。         |     https://github.com/Giorgi/EFCore.Visualizer      |
+|  9  |            [Dots](https://github.com/nor0x/Dots)             | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 |            https://github.com/nor0x/Dots             |
+|  10  |     [Camelotia](https://github.com/reactiveui/Camelotia)     | Camelotia是一个云存储文件管理器，目前支持Yandex Disk、Google Drive、VK Documents、GitHub、FTP、SFTP和本地文件系统。该应用程序可在Windows、Linux、MacOS、XBox、Surface Hub和HoloLens上运行。 |       https://github.com/reactiveui/Camelotia        |
+|  11  |        [G-Helper](https://github.com/seerge/g-helper)        | 适用于华硕（Asus）笔记本电脑的轻量级 Armoury Crate (奥创控制中心)替代品，在功能几乎相同的同时减少不必要的服务以减轻负载。 G-helper兼容所有主流型号，例如 ROG 幻14、幻15、幻16、幻13、幻X、天选（飞行堡垒）系列、枪神/魔霸系列、创系列、灵耀系列、无畏系列、ROG Ally 等。 |          https://github.com/seerge/g-helper          |
+|  12  | [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。 |    https://github.com/RayWangQvQ/BiliBiliToolPro     |
+|  13  |        [ToastFish](https://github.com/Uahh/ToastFish)        |             一个利用Windows通知栏背单词的软件。              |          https://github.com/Uahh/ToastFish           |
+|  14  | [Accelerider.Windows](https://github.com/Accelerider/Accelerider.Windows) | Accelerider.Windows是一个方便、强大的工具，为用户在Windows平台上使用Accelerider提供了便利。 |  https://github.com/Accelerider/Accelerider.Windows  |
+|  15  | [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) | SwashbucklerDiary「 侠客日记 」是一个.NET开源、跨平台的本地日记APP。 |     https://github.com/Yu-Core/SwashbucklerDiary     |
+|  16  |         [PDFQFZ](https://github.com/flytkgl/PDFQFZ)          |                   PDF加盖骑缝章的小工具。                    |          https://github.com/flytkgl/PDFQFZ           |
+|  17  |         [VPet](https://github.com/LorisYounger/VPet)         | 一款C#开源的虚拟桌宠模拟器，一个开源的桌宠软件可以内置到任何WPF应用程序。 |         https://github.com/LorisYounger/VPet         |
+|  18  |            [Tai](https://github.com/Planshit/Tai)            | 一款.NET开源的在Windows上统计软件使用时长和网站浏览时长工具。 |           https://github.com/Planshit/Tai            |
+|  19  | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | RevokeMsgPatcher 是一款基于 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了），通用的微信多开工具，支持最新版微信/QQ/TIM。 |    https://github.com/huiyadanli/RevokeMsgPatcher    |
+|  20  |       [PasteEx](https://github.com/huiyadanli/PasteEx)       | PasteEx是一款.NET开源的用于增强 Windows 粘贴功能的小工具，它解决了将剪贴板内容保存为文件的繁琐步骤。无需打开记事本等应用，它可直接将文字、图片等内容粘贴到桌面上，极大提升了效率。 |        https://github.com/huiyadanli/PasteEx         |
+|  21  |   [ModengTerm](https://gitee.com/zyfalreadyexsit/terminal)   | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，让你拥有一个免费，安全，放心使用的虚拟终端软件。 |      https://gitee.com/zyfalreadyexsit/terminal      |
+|  22  |       [TinyWall](https://github.com/pylorak/TinyWall)        | TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、用户友好且非侵入性的防火墙软件。 |         https://github.com/pylorak/TinyWall          |
+|  23  | [FileEncoding](https://github.com/genrwoody/vs_file_encoding) | FileEncoding 是一个专为 Visual Studio 设计的扩展插件，它能够在 Visual Studio 的文本编辑器右下角实时显示当前打开文档的编码格式。这一功能对于快速识别文件的编码非常有帮助，尤其是在处理来自不同平台或团队的代码时。更重要的是，通过简单的点击操作，用户还可以轻松修改文件的编码格式，无需借助外部工具或进行复杂的设置调整。 |    https://github.com/genrwoody/vs_file_encoding     |
+|  24  | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、功能强大的Windows应用卸载工具，旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 |   https://github.com/Klocman/Bulk-Crap-Uninstaller   |
+|  25  | [WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 |     https://github.com/x-nas/WinsockPacketEditor     |
+|  26  | [vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) | 用于 Visual Studio 解决方案文件的共享序列化器和模型，处理传统的 .sln 文件和新的 .slnx 文件。 | https://github.com/microsoft/vs-solutionpersistence  |
+|  27  | [better-genshin-impact](https://github.com/babalae/better-genshin-impact) | better-genshin-impact 是一款基于 .NET + 计算机视觉技术完全开源免费（GPL-3.0 license）、功能强大的原神智能辅助自动化工具，意图让原神变的更好的项目，包含：自动剧情、全自动钓鱼(AI)、全自动七圣召唤、自动伐木、自动刷本、自动采集/挖矿/锄地等功能。 |   https://github.com/babalae/better-genshin-impact   |
+|  28 |         [Codist](https://github.com/wmjordan/Codist)         | Codist 是一个使用 .NET 编写、开源免费的 Visual Studio 扩展插件，致力于为 C# 程序员提供更好的编程体验和生产效率。它不仅强化了语法高亮、快速信息提示、导航栏、滚动条和显示质量，还集成了自动版本号更新、括号自动补全、支持高级编辑功能的智能工具栏、代码分析等功能。 |          https://github.com/wmjordan/Codist          |
+|  29  |  [ClassIsland](https://github.com/ClassIsland/ClassIsland)   | ClassIsland 是一款基于 .NET Avalonia 开源（GPL-3.0 license）、功能强大、高度可定制、跨平台的班级多媒体屏幕课表信息展示系统，适用于现代智慧教室场景。其设计灵感源自 iOS 的“灵动岛（Dynamic Island）”交互理念，旨在为教育信息化提供直观、智能、美观的课表与信息呈现解决方案。 |      https://github.com/ClassIsland/ClassIsland      |
+|  30  |                                                              |                                                              |                                                      |
+|  31  |                                                              |                                                              |                                                      |
+|  32  |                                                              |                                                              |                                                      |
+|  33  |                                                              |                                                              |                                                      |
+|  34  |                                                              |                                                              |                                                      |
 |  35  |                                                              |                                                              |                                                      |
 |  36  |                                                              |                                                              |                                                      |
-|  37  |                                                              |                                                              |                                                      |
-|  38  |                                                              |                                                              |                                                      |
-|  39  |                                                              |                                                              |                                                      |
-|  40  |                                                              |                                                              |                                                      |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
