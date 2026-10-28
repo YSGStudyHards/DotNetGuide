@@ -1,5 +1,6 @@
 # C#/.NET/.NET Core优秀项目和框架精选
 ![优秀项目和框架精选图](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2334753/o_230810125942_%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%A1%86%E6%9E%B6%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89.png "优秀项目和框架精选图")
+
 ## 前言
 > 注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享（欢迎关注公众号：**[追逐时光者](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=3007127227274149893#wechat_redirect)**，第一时间获取每周精选分享资讯🔔）。
 
@@ -1247,7 +1248,7 @@
 |  4   |   [FileConverter](https://github.com/Tichau/FileConverter)   | FileConverter 是一款基于 .NET 开发的免费（GPL-3.0 license）、简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单来转换和压缩一个或多个文件。 |  https://github.com/Tichau/FileConverter   |
 |  5   |    [RX-Explorer](https://github.com/zhuxb711/RX-Explorer)    | RX-Explorer 是一款开源、功能强大的 UWP 文件管理器，其 UI 广泛使用亚克力效果，拥有多彩的个性化系统。 |  https://github.com/zhuxb711/RX-Explorer   |
 |  6   | [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | ExplorerTabUtility 是一款使用 C# 编写专为 Windows 11 文件资源管理器设计的增强型工具，开源免费（MIT license），旨在解决原生标签页功能在多窗口管理和工作流组织方面的不足。该工具通过系统级集成与 COM 接口交互，实现了对文件资源管理器窗口行为的精细化控制，显著提升用户在高频文件操作场景下的效率与体验。 | https://github.com/w4po/ExplorerTabUtility |
-|  7   |                                                              |                                                              |                                            |
+|  7   |      [KnifeLemon](https://github.com/KnifeLemon/Filee)       | KnifeLemon 是一款由 C# 开发的离线文件格式转换器，支持图片、PDF、Office 文档、电子书、音视频、压缩包、CAD 等 200 多种格式。操作简单，按住 Ctrl 拖动文件，光标旁就会弹出格式圆环，放到目标格式上即可完成转换，文件全程不上传，适用于 Windows、Linux 和 macOS 系统。|            https://github.com/KnifeLemon/Filee                   |
 |  8   |                                                              |                                                              |                                            |
 |  9   |                                                              |                                                              |                                            |
 |  10  |                                                              |                                                              |                                            |
