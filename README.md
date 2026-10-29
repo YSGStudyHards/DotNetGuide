@@ -886,6 +886,8 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 * [Github Actions](https://github.com/features/actions)
 * [Azure Pipelines](https://azure.microsoft.com/zh-cn/services/devops/pipelines/)
 * [Buddy](https://buddy.works)
+* [Gitea Actions](https://docs.gitea.com/usage/actions/)
+* [Woodpecker](https://github.com/woodpecker-ci/woodpecker)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
