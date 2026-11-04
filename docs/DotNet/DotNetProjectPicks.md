@@ -68,6 +68,7 @@
   * [医疗管理系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
   * [医疗影像PACS系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%8C%BB%E7%96%97%E5%BD%B1%E5%83%8Fpacs%E7%B3%BB%E7%BB%9F)
   * [数据库系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F)
+  * [数据库诊断系统]()
   * [应用监控系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F)
   * [开源游戏项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BC%80%E6%BA%90%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE)
   * [Web浏览器项目](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#web%E6%B5%8F%E8%A7%88%E5%99%A8%E9%A1%B9%E7%9B%AE)
@@ -1005,6 +1006,19 @@
 |  1   | [Garnet](https://github.com/microsoft/garnet) | Garnet是一款由微软研究院基于.NET开源的高性能、跨平台的分布式缓存存储数据库，该项目提供强大的性能（吞吐量和延迟）、可扩展性、存储、恢复、集群分片、密钥迁移和复制功能。并且无需做任何修改可以与现有的 Redis 客户端配合使用。 | https://microsoft.github.io/garnet/docs |
 |  2   |  [LiteDB](https://github.com/mbdavid/LiteDB)  | LiteDB 是一个小巧、快速和轻量级的 .NET 开源且免费（MIT License）的 NoSQL 嵌入式数据库。 |    https://github.com/mbdavid/LiteDB    |
 |  3   |    [Mars](https://github.com/cdy816/mars)     | Mars是一个基于.NET开源的集数据采集、存储、分析为一体的实时数据库。通过简单的可视化的配置，即可实现将工业现场的各种传感器接入、并进行记录或者进行数据逻辑处理、以及提供其他程序使用。 Mars 数据库具有较高的性能，单机支持120万个传感器信号接入；Mars 2.0 分布式版本通过多机联网组成的集群，可以实现上千万的信号的接入。 |     https://github.com/cdy816/mars      |
+|  4   |                                               |                                                              |                                         |
+|  5   |                                               |                                                              |                                         |
+|  6   |                                               |                                                              |                                         |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### 数据库诊断系统
+|  ✍   |                项目名称和地址                 |                           项目简介                           |  项目详细介绍（文档、文章、源码地址）   |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------: |
+|  1   |  [DBPilot](https://github.com/SkyChenSky/DBPilot) |  DBPilot 是一个自托管的数据库自治诊断平台。它持续采集实例的性能数据，在同一个 Web 控制台里完成日常 DBA 工作流：性能趋势与 AAS 负载拆解、Top SQL、执行计划变更跟踪、缺失索引建议、索引使用与碎片、阻塞分析、死锁分析、慢日志。|              https://github.com/SkyChenSky/DBPilot                           |
+|  2   |                                               |                                                              |                                         |
+|  3   |                                               |                                                              |                                         |
 |  4   |                                               |                                                              |                                         |
 |  5   |                                               |                                                              |                                         |
 |  6   |                                               |                                                              |                                         |
